@@ -36,7 +36,7 @@ related_client_logos:
 ---
 
 
-##### **A LOOK BEHIND THE SCENES:**
+#### **A LOOK BEHIND THE SCENES:**
 
 * Designed and transformed a 1977 Airstream into a Mobile Tea Bar complete with tasting bar, brewers, compliant food service areas, and historical lounge
 * Recruited, trained and staffed Tour Managers and in-field staff to serve as tea ambassadors
