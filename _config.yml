@@ -34,7 +34,7 @@ types:
 collections:
   work:
     output: true
-    permalink: /case-studies/:slug/
+    permalink: /work/:slug/
 
 defaults:
   -
@@ -90,7 +90,7 @@ defaults:
         image_1_path: these images must be square
         image_2_path: these images must be square
         logo_image_path: upload an SVG or image with transparency
-        media_section: use one or more media sections to create custom layouts of images and videos
+        media_section: use one or more media sections to create custom layouts
 
 # -
 #   scope:
