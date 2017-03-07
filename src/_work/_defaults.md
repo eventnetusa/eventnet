@@ -17,4 +17,15 @@ media:
 cta:
 sidebar_text_markdown: |
 
+related_client_logos:
+  - logo_image_path:
+    logo_image_height:
+  - logo_image_path:
+    logo_image_height:
+  - logo_image_path:
+    logo_image_height:
+  - logo_image_path:
+    logo_image_height:
+  - logo_image_path:
+    logo_image_height:
 ---

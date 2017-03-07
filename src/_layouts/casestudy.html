@@ -77,7 +77,7 @@
             <div class="cf pa2">
               {% for logo in page.related_client_logos %}
                 <div class="fl w-20-l w-33-m pv1 ph4 tc dib client-logo">
-                  <img class="svg" src="{{ logo.logo_image_path }}" {% if logo.height %} style="height: {{logo.height}};"{% endif %}>
+                  <img class="svg" src="{{ logo.logo_image_path }}" {% if logo.logo_image_height %} style="height: {{logo.logo_image_height}};"{% endif %}>
                 </div>
               {% endfor %}
             </div>
