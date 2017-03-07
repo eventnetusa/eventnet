@@ -4,14 +4,14 @@ headline: Mobile Tea Bar Northeast Tour
 subheadline: Bigelow Tea partnered with EventNetUSA for our 3rd national sampling tour to deliver tea samples and educate consumers on the rich history of the Bigelow family’s business.
 hero_image_path: /uploads/bigelow-case-4.jpg
 type: vehicle tour
-cta: Interested in a mobile marketing vehicle? Schedule a consultation.
+cta: Interested in a mobile marketing vehicle?
 sidebar_text_markdown: >-
-  * Logged **9,467**miles over 3 months
+  * Logged **9,467&nbsp;**miles over 3 months
 
-  * **4.6**million+ over-the-road impressions
+  * **4.6&nbsp;**million+ over-the-road impressions
 
-  * **91**touring days, **24**events, **23**retail stops, & **3**university
-  visits
+  * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops,
+  & **3&nbsp;**university visits
 
   * **63,675** one-on-one interactions
 media_section:
