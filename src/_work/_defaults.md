@@ -5,6 +5,9 @@ subheadline: |
 
 hero_image_path:
 type:
+cta:
+sidebar_text_markdown: |
+
 media_section:
   -
     single_image_block:
@@ -14,9 +17,6 @@ media_section:
       image_2_path:
     video_block:
       video_id: RSU1I0GjfJc
-cta:
-sidebar_text_markdown: |
-
 related_client_logos:
   - logo_image_path:
     logo_image_height:
