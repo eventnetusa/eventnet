@@ -88,6 +88,7 @@ defaults:
         double_image_block: these images must be square
         image_1_path: these images must be square
         image_2_path: these images must be square
+        logo_image_path: upload an SVG or image with transparency
 
 # -
 #   scope:
