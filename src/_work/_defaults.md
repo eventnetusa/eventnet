@@ -5,7 +5,7 @@ subheadline: |
 
 hero_image_path:
 type:
-media:
+media_section:
   -
     single_image_block:
       single_image_path:

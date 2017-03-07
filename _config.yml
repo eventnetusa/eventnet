@@ -83,12 +83,14 @@ defaults:
         hero_image_path: image should be at least 2000px wide
         single_image_path: image should be at least 1000px wide
         video_id: a youtube video ID
+        video_block: a youtube video ID
         related_client_logos: add up to five logos
         logo_image_height: use a percentage to adjust the height of a logo so it matches others
         double_image_block: these images must be square
         image_1_path: these images must be square
         image_2_path: these images must be square
         logo_image_path: upload an SVG or image with transparency
+        media_section: use one or more media sections to create custom layouts of images and videos
 
 # -
 #   scope:
