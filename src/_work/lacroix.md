@@ -1,6 +1,6 @@
 ---
 client: Health Care Service Corporation
-slug: hcsc
+slug: lacroix
 headline: Cross Channel Community Outreach
 subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to EventNetUSA to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'
 hero_image_path: /uploads/hcsc-case-9.jpg
@@ -62,10 +62,10 @@ For over 11 years, LaCroix Sparkling Water has entrusted EventNetUSA to place pr
 
 A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditionally (they have never run a traditional print or TV advertisement).
 
-EventNetUSA has helped execute their efforts through turnkey, in-field programs that continue to evolve with the brand.&nbsp;
+EventNetUSA has helped execute their efforts through turnkey, in-field programs that continue to evolve with the brand.
 
 A LOOK AT THE FALL 2016 SAMPLING PROGRAM
 
 * Executed 2 week sampling program taking place simultaneously in Austin, Chicago, Ft. Lauderdale, Los Angeles, Seattle and San Francisco
 * Contracted and trained 6 teams of brand ambassadors, including tour managers in selected markets
-* Developed strategic routing calendar targeting “mom’s and families” demographic to maximize sampling program effectiveness&nbsp;
+* Developed strategic routing calendar targeting “mom’s and families” demographic to maximize sampling program effectiveness
