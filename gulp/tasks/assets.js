@@ -24,8 +24,14 @@ gulp.task('scripts', () =>
   // NOTE: The order here is important since it's concatenated in order from
   // top to bottom, so you want vendor scripts etc on top
   gulp.src([
-    'node_modules/jquery/dist/jquery.js',
+    'src/assets/javascript/jquery-3.1.1.js',
+    'src/assets/javascript/jquery.vide.js',
+    'src/assets/javascript/flickity.min.js',
+    'src/assets/javascript/instafeed.js',
+    'src/assets/javascript/masonry.pkgd.js',
     'src/assets/javascript/vendor.js',
+    'src/assets/javascript/tether.js',
+    'src/assets/javascript/bootstrap.js',
     'src/assets/javascript/main.js'
   ])
     .pipe(newer('.tmp/assets/javascript/index.js', {dest: '.tmp/assets/javascript', ext: '.js'}))

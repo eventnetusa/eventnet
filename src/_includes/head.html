@@ -10,12 +10,14 @@
   <!-- inject:css -->
   <link rel="stylesheet" href="/assets/stylesheets/style.css">
   <!-- endinject -->
-
+  {% if page.class == 'contact' %}
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBneDEmVxTOynU_pTBnXtocMu3TDzxkp4"></script>
+  {% endif %}
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/touch/apple-touch-icon-144-precomposed.png">
   <link rel="shortcut icon" href="/assets/favicon.ico">
 
-  <!-- RSS -->
-  {% feed_meta %}
 </head>

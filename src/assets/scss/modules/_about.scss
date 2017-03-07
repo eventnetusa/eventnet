@@ -1,0 +1,27 @@
+.agency-hero {
+    background-color: rgba(255, 255, 255, .8);
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+.offerings {
+  display: flex;
+  /*align-items: stretch;*/
+}
+
+.offer-item {
+  /*flex-grow: 1;*/
+  flex-basis: 33.33%;
+  background-color: khaki;
+}
+
+
+
+.grid-sizer,
+.grid-item {
+    width: 33.33%;
+    /*margin-right: 1em;*/
+}

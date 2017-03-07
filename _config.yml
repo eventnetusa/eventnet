@@ -1,24 +1,98 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
-title: Jekyllized Boilerplate
+#
+title: EventNetUSA
 description:
-url:
+url: http://www.eventnetusa.com
 
 # Used so Jekyll outputs the site correctly so Gulp can do what it wants
-source: src
-destination: dist
-exclude:
+source: .tmp/src
+destination: .tmp/dist
+# exclude: ['assets']
 
 # Same as the title etc for your site but can instead be
 # called by using 'site.author.name' and so on
 # NOTE: Don't use @ in front of your Twitter username
 author:
-  name: Ryan Deussing
+  name: EvenNetUSA
   email:
   uri:
   bio:
   twitter:
   github:
+
+types:
+  - vehicle tour
+  - grand opening
+  - pr event
+  - pr stunt
+  - popup shop
+  - insurance activation
+  - retail
+  - street team
+
+collections:
+  work:
+    output: true
+    permalink: /case-studies/:slug/
+
+defaults:
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
+      class: "home"
+  -
+    scope:
+      path: "about.html"
+    values:
+      layout: "default"
+      class: "about"
+      permalink: "/about/"
+  -
+    scope:
+      path: "work.html"
+    values:
+      layout: "default"
+      class: "work"
+      permalink: "/work/"
+  -
+    scope:
+      path: "careers.html"
+    values:
+      layout: "default"
+      class: "careers"
+      permalink: "/careers/"
+  -
+    scope:
+      path: "contact.html"
+    values:
+      layout: "default"
+      class: "contact"
+      permalink: "/contact/"
+  -
+    scope:
+      path: ""
+      type: "work"
+    values:
+      layout: "casestudy"
+      class: "casestudy"
+# -
+#   scope:
+#     path: "blog.html"
+#   values:
+#     layout: "default"
+#     class: "blog"
+#     permalink: "/blog/"
+# -
+#   scope:
+#     path: ""
+#     type: "posts"
+#   values:
+#     layout: "default"
+#     class: "blog"
+
 
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts
@@ -30,22 +104,22 @@ lsi: false
 limit_posts: 10
 
 # Permalink structure and pagination options
-# permalink: none
-# paginate: 10
-# paginate_path: 'page:num'
-# excerpt_separator: ''
+permalink: none
+paginate: 10
+paginate_path: 'page:num'
+excerpt_separator: ''
 
 # Markdown library and options
-markdown: redcarpet
-redcarpet:
-  extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',
-              'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
-highlighter: rouge
+# markdown: redcarpet
+# redcarpet:
+#   extensions: ['no_intra_emphasis', 'tables', 'fenced_code_blocks', 'autolink', 'smart',
+#               'strikethrough', 'superscript', 'underline', 'highlight', 'footnotes']
+# highlighter: rouge
 
 # Extending Jekyll
 gems:
-  - jekyll-feed
-  - jekyll-gist
+  # - jekyll-feed
+  # - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
