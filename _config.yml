@@ -81,7 +81,8 @@ defaults:
       _comments:
         slug: used to create the link
         hero_image_path: image should be at least 2000px wide
-
+        single_image_block: image should be at least
+        video_id: a youtube video ID
 # -
 #   scope:
 #     path: "blog.html"
