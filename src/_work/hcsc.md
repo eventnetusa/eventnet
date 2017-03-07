@@ -1,20 +1,19 @@
 ---
 client: Health Care Service Corporation
 headline: Cross Channel Community Outreach
-subheadline: When Affordable Care Act (ACA) became available, HCSC looked to EventNetUSA to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.
+subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to EventNetUSA to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'
 hero_image_path: /uploads/hcsc-case-9.jpg
 type: insurance activation
 media:
-  -
-    single_image_block:
-      image_path: /uploads/nyx-case-2.jpg
+  - single_image_block:
+      image_path: /uploads/hcsc-case-9.jpg
     double_image_block:
       image_1_path: /uploads/850.jpg
       image_2_path: /uploads/850.jpg
     video_block:
       video_id: RSU1I0GjfJc
-cta: Interested in Community Outreach, Gap Closing Programs or Mobile Enrollment Programs?
-sidebar_text_markdown: |
+cta: 'Interested in Community Outreach, Gap Closing Programs or Mobile Enrollment Programs?'
+sidebar_text_markdown: |-
   **MOBILE ASSISTANCE CENTER**
 
   **100+** retail, church, community center event days
@@ -45,22 +44,18 @@ sidebar_text_markdown: |
 
   Average **24** enrollment applications initiated per day
 related_client_logos:
-  -
-    logo_image_path: /uploads/bigelow.svg
+  - logo_image_path: /uploads/bigelow.svg
     height:
-  -
-    logo_image_path: /uploads/mini.svg
-    height: 40%
-  -
-    logo_image_path: /uploads/nfl.svg
-    height: 50%
-  -
-    logo_image_path: /uploads/revlon.svg
+  - logo_image_path: /uploads/mini.svg
+    height: '40%'
+  - logo_image_path: /uploads/nfl.svg
+    height: '50%'
+  - logo_image_path: /uploads/revlon.svg
     height:
-  -
-    logo_image_path: /uploads/whitehouse.svg
-    height: 45%
+  - logo_image_path: /uploads/whitehouse.svg
+    height: '45%'
 ---
+
 
 Health Care Service Corporation (HCSC) is one of the largest licensees of BlueCross BlueShield, operating in 5 states.
 
@@ -70,13 +65,13 @@ To ensure reach and depth of knowledge about HCSC’s ACA offerings, EventNetUSA
 
 Each channel played an integral role in educating consumers on the Healthcare Reform and how ACA works, engaging through relevant content and enrolling new members on-site.
 
-- Produced multiple 8’x8’ self-contained event trailers equipped with 9 stools for seating, 6 iPads, 2 flat screen monitors with DVD players, built-in Wi-Fi, 2 portable laptops and an onboard generator
-- Analyzed, selected and secured retail locations and lifestyle events for MAC outreach, managing all routing and logistics
-- Consumers engaged with Greeter or Agent then entered their information on iPads for additional follow-up, appointment or enrollment
-- Supplied Greeters/Brand Ambassadors and drivers
-- Analyzed and selected mall properties based on HCSC target zip codes, procured in-line retail stores and outfitted with Pop-Up Store components
-- Consumers welcomed by Greeter at reception desk. Greeter captured data using iPad and scheduled appointments with Agent.
-- Supplied Greeters and store General Managers
-- Private meeting rooms available for one-on-one consultation and ACA enrollment with Agents
-- 3 Video Conferencing Stations available for general customer service questions with live ACA Assistant
-- Free blood pressure screening available to all consumers
+* Produced multiple 8’x8’ self-contained event trailers equipped with 9 stools for seating, 6 iPads, 2 flat screen monitors with DVD players, built-in Wi-Fi, 2 portable laptops and an onboard generator
+* Analyzed, selected and secured retail locations and lifestyle events for MAC outreach, managing all routing and logistics
+* Consumers engaged with Greeter or Agent then entered their information on iPads for additional follow-up, appointment or enrollment
+* Supplied Greeters/Brand Ambassadors and drivers
+* Analyzed and selected mall properties based on HCSC target zip codes, procured in-line retail stores and outfitted with Pop-Up Store components
+* Consumers welcomed by Greeter at reception desk. Greeter captured data using iPad and scheduled appointments with Agent.
+* Supplied Greeters and store General Managers
+* Private meeting rooms available for one-on-one consultation and ACA enrollment with Agents
+* 3 Video Conferencing Stations available for general customer service questions with live ACA Assistant
+* Free blood pressure screening available to all consumers
