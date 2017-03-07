@@ -78,6 +78,10 @@ defaults:
     values:
       layout: "casestudy"
       class: "casestudy"
+      _comments:
+        slug: used to create the link
+        hero_image_path: image should be at least 2000px wide
+
 # -
 #   scope:
 #     path: "blog.html"
