@@ -6,7 +6,7 @@ hero_image_path: /uploads/hcsc-case-9.jpg
 type: insurance activation
 media:
   - single_image_block:
-      image_path:
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -45,15 +45,15 @@ sidebar_text_markdown: |-
   Average **24** enrollment applications initiated per day
 related_client_logos:
   - logo_image_path: /uploads/bigelow.svg
-    height:
+    logo_image_height:
   - logo_image_path: /uploads/mini.svg
-    height: '40%'
+    logo_image_height: '40%'
   - logo_image_path: /uploads/nfl.svg
-    height: '50%'
+    logo_image_height: '50%'
   - logo_image_path: /uploads/revlon.svg
-    height:
+    logo_image_height:
   - logo_image_path: /uploads/whitehouse.svg
-    height: '45%'
+    logo_image_height: '45%'
 ---
 
 

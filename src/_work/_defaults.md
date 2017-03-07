@@ -8,7 +8,7 @@ type:
 media:
   -
     single_image_block:
-      image_path:
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
