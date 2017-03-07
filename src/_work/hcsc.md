@@ -12,8 +12,37 @@ media_section:
       image_2_path: /uploads/850.jpg
     video_block:
       video_id: RSU1I0GjfJc
-cta: Want to put your brand in the hands of consumers?
-sidebar_text_markdown:
+cta: 'Interested in Community Outreach, Gap Closing Programs or Mobile Enrollment Programs?'
+sidebar_text_markdown: |-
+  **MOBILE ASSISTANCE CENTER**
+
+  **100+** retail, church, community center event days
+
+  **120**&nbsp;mall event days
+
+  Participated in **55** lifestyle events and festivals
+
+  Over **305,000** conversations
+
+  **28,000+** qualified leads
+
+  Over **140** on-site enrollments
+
+  **POP-UP RETAIL STORES**
+
+  Over **275,000** conversations
+
+  **36,000+** qualified leads
+
+  Over **1,350** in-store enrollments
+
+  **MOBILE ENROLLMENT RV**
+
+  Average **625** impressions per day
+
+  Average **40** one-on-one conversations per day
+
+  Average **24** enrollment applications initiated per day
 related_client_logos:
   - logo_image_path: /uploads/bigelow.svg
     logo_image_height:
