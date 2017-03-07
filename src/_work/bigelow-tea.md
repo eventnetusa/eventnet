@@ -21,7 +21,7 @@ media_section:
       image_1_path:
       image_2_path:
     video_block:
-      video_id: RSU1I0GjfJc
+      video_id:
 related_client_logos:
   - logo_image_path:
     logo_image_height:
