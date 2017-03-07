@@ -6,12 +6,12 @@ hero_image_path: /uploads/bigelow-case-4.jpg
 type: vehicle tour
 cta: Interested in a mobile marketing vehicle?
 sidebar_text_markdown: >-
-  * Logged **9,467&nbsp;**miles over 3 months
+  * Logged **9,467&nbsp;**miles over **3**months
 
   * **4.6&nbsp;**million+ over-the-road impressions
 
   * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops,
-  & **3&nbsp;**university visits
+  & 3**&nbsp;**university visits
 
   * **63,675** one-on-one interactions
 media_section:
