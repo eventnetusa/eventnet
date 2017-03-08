@@ -72,16 +72,16 @@ media_section:
     video_block:
       video_id:
 related_client_logos:
-  - logo_image_path: /uploads/bigelow.svg
+  - logo_image_path: /uploads/humana.png
     logo_image_height:
-  - logo_image_path: /uploads/mini.svg
-    logo_image_height: '40%'
-  - logo_image_path: /uploads/nfl.svg
-    logo_image_height: '50%'
-  - logo_image_path: /uploads/revlon.svg
+  - logo_image_path: /uploads/aetna.png
     logo_image_height:
-  - logo_image_path: /uploads/whitehouse.svg
-    logo_image_height: '45%'
+  - logo_image_path: /uploads/CHIP.png
+    logo_image_height:
+  - logo_image_path: /uploads/aarp.png
+    logo_image_height:
+  - logo_image_path: /uploads/amh_logo_hdr.gif
+    logo_image_height:
 ---
 
 
@@ -116,8 +116,6 @@ Indoor Activations
 * Free blood pressure screening available to all consumers
 
 ##### MOBILE ENROLLMENT RV
-
-&nbsp;
 
 * Produced custom RV utilized for relevant retail stops across market territories to engage with consumers entering and exiting stores
 * Consumers were invited to meet with Agents in private meeting areas inside RV, learn about ACA and enroll on-site or schedule follow-up meetings
