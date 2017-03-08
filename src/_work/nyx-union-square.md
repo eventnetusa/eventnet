@@ -41,7 +41,7 @@ related_client_logos:
 ---
 
 
-**A LOOK BEHIND THE SCENES:**
+### **A LOOK BEHIND THE SCENES:**
 
 * Converted a food truck into a Beauty + Swag Truck, complete with 3 makeup vanity stations, social media staging area, and integrated A/V monitor
 * Contracted and trained a tour manager and local brand ambassadors to deliver brand messaging and perform Express Lip Touch-Ups across New York City
