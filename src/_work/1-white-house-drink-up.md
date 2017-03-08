@@ -1,13 +1,13 @@
 ---
 client: 'The White House & Partnership for a Healthier America'
 headline: Drink Up America Water Campaign Launch
-subheadline: "First Lady Michelle Obama's team called us with a challenge: design & produce a water carnival to launch the Drink Up America water campaign, location undisclosed, in just 3 weeks!"
+subheadline: "First Lady Michelle Obama's team called us with a challenge: design & produce a water carnival to launch the Drink Up America water campaign, location undisclosed, in 3 weeks. We turned their challenge into a PR Event that Watertown, WI would never forget!"
 hero_image_path: /uploads/slide-drink-up.jpg
 type: pr event
 cta: Need a turnkey event solution?
 sidebar_text_markdown: |-
-  * Over **3,000**students and parents participated in the Drink Up event
-  * **75**members of worldwide media in attendance
+  * Over **3,000&nbsp;**students and parents participated in the Drink Up event
+  * **75&nbsp;**members of worldwide media in attendance
 media_section:
   - single_image_block:
       single_image_path:
