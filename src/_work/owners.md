@@ -12,10 +12,6 @@ sidebar_text_markdown: >-
 
 
 
-
-
-
-
   * Drove **10,000+** miles over 4 months completing **20**event days across
   **7** markets
 
@@ -44,15 +40,15 @@ media_section:
     video_block:
       video_id:
 related_client_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/Logo_Olia_Verso.jpg
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/fidelity.jpg
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/mcdonalds.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/humana.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/deer-park.png
     logo_image_height:
 ---
 
