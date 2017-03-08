@@ -2,7 +2,7 @@
 client: Mini Cooper
 headline: Mini in a Stadium
 subheadline: "Mini Cooper's not so small US debut"
-hero_image_path: /uploads/red-mini-cooper.jpg
+hero_image_path: /uploads/mini-cooper-john-cooper-works-2009-800x600-wallpaper-03.jpg
 type: pr stunt
 cta: Looking to turn heads with a PR stunt?
 sidebar_text_markdown:
@@ -38,7 +38,10 @@ EventNetUSA placed the never-before seen Mini Cooper in the stands of the New Or
 
 ### **A LOOK BEHIND THE SCENES**
 
-* <!--[endif]---->To ensure maximum exposure and TV appearances, EventNetUSA identified and secured a location for the Mini behind the End Zone.
+* <!--[endif]---->
+
+  To ensure maximum exposure and TV appearances, EventNetUSA identified and secured a location for the Mini behind the End Zone.
+
 * Removed 50 stadium seats and positioned the Mini using a fork lift and specially fabricate support braces to secure the car’s placement.
 * Contracted 15 Brand Ambassadors to act as sports fans and wear body paint spelling out “Mini Says Go Saints”
 * Each time the Saints scored, Brand Ambassadors drew attention to the Mini by honking the horn and flashing its lights, giving it the enthusiasm and personality of an excited sports fan.
