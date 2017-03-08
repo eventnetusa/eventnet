@@ -65,13 +65,32 @@ To ensure reach and depth of knowledge about HCSC’s ACA offerings, EventNetUSA
 
 Each channel played an integral role in educating consumers on the Healthcare Reform and how ACA works, engaging through relevant content and enrolling new members on-site.
 
+#### A LOOK BEHIND THE SCENES
+
+##### **Mobile Assistance Center (MAC)**
+
+Outdoor and Indoor Activations
+
 * Produced multiple 8’x8’ self-contained event trailers equipped with 9 stools for seating, 6 iPads, 2 flat screen monitors with DVD players, built-in Wi-Fi, 2 portable laptops and an onboard generator
 * Analyzed, selected and secured retail locations and lifestyle events for MAC outreach, managing all routing and logistics
 * Consumers engaged with Greeter or Agent then entered their information on iPads for additional follow-up, appointment or enrollment
 * Supplied Greeters/Brand Ambassadors and drivers
+
+##### POP-UP RETAIL STORES
+
+Indoor Activations
+
 * Analyzed and selected mall properties based on HCSC target zip codes, procured in-line retail stores and outfitted with Pop-Up Store components
 * Consumers welcomed by Greeter at reception desk. Greeter captured data using iPad and scheduled appointments with Agent.
 * Supplied Greeters and store General Managers
 * Private meeting rooms available for one-on-one consultation and ACA enrollment with Agents
 * 3 Video Conferencing Stations available for general customer service questions with live ACA Assistant
 * Free blood pressure screening available to all consumers
+
+##### MOBILE ENROLLMENT RV
+
+&nbsp;
+
+* Produced custom RV utilized for relevant retail stops across market territories to engage with consumers entering and exiting stores
+* Consumers were invited to meet with Agents in private meeting areas inside RV, learn about ACA and enroll on-site or schedule follow-up meetings
+* Supplied CDL-B driver to transport and set-up RV
