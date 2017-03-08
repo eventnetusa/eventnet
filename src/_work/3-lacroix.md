@@ -1,7 +1,7 @@
 ---
 client: LaCroix Sparkling Water
 headline: Fall Guerilla Sampling Program
-subheadline: EventNetUSA is putting LaCroix in the hands of targeted consumers around the country
+subheadline: 'For over 11 years, LaCroix Sparkling Water has entrusted EventNetUSA to place their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'
 hero_image_path: /uploads/lacroix-case-1.jpg
 type: street team
 cta: Want to put your brand in the hands of consumers?
@@ -27,8 +27,6 @@ related_client_logos:
     logo_image_height:
 ---
 
-
-For over 11 years, LaCroix Sparkling Water has entrusted EventNetUSA to place product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.
 
 A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditionally (they have never run a traditional print or TV advertisement).
 
