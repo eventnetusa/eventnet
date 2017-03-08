@@ -20,7 +20,7 @@ media_section:
       image_1_path: /uploads/garnier-case-study.jpg
       image_2_path: /uploads/garnier-case-study4.jpg
     video_block:
-      video_id: RSU1I0GjfJc
+      video_id:
   - single_image_block:
       single_image_path: /uploads/garnier-case-study5.jpg
     double_image_block:
