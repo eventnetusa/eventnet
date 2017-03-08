@@ -88,7 +88,7 @@ Each channel played an integral role in educating consumers on the Healthcare Re
 
 ### A LOOK BEHIND THE SCENES
 
-#### **Mobile Assistance Center (MAC)**
+#### Mobile Assistance Center (MAC)
 
 Outdoor and Indoor Activations
 
