@@ -9,8 +9,8 @@ sidebar_text_markdown: |-
   ### QUICK STATS
 
   * **30** Wal-Mart stores
-  * **36,000+**passive impressions
-  * **17,000+**active impressions
+  * **36,000+&nbsp;**passive impressions
+  * **17,000+&nbsp;**active impressions
   * **11,000+** direct impressions
   * **20,000+** product samples
 media_section:
