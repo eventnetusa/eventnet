@@ -32,9 +32,9 @@ related_client_logos:
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
   - logo_image_path: /uploads/nyx.png
-    logo_image_height: '25%'
+    logo_image_height: '20%'
   - logo_image_path: /uploads/essie.png
-    logo_image_height: '30%'
+    logo_image_height: '20%'
   - logo_image_path: /uploads/cetaphil-stockist-skinshop.png
     logo_image_height:
 ---
