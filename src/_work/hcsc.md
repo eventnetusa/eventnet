@@ -4,7 +4,7 @@ headline: Cross Channel Community Outreach
 subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to EventNetUSA to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'
 hero_image_path: /uploads/hcsc-case-9.jpg
 type: insurance activation
-cta: 'Interested in Community Outreach, Gap Closing Programs or Mobile Enrollment Programs?'
+cta: 'Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment Programs?'
 sidebar_text_markdown: |-
   ### PROGRAM QUICK STATS
 
