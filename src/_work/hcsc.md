@@ -37,12 +37,40 @@ sidebar_text_markdown: |-
   Average **24** enrollment applications initiated per day
 media_section:
   - single_image_block:
-      image_path: /uploads/hcsc-case-9.jpg
+      image_path:
     double_image_block:
-      image_1_path: /uploads/850.jpg
-      image_2_path: /uploads/850.jpg
+      image_1_path: /uploads/hcsc-case-4.jpg
+      image_2_path: /uploads/hcsc-case-3.jpg
     video_block:
-      video_id: RSU1I0GjfJc
+      video_id:
+  - single_image_block:
+      image_path:
+    double_image_block:
+      image_1_path: /uploads/hcsc-case-2.jpg
+      image_2_path: /uploads/hcsc-case-1.jpg
+    video_block:
+      video_id:
+  - single_image_block:
+      image_path: /uploads/hcsc-case-5.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - single_image_block:
+      image_path: /uploads/hcsc-case-8.jpg
+    double_image_block:
+      image_1_path: /uploads/hcsc-case-7.jpg
+      image_2_path: /uploads/hcsc-case-6.jpg
+    video_block:
+      video_id:
+  - single_image_block:
+      image_path: /uploads/hcsc-rv.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 related_client_logos:
   - logo_image_path: /uploads/bigelow.svg
     logo_image_height:
