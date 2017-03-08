@@ -4,7 +4,7 @@ headline: Mobile Open House
 subheadline: Owners.com launched its online real estate tool for the modern home buyer/seller with a custom mobile open house
 hero_image_path: /uploads/owners.jpg
 type: vehicle tour
-cta: Looking to drive consumer engagement with your next Mobile Vehicle Tour?  Request a quote.
+cta: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
 sidebar_text_markdown: >-
   ### **TOUR QUICK STATS**
 
