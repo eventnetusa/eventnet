@@ -35,7 +35,7 @@ related_client_logos:
     logo_image_height: '60%'
   - logo_image_path: /uploads/essie.png
     logo_image_height: '80%'
-  - logo_image_path:
+  - logo_image_path: /uploads/cetaphil-stockist-skinshop.png
     logo_image_height:
 ---
 
