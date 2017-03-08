@@ -1,5 +1,5 @@
 ---
-client: 'The White House, First Lady Michelle Obama, & Partnership for a Healthier America'
+client: "The White House, First Lady Michelle Obama, \n& Partnership for a Healthier America"
 headline: Drink Up America Water Campaign Launch
 subheadline: "The White House, through the Partnership for a Healthier America and Young & Rubican, approached EventNetUSA to design and produce First Lady Michelle Obama's national Drink Up America Water Campaign launch."
 hero_image_path: /uploads/slide-drink-up.jpg
