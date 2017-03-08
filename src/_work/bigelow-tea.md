@@ -21,7 +21,7 @@ media_section:
       image_1_path: /uploads/bigelow-case-1.jpg
       image_2_path: /uploads/bigelow-case-5.jpg
     video_block:
-      video_id:
+      video_id: OvUjkom0HOE
 related_client_logos:
   - logo_image_path: /uploads/biotherm.png
     logo_image_height:
