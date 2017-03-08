@@ -16,11 +16,11 @@ media_section:
       video_id:
 related_client_logos:
   - logo_image_path: /uploads/mcdonalds.png
-    logo_image_height:
+    logo_image_height: '50%'
   - logo_image_path: /uploads/dunkin.png
     logo_image_height:
   - logo_image_path: /uploads/nivea.png
-    logo_image_height:
+    logo_image_height: '50%'
   - logo_image_path: /uploads/pepperidgefarm.png
     logo_image_height:
   - logo_image_path: /uploads/att.png
