@@ -15,7 +15,7 @@ media_section:
       image_1_path: /uploads/case-drinkup.jpg
       image_2_path: /uploads/drink-up-michelle-obama.jpg
     video_block:
-      video_id: 'https://www.youtube.com/watch?v=_Inxrfom_hU'
+      video_id: _Inxrfom_hU
 related_client_logos:
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
