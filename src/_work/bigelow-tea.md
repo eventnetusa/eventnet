@@ -12,7 +12,15 @@ sidebar_text_markdown: >-
 
 
 
+
+
+
+
   #### 2014 Coastal Tour
+
+
+
+
 
 
 
@@ -32,7 +40,15 @@ sidebar_text_markdown: >-
 
 
 
+
+
+
+
   #### 2015 Midwest/Pacific Coast Tour
+
+
+
+
 
 
 
@@ -52,7 +68,15 @@ sidebar_text_markdown: >-
 
 
 
+
+
+
+
   #### 2016 Northeast Tour
+
+
+
+
 
 
 
@@ -98,7 +122,7 @@ related_client_logos:
 
 ### A LOOK BEHIND THE SCENES
 
-* Designed and transformed a 1977 Airstream into a Mobile Tea Bar complete with tasting bar, brewers, compliant food service areas, and historical lounge
-* Recruited, trained and staffed Tour Managers and in-field staff to serve as tea ambassadors
+* Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar complete with tasting bar, brewers, compliant food service areas, and historical lounge
+* Recruited, trained and staffed Tour Managers and in-field staff to serve as Tea Ambassadors
 * Researched, scheduled and executed three US tours: 2014 Coastal Tour, 2015 MidWest/Pacific Coast Tour and 2016 Northeast Tour
 * Integrated social media photo activation including development and execution of “Biggie” the mascot
