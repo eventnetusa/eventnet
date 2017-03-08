@@ -6,6 +6,8 @@ hero_image_path: /uploads/nyx-case-4.jpg
 type: grand opening
 cta: 'Interested in grand openings & mobile marketing vehicles?'
 sidebar_text_markdown: |-
+  **QUICK STATS**
+
   * **5.5&nbsp;**guerilla sampling and **3.5&nbsp;**event days
   * **500,000+&nbsp;**over-the-road impressions
   * **8,500+** one-on-one interactions
