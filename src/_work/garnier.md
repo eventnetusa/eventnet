@@ -42,3 +42,15 @@ related_client_logos:
 ---
 
 
+Megabrand Garnier and upcycling pioneer TerraCycle partnered with EventNetUSA for the Garnier Greener Tour.
+
+The tour held events at Wal-Mart’s all over the country to raise awareness about the recyclability of cosmetic packaging, encourage people to think differently about waste, and teach simple ways to have a positive impact on the environment.
+
+EventNetUSA helped Garnier and TerraCycle catch the attention of every Wal-Mart consumer with an impressive glass enclosed truck, Garnier styling stations and games and giveaways located near to the store entrance/exit.
+
+### A LOOK BEHIND THE SCENES
+
+* For the Garnier Greener Tour, EventNetUSA produced and managed the glass truck, styling stations, display pieces, games and contests, site logistics for 30 Wal-Mart locations, staffing and routing.
+* The glass truck featured interactive education displays demonstrating ways to recycle empty hair care, skin care or cosmetic packaging.
+* Each event set-up included Garnier styling stations, TerraCycle collection bins to encourage consumers to recycle empty personal care and beauty items; a TerraCycle representative on site to educate on recycling and upcycling and fun games and activities.
+* Brand Ambassadors located near store entrance and exit doors educated passersby on Garnier products, recycling and upcycling as well as passed out product samples.
