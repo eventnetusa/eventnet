@@ -38,7 +38,7 @@ media_section:
       image_1_path: /uploads/picture5.png
       image_2_path:
     video_block:
-      video_id: Mr-d9XwzPM8&t
+      video_id: Mr-d9XwzPM8
 related_client_logos:
   - logo_image_path: /uploads/Logo_Olia_Verso.jpg
     logo_image_height:
