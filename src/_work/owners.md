@@ -48,7 +48,7 @@ related_client_logos:
     logo_image_height: '50%'
   - logo_image_path: /uploads/humana.png
     logo_image_height:
-  - logo_image_path: /uploads/deer-park.png
+  - logo_image_path: /uploads/dee-rpark-gray.png
     logo_image_height:
 ---
 
