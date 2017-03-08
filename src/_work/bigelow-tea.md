@@ -18,15 +18,15 @@ sidebar_text_markdown: >-
 
 
 
-  * Logged over **12,000&nbsp;**milesover ***7&nbsp;***months visiting MA, NY,
+  * Logged over **12,500&nbsp;**milesover ***7&nbsp;***months visiting MA, NY,
   CT, MN, IL, ID, WA, CA, TX, FL and GA
 
-  * ___&nbsp;**million+** over-the-road impressions
+  * **6.1**&nbsp;**million+** over-the-road impressions
 
   * **98&nbsp;**touring days, **23&nbsp;**events, **19&nbsp;**retail stops,
   & **5&nbsp;**university visits
 
-  * **___** one-on-one interactions
+  * **59,831**&nbsp;one-on-one interactions
 
 
 
@@ -38,15 +38,15 @@ sidebar_text_markdown: >-
 
 
 
-  * Logged **__*&nbsp;***miles over***&nbsp;5***&nbsp;months visiting NY, NJ, CT,
-  NH, MA, ID, CA, WA and AZ
+  * Logged 8,200***&nbsp;***miles over***&nbsp;5***&nbsp;months visiting NY, NJ,
+  CT, NH, MA, ID, CA, WA and AZ
 
-  * **___ million+** over-the-road impressions
+  * **4 million+** over-the-road impressions
 
   * **127&nbsp;**touring days, **28&nbsp;**events, **39&nbsp;**retail stops,
   & **1&nbsp;**university visits
 
-  * **___** one-on-one interactions
+  * **49,667** one-on-one interactions
 
 
 
@@ -58,13 +58,13 @@ sidebar_text_markdown: >-
 
 
 
-  * Logged **9,467&nbsp;**miles over **3&nbsp;**months visiting CT, NY, MA, RI,
-  NH, PA, NJ, DE, DC and MD
+  * Logged&nbsp;**3,400&nbsp;**miles over **3&nbsp;**months visiting CT, NY, MA,
+  RI, NH, PA, NJ, DE, DC and MD
 
-  * **4.6&nbsp;**million+ over-the-road impressions
+  * **1.6 million+** over-the-road impressions
 
   * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops,
-  & 3**&nbsp;**university visits
+  & **3&nbsp;**university visits
 
   * **63,675** one-on-one interactions
 media_section:
