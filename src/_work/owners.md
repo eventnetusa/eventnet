@@ -31,7 +31,7 @@ media_section:
       image_1_path: /uploads/picture4.jpg
       image_2_path: /uploads/picture3.png
     video_block:
-      video_id: RSU1I0GjfJc
+      video_id:
   - single_image_block:
       single_image_path:
     double_image_block:
@@ -59,6 +59,6 @@ Key objectives of the Mobile Open House Tour were to attract consumer and media 
 
 ### A LOOK BEHIND THE SCENES
 
-* Transformed 52’ trailer into&nbsp; Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website
+* Transformed 52’ trailer into  Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website
 * Hired, contracted and managed (1) Tour Manager, (1) Assistant Tour Manager, (3) Owners.com Product Specialists, (1) CDL-A Driver, and (140) local Brand Ambassadors who served as the face of Owners.com
 * Developed 4 month program executing 20 events across 7 markets. Tour routed to test a mix of event categories including lifestyle locations, medium and large events, Taste of events, and Arts Festivals
