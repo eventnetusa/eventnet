@@ -1,7 +1,7 @@
 ---
 client: Revlon
 headline: 'LOVE IS ON: Mobile Pop-Up Shop'
-subheadline: "Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop, \na tractor trailer retrofitted into a beauty store on wheels."
+subheadline: 'Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop, a tractor trailer retrofitted into a beauty store on wheels.'
 hero_image_path: /uploads/revlon-case-6.jpg
 type: popup shop
 cta: Interested in a mobile pop-up shop?
