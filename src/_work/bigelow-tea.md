@@ -25,8 +25,6 @@ media_section:
 related_client_logos:
   - logo_image_path: /uploads/biotherm.png
     logo_image_height:
-  - logo_image_path: /uploads/blimpie.png
-    logo_image_height:
   - logo_image_path: /uploads/coppertone.png
     logo_image_height:
   - logo_image_path: /uploads/rimmel.png
