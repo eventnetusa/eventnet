@@ -4,7 +4,7 @@ headline: Garnier Greener Recycling Tour
 subheadline: Garnier educated Wal-Mart shoppers across the country on the importance of recycling and earth-friendly products
 hero_image_path: /uploads/garnier-102-3657.jpg
 type: retail
-cta: Want to reach consumers at retail locations where your product is sold?  We can help with that.
+cta: Want to reach consumers at retail locations where your product is sold?
 sidebar_text_markdown: |-
   ### TOUR QUICK STATS
 
