@@ -28,7 +28,7 @@ media_section:
       video_id: sKw2iw1yGJ8
 related_client_logos:
   - logo_image_path: /uploads/maybelline.png
-    logo_image_height:
+    logo_image_height: '120%'
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
   - logo_image_path: /uploads/nyx.png
