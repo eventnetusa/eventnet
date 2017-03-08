@@ -6,7 +6,7 @@ hero_image_path: /uploads/hcsc-case-9.jpg
 type: insurance activation
 cta: 'Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment Programs?'
 sidebar_text_markdown: |-
-  ### PROGRAM QUICK STATS
+  ### QUICK STATS
 
   #### MOBILE ASSISTANCE CENTER
 
