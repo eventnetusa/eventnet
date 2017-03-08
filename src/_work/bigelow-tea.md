@@ -6,21 +6,13 @@ hero_image_path: /uploads/bigelow-case-4.jpg
 type: vehicle tour
 cta: Interested in a mobile marketing vehicle?
 sidebar_text_markdown: >-
-  ### Tour Quick Stats
-
-
-
-
+  ### Quick Stats
 
 
 
 
 
   #### 2014 Coastal Tour
-
-
-
-
 
 
 
@@ -40,15 +32,7 @@ sidebar_text_markdown: >-
 
 
 
-
-
-
-
   #### 2015 Midwest/Pacific Coast Tour
-
-
-
-
 
 
 
@@ -68,15 +52,7 @@ sidebar_text_markdown: >-
 
 
 
-
-
-
-
   #### 2016 Northeast Tour
-
-
-
-
 
 
 
