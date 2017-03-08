@@ -46,7 +46,7 @@ Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop, a tract
 Our Pop-Up Shop's objectives were to deliver brand messaging, demonstrate and sell product, integrate social media and press, and provide a “look, touch, feel” experience through an experiential marketing tour.
 {: .present-before-paste}
 
-### **A LOOK BEHIND THE SCENES:**
+### A LOOK BEHIND THE SCENES:
 
 * Customized a 53’ trailer with 100 feet of retail space, POS and banking systems for wireless sales transfers using Square, and an area for social media integration
 * Included a product sample bar, personal consultations with licensed beauticians, and professional makeovers and manicures.
