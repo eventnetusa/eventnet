@@ -70,7 +70,7 @@ related_client_logos:
   - logo_image_path: /uploads/aetna.png
     logo_image_height:
   - logo_image_path: /uploads/CHIP.png
-    logo_image_height:
+    logo_image_height: '80%'
   - logo_image_path: /uploads/aarp.png
     logo_image_height:
   - logo_image_path: /uploads/amerihealth-gray.png
