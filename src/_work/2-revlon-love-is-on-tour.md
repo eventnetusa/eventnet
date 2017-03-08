@@ -15,17 +15,24 @@ media_section:
   - single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/revlon-case-2.jpg
-      image_2_path: /uploads/revlon-case-5.jpg
+      image_1_path: /uploads/revlon-case-5.jpg
+      image_2_path: /uploads/revlon-case-2.jpg
+    video_block:
+      video_id: 3tQOMf7EOUk
+  - single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - single_image_block:
       single_image_path: /uploads/revlon-case-3.jpg
     double_image_block:
-      image_1_path: /uploads/revlon-case-4.jpg
-      image_2_path: /uploads/revlon-case-1.jpg
+      image_1_path: /uploads/revlon-case-1.jpg
+      image_2_path: /uploads/revlon-case-4.jpg
     video_block:
-      video_id: 3tQOMf7EOUk
+      video_id:
 related_client_logos:
   - logo_image_path: /uploads/maybelline.png
     logo_image_height:
