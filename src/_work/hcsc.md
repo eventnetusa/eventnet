@@ -71,7 +71,7 @@ related_client_logos:
     logo_image_height:
   - logo_image_path: /uploads/CHIP.png
     logo_image_height: '70%'
-  - logo_image_path: /uploads/aarp.png
+  - logo_image_path: /uploads/aarp-gray.png
     logo_image_height:
   - logo_image_path: /uploads/amerihealth-gray.png
     logo_image_height:
