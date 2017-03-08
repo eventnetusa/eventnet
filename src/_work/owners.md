@@ -6,7 +6,7 @@ hero_image_path: /uploads/owners.jpg
 type: vehicle tour
 cta: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
 sidebar_text_markdown: >-
-  ### **TOUR QUICK STATS**
+  ### **QUICK STATS**
 
 
 
