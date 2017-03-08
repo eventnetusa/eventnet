@@ -6,6 +6,8 @@ hero_image_path: /uploads/revlon-case-6.jpg
 type: popup shop
 cta: Interested in a mobile pop-up shop?
 sidebar_text_markdown: |-
+  ### QUICK STATS
+
   * **23&nbsp;**event days over **4 months&nbsp;**in **7 markets**
   * Drove over **10,000** miles
   * **4.5 million** over-the-road impressions
