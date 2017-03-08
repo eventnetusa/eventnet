@@ -15,30 +15,30 @@ media_section:
       image_1_path: /uploads/case-drinkup.jpg
       image_2_path: /uploads/drink-up-michelle-obama.jpg
     video_block:
-      video_id:
+      video_id: _Inxrfom_hU
 related_client_logos:
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
   - logo_image_path: /uploads/cbs.png
     logo_image_height:
   - logo_image_path: /uploads/lacroix.png
-    logo_image_height: '40%'
+    logo_image_height: '70%'
   - logo_image_path: /uploads/yoplait.png
-    logo_image_height: '40%'
+    logo_image_height: '80%'
   - logo_image_path: /uploads/nba.png
-    logo_image_height: '50%'
+    logo_image_height: '65%'
 ---
 
 
-The event was held at the Watertown High School in Watertown, WI.  The water themed carnival, held in the school’s gymnasium, featured Dunk the Principal, water relay races, water ring toss and Ride the Surf.
+The water themed carnival, held in the Watertown High School gymnasium, featured Dunk the Principal, water relay races, water ring toss and Ride the Surf.
 
-Actress Eva Longoria and a dozen other water groups also attended the event.
+Actress Eva Longoria and a dozen other water groups also attended the Watertown, WI event.
 
 ### A LOOK BEHIND THE SCENES
 
-* Successfully executed the water carnival and media presentation under a tight 3 week timeline with limited information due to White House security restrictions.
+* Successfully executed water carnival and media presentation under a tight 3 week timeline with limited information due to White House security restrictions.
 
-* Conceptualized and produced carnival water games to engage and educate students
+* Conceptualized and produced carnival water themed games to engage and educate students.
 
 * Managed event set-up and operations including press requirements for Michelle Obama and Eva Longoria
 
