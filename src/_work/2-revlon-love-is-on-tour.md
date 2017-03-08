@@ -6,8 +6,6 @@ hero_image_path: /uploads/revlon-case-6.jpg
 type: popup shop
 cta: Interested in a mobile pop-up shop?
 sidebar_text_markdown: |-
-  ### QUICK STATS
-
   * **23&nbsp;**event days over **4 months&nbsp;**in **7 markets**
   * Drove over **10,000** miles
   * **4.5 million** over-the-road impressions
@@ -27,7 +25,7 @@ media_section:
       image_1_path: /uploads/revlon-case-4.jpg
       image_2_path: /uploads/revlon-case-1.jpg
     video_block:
-      video_id: sKw2iw1yGJ8
+      video_id: 3tQOMf7EOUk
 related_client_logos:
   - logo_image_path: /uploads/maybelline.png
     logo_image_height:
@@ -48,7 +46,7 @@ Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop, a tract
 Our Pop-Up Shop's objectives were to deliver brand messaging, demonstrate and sell product, integrate social media and press, and provide a “look, touch, feel” experience through an experiential marketing tour.
 {: .present-before-paste}
 
-### A LOOK BEHIND THE SCENES:
+### **A LOOK BEHIND THE SCENES:**
 
 * Customized a 53’ trailer with 100 feet of retail space, POS and banking systems for wireless sales transfers using Square, and an area for social media integration
 * Included a product sample bar, personal consultations with licensed beauticians, and professional makeovers and manicures.
