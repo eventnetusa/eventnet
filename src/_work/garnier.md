@@ -36,7 +36,7 @@ related_client_logos:
   - logo_image_path: /uploads/bn.png
     logo_image_height:
   - logo_image_path: /uploads/logo_costco.png
-    logo_image_height:
+    logo_image_height: '90%'
   - logo_image_path: /uploads/sams.png
     logo_image_height: '35%'
 ---
