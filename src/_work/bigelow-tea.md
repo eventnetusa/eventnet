@@ -23,10 +23,10 @@ media_section:
     video_block:
       video_id: OvUjkom0HOE
   - single_image_block:
-      single_image_path: /uploads/bigelow-tea-shirt.jpg
+      single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/bigelow-tea-shirt.jpg
+      image_2_path: /uploads/20161001-125153.jpg
     video_block:
       video_id:
 related_client_logos:
