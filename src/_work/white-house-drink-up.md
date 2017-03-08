@@ -26,15 +26,15 @@ related_client_logos:
   - logo_image_path: /uploads/yoplait.png
     logo_image_height:
   - logo_image_path: /uploads/nba.png
-    logo_image_height:
+    logo_image_height: '50'
 ---
 
 
 The White House, through the Partnership for a Healthier America and Young & Rubican, approached EventNetUSA to design and produce First Lady Michelle Obama’s national Drink Up America Water Campaign launch.
 
-The event was held at the Watertown High School in Watertown, WI. &nbsp;The water themed carnival, held in the school’s gymnasium, featured Dunk the Principal, water relay races, water ring toss and Ride the Surf.
+The event was held at the Watertown High School in Watertown, WI.  The water themed carnival, held in the school’s gymnasium, featured Dunk the Principal, water relay races, water ring toss and Ride the Surf.
 
-&nbsp;Actress Eva Longoria and a dozen other water groups also attended the event.
+ Actress Eva Longoria and a dozen other water groups also attended the event.
 
 ### A LOOK BEHIND THE SCENES
 
