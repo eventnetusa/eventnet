@@ -25,7 +25,7 @@ media_section:
       image_1_path: /uploads/revlon-case-4.jpg
       image_2_path: /uploads/revlon-case-1.jpg
     video_block:
-      video_id:
+      video_id: sKw2iw1yGJ8
 related_client_logos:
   - logo_image_path: /uploads/maybelline.png
     logo_image_height:
