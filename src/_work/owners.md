@@ -45,7 +45,7 @@ related_client_logos:
   - logo_image_path: /uploads/fidelity.jpg
     logo_image_height:
   - logo_image_path: /uploads/mcdonalds.png
-    logo_image_height:
+    logo_image_height: '50'
   - logo_image_path: /uploads/humana.png
     logo_image_height:
   - logo_image_path: /uploads/deer-park.png
@@ -55,10 +55,10 @@ related_client_logos:
 
 Owners.com partnered with EventNetUSA to bring its online, self-directed approach to home buying/selling to life via a Mobile Open House Tour.
 
-Key objectives of the Mobile Open House Tour were to attract consumer and media attention and provide a platform to support brand awareness and education of this new alternative to buying and selling a home.&nbsp;
+Key objectives of the Mobile Open House Tour were to attract consumer and media attention and provide a platform to support brand awareness and education of this new alternative to buying and selling a home.
 
 #### A LOOK BEHIND THE SCENES
 
-* Transformed 52’ trailer into&nbsp; Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website
+* Transformed 52’ trailer into  Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website
 * Hired, contracted and managed (1) Tour Manager, (1) Assistant Tour Manager, (3) Owners.com Product Specialists, (1) CDL-A Driver, and (140) local Brand Ambassadors who served as the face of Owners.com
 * Developed 4 month program executing 20 events across 7 markets. Tour routed to test a mix of event categories including lifestyle locations, medium and large events, Taste of events, and Arts Festivals
