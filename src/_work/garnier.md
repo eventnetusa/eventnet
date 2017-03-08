@@ -6,7 +6,7 @@ hero_image_path: /uploads/garnier-102-3657.jpg
 type: retail
 cta: Want to reach consumers at retail locations where your product is sold?
 sidebar_text_markdown: |-
-  ### TOUR QUICK STATS
+  ### QUICK STATS
 
   * **30** Wal-Mart stores
   * **36,000+**passive impressions
