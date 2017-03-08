@@ -15,7 +15,7 @@ media_section:
       image_1_path: /uploads/case-drinkup.jpg
       image_2_path: /uploads/drink-up-michelle-obama.jpg
     video_block:
-      video_id: RSU1I0GjfJc
+      video_id:
 related_client_logos:
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
@@ -26,7 +26,7 @@ related_client_logos:
   - logo_image_path: /uploads/yoplait.png
     logo_image_height:
   - logo_image_path: /uploads/nba.png
-    logo_image_height: '50'
+    logo_image_height: '50%'
 ---
 
 
