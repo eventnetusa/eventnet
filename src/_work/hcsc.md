@@ -99,7 +99,7 @@ Each channel played an integral role in educating consumers on the Healthcare Re
 
 Outdoor and Indoor Activations
 
-* Produced multiple 8’x8’ self-contained event trailers equipped with 9 stools for seating, 6 iPads, 2 flat screen monitors with DVD players, built-in Wi-Fi, 2 portable laptops and an onboard generator
+* Produced multiple 8’x8’ self-contained event trailers equipped with 9 stools for seating, 6 iPads, 2 flat screen monitors with DVD players, built-in WiFi, 2 portable laptops and an onboard generator
 * Analyzed, selected and secured retail locations and lifestyle events for MAC outreach, managing all routing and logistics
 * Consumers engaged with Greeter or Agent then entered their information on iPads for additional follow-up, appointment or enrollment
 * Supplied Greeters/Brand Ambassadors and drivers
