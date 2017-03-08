@@ -6,7 +6,57 @@ hero_image_path: /uploads/bigelow-case-4.jpg
 type: vehicle tour
 cta: Interested in a mobile marketing vehicle?
 sidebar_text_markdown: >-
-  * Logged **9,467&nbsp;**miles over **3**months
+  ### Tour Quick Stats
+
+
+
+
+
+  #### 2014 Coastal Tour
+
+
+
+
+
+  * Logged **___&nbsp;**miles over ___**&nbsp;**months
+
+  * **___&nbsp;**million+ over-the-road impressions
+
+  * **__&nbsp;**touring days, __**&nbsp;**events, __**&nbsp;**retail stops,
+  & 3**&nbsp;**university visits
+
+  * **___** one-on-one interactions
+
+
+
+
+
+  #### 2015 Midwest/Pacific Coast Tour
+
+
+
+
+
+  * Logged **___&nbsp;**miles over ___**&nbsp;**months
+
+  * **___&nbsp;**million+ over-the-road impressions
+
+  * **__&nbsp;**touring days, __**&nbsp;**events, __**&nbsp;**retail stops,
+  & 3**&nbsp;**university visits
+
+  * **___** one-on-one interactions
+
+
+
+
+
+  #### 2016 Northeast Tour
+
+
+
+
+
+  * Logged **9,467&nbsp;**miles over **3&nbsp;**months
 
   * **4.6&nbsp;**million+ over-the-road impressions
 
@@ -47,5 +97,5 @@ related_client_logos:
 
 * Designed and transformed a 1977 Airstream into a Mobile Tea Bar complete with tasting bar, brewers, compliant food service areas, and historical lounge
 * Recruited, trained and staffed Tour Managers and in-field staff to serve as tea ambassadors
-* Researched, scheduled and executed a 3-month routing calendar across Connecticut, Massachusetts, Rhode Island, New Hampshire, New York, New Jersey, Pennsylvania, Delaware, Maryland, and Washington D.C.
+* Researched, scheduled and executed a US tours: 2014 Coastal Tour, 2015 MidWest/Pacific Coast Tour and 2016 Northeast Tour
 * Integrated social media photo activation including development and execution of “Biggie” the mascot
