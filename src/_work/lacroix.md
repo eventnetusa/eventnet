@@ -1,30 +1,30 @@
 ---
-client: Health Care Service Corporation
-headline: Cross Channel Community Outreach
-subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to EventNetUSA to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'
-hero_image_path: /uploads/hcsc-case-9.jpg
-type: insurance activation
+client: LaCroix Sparkling Water
+headline: Fall Guerilla Sampling Program
+subheadline: EventNetUSA is putting LaCroix in the hands of targeted consumers around the country
+hero_image_path: /uploads/lacroix-case-1.jpg
+type: street team
 cta: Want to put your brand in the hands of consumers?
 sidebar_text_markdown:
 media_section:
   - single_image_block:
-      single_image_path:
+      single_image_path: /uploads/lacroix-case-4.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/lacroix-case-3.jpg
+      image_2_path: /uploads/lacroix-case-2.jpg
     video_block:
       video_id:
 related_client_logos:
-  - logo_image_path: /uploads/bigelow.svg
+  - logo_image_path: /uploads/mcdonalds.png
     logo_image_height:
-  - logo_image_path: /uploads/mini.svg
-    logo_image_height: '40%'
-  - logo_image_path: /uploads/nfl.svg
-    logo_image_height: '50%'
-  - logo_image_path: /uploads/revlon.svg
+  - logo_image_path: /uploads/dunkin.png
     logo_image_height:
-  - logo_image_path: /uploads/whitehouse.svg
-    logo_image_height: '45%'
+  - logo_image_path: /uploads/nivea.png
+    logo_image_height:
+  - logo_image_path: /uploads/pepperidgefarm.png
+    logo_image_height:
+  - logo_image_path: /uploads/att.png
+    logo_image_height:
 ---
 
 
@@ -34,7 +34,7 @@ A true guerilla marketing success story, LaCroix’s cult following can be large
 
 EventNetUSA has helped execute their efforts through turnkey, in-field programs that continue to evolve with the brand.
 
-A LOOK AT THE FALL 2016 SAMPLING PROGRAM
+### A LOOK BEHIND THE SCENES
 
 * Executed 2 week sampling program taking place simultaneously in Austin, Chicago, Ft. Lauderdale, Los Angeles, Seattle and San Francisco
 * Contracted and trained 6 teams of brand ambassadors, including tour managers in selected markets
