@@ -31,9 +31,9 @@ related_client_logos:
   - logo_image_path: /uploads/yoplait.png
     logo_image_height: '40%'
   - logo_image_path: /uploads/lacroix.png
-    logo_image_height: '50%'
+    logo_image_height: '40%'
   - logo_image_path: /uploads/nba.png
-    logo_image_height: '65%'
+    logo_image_height: '60%'
 ---
 
 
