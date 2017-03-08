@@ -24,8 +24,6 @@ media_section:
     video_block:
       video_id: _Inxrfom_hU
 related_client_logos:
-  - logo_image_path: /uploads/garnier.png
-    logo_image_height:
   - logo_image_path: /uploads/cbs.png
     logo_image_height:
   - logo_image_path: /uploads/yoplait.png
@@ -34,6 +32,8 @@ related_client_logos:
     logo_image_height: '40%'
   - logo_image_path: /uploads/nba.png
     logo_image_height: '60%'
+  - logo_image_path: /uploads/garnier.png
+    logo_image_height:
 ---
 
 
