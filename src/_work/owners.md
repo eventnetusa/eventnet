@@ -42,7 +42,7 @@ media_section:
 related_client_logos:
   - logo_image_path: /uploads/Logo_Olia_Verso.jpg
     logo_image_height:
-  - logo_image_path: /uploads/fidelity-investments-logo-svg.png
+  - logo_image_path: /uploads/fidelity-gray.jpg
     logo_image_height:
   - logo_image_path: /uploads/mcdonalds.png
     logo_image_height: '50%'
