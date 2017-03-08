@@ -6,11 +6,11 @@ hero_image_path: /uploads/nyx-case-4.jpg
 type: grand opening
 cta: 'Interested in grand openings & mobile marketing vehicles?'
 sidebar_text_markdown: |-
-  * **5.5**guerilla sampling and **3.5**event days
-  * **500,000+**over-the-road impressions
+  * **5.5&nbsp;**guerilla sampling and **3.5&nbsp;**event days
+  * **500,000+&nbsp;**over-the-road impressions
   * **8,500+** one-on-one interactions
   * **7** press visits
-  * **75%**of direct interactions posted to social media
+  * **75%&nbsp;**of direct interactions posted to social media
   * Managed **50,000**+ New Yorkers in line at Union Square
 media_section:
   - single_image_block:
