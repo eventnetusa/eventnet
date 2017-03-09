@@ -22,10 +22,17 @@ media_section:
     video_block:
       video_id:
   - single_image_block:
-      single_image_path: /uploads/garnier-case-study5.jpg
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/garnier-case-study3.jpg
       image_2_path: /uploads/garnier-greener.jpg
+    video_block:
+      video_id:
+  - single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/garnier-case-study5.jpg
+      image_2_path: /uploads/terracycle-cans.JPG
     video_block:
       video_id:
 related_client_logos:
