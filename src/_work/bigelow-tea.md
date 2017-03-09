@@ -74,14 +74,14 @@ media_section:
       image_1_path: /uploads/bigelow-case-1.jpg
       image_2_path: /uploads/bigelow-case-5.jpg
     video_block:
-      video_id: OvUjkom0HOE
+      video_id:
   - single_image_block:
       single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
       image_1_path: /uploads/bigelow-tea-shirt.jpg
       image_2_path: /uploads/bigelow-case-2.jpg
     video_block:
-      video_id:
+      video_id: OvUjkom0HOE
 related_client_logos:
   - logo_image_path: /uploads/biotherm.png
     logo_image_height:
