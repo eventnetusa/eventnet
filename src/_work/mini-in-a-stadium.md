@@ -1,5 +1,5 @@
 ---
-client: Mini Cooper - PR Stunt
+client: Mini Cooper
 headline: Mini in a Stadium
 subheadline: 'When deciding how to enter the US Market, Mini Cooper and Crispin Porter + Bogusky looked to EventNetUSA to pull off a stunt as unique and eye catching as the brand itself'
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
