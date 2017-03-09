@@ -12,10 +12,10 @@ sidebar_text_markdown: >-
 
 
 
-  * Drove **10,000+** miles over 4 months completing **20**event days across
-  **7** markets
+  * Drove **10,000+** miles over 4 months completing **20&nbsp;**event days
+  across **7** markets
 
-  * **140**brand ambassadors demographically targeted to Owners.com
+  * **140&nbsp;**brand ambassadors demographically targeted to Owners.com
 
   * **54,000+** direct one-on-one interactions (average **2,700** per event day)
 
