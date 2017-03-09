@@ -29,6 +29,13 @@ media_section:
       image_2_path: /uploads/nyx-case-1.jpg
     video_block:
       video_id:
+  - single_image_block:
+      single_image_path: /uploads/beauty--swag-truck-nyx.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 related_client_logos:
   - logo_image_path: /uploads/bigelow.png
     logo_image_height:
