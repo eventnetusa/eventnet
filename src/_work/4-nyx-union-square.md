@@ -16,7 +16,7 @@ sidebar_text_markdown: |-
   * Managed **50,000**+ New Yorkers in line at Union Square
 media_section:
   - single_image_block:
-      single_image_path: /uploads/nyx-case-2.jpg
+      single_image_path: /uploads/beauty--swag-truck-nyx.jpg
     double_image_block:
       image_1_path: /uploads/nyx-case-3.jpg
       image_2_path: /uploads/nyx-case-5.jpg
@@ -34,6 +34,13 @@ media_section:
     double_image_block:
       image_1_path:
       image_2_path:
+    video_block:
+      video_id:
+  - single_image_block:
+      single_image_path: /uploads/nyx-case-2.jpg
+    double_image_block:
+      image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
+      image_2_path: /uploads/your-nyx-store-is-now-open.jpg
     video_block:
       video_id:
 related_client_logos:
