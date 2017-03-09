@@ -71,7 +71,7 @@ media_section:
   - single_image_block:
       single_image_path: /uploads/bigelow-case-3.jpg
     double_image_block:
-      image_1_path: /uploads/bigelow-case-1.jpg
+      image_1_path: /uploads/students-in-mtb.png
       image_2_path: /uploads/bigelow-case-5.jpg
     video_block:
       video_id:
@@ -79,7 +79,7 @@ media_section:
       single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
       image_1_path: /uploads/bigelow-tea-shirt.jpg
-      image_2_path: /uploads/bigelow-case-2.jpg
+      image_2_path: /uploads/happy-mtb-samplers.png
     video_block:
       video_id: OvUjkom0HOE
 related_client_logos:
