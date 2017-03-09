@@ -7,7 +7,7 @@ type: popup shop
 cta: Interested in a mobile pop-up shop?
 sidebar_text_markdown: |-
   * **23&nbsp;**event days over **4 months&nbsp;**in **7 markets**
-  * Drove over **10,000** miles
+  * Routed and drove over **10,000** miles
   * **4.5 million** over-the-road impressions
   * **130,350+** one-on-one interactions
   * More than **215,000** organic digital impressions
