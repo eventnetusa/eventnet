@@ -40,7 +40,7 @@ EventNetUSA placed the never-before seen Mini Cooper in the stands of the New Or
 
   To ensure maximum exposure and TV appearances, EventNetUSA identified and secured a location for the Mini behind the End Zone.
 
-* Removed 50 stadium seats and positioned the Mini using a fork lift and specially fabricate support braces to secure the car’s placement.
+* Removed 50 stadium seats and positioned the Mini using a fork lift and specially fabricated support braces to secure the car’s placement.
 * Contracted 15 Brand Ambassadors to act as sports fans and wear body paint spelling out “Mini Says Go Saints”
-* Each time the Saints scored, Brand Ambassadors drew attention to the Mini by honking the horn and flashing its lights, giving it the enthusiasm and personality of an excited sports fan.
+* Each time the Saints scored, brand ambassadors drew attention to the Mini by honking the horn and flashing its lights, giving it the same enthusiasm and personality of an excited sports fan.
   <br><!--![endif]---->
