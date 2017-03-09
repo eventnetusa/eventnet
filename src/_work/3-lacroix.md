@@ -24,7 +24,7 @@ related_client_logos:
   - logo_image_path: /uploads/pepperidgefarm.png
     logo_image_height:
   - logo_image_path: /uploads/att.png
-    logo_image_height: '90%'
+    logo_image_height: '50%'
 ---
 
 
