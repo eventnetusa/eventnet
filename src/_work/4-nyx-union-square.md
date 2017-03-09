@@ -30,16 +30,16 @@ media_section:
     video_block:
       video_id:
   - single_image_block:
-      single_image_path: /uploads/beauty--swag-truck-nyx.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
   - single_image_block:
-      single_image_path: /uploads/nyx-case-2.jpg
+      single_image_path: /uploads/nyx-usq-ribbon-cutting.jpg
     double_image_block:
-      image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
+      image_1_path: /uploads/nyx-case-2.jpg
       image_2_path: /uploads/your-nyx-store-is-now-open.jpg
     video_block:
       video_id:
