@@ -5,16 +5,13 @@ subheadline: "First Lady Michelle Obama's team called us with a challenge: desig
 hero_image_path: /uploads/slide-drink-up.jpg
 type: pr event
 cta: Need a turnkey event solution?
-sidebar_text_markdown: >-
+sidebar_text_markdown: |-
   ### QUICK STATS
 
-
-
-
-
-  * Over **3,000&nbsp;**students and parents participated in the Drink Up event
-
-  * **75&nbsp;**members of worldwide media in attendance
+  * Over **3,000&nbsp;**students and parents
+  * **75&nbsp;**members of worldwide media&nbsp;
+  * **12** major water brands
+  * **3**week production timeline
 media_section:
   - single_image_block:
       single_image_path:
