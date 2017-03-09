@@ -1,7 +1,7 @@
 ---
 client: NYX Professional Makeup
 headline: Beauty + Swag Truck and Flagship Grand Opening
-subheadline: 'In celebration of their first east coast flagship store in Union Square, NYX Professional Makeup enlisted EventNetUSA to deliver Beauty + Swag to makeup lovers across New York City.'
+subheadline: 'In celebration of their first East Coast flagship store in Union Square, NYX Professional Makeup enlisted EventNetUSA to deliver Beauty + Swag to makeup lovers across New York City.'
 hero_image_path: /uploads/nyx-case-4.jpg
 type: grand opening
 cta: 'Interested in grand openings & mobile marketing vehicles?'
