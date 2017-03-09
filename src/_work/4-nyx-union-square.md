@@ -1,7 +1,7 @@
 ---
 client: NYX Professional Makeup
 headline: Beauty + Swag Truck and Flagship Store Grand Opening
-subheadline: 'In celebration of their first East Coast flagship store in Union Square, NYX Professional Makeup enlisted EventNetUSA to deliver Beauty + Swag to makeup lovers across New York City.'
+subheadline: 'In celebration of their first East Coast flagship store in Union Square, NYX Professional Makeup enlisted us to deliver Beauty + Swag to makeup lovers across New York City.'
 hero_image_path: /uploads/nyx-case-4.jpg
 type: grand opening
 cta: 'Interested in grand openings & mobile marketing vehicles?'
@@ -30,16 +30,16 @@ media_section:
     video_block:
       video_id:
   - single_image_block:
-      single_image_path:
+      single_image_path: /uploads/beauty--swag-truck-nyx.jpg
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
   - single_image_block:
-      single_image_path: /uploads/nyx-usq-ribbon-cutting.jpg
+      single_image_path: /uploads/nyx-case-2.jpg
     double_image_block:
-      image_1_path: /uploads/nyx-case-2.jpg
+      image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
       image_2_path: /uploads/your-nyx-store-is-now-open.jpg
     video_block:
       video_id:
@@ -62,7 +62,7 @@ NYX Professional Makeup partnered with EventNetUSA to produce a mobile beauty ex
 ### **A LOOK BEHIND THE SCENES:**
 
 * Converted a food truck into a Beauty + Swag Truck, complete with 3 makeup vanity stations, social media staging area, and integrated A/V monitor
-* Contracted and trained a tour manager and local brand ambassadors to deliver brand messaging and perform Express Lip Touch-Ups across New York City
+* Contracted, trained, and managed one tour manager and a team of local brand ambassadors to deliver brand messaging and perform Express Lip Touch-Ups across New York City
 * Developed a strategic 2 week guerilla marketing and event schedule for Beauty + Swag Truck
-* Secured and coordinated all street permits for line-management and truck parking in Union Square
+* Secured and coordinated all street permits for press visits, line-management, and truck parking in Union Square
 * Pursued and coordinated line hospitality with brands including LaCroix Sparkling Water, Bai Beverages, Chloe’s Soft Serve Fruit, and SoulCycle to treat guests to samples & class passes as they waited in line
