@@ -1,6 +1,6 @@
 ---
 client: LaCroix Sparkling Water
-headline: Fall Guerilla Sampling Program
+headline: Fall 2016 Guerilla Sampling Program
 subheadline: 'For over 11 years, LaCroix Sparkling Water has entrusted EventNetUSA to place their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'
 hero_image_path: /uploads/lacroix-case-1.jpg
 type: street team
@@ -28,12 +28,12 @@ related_client_logos:
 ---
 
 
-A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditionally (they have never run a traditional print or TV advertisement).
+A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditional methods like print or TV advertising.
 
-EventNetUSA has helped execute their efforts through turnkey, in-field programs that continue to evolve with the brand.
+EventNetUSA has helped execute their efforts through turnkey, in-field programs that continue to evolve with the brand, the latest being the Fall 2016 multi-market Sampling Program.
 
 ### A LOOK BEHIND THE SCENES
 
 * Executed 2 week sampling program taking place simultaneously in Austin, Chicago, Ft. Lauderdale, Los Angeles, Seattle and San Francisco
-* Contracted and trained 6 teams of brand ambassadors, including tour managers in selected markets
-* Developed strategic routing calendar targeting “mom’s and families” demographic to maximize sampling program effectiveness
+* Contracted and trained 6 teams of demographically targeted brand ambassadors, including tour managers in selected markets
+* Developed strategic routing calendar aimed towards “mom’s and families” consumer demographic to maximize sampling program effectiveness
