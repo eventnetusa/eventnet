@@ -18,7 +18,7 @@ media_section:
       single_image_path: /uploads/lacroix-case-4.jpg
     double_image_block:
       image_1_path: /uploads/lacroix-case-3.jpg
-      image_2_path: /uploads/lacroix-case-2.jpg
+      image_2_path: /uploads/lacroix-fall-sampling-miami.JPG
     video_block:
       video_id:
 related_client_logos:
