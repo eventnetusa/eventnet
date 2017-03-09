@@ -32,7 +32,7 @@ Mini Cooper had two goals for its US debut: generate interest and curiosity in h
 
 EventNetUSA placed the never-before seen Mini Cooper in the stands of the New Orleans Saints Super Dome during a Monday Night Football Game. Stadium fans enjoyed an up-close look at the Mini and TV viewers got a glimpse each time the Saints made a play in the end zone.
 
-*Mini in a Stadium* appeared on live TV broadcasts an average of once every 4 ½ minutes and was mentioned multiple times by sports announcers, gaining the brand maximum exposure.
+*Mini in a Stadium* appeared on live TV broadcasts an average of once every 4 ½ minutes and was mentioned multiple times by sports announcers, gaining the brand major publicity.
 
 ### **A LOOK BEHIND THE SCENES**
 
