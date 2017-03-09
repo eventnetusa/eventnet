@@ -100,5 +100,5 @@ related_client_logos:
 
 * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar complete with tasting bar, brewers, compliant food service areas, and historical lounge
 * Recruited, trained and staffed Tour Managers and in-field staff to serve as Tea Ambassadors
-* Researched, scheduled and executed three US tours: 2014 Coastal Tour, 2015 MidWest/Pacific Coast Tour and 2016 Northeast Tour
+* Researched, scheduled and executed three US tours: 2016 Northeast Tour, 2015 MidWest/Pacific Coast Tour and 2014 Coastal Tour
 * Integrated social media photo activation including development and execution of “Biggie” the mascot
