@@ -1,6 +1,6 @@
 ---
 client: 'The White House & Partnership for a Healthier America'
-headline: '"Drink Up America" Water Campaign Launch'
+headline: '"Drink Up" Campaign Launch'
 subheadline: "First Lady Michelle Obama's team called us with a challenge: design & produce a water carnival to launch the Drink Up America water campaign in 3 weeks without knowing the location. We turned their challenge into a PR Event that Watertown, WI would never forget!"
 hero_image_path: /uploads/slide-drink-up.jpg
 type: pr event
@@ -34,7 +34,7 @@ related_client_logos:
 ---
 
 
-The White House, through the Partnership for a Healthier America and Young & Rubican, approached EventNetUSA to design and produce First Lady Michelle Obama's national Drink Up America Water Campaign launch.
+The White House, through the Partnership for a Healthier America and Young & Rubican, approached EventNetUSA to design and produce First Lady Michelle Obama's national Drink Up Campaign launch.
 
 The water themed carnival, held in the Watertown High School gymnasium, featured Dunk the Principal, water relay races, water ring toss and Ride the Surf.
 
