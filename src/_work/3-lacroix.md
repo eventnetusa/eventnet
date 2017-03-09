@@ -5,7 +5,14 @@ subheadline: 'For over 11 years, LaCroix Sparkling Water has entrusted EventNetU
 hero_image_path: /uploads/lacroix-case-1.jpg
 type: street team
 cta: Want to put your brand in the hands of consumers?
-sidebar_text_markdown:
+sidebar_text_markdown: |-
+  ### QUICK STATS
+
+  * Delivered over **231,705** impressions
+  * Interacted with over **115,557** consumers
+  * Reached Moms and PTA groups at **1,680** schools
+  * •Sampled **86,400** cans of LaCroix over 48 sampling days
+  * •Gave-away **12** instant prizes on October 30th to families who approached our teams with the winning phrase ‘I live LaCroix’
 media_section:
   - single_image_block:
       single_image_path: /uploads/lacroix-case-4.jpg
