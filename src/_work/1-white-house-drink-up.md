@@ -14,12 +14,19 @@ sidebar_text_markdown: |-
   * Produced event with **3 week lead time**
 media_section:
   - single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id: _Inxrfom_hU
+  - single_image_block:
       single_image_path: /uploads/water-launch-event.jpg
     double_image_block:
       image_1_path: /uploads/case-drinkup.jpg
       image_2_path: /uploads/drink-up-michelle-obama.jpg
     video_block:
-      video_id: _Inxrfom_hU
+      video_id:
 related_client_logos:
   - logo_image_path: /uploads/cbs.png
     logo_image_height:
