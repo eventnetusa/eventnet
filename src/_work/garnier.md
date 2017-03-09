@@ -25,7 +25,7 @@ media_section:
       single_image_path: /uploads/garnier-case-study5.jpg
     double_image_block:
       image_1_path: /uploads/garnier-case-study3.jpg
-      image_2_path: /uploads/glitter-july-4-june-toss-005.jpg
+      image_2_path: /uploads/garnier-greener.jpg
     video_block:
       video_id:
 related_client_logos:
