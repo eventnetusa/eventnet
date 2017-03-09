@@ -11,8 +11,8 @@ sidebar_text_markdown: |-
   * Delivered over **231,705** impressions
   * Interacted with over **115,557** consumers
   * Reached Moms and PTA groups at **1,680** schools
-  * •Sampled **86,400** cans of LaCroix over 48 sampling days
-  * •Gave-away **12** instant prizes on October 30th to families who approached our teams with the winning phrase ‘I live LaCroix’
+  * Sampled **86,400** cans of LaCroix over 48 sampling days
+  * Gave-away **12** instant prizes on October 30th to families who approached our teams with the winning phrase ‘I live LaCroix’
 media_section:
   - single_image_block:
       single_image_path: /uploads/lacroix-case-4.jpg
