@@ -12,21 +12,21 @@ sidebar_text_markdown: >-
 
 
 
-  #### 2014 Coastal Tour
+  #### 2016 Northeast Tour
 
 
 
 
 
-  * Logged over **12,500&nbsp;**milesover ***7&nbsp;***months visiting MA, NY,
-  CT, MN, IL, ID, WA, CA, TX, FL and GA
+  * Logged&nbsp;**3,400&nbsp;**miles over **3&nbsp;**months visiting CT, NY, MA,
+  RI, NH, PA, NJ, DE, DC and MD
 
-  * **6.1**&nbsp;**million+** over-the-road impressions
+  * **1.6 million+** over-the-road impressions
 
-  * **98&nbsp;**touring days, **23&nbsp;**events, **19&nbsp;**retail stops,
-  & **5&nbsp;**university visits
+  * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops,
+  & **3&nbsp;**university visits
 
-  * **59,831**&nbsp;one-on-one interactions
+  * **63,675** one-on-one interactions
 
 
 
@@ -52,21 +52,21 @@ sidebar_text_markdown: >-
 
 
 
-  #### 2016 Northeast Tour
+  #### 2014 Coastal Tour
 
 
 
 
 
-  * Logged&nbsp;**3,400&nbsp;**miles over **3&nbsp;**months visiting CT, NY, MA,
-  RI, NH, PA, NJ, DE, DC and MD
+  * Logged over **12,500&nbsp;**milesover ***7&nbsp;***months visiting MA, NY,
+  CT, MN, IL, ID, WA, CA, TX, FL and GA
 
-  * **1.6 million+** over-the-road impressions
+  * **6.1**&nbsp;**million+** over-the-road impressions
 
-  * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops,
-  & **3&nbsp;**university visits
+  * **98&nbsp;**touring days, **23&nbsp;**events, **19&nbsp;**retail stops,
+  & **5&nbsp;**university visits
 
-  * **63,675** one-on-one interactions
+  * **59,831**&nbsp;one-on-one interactions
 media_section:
   - single_image_block:
       single_image_path: /uploads/bigelow-case-3.jpg
