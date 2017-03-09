@@ -69,17 +69,17 @@ sidebar_text_markdown: >-
   * **63,675** one-on-one interactions
 media_section:
   - single_image_block:
-      single_image_path: /uploads/bigelow-case-2.jpg
+      single_image_path: /uploads/bigelow-case-3.jpg
     double_image_block:
       image_1_path: /uploads/bigelow-case-1.jpg
       image_2_path: /uploads/bigelow-case-5.jpg
     video_block:
       video_id: OvUjkom0HOE
   - single_image_block:
-      single_image_path:
+      single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
       image_1_path: /uploads/bigelow-tea-shirt.jpg
-      image_2_path: /uploads/20161001-125153.jpg
+      image_2_path: /uploads/bigelow-case-2.jpg
     video_block:
       video_id:
 related_client_logos:
