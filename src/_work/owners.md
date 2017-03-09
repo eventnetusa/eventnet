@@ -1,16 +1,12 @@
 ---
 client: Owners.com
 headline: Mobile Open House
-subheadline: Owners.com launched its online real estate tool for the modern home buyer/seller with a custom mobile open house
+subheadline: 'Owners.com launched its online real estate tool for the modern home owner through a trailer turned mobile open house, complete with a white picket fence.'
 hero_image_path: /uploads/owners.jpg
 type: vehicle tour
 cta: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
 sidebar_text_markdown: >-
   ### **QUICK STATS**
-
-
-
-
 
 
 
@@ -63,6 +59,6 @@ Key objectives of the Mobile Open House Tour were to attract consumer and media 
 
 ### A LOOK BEHIND THE SCENES
 
-* Transformed 53’ trailer into&nbsp; Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website
+* Transformed 53’ trailer into  Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website
 * Hired, contracted and managed (1) Tour Manager, (1) Assistant Tour Manager, (3) Owners.com Product Specialists, (1) CDL-A Driver, and (140) local Brand Ambassadors who served as the face of Owners.com
 * Developed 4 month program executing 20 events across 7 markets. Tour routed to test a mix of event categories including lifestyle locations, medium and large events, Taste of events, and Arts Festivals
