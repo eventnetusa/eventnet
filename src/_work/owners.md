@@ -1,7 +1,7 @@
 ---
 client: Owners.com
 headline: Mobile Open House
-subheadline: 'Owners.com launched its online real estate tool for the modern home owner through a trailer turned mobile open house, complete with a white picket fence.'
+subheadline: 'Owners.com launched its online real estate tool for the modern home owner with a trailer transformed into a mobile open house, complete with a white picket fence.'
 hero_image_path: /uploads/owners.jpg
 type: vehicle tour
 cta: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
