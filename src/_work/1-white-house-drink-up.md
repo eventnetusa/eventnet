@@ -14,7 +14,7 @@ sidebar_text_markdown: |-
   * Produced event with **3 week lead time**
 media_section:
   - single_image_block:
-      single_image_path:
+      single_image_path: /uploads/water-launch-event.jpg
     double_image_block:
       image_1_path: /uploads/case-drinkup.jpg
       image_2_path: /uploads/drink-up-michelle-obama.jpg
