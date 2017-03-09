@@ -21,13 +21,13 @@ sidebar_text_markdown: |-
 
   * Over **275,000** conversations
   * **36,000+** qualified leads
-  * Over **1,350**in-store enrollments
+  * Over **1,350&nbsp;**in-store enrollments
 
   #### MOBILE ENROLLMENT RV
 
-  * Average **625**impressions per day
-  * Average **40**one-on-one conversations per day
-  * Average **24**enrollment applications initiated per day
+  * Average **625&nbsp;**impressions per day
+  * Average **40&nbsp;**one-on-one conversations per day
+  * Average **24&nbsp;**enrollment applications initiated per day
 media_section:
   - single_image_block:
       image_path:
