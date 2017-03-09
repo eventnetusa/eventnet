@@ -11,7 +11,7 @@ sidebar_text_markdown: |-
   * Over **3,000&nbsp;**students and parents
   * **75&nbsp;**members of worldwide media&nbsp;
   * **12** major water brands
-  * **3&nbsp;**week event production timeline
+  * Produced event with **3 week lead time**
 media_section:
   - single_image_block:
       single_image_path:
