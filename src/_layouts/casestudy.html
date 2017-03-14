@@ -11,7 +11,7 @@
       <div class="wrapper">
 
         <article class="cf">
-          <div class="cover bg-center avenir" {% if page.hero_image_path %}style="background-image: url({{page.hero_image_path}});{% endif %} height: 500px">
+          <div class="cover bg-center raleway" {% if page.hero_image_path %}style="background-image: url({{page.hero_image_path}});{% endif %} height: 500px">
             <div class="case-study-info w-70 near-white pt4 pb3 pl5">
               <h2 class="f4 lh-solid lightest-blue mb0 ttu tracked">
                 {% if page.client %}{{page.client}}{% endif %}
@@ -25,7 +25,7 @@
             </div>
           </div>
 
-          <div class="w-80 center pa4 cf avenir">
+          <div class="w-80 center pa4 cf raleway">
             <div class="fn fl-ns w-70-ns ph4 mt4 copy-wrapper">
               {{ content }}
 
@@ -70,9 +70,9 @@
         </article>
 
         {% if page.related_client_logos %}
-          <div class="w-80 center ph4 pv3 cf avenir mb4">
+          <div class="w-80 center ph4 pv3 cf raleway mb4">
             <div class="ph4">
-              <p class="avenir tc f4 mt5 mb4 black-60 ttu tracked">Ask us about these related client projects</p>
+              <p class="raleway tc f4 mt5 mb4 black-60 ttu tracked">Ask us about these related client projects</p>
             </div>
             <div class="cf pa2">
               {% for logo in page.related_client_logos %}

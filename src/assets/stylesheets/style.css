@@ -7127,16 +7127,16 @@ li.dot.is-selected {
   margin-top: 0;
   font-size: 1rem;
   line-height: 1.5;
-  font-family: avenir next, avenir, sans-serif; }
+  font-family: raleway next, raleway, sans-serif; }
 
 .casestudy .copy-wrapper ul {
   margin-top: 2rem;
-  font-family: avenir next, avenir, sans-serif; }
+  font-family: raleway next, raleway, sans-serif; }
   .casestudy .copy-wrapper ul li {
     font-size: 1rem;
     margin-bottom: 1rem;
     line-height: 1.5;
-    font-family: avenir next, avenir, sans-serif; }
+    font-family: raleway next, raleway, sans-serif; }
 
 .casestudy .case-study-sidebar strong {
   font-weight: 500; }
@@ -7236,5 +7236,8 @@ textarea {
 
 .bg-brand {
   background-color: #b22222; }
+
+.raleway {
+  font-family: 'Raleway', sans-serif; }
 
 /*# sourceMappingURL=style.css.map */
