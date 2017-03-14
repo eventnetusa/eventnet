@@ -1,6 +1,7 @@
 ---
 layout: default
-work:
+collections:
+  - work
 ---
 
 <div id="video" style="width: 100%;" data-vide-bg="uploads/videos/home-edit-compressed" data-vide-options="loop: true, muted: false, position: 50% 50%">
@@ -117,90 +118,28 @@ work:
 
 </div>
 
-<div class="ph5 pv5 navy bg-white">
+<!-- <div class="ph5 pv5 navy bg-white">
   <div class="tc">
     <h2 class="raleway f2 navy ma0 editable">Featured Work</h2>
   </div>
   <div class="carousel mv5">
-    <div class="carousel-cell dt relative hide-child">
-      <a href="./case-study.html">
-        <span class="white child dtc v-mid pa5 pt5 pr6">
-          <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">Grand Opening</p>
-          <h1 class="f3 fw4 mt3 lh-title">NYX Flagship Store</h1>
-          <p class="f6 f5-l lh-copy">
-            NYX Professional Makeup tapped EventNetUSA to produce a mobile beauty experience to raise awareness and excitement for their Union Square Flagship Store Grand Opening in New York City.
-          </p>
-        </span>
-      <img src="uploads/slide-bigelow.jpg" />
-      </a>
-    </div>
-    <a href="./case-study.html">
-    <div class="carousel-cell dt relative hide-child">
-      <a href="./case-study.html">
-        <span class="white child dtc v-mid pa4 pt5">
-          <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">Grand Opening</p>
-          <h1 class="f3 fw4 mt3 lh-title">NYX Flagship Store</h1>
-          <p class="f6 f5-l lh-copy">
-            NYX Professional Makeup tapped EventNetUSA to produce a mobile beauty experience to raise awareness and excitement for their Union Square Flagship Store Grand Opening in New York City.
-          </p>
-        </span>
-        <img src="uploads/slide-drink-up.jpg" />
-      </a>
-    </div>
-    <a href="./case-study.html">
-    <div class="carousel-cell dt relative hide-child">
-      <a href="./case-study.html">
-        <span class="white child dtc v-mid pa4 pt5">
-          <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">Grand Opening</p>
-          <h1 class="f3 fw4 mt3 lh-title">NYX Flagship Store</h1>
-          <p class="f6 f5-l lh-copy">
-            NYX Professional Makeup tapped EventNetUSA to produce a mobile beauty experience to raise awareness and excitement for their Union Square Flagship Store Grand Opening in New York City.
-          </p>
-        </span>
-        <img src="uploads/slide-lacroix.jpg" />
-      </a>
-    </div>
-    <a href="./case-study.html">
-    <div class="carousel-cell dt relative hide-child">
-      <a href="./case-study.html">
-        <span class="white child dtc v-mid pa4 pt5">
-          <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">Grand Opening</p>
-          <h1 class="f3 fw4 mt3 lh-title">NYX Flagship Store</h1>
-          <p class="f6 f5-l lh-copy">
-            NYX Professional Makeup tapped EventNetUSA to produce a mobile beauty experience to raise awareness and excitement for their Union Square Flagship Store Grand Opening in New York City.
-          </p>
-        </span>
-        <img src="uploads/slide-mini.jpg" />
-      </a>
-    </div>
-    <a href="./case-study.html">
-    <div class="carousel-cell dt relative hide-child">
-      <a href="./case-study.html">
-        <span class="white child dtc v-mid pa4 pt5">
-          <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">Grand Opening</p>
-          <h1 class="f3 fw4 mt3 lh-title">NYX Flagship Store</h1>
-          <p class="f6 f5-l lh-copy">
-            NYX Professional Makeup tapped EventNetUSA to produce a mobile beauty experience to raise awareness and excitement for their Union Square Flagship Store Grand Opening in New York City.
-          </p>
-        </span>
-        <img src="uploads/slide-nyx.jpg" />
-      </a>
-    </div>
-    <a href="./case-study.html">
-    <div class="carousel-cell dt relative hide-child">
-      <a href="./case-study.html">
-        <span class="white child dtc v-mid pa4 pt5">
-          <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">Grand Opening</p>
-          <h1 class="f3 fw4 mt3 lh-title">NYX Flagship Store</h1>
-          <p class="f6 f5-l lh-copy">
-            NYX Professional Makeup tapped EventNetUSA to produce a mobile beauty experience to raise awareness and excitement for their Union Square Flagship Store Grand Opening in New York City.
-          </p>
-        </span>
-        <img src="uploads/slide-revlon.jpg" />
-      </a>
-    </div>
-  </a></a></a></a></a></div>
-</div>
+    {% for item in page.work %}
+      {% assign var = site.work | where:"title", item | first %}
+      <div class="carousel-cell dt relative hide-child">
+        <a href="{{ var.url }}">
+          <span class="white child dtc v-mid pa5 pt5 pr6">
+            <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{ var.type }}</p>
+            <h1 class="f3 fw4 mt3 lh-title">{{ var.headline }}</h1>
+            <p class="f6 f5-l lh-copy">
+              {{ var.subheadline }}
+            </p>
+          </span>
+        <img src="{{ var.hero_image_path }}" />
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div> -->
 
 <div class="ph6 pv5 white" style="background-color: #263d60">
   <div class="center tc">
