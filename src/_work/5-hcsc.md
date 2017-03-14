@@ -1,7 +1,7 @@
 ---
 client: Health Care Service Corporation
 headline: Cross Channel Community Outreach
-subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to EventNetUSA to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'
+subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to us to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'
 hero_image_path: /uploads/hcsc-case-9.jpg
 type: insurance activation
 cta: 'Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment Programs?'
@@ -21,13 +21,13 @@ sidebar_text_markdown: |-
 
   * Over **275,000** conversations
   * **36,000+** qualified leads
-  * Over **1,350**in-store enrollments
+  * Over **1,350&nbsp;**in-store enrollments
 
   #### MOBILE ENROLLMENT RV
 
-  * Average **625**impressions per day
-  * Average **40**one-on-one conversations per day
-  * Average **24**enrollment applications initiated per day
+  * Average **625&nbsp;**impressions per day
+  * Average **40&nbsp;**one-on-one conversations per day
+  * Average **24&nbsp;**enrollment applications initiated per day
 media_section:
   - single_image_block:
       image_path:
@@ -90,7 +90,7 @@ Each channel played an integral role in educating consumers on the Healthcare Re
 
 #### Mobile Assistance Center (MAC)
 
-Outdoor and Indoor Activations
+Outdoor and Indoor Health Insurance Activations
 
 * Produced multiple 8’x8’ self-contained event trailers equipped with 9 stools for seating, 6 iPads, 2 flat screen monitors with DVD players, built-in WiFi, 2 portable laptops and an onboard generator
 * Analyzed, selected and secured retail locations and lifestyle events for MAC outreach, managing all routing and logistics

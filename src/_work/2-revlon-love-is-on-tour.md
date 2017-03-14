@@ -1,13 +1,15 @@
 ---
 client: Revlon
 headline: 'LOVE IS ON: Mobile Pop-Up Shop'
-subheadline: "We turned a 53 foot trailer into a mobile pop-up shop to celebrate Revlon's Love Is On campaign. Beauty lovers in 7 states sampled product with our team of licensed cosmetologists, then hopped on board to purchase their favorite picks!"
+subheadline: "We turned a 53' trailer into a mobile pop-up shop to celebrate Revlon's Love Is On campaign. Beauty lovers in 7 states sampled product with our team of licensed cosmetologists, then hopped on board to purchase their favorite picks!"
 hero_image_path: /uploads/revlon-case-6.jpg
 type: popup shop
 cta: Interested in a mobile pop-up shop?
 sidebar_text_markdown: |-
+  ### QUICK STATS
+
   * **23&nbsp;**event days over **4 months&nbsp;**in **7 markets**
-  * Drove over **10,000** miles
+  * Routed and drove over **10,000** miles
   * **4.5 million** over-the-road impressions
   * **130,350+** one-on-one interactions
   * More than **215,000** organic digital impressions
@@ -55,7 +57,7 @@ Our Pop-Up Shop's objectives were to deliver brand messaging, demonstrate and se
 
 ### **A LOOK BEHIND THE SCENES:**
 
-* Customized a 53’ trailer with 100 feet of retail space, POS and banking systems for wireless sales transfers using Square, and an area for social media integration
+* Customized a 53 foot trailer with 100 feet of retail space, POS and banking systems for wireless sales transfers using Square, and an area for social media integration
 * Included a product sample bar, personal consultations with licensed beauticians, and professional makeovers and manicures.
 * Contracted and trained over 300 brand ambassadors, including 1 tour manager, 1 CDLA driver and 100+ licensed cosmetologists
 * Routed targeted lifestyle events supporting press, celebrity, and blogger appearances in New York City, Chicago, Boston, Charlotte, Atlanta, St. Paul, and Dallas

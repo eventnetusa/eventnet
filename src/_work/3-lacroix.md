@@ -1,17 +1,24 @@
 ---
 client: LaCroix Sparkling Water
-headline: Fall Guerilla Sampling Program
-subheadline: 'For over 11 years, LaCroix Sparkling Water has entrusted EventNetUSA to place their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'
+headline: Fall 2016 Guerilla Sampling Program
+subheadline: 'For over 11 years, LaCroix Sparkling Water has entrusted us with placing their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'
 hero_image_path: /uploads/lacroix-case-1.jpg
 type: street team
 cta: Want to put your brand in the hands of consumers?
-sidebar_text_markdown:
+sidebar_text_markdown: |-
+  ### QUICK STATS
+
+  * Delivered over **231,705** impressions
+  * Interacted with over **115,557** consumers
+  * Reached Moms and PTA groups at **1,680** schools
+  * Sampled **86,400** cans of LaCroix over 48 sampling days
+  * Gave-away **12** instant prizes on October 30th to families who approached our teams with the winning phrase ‘I live LaCroix’
 media_section:
   - single_image_block:
       single_image_path: /uploads/lacroix-case-4.jpg
     double_image_block:
       image_1_path: /uploads/lacroix-case-3.jpg
-      image_2_path: /uploads/lacroix-case-2.jpg
+      image_2_path: /uploads/lacroix-fall-sampling-miami.JPG
     video_block:
       video_id:
 related_client_logos:
@@ -24,16 +31,16 @@ related_client_logos:
   - logo_image_path: /uploads/pepperidgefarm.png
     logo_image_height:
   - logo_image_path: /uploads/att.png
-    logo_image_height: '90%'
+    logo_image_height: '40%'
 ---
 
 
-A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditionally (they have never run a traditional print or TV advertisement).
+A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditional methods like print or TV advertising.
 
-EventNetUSA has helped execute their efforts through turnkey, in-field programs that continue to evolve with the brand.
+EventNetUSA has supported their efforts through turnkey, in-field programs that continue to evolve with the brand, the latest being the Fall 2016 multi-market Sampling Program.
 
 ### A LOOK BEHIND THE SCENES
 
 * Executed 2 week sampling program taking place simultaneously in Austin, Chicago, Ft. Lauderdale, Los Angeles, Seattle and San Francisco
-* Contracted and trained 6 teams of brand ambassadors, including tour managers in selected markets
-* Developed strategic routing calendar targeting “mom’s and families” demographic to maximize sampling program effectiveness
+* Contracted, trained, and managed 6 teams of demographically targeted brand ambassadors and tour managers in selected markets
+* Identified key locations within predetermined markets that allowed us to reach a concentrated number of the targeted demographic including top rated schools, PTA meetings, specialty gyms, youth sporting events, fall festivals, & more
