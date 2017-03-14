@@ -1,6 +1,7 @@
 ---
 client: Garnier + TerraCycle
 headline: Garnier Greener Recycling Tour
+tagline: Short, catchy tagline for carousel.
 subheadline: 'Accompanied by a sleek glass box truck & larger-than-life shampoo bottle, our Garnier team educated Wal-Mart shoppers across the country on the importance of recycling and earth-friendly products.'
 hero_image_path: /uploads/garnier-102-3657.jpg
 type: retail
