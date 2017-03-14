@@ -4,6 +4,32 @@ work:
   - white-house-drink-up
   - nyx-union-square
   - hcsc
+capabilities:
+  -
+    name: Mobile Vehicle tours
+    info: Create a unique consumer experience with a customized marketing vehicle built, routed, and staffed to reach your target audience on the road.
+  -
+    name: Grand Openings
+    info: We handle permitting, line management, hospitality, and display production so that your first impression to your guests is your best!
+  -
+    name: PR Events
+    info: We stage and manage the event so you can focus on media opportunities, feeling confident that the behind-the-scenes is covered.
+  -
+    name: PR Stunts
+    info: Our clients have stories to tell and EventNetUSA helps turn those stories into large newsworthy events.
+  -
+    name: Pop-Up Shops
+    info: Make sales in unique environments that build buzz through consumer exposure, while generating a feeling of relevance and interactivity.
+  -
+    name: Insurance Activations
+    info: Industry leaders repeatedly contract with EventNetUSA for turn-key consumer engagement and activation programs.
+  -
+    name: Retail Integration
+    info: Whether it’s storefront sampling or in-store demos, take your brand to big retailers to strategically engage with targeted consumers.
+  -
+    name: Street Teams
+    info: Our extensive & diverse network of brand ambassadors put your brand in hand through grassroots level engagement.
+
 ---
 
 <div id="video" style="width: 100%;" data-vide-bg="uploads/videos/home-edit-compressed" data-vide-options="loop: true, muted: false, position: 50% 50%">
@@ -26,99 +52,43 @@ work:
 </div>
 
 
-
 <div class="pv5 tc cf bg-near-white relative bb bt" style="background-image: url(uploads/bg-1.jpg); border-width: 2px; border-color: #efefef;">
-  <!-- <div class="overlay z-0 absolute top-0 left-0 right-0 bottom-0" style="background-color: rgba(0, 27, 68, .02);"></div> -->
   <div class="relative z-1">
     <h2 class="raleway f2 mb0 navy editable">Our Capabilities</h2>
     <p class="tc fw4 f4 raleway near-black pl4 mt3 mb4 center">A full-service, turnkey approach created to make your job easier.</p>
 
-      <div class="w-60 pa2 center cf">
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-            <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> Mobile Vehicle Tours</h2>
-            <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
-            <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">Create a unique consumer experience with a customized marketing vehicle built, routed, and staffed to reach your target audience on the road.</p>
-            </div>
-          </div>
+      {% assign capabilities = page.capabilities | size %}
 
-        </div>
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-            <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> Grand Openings</h2>
+      {% for item in page.capabilities %}
+      {% assign loopindex = forloop.index | modulo: 2 %}
 
-              <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
+      {% if capabilities >= 2 %}
+        {% if loopindex == 1 %}
+        <div class="w-60 pa2 center cf">
+          <div class="fl w-50 ph3 pt0 pb3">
+            <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
+              <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> {{ item.name }}</h2>
               <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">We handle permitting, line management, hospitality, and display production so that your first impression to your guests is your best! </p>
+                <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">{{ item.info }}</p>
+              </div>
+            </div>
+          </div>
+        {% else %}
+          <div class="fl w-50 ph3 pt0 pb3">
+            <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
+              <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> {{ item.name }}</h2>
+              <div class="copy">
+                <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">{{ item.info }}</p>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-      <div class="w-60 pa2 center cf">
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-            <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> PR Events</h2>
-              <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
-              <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">We stage and manage the event so you can focus on media opportunities, feeling confident that the behind-the-scenes is covered.</p>
-            </div>
-          </div>
-
-        </div>
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-            <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> PR Stunts</h2>
-              <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
-              <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">Our clients have stories to tell and EventNetUSA helps turn those stories into large newsworthy events. </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="w-60 pa2 center cf">
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-             <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> Pop-Up Shops</h2>
-              <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
-              <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">Make sales in unique environments that build buzz through consumer exposure, while generating a feeling of relevance and interactivity.</p>
-             </div>
-          </div>
-        </div>
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-            <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> Insurance Activations</h2>
-              <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
-              <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">Industry leaders repeatedly contract with EventNetUSA for turn-key consumer engagement and activation programs. </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="w-60 pa2 center cf">
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-            <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> Retail Integration</h2>
-              <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
-              <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">Whether it’s storefront sampling or in-store demos, take your brand to big retailers to strategically engage with targeted consumers.</p>
-            </div>
-          </div>
-        </div>
-        <div class="fl w-50 ph3 pt0 pb3">
-          <div class="pv3 ph4 br1 shadow-3 capability" style="background-color: #263d60;">
-            <h2 class="mt1 raleway ma0 f5 fw5"><i class="fa fa-caret-down mr1" aria-hidden="true"></i> Street Teams</h2>
-              <!-- <h1 class="mt2 mb0"><i class="fa near-gray fa-caret-square-o-down"ma1ia-hidden="true"></i></h1> -->
-              <div class="copy">
-              <p class="mt2 mb0 pv0 near-white fw1 ph0 f5 fw4 raleway">Our extensive &amp; diverse network of brand ambassadors put your brand in hand through grassroots level engagement.</p>
-            </div>
-          </div>
-        </div>
-      </div>
+        {% endif %}
+      {% endif %}
+      {% endfor %}
   </div>
-
 </div>
+
 
 <div class="ph5 pv5 navy bg-white">
   <div class="tc">
