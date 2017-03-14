@@ -5,7 +5,8 @@ headline: Mini in a Stadium
 tagline: Short, catchy tagline for carousel.
 subheadline: 'When deciding how to enter the US Market, Mini Cooper and Crispin Porter + Bogusky looked to EventNetUSA to pull off a stunt as unique and eye catching as the brand itself.'
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
-type: pr stunt
+types:
+  - pr stunt
 cta: Looking to turn heads with a PR stunt?
 sidebar_text_markdown:
 media_section:

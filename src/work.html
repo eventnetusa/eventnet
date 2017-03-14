@@ -65,7 +65,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="vehicletours" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_vehicletours = site.work | where:"type","vehicle tour" %}
+        {% assign work_vehicletours = site.work | where_exp:"item", "item.types contains 'vehicle_tour'"  %}
         {% if work_vehicletours.size > 0 %}
           {% for item in work_vehicletours %}
             <div class="fl w-100 w-third-ns pa2">
@@ -85,7 +85,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="openings" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_opening = site.work | where:"type","grand opening" %}
+        {% assign work_opening = site.work | where_exp:"item", "item.types contains 'grand opening'" %}
         {% if work_opening.size > 0 %}
           {% for item in work_opening %}
             <div class="fl w-100 w-third-ns pa2">
@@ -105,7 +105,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="events" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_event = site.work | where:"type","pr event" %}
+        {% assign work_event = site.work | where_exp:"item", "item.types contains 'pr event'" %}
         {% if work_event.size > 0 %}
           {% for item in work_event %}
             <div class="fl w-100 w-third-ns pa2">
@@ -125,7 +125,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="stunts" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_stunt = site.work | where:"type","pr stunt" %}
+        {% assign work_stunt = site.work | where_exp:"item", "item.types contains 'pr stunt'" %}
         {% if work_stunt.size > 0 %}
           {% for item in work_stunt %}
             <div class="fl w-100 w-third-ns pa2">
@@ -145,7 +145,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="popups" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_popup = site.work | where:"type","popup shop" %}
+        {% assign work_popup = site.work | where_exp:"item", "item.types contains 'popup shop'" %}
         {% if work_popup.size > 0 %}
           {% for item in work_popup %}
             <div class="fl w-100 w-third-ns pa2">
@@ -165,7 +165,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="insurance" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_insurance = site.work | where:"type","insurance activation" %}
+        {% assign work_insurance = site.work | where_exp:"item", "item.types contains 'insurance activation'" %}
         {% if work_insurance.size > 0 %}
           {% for item in work_insurance %}
             <div class="fl w-100 w-third-ns pa2">
@@ -185,7 +185,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="retail" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_retail = site.work | where:"type","retail" %}
+        {% assign work_retail = site.work | where_exp:"item", "item.types contains 'retail'" %}
         {% if work_retail.size > 0 %}
           {% for item in work_retail %}
             <div class="fl w-100 w-third-ns pa2">
@@ -205,7 +205,7 @@ title: Work
     </div>
     <div class="tab-pane fade show" id="street" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_street = site.work | where:"type","street team" %}
+        {% assign work_street = site.work | where_exp:"item", "item.types contains 'street team'" %}
         {% if work_street.size > 0 %}
           {% for item in work_street %}
             <div class="fl w-100 w-third-ns pa2">

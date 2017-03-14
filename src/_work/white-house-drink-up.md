@@ -5,7 +5,8 @@ headline: "Michelle Obama's \"Drink Up\" Campaign Launch"
 tagline: Short, catchy tagline for carousel.
 subheadline: "First Lady Michelle Obama's team called us with a challenge: design & produce a water carnival to launch the Drink Up America water campaign in 3 weeks without knowing the location. We turned their challenge into a PR Event reminding Americans that \"you are what you drink.\""
 hero_image_path: /uploads/slide-drink-up.jpg
-type: pr event
+types:
+  - pr event
 cta: Need a turnkey event solution?
 sidebar_text_markdown: |-
   ### QUICK STATS
