@@ -1,5 +1,6 @@
 ---
 client: Owners.com
+sort_order: 1
 headline: Mobile Open House
 tagline: Short, catchy tagline for carousel.
 subheadline: 'Owners.com launched its online real estate tool for the modern home owner with a trailer transformed into a mobile open house, complete with a white picket fence.'

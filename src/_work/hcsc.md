@@ -1,5 +1,6 @@
 ---
 client: Health Care Service Corporation
+sort_order: 5
 headline: Cross Channel Community Outreach
 tagline: Short, catchy tagline for carousel.
 subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to us to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'

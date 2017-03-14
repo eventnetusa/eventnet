@@ -1,5 +1,6 @@
 ---
 client: NYX Professional Makeup
+sort_order: 6
 headline: Beauty + Swag Truck and Flagship Store Grand Opening
 tagline: Short, catchy tagline for carousel.
 subheadline: 'In celebration of their first East Coast flagship store in Union Square, NYX Professional Makeup enlisted us to deliver Beauty + Swag to makeup lovers across New York City.'
