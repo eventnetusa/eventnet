@@ -120,13 +120,13 @@ work:
 
 </div>
 
-<!-- <div class="ph5 pv5 navy bg-white">
+<div class="ph5 pv5 navy bg-white">
   <div class="tc">
     <h2 class="raleway f2 navy ma0 editable">Featured Work</h2>
   </div>
   <div class="carousel mv5">
     {% for item in page.work %}
-      {% assign var = site.work | where:"title", item | first %}
+      {% assign var = site.work | where:"slug", item | first %}
       <div class="carousel-cell dt relative hide-child">
         <a href="{{ var.url }}">
           <span class="white child dtc v-mid pa5 pt5 pr6">
@@ -140,8 +140,10 @@ work:
         </a>
       </div>
     {% endfor %}
-  
- -->
+  </div>
+</div>
+
+
 
 <div class="ph6 pv5 white" style="background-color: #263d60">
   <div class="center tc">
