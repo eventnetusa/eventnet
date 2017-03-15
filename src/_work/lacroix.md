@@ -1,8 +1,8 @@
 ---
 client: LaCroix Sparkling Water
 sort_order: 7
-headline: Fall 2016 Guerilla Sampling Program
-tagline: Short, catchy tagline for carousel.
+headline: LaCroix Fall 2016 Guerilla Sampling Program
+tagline: 'Short, catchy tagline for carousel.'
 subheadline: 'For over 11 years, LaCroix Sparkling Water has entrusted us with placing their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'
 hero_image_path: /uploads/lacroix-case-1.jpg
 types:
