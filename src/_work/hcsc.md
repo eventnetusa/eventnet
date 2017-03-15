@@ -7,6 +7,9 @@ subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to us
 hero_image_path: /uploads/hcsc-case-9.jpg
 types:
   - insurance activation
+  - popup shop
+  - retail
+  - vehicle tour
 cta: 'Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment Programs?'
 sidebar_text_markdown: |-
   ### QUICK STATS
