@@ -1,17 +1,18 @@
 ---
-client: Mini Cooper
-sort_order: 8
-headline: Mini in a Stadium
-tagline: "Mini Cooper's not so small US debut"
-subheadline: 'When deciding how to enter the US Market, Mini Cooper and Crispin Porter + Bogusky looked to EventNetUSA to pull off a stunt as unique and eye catching as the brand itself.'
-hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
+client: Vlasic Pickles
+sort_order: 10
+headline: Pickle Stand Sampling Tour
+tagline: Vlasic charmed pickle lovers around America with its mobile Pickle Sampling Stand
+subheadline: Vlasic charmed pickle lovers around America with its mobile Pickle Sampling Stand
+hero_image_path: /uploads/eventnetusa-1.jpg
 types:
-  - pr stunt
-cta: Looking to turn heads with a PR stunt?
+  - vehicle tour
+  - street team
+cta:
 sidebar_text_markdown:
 media_section:
   - single_image_block:
-      single_image_path: /uploads/mini-cooper-stadium-new-orleans-game-time.JPG
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
       image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
