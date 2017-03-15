@@ -1,9 +1,9 @@
 ---
-client:
-headline:
-subheadline:
-hero_image_path:
-type:
+client: Ronzoni
+headline: 100 Year Anniversary Celebration
+subheadline: What better way to celebrate 100 years in business than with a giant pasta sand castle?
+hero_image_path: /uploads/ronzoni.png
+type: pr event
 cta:
 sidebar_text_markdown:
 media_section:
