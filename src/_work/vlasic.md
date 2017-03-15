@@ -1,7 +1,7 @@
 ---
-client:
-headline:
-subheadline:
+client: Vlasic
+headline: Pickle Stand Sampling Tour
+subheadline: Vlasic charmed pickle lovers around America with its mobile Pickle Sampling Stand
 hero_image_path:
 type:
 cta:
@@ -26,3 +26,5 @@ related_client_logos:
   - logo_image_path:
     logo_image_height:
 ---
+
+
