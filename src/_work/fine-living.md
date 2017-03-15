@@ -6,8 +6,7 @@ tagline: Fine Living Network partnered with EventNetUSA to pull off a one-of-kin
 subheadline: A tropical retreat in the most unlikely of places
 hero_image_path: /uploads/fine-living-tv-island-in-the-hudson-river.jpg
 types:
-  - popup shop
-  - street team
+  - pr stunt
 cta: "Let's turn heads with your next PR stunt!"
 sidebar_text_markdown:
 media_section:
