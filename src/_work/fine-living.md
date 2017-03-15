@@ -51,7 +51,7 @@ related_client_logos:
   - logo_image_path: /uploads/snausages.png
     logo_image_height: '60%'
   - logo_image_path: /uploads/jetblue.png
-    logo_image_height: '60%'
+    logo_image_height: '40%'
   - logo_image_path: /uploads/maybelline.png
     logo_image_height:
   - logo_image_path: /uploads/vaseline.jpg
