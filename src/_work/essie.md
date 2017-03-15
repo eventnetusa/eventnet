@@ -1,10 +1,10 @@
 ---
-client: Olia
-sort_order: 12
-headline: Mobile Salon
+client: Essie
+sort_order: 13
+headline: Pop-up Nail Salon
 tagline: (Insert)
 subheadline: (Insert)
-hero_image_path: /uploads/4-4-13-041.jpg
+hero_image_path: /uploads/essie.jpg
 types:
   - vehicle tour
   - street team
