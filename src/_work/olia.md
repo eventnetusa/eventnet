@@ -1,10 +1,10 @@
 ---
-client: Prince Pasta
-sort_order: 11
-headline: Pasta Food Truck Tour
+client: Olia
+sort_order: 12
+headline: Mobile Salon
 tagline: (Insert)
 subheadline: (Insert)
-hero_image_path: /uploads/prince-pasta.jpg
+hero_image_path: /uploads/4-4-13-041.jpg
 types:
   - vehicle tour
   - street team
