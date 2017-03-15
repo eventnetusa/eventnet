@@ -56,7 +56,7 @@ gulp.task('scripts', () =>
       showFiles: true
     })))
     .pipe(gulp.dest('.tmp/assets/javascript'))
-    // .pipe(gulp.dest('src/assets/javascript')) // for cloud cannon
+    .pipe(gulp.dest('src/assets/javascript')) // for cloud cannon
 
 );
 
@@ -92,7 +92,7 @@ gulp.task('styles', () =>
       showFiles: true
     })))
     .pipe(gulp.dest('.tmp/assets/stylesheets'))
-    // .pipe(gulp.dest('src/assets/stylesheets')) // for cloudcannon
+    .pipe(gulp.dest('src/assets/stylesheets')) // for cloudcannon
     .pipe(when(!argv.prod, browserSync.stream()))
 );
 
