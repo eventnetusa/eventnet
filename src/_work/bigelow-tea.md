@@ -7,18 +7,14 @@ subheadline: Bigelow Tea partnered with EventNetUSA for three national sampling 
 hero_image_path: /uploads/bigelow-case-4.jpg
 types:
   - vehicle tour
-  - pr event
+  - street team
 cta: Interested in a mobile marketing vehicle?
 sidebar_text_markdown: >-
   ### Quick Stats
 
 
 
-
-
   #### 2016 Northeast Tour
-
-
 
 
 
@@ -34,11 +30,7 @@ sidebar_text_markdown: >-
 
 
 
-
-
   #### 2015 Midwest/Pacific Coast Tour
-
-
 
 
 
@@ -54,11 +46,7 @@ sidebar_text_markdown: >-
 
 
 
-
-
   #### 2014 Coastal Tour
-
-
 
 
 
@@ -72,13 +60,9 @@ sidebar_text_markdown: >-
 
   * **59,831**&nbsp;one-on-one interactions
 media_section:
-  - text_block_markdown: >-
+  - text_block_markdown: |-
       ### A LOOK BEHIND THE SCENES
-
-      * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar complete with tasting bar, brewers, compliant food service areas, and historical lounge
-      * Recruited, trained and staffed Tour Managers and in-field staff to serve as Tea Ambassadors
-      * Researched, scheduled and executed three US tours: 2016 Northeast Tour, 2015 MidWest/Pacific Coast Tour and 2014 Coastal Tour
-      * Integrated social media photo activation including development and execution of “Biggie” the mascot
+      * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar complete with tasting bar, brewers, compliant food service areas, and historical lounge * Recruited, trained and staffed Tour Managers and in-field staff to serve as Tea Ambassadors * Researched, scheduled and executed three US tours: 2016 Northeast Tour, 2015 MidWest/Pacific Coast Tour and 2014 Coastal Tour * Integrated social media photo activation including development and execution of “Biggie” the mascot
     single_image_block:
       single_image_path: /uploads/bigelow-case-3.jpg
     double_image_block:
@@ -86,7 +70,7 @@ media_section:
       image_2_path: /uploads/bigelow-case-5.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
+  - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
