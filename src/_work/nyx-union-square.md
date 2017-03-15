@@ -7,6 +7,7 @@ subheadline: 'In celebration of their first East Coast flagship store in Union S
 hero_image_path: /uploads/nyx-case-4.jpg
 types:
   - grand opening
+  - vehicle tour
 cta: 'Interested in grand openings & mobile marketing vehicles?'
 sidebar_text_markdown: |-
   ### **QUICK STATS**
