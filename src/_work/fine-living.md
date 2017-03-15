@@ -4,7 +4,7 @@ sort_order: 14
 headline: Pop-Up Island in the Hudson River
 tagline: Fine Living Network partnered with EventNetUSA to pull off a one-of-kind PR Stunt promoting the travel and lifestyle channel’s debut in New York.
 subheadline: A tropical retreat in the most unlikely of places
-hero_image_path: /uploads/fine-living-tv-island-in-the-hudson-river.jpg
+hero_image_path: /uploads/fine-living-island-2.jpg
 types:
   - pr stunt
 cta: "Let's turn heads with your next PR stunt!"
@@ -36,7 +36,7 @@ EventNetUSA built a private island retreat in the Hudson River, equipped with a 
 
 The island was open to the public and guests were invited to visit the island using a rented tugboat which made trips from the mainland every 30 minutes
 
-**A LOOK BEHIND THE SCENES**
+A LOOK BEHIND THE SCENES
 
 * Barges, temporarily anchored off lower-Manhatten, were used as the 5,400 squarefoot island’s foundation
 * 4 Tons of sand and landscaping elements were installed on the island for an authentic tropical setting
