@@ -1,6 +1,6 @@
 ---
 client: 'The White House & Partnership for a Healthier America'
-sort_order: 9
+sort_order: 2
 headline: "Michelle Obama's \"Drink Up\" Campaign Launch"
 tagline: 'First Lady Michelle Obama takes over Watertown, WI to promote the importance of drinking water'
 subheadline: "First Lady Michelle Obama's team called us with a challenge: design & produce a water carnival to launch the Drink Up America water campaign in 3 weeks without knowing the location. We turned their challenge into a PR Event reminding Americans that \"you are what you drink.\""
