@@ -35,7 +35,7 @@ EventNetUSA built a private island retreat in the Hudson River, equipped with a 
 
 The island was open to the public and guests were invited to visit the island using a rented tugboat which made trips from the mainland every 30 minutes
 
-**A LOOK BEHIND THE SCENES**
+A LOOK BEHIND THE SCENES
 
 * Barges, temporarily anchored off lower-Manhatten, were used as the 5,400 squarefoot island’s foundation
 * 4 Tons of sand and landscaping elements were installed on the island for an authentic tropical setting
