@@ -19,7 +19,37 @@ sidebar_text_markdown: |-
   * **75%&nbsp;**of direct interactions posted to social media
   * Managed **50,000**+ New Yorkers in line at Union Square
 media_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      NYX Professional Makeup partnered with EventNetUSA to produce a mobile
+      beauty experience to raise awareness and excitement for their Union Square
+      Flagship Store Grand Opening in New York City.
+
+
+
+
+
+      ### **A LOOK BEHIND THE SCENES:**
+
+
+
+
+
+      * Converted a food truck into a Beauty + Swag Truck, complete with 3 makeup
+      vanity stations, social media staging area, and integrated A/V monitor
+
+      * Contracted, trained, and managed one tour manager and a team of local
+      brand ambassadors to deliver brand messaging and perform Express Lip
+      Touch-Ups across New York City
+
+      * Developed a strategic 2 week guerilla marketing and event schedule for
+      Beauty + Swag Truck
+
+      * Secured and coordinated all street permits for press visits,
+      line-management, and truck parking in Union Square
+
+      * Pursued and coordinated line hospitality with brands including LaCroix
+      Sparkling Water, Bai Beverages, Chloe’s Soft Serve Fruit, and SoulCycle to
+      treat guests to samples & class passes as they waited in line
     single_image_block:
       single_image_path: /uploads/beauty--swag-truck-nyx.jpg
     double_image_block:
