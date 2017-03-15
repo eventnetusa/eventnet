@@ -4,7 +4,7 @@ sort_order: 17
 headline: Snausages takes over with Dog Day at Mets Park
 tagline: (insert)
 subheadline: (Insert)
-hero_image_path: /uploads/snausages-mets.jpg
+hero_image_path: /uploads/mets-game-august-20-2005-040.jpg
 types:
   - pr event
   - pr stunt
