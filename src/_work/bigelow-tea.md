@@ -1,6 +1,6 @@
 ---
 client: Bigelow Tea
-sort_order: 4
+sort_order: 7
 headline: Mobile Tea Bar US Sampling Tours
 tagline: 'Short, catchy tagline for carousel.'
 subheadline: Bigelow Tea partnered with EventNetUSA for three national sampling tours to deliver tea samples and educate consumers on the rich history of the Bigelow family’s business.
