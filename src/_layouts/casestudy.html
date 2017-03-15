@@ -30,8 +30,8 @@
 
 
               {% for block in page.media_section %}
-                {% if block.sidebar_text_block_markdown %}
-                  {{ block.sidebar_text_block_markdown | markdownify }}
+                {% if block.text_block_markdown %}
+                  {{ block.text_block_markdown | markdownify }}
                 {% endif %}
                 {% if block.single_image_block.single_image_path %}
                   <img src="{{ block.single_image_block.single_image_path }}" class="w-100 mt4 mb0" alt="">
