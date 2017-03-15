@@ -1,6 +1,6 @@
 ---
 client: Mini Cooper
-sort_order: 2
+sort_order: 8
 headline: Mini in a Stadium
 tagline: "Mini Cooper's not so small US debut"
 subheadline: 'When deciding how to enter the US Market, Mini Cooper and Crispin Porter + Bogusky looked to EventNetUSA to pull off a stunt as unique and eye catching as the brand itself.'
