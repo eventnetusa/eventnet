@@ -1,5 +1,5 @@
 ---
-client: Fine Living
+client: Fine Living Network
 sort_order: 14
 headline: Pop-Up Island in the Hudson River
 tagline: Fine Living Network partnered with EventNetUSA to pull off a one-of-kind PR Stunt promoting the travel and lifestyle channel’s debut in New York.
@@ -20,7 +20,11 @@ media_section:
 
 
 
+
+
       ### A LOOK BEHIND THE SCENES
+
+
 
 
 
@@ -44,15 +48,11 @@ media_section:
     video_block:
       video_id:
 related_client_logos:
-  - logo_image_path: /uploads/advil.png
-    logo_image_height:
-  - logo_image_path: /uploads/chevy.png
+  - logo_image_path: /uploads/snausages.png
     logo_image_height:
   - logo_image_path: /uploads/jetblue.png
     logo_image_height:
-  - logo_image_path: /uploads/mm.png
-    logo_image_height:
-  - logo_image_path: /uploads/fineliving.png
+  - logo_image_path: /uploads/maybelline.png
     logo_image_height:
 ---
 
