@@ -4,7 +4,7 @@ sort_order: 11
 headline: Pasta Food Truck Tour
 tagline: (Insert)
 subheadline: (Insert)
-hero_image_path: /uploads/eventnetusa-1.jpg
+hero_image_path: /uploads/prince-pasta.jpg
 types:
   - vehicle tour
   - street team
