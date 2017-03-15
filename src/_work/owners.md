@@ -7,7 +7,8 @@ hero_image_path: /uploads/owners.jpg
 types:
   - vehicle tour
   - pr event
-cta: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
+cta_text: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
+cta: Let's talk
 sidebar_text_markdown: >-
   ### **QUICK STATS**
 

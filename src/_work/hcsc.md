@@ -8,7 +8,8 @@ types:
   - insurance activation
   - popup shop
   - vehicle tour
-cta: 'Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment Programs?'
+cta_text: 'Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment Programs?'
+cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 

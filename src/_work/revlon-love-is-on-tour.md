@@ -7,7 +7,8 @@ hero_image_path: /uploads/revlon-case-6.jpg
 types:
   - popup shop
   - vehicle tour
-cta: Interested in a mobile pop-up shop?
+cta_text: Interested in a mobile pop-up shop?
+cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 

@@ -7,7 +7,8 @@ hero_image_path: /uploads/bigelow-case-4.jpg
 types:
   - vehicle tour
   - street team
-cta: Interested in a mobile marketing vehicle?
+cta_text: Interested in a mobile marketing vehicle?
+cta: Let's talk
 sidebar_text_markdown: >-
   ### Quick Stats
 

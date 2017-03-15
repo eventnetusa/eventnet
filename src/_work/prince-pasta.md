@@ -7,7 +7,8 @@ hero_image_path: /uploads/prince-pasta.jpg
 types:
   - vehicle tour
   - street team
-cta:
+cta_text:
+cta: Let's talk
 sidebar_text_markdown:
 media_section:
   - text_block_markdown: >-

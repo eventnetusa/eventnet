@@ -6,7 +6,8 @@ hover_text: Fine Living Network partnered with EventNetUSA to pull off a one-of-
 hero_image_path: /uploads/fine-living-island.jpg
 types:
   - pr stunt
-cta: "Let's turn heads with your next PR stunt!"
+cta_text: "Let's turn heads with your next PR stunt!"
+cta: Let's talk
 sidebar_text_markdown:
 media_section:
   - text_block_markdown: >-

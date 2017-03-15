@@ -7,7 +7,8 @@ hero_image_path: /uploads/4-4-13-041.jpg
 types:
   - vehicle tour
   - street team
-cta:
+cta_text:
+cta: Let's talk
 sidebar_text_markdown:
 media_section:
   - text_block_markdown: >-

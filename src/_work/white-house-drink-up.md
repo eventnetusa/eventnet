@@ -6,7 +6,8 @@ hover_text: 'First Lady Michelle Obama  and the Partnership for a Healthier Amer
 hero_image_path: /uploads/slide-drink-up.jpg
 types:
   - pr event
-cta: Need a turnkey event solution?
+cta_text: Need a turnkey event solution?
+cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 

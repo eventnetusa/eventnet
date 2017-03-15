@@ -7,7 +7,8 @@ hero_image_path: /uploads/nyx-case-4.jpg
 types:
   - grand opening
   - vehicle tour
-cta: 'Interested in grand openings & mobile marketing vehicles?'
+cta_text: 'Interested in grand openings & mobile marketing vehicles?'
+cta: Let's talk
 sidebar_text_markdown: |-
   ### **QUICK STATS**
 

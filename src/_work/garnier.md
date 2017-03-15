@@ -7,7 +7,8 @@ hero_image_path: /uploads/garnier-102-3657.jpg
 types:
   - retail
   - vehicle tour
-cta: Want to reach consumers at retail locations where your product is sold?
+cta_text: Want to reach consumers at retail locations where your product is sold?
+cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 

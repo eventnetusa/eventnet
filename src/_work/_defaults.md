@@ -6,6 +6,7 @@ hover_tagline:
 
 hero_image_path:
 type:
+cta_text:
 cta:
 sidebar_text_markdown: |
 

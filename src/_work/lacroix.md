@@ -6,7 +6,8 @@ hover_text: 'For over 11 years, LaCroix Sparkling Water has entrusted us with pl
 hero_image_path: /uploads/lacroix-case-1.jpg
 types:
   - street team
-cta: Want to put your brand in the hands of consumers?
+cta_text: Want to put your brand in the hands of consumers?
+cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 
