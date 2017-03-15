@@ -1,6 +1,6 @@
 ---
 client: Garnier + TerraCycle
-sort_order: 3
+sort_order: 9
 headline: Garnier Greener Recycling Tour
 tagline: Garnier teaches consumers about the importance of recycling and earth-friendly products in an eye catching glass truck
 subheadline: 'Accompanied by a sleek glass box truck & larger-than-life shampoo bottle, our Garnier team educated Wal-Mart shoppers across the country on the importance of recycling and earth-friendly products.'
