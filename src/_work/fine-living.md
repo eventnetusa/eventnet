@@ -4,7 +4,7 @@ sort_order: 14
 headline: Pop-Up Island in the Hudson River
 tagline: Fine Living Network partnered with EventNetUSA to pull off a one-of-kind PR Stunt promoting the travel and lifestyle channel’s debut in New York.
 subheadline: A tropical retreat in the most unlikely of places
-hero_image_path: /uploads/fine-living-tv-island-in-the-hudson-river.jpg
+hero_image_path: /uploads/fine-living-island-2.jpg
 types:
   - pr stunt
 cta: "Let's turn heads with your next PR stunt!"
