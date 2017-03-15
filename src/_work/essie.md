@@ -6,7 +6,7 @@ tagline: (Insert)
 subheadline: (Insert)
 hero_image_path: /uploads/essie.jpg
 types:
-  - vehicle tour
+  - popup shop
   - street team
 cta:
 sidebar_text_markdown:
