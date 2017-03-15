@@ -1,8 +1,8 @@
 ---
 client: Snausages
 sort_order: 17
-headline: Snausages takes over with Dog Day at Mets Park
-tagline: (insert)
+headline: Snausages Dog Days in the Park
+tagline: 'Snausages took over ## baseball stadiums with Dog Day in the Park which included appearances by Snocrates, doggie contests, doggie goodie bags and more. Partnerships with local animal shelters were developed to extend the program’s reach and donations were raised to support local efforts.'
 subheadline: (Insert)
 hero_image_path: /uploads/mets-game-august-20-2005-040.jpg
 types:
