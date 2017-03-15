@@ -2,8 +2,7 @@
 client: JetBlue Airlines
 sort_order: 16
 headline: JetBlue connected with consumers with its Story Booth
-tagline: (insert)
-subheadline: (Insert)
+hover_text: (insert)
 hero_image_path: /uploads/jetblue-story-booth.jpg
 types:
   - pr event

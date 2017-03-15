@@ -2,8 +2,7 @@
 client: Snausages
 sort_order: 17
 headline: Snausages Dog Days in the Park
-tagline:
-subheadline: (Insert)
+hover_text:
 hero_image_path: /uploads/mets-game-august-20-2005-040.jpg
 types:
   - pr event

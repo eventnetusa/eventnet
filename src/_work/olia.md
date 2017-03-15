@@ -2,8 +2,7 @@
 client: Olia
 sort_order: 12
 headline: Mobile Salon
-tagline: (Insert)
-subheadline: (Insert)
+hover_text: (Insert)
 hero_image_path: /uploads/4-4-13-041.jpg
 types:
   - vehicle tour

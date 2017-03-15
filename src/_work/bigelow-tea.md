@@ -2,8 +2,7 @@
 client: Bigelow Tea
 sort_order: 3
 headline: Mobile Tea Bar US Sampling Tours
-tagline: Bigelow warmed hearts and hands across America sampling from its Mobile Tea Bar
-subheadline: Bigelow Tea partnered with EventNetUSA for three national sampling tours to deliver tea samples and educate consumers on the rich history of the Bigelow family’s business.
+hover_text: Bigelow warmed hearts and hands across America sampling from its Mobile Tea Bar
 hero_image_path: /uploads/bigelow-case-4.jpg
 types:
   - vehicle tour

@@ -36,6 +36,9 @@ collections:
     output: true
     permalink: /work/:slug/
     _hide_content: true
+    values:
+      _comments:
+        hover_text: Shown on thumbnail hovers
 
 defaults:
   -

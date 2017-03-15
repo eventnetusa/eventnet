@@ -2,8 +2,7 @@
 client: Owners.com
 sort_order: 4
 headline: Mobile Open House
-tagline: 'Short, catchy tagline for carousel.'
-subheadline: 'Owners.com launched its online real estate tool for the modern home owner with a trailer transformed into a mobile open house, complete with a white picket fence.'
+hover_text: 'Owners.com launched its online real estate tool for the modern home owner with a trailer transformed into a mobile open house, complete with a white picket fence.'
 hero_image_path: /uploads/owners.jpg
 types:
   - vehicle tour

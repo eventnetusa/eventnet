@@ -2,8 +2,7 @@
 client: Essie
 sort_order: 13
 headline: Pop-up Nail Salon
-tagline: (Insert)
-subheadline: (Insert)
+hover_text: (Insert)
 hero_image_path: /uploads/essie.jpg
 types:
   - popup shop

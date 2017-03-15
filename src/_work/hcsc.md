@@ -2,8 +2,7 @@
 client: Health Care Service Corporation
 sort_order: 7
 headline: Cross-Channel Community Outreach Program
-tagline: See how Health Care Service Corporation educated consumers when the Affordable Care Act launched
-subheadline: 'When Affordable Care Act (ACA) became available, HCSC looked to us to produce a turnkey multi-market, multi-channel community outreach program for educating and enrolling consumers.'
+hover_text: See how Health Care Service Corporation educated consumers when the Affordable Care Act launched
 hero_image_path: /uploads/hcsc-case-9.jpg
 types:
   - insurance activation

@@ -2,8 +2,7 @@
 client: Prince Pasta
 sort_order: 11
 headline: Pasta Food Truck Tour
-tagline: (Insert)
-subheadline: (Insert)
+hover_text: (Insert)
 hero_image_path: /uploads/prince-pasta.jpg
 types:
   - vehicle tour
