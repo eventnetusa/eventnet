@@ -35,7 +35,7 @@ sidebar_text_markdown: |-
   * Average **24&nbsp;**enrollment applications initiated per day
 media_section:
   - single_image_block:
-      image_path:
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/hcsc-case-4.jpg
       image_2_path: /uploads/hcsc-case-3.jpg
@@ -49,21 +49,21 @@ media_section:
     video_block:
       video_id:
   - single_image_block:
-      image_path: /uploads/hcsc-case-5.jpg
+      single_image_path: /uploads/hcsc-case-5.jpg
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
   - single_image_block:
-      image_path: /uploads/hcsc-case-8.jpg
+      single_image_path: /uploads/hcsc-case-8.jpg
     double_image_block:
       image_1_path: /uploads/hcsc-case-7.jpg
       image_2_path: /uploads/hcsc-case-6.jpg
     video_block:
       video_id:
   - single_image_block:
-      image_path: /uploads/hcsc-rv.png
+      single_image_path: /uploads/hcsc-rv.png
     double_image_block:
       image_1_path:
       image_2_path:
