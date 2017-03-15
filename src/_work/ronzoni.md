@@ -1,7 +1,7 @@
 ---
 client: Ronzoni
 headline: 100 Year Anniversary Celebration
-subheadline: What better way to celebrate 100 years in business than with a giant pasta sand castle?
+subheadline: What better way to celebrate 100 years in business than passing out samples at the South Beach Food and Wine Festival next to your giant pasta sand castle at the South ?
 hero_image_path: /uploads/ronzoni.png
 type: pr event
 cta:
