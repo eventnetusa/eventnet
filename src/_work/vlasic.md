@@ -2,8 +2,8 @@
 client: Vlasic
 headline: Pickle Stand Sampling Tour
 subheadline: Vlasic charmed pickle lovers around America with its mobile Pickle Sampling Stand
-hero_image_path:
-type:
+hero_image_path: /uploads/eventnetusa-1.jpg
+type: vehicle tour
 cta:
 sidebar_text_markdown:
 media_section:
