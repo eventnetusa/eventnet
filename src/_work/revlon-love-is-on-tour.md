@@ -2,11 +2,12 @@
 client: Revlon
 sort_order: 8
 headline: 'LOVE IS ON: Mobile Pop-Up Shop'
-tagline: Short, catchy tagline for carousel.
+tagline: "Revlon turned heads across the US with its 53' pop-up shop on wheels"
 subheadline: "We turned a 53' trailer into a mobile pop-up shop to celebrate Revlon's Love Is On campaign. Beauty lovers in 7 states sampled product with our team of licensed cosmetologists, then hopped on board to purchase their favorite picks!"
 hero_image_path: /uploads/revlon-case-6.jpg
 types:
   - popup shop
+  - vehicle tour
 cta: Interested in a mobile pop-up shop?
 sidebar_text_markdown: |-
   ### QUICK STATS
