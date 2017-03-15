@@ -14,7 +14,7 @@ gulp.task('images', () =>
       imagemin.svgo({plugins: [{cleanupIDs: false}]})
     ])))
     .pipe(gulp.dest('.tmp/assets/images'))
-    .pipe(gulp.dest('src/assets/images')) // for cloud cannon
+    // .pipe(gulp.dest('src/assets/images')) // for cloud cannon
     .pipe(size({title: 'images'}))
 );
 
@@ -22,5 +22,5 @@ gulp.task('images', () =>
 gulp.task('uploads', () =>
   gulp.src('src/uploads/**/*')
     .pipe(gulp.dest('.tmp/uploads'))
-    .pipe(gulp.dest('src/uploads')) // for cloud cannon
+    // .pipe(gulp.dest('src/uploads')) // for cloud cannon
 );
