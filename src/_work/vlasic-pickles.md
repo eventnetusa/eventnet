@@ -31,6 +31,3 @@ related_client_logos:
   - logo_image_path: /uploads/fineliving.png
     logo_image_height:
 ---
-
-
-<br><!--![endif]---->
