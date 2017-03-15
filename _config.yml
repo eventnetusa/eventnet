@@ -35,6 +35,7 @@ collections:
   work:
     output: true
     permalink: /work/:slug/
+    _hide_content: true
 
 defaults:
   -
