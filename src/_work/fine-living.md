@@ -41,4 +41,4 @@ The island was open to the public and guests were invited to visit the island us
 * 4 Tons of sand and landscaping elements were installed on the island for an authentic tropical setting
 * A generator was used to supply electricity for the hut and water tanks enabled fully functioning plumbing
 * Total island production time was 10 working days
-* Broadcast on CBS News, NBC News, ABC News and Entertainment Tonight<!--![endif]---->
+* Broadcast on CBS News, NBC News, ABC News and Entertainment Tonight
