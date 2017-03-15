@@ -29,14 +29,16 @@ sidebar_text_markdown: >-
 
   * **1.5 million+** social media impressions
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/picture1.png
     double_image_block:
       image_1_path: /uploads/picture4.jpg
       image_2_path: /uploads/picture3.png
     video_block:
       video_id: p5QpmqFpp0Y
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/picture5.png

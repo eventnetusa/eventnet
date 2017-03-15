@@ -11,7 +11,8 @@ types:
 cta:
 sidebar_text_markdown:
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG

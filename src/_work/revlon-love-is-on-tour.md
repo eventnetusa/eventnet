@@ -18,21 +18,24 @@ sidebar_text_markdown: |-
   * **130,350+** one-on-one interactions
   * More than **215,000** organic digital impressions
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/revlon-case-5.jpg
       image_2_path: /uploads/revlon-case-2.jpg
     video_block:
       video_id: 3tQOMf7EOUk
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/revlon-case-3.jpg
     double_image_block:
       image_1_path: /uploads/revlon-case-1.jpg

@@ -10,7 +10,8 @@ types:
 cta: "Let's turn heads with your next PR stunt!"
 sidebar_text_markdown:
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/fine-living-island-2.jpg

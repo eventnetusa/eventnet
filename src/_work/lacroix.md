@@ -17,7 +17,8 @@ sidebar_text_markdown: |-
   * Sampled **86,400** cans of LaCroix over 48 sampling days
   * Gave-away **12** instant prizes on October 30th to families who approached our teams with the winning phrase ‘I live LaCroix’
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/lacroix-case-4.jpg
     double_image_block:
       image_1_path: /uploads/lacroix-case-3.jpg

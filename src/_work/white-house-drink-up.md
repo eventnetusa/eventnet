@@ -16,14 +16,16 @@ sidebar_text_markdown: |-
   * **12** major water brands
   * Produced event with **3 week lead time**
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id: _Inxrfom_hU
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/case-drinkup.jpg

@@ -34,35 +34,40 @@ sidebar_text_markdown: |-
   * Average **40&nbsp;**one-on-one conversations per day
   * Average **24&nbsp;**enrollment applications initiated per day
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/hcsc-case-4.jpg
       image_2_path: /uploads/hcsc-case-3.jpg
     video_block:
       video_id:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       image_path:
     double_image_block:
       image_1_path: /uploads/hcsc-case-2.jpg
       image_2_path: /uploads/hcsc-case-1.jpg
     video_block:
       video_id:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/hcsc-case-5.jpg
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/hcsc-case-8.jpg
     double_image_block:
       image_1_path: /uploads/hcsc-case-7.jpg
       image_2_path: /uploads/hcsc-case-6.jpg
     video_block:
       video_id:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/hcsc-rv.png
     double_image_block:
       image_1_path:

@@ -72,14 +72,16 @@ sidebar_text_markdown: >-
 
   * **59,831**&nbsp;one-on-one interactions
 media_section:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/bigelow-case-3.jpg
     double_image_block:
       image_1_path: /uploads/students-in-mtb.png
       image_2_path: /uploads/bigelow-case-5.jpg
     video_block:
       video_id:
-  - single_image_block:
+  - text_block_markdown: >-
+    single_image_block:
       single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
       image_1_path: /uploads/bigelow-tea-shirt.jpg
