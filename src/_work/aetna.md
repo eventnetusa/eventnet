@@ -1,6 +1,6 @@
 ---
 client: Aetna
-link_to_casestudy: true
+link_to_casestudy: false
 sort_order: 19
 headline: Pop-Up Medicare Answer Centers
 hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching and educating consumers using kiosks in high-traffic retail locations'
