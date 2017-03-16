@@ -1,9 +1,9 @@
 ---
-client: Clear for Men
-sort_order: 20
-headline: ESPYS Sampling Program
-hover_text: (insert)
-hero_image_path: /uploads/clear-men-espys.jpg
+client: Silver Airways
+sort_order: 27
+headline: In Cuba I Would Visit...
+hover_text: Silver Airways asked travelers in Miami what they would want to visit on a trip to Cuba
+hero_image_path: /uploads/silver-airways.jpg
 types:
   - pr event
   - street team
