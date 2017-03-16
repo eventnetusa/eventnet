@@ -3,7 +3,7 @@ client: LaCroix Sparkling Water
 link_to_casestudy: false
 sort_order: 29
 headline: 'Sample & Scoot in South Florida'
-hover_text: LaCroix hit the streets to sample its wildly popular sparkling water using custom scooters and Mini Coopers
+hover_text: LaCroix hit the streets of Miami and Ft. Lauderdale to sample its wildly popular sparkling water using custom scooters and Mini Coopers
 hero_image_path: /uploads/lacroix-mini-and-scooters.jpg
 types:
   - street team
