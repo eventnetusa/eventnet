@@ -1,9 +1,9 @@
 ---
-client: JetBlue Airlines
-sort_order: 16
-headline: "Travel down memory lane in JetBlue's Story Booth"
-hover_text: 'Launched in Rockefeller Plaza followed by a multi-city tour, the Story Booth invited visitors to record stories of their experiences flying JetBlue for use in TV commercials and on the Web.'
-hero_image_path: /uploads/jetblue-story-booth.jpg
+client: Clear for Men
+sort_order: 20
+headline: ESPYS Sampling Program
+hover_text: (insert)
+hero_image_path: /uploads/clear-men-at-the-espys.jpg
 types:
   - pr event
   - pr stunt
