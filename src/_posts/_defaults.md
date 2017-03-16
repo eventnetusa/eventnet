@@ -2,6 +2,7 @@
 title:
 date: 2017-03-16
 categories:
+featured_post: false
 excerpt:
 hero_image_path:
 content_section:

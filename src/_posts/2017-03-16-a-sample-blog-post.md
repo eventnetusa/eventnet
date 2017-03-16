@@ -4,6 +4,7 @@ date: 2017-03-16 00:00:00
 categories:
   - insights
   - press
+featured_post: true
 excerpt: 'This is an excerpt. Make it snappy!'
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
 content_section:
