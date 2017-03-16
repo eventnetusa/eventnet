@@ -1,12 +1,18 @@
-@media screen and (min-width: 60em) {
+@media (min-width: 300px) and (max-width: 550px) {
     #video {
-        height: 800px;
+        height: 33vh;
     }
 }
 
-@media screen and (min-width: 30em) and (max-width: 60em) {
+@media (min-width: 551px) {
     #video {
         height: 500px;
+    }
+}
+
+@media screen and (min-width: 960px) {
+    #video {
+        height: 800px;
     }
 }
 
@@ -16,11 +22,20 @@
 }
 
 #video h1 {
-    font-size: 5vw;
+    @media (min-width: 768px) {
+        font-size: 5vw;
+    }
+    @media (max-width: 767px) {
+        font-size: 6vw;
+    }
 }
+
 
 #video h2 {
     font-size: 2.75vw;
+    @media (max-width: 567px) {
+        display: none;
+    }
 }
 
 #video-overlay {
@@ -43,6 +58,32 @@
     z-index: 1;
 }
 
+.intro {
+    @media (min-width: 768px) {
+        h1 {
+            font-size: 1.75rem;
+        }
+    }
+    @media (max-width: 767px) {
+        h1 {
+            font-size: 1.25rem;
+        }
+    }
+}
+
+.capabilities {
+    @media (min-width: 768px) {
+        p.info {
+            font-size: 1.75rem;
+        }
+    }
+    @media (max-width: 767px) {
+        p.info {
+            font-size: 1.25rem;
+        }
+    }
+}
+
 .client-logo {
     height: 125px;
 }
@@ -51,6 +92,22 @@
     position: relative;
     top: 50%;
     transform: translateY(-50%);
+}
+
+@media screen and (max-width: 767px) {
+    .featured {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .carousel-cell p {
+        display: none;
+    }
+    .carousel-cell h1 {
+        display: none;
+    }
+    .carousel-cell span {
+        display: none;
+    }
 }
 
 .carousel {
@@ -91,7 +148,13 @@ li.dot.is-selected {
     background-color: #001B44;
 }
 
-@media screen and ( min-width: 768px) {
+@media screen and (min-width: 300px) {
+    .carousel img {
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 768px) {
     .carousel img {
         height: 400px;
     }

@@ -35,3 +35,80 @@ The main SCSS file for everything, yep
     max-width: 1400px;
   }
 
+  // HEADER
+  // @media (min-width: 600px) and (max-width: 400px)  {...}
+
+  @media (min-width: 300px) and (max-width: 430px)  {
+    header {
+      padding-left: 0 !important;
+      padding-right: 0 !important;
+    }
+    header .contact {
+      margin-top: 1rem;
+      margin-left: 0px !important;
+    }
+    nav a {
+      margin-left: 1rem !important;
+    }
+    nav a:first-of-type {
+      margin-left: 0px !important;
+    }
+  }
+
+  @media (min-width: 568px) and (max-width: 880px) {
+    header {
+      padding: 1rem 2rem !important;
+    }
+  }
+
+  @media  (max-width: 736px) {
+    .header-wrapper {
+      text-align: center !important;
+    }
+    header img {
+      margin-top: 0px !important;
+    }
+    header nav {
+      display: block;
+      width: 100%;
+      margin-top: 1.5rem;
+      text-align: center !important;
+    }
+  }
+
+  @media  (min-width: 737px) {
+    header img {
+      float: left;
+    }
+  }
+
+  // FOOTER
+  @media (min-width: 300px) and (max-width: 550px) {
+    footer .inner {
+      text-align: center !important;
+      padding-left: 1rem !important;
+      padding-right: 1rem !important;
+    }
+  }
+
+  @media (min-width: 300px) and (max-width: 767px) {
+    .instafeed-wrapper {
+      display: none;
+    }
+  }
+
+  @media (min-width: 300px) and (max-width: 880px) {
+    footer .browse {
+      display: none;
+    }
+    footer .contact, footer .subscribe {
+      width: 100% !important;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 880px) {
+    footer .contact, footer .subscribe {
+      width: 50% !important;
+    }
+  }
+
