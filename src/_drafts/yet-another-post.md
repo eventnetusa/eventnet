@@ -31,3 +31,6 @@ content_section:
     video_block:
       video_id:
 ---
+DO NOT ADD POST CONTENT HERE!
+
+Add all content in Content Sections.
