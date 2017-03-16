@@ -1,6 +1,6 @@
 ---
 client: Ghiradelli
-sort_order: 22
+sort_order: 26
 headline: Sampling with Santa
 hover_text: (insert)
 hero_image_path: /uploads/ghiradelli.png
