@@ -1,7 +1,7 @@
 ---
 client: Revlon
 link_to_casestudy: true
-sort_order: 5
+sort_order: 3
 headline: 'LOVE IS ON: Mobile Pop-Up Shop'
 hover_text: "Revlon turned heads across the US with its 53' pop-up shop on wheels"
 hero_image_path: /uploads/revlon-case-6.jpg
@@ -9,7 +9,7 @@ types:
   - popup shop
   - vehicle tour
 cta_text: Interested in a mobile pop-up shop?
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown: |-
   ### QUICK STATS
 
@@ -20,16 +20,24 @@ sidebar_text_markdown: |-
   * More than **215,000** organic digital impressions
 content_section:
   - text_block_markdown: >-
-      Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop, a tractor trailer retrofitted into a beauty store on wheels.
+      Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop,
+      a tractor trailer retrofitted into a beauty store on wheels.
 
-      Our Pop-Up Shop's objectives were to deliver brand messaging, demonstrate and sell product, integrate social media and press, and provide a “look, touch, feel” experience through an experiential marketing tour.
+      Our Pop-Up Shop's objectives were to deliver brand messaging, demonstrate
+      and sell product, integrate social media and press, and provide a “look,
+      touch, feel” experience through an experiential marketing tour.
 
       ### **A LOOK BEHIND THE SCENES:**
 
-      * Customized a 53 foot trailer with 100 feet of retail space, POS and banking systems for wireless sales transfers using Square, and an area for social media integration
-      * Included a product sample bar, personal consultations with licensed beauticians, and professional makeovers and manicures.
-      * Contracted and trained over 300 brand ambassadors, including 1 tour manager, 1 CDLA driver and 100+ licensed cosmetologists
-      * Routed targeted lifestyle events supporting press, celebrity, and blogger appearances in New York City, Chicago, Boston, Charlotte, Atlanta, St. Paul, and Dallas
+      * Customized a 53 foot trailer with 100 feet of retail space, POS and
+      banking systems for wireless sales transfers using Square, and an area for
+      social media integration * Included a product sample bar, personal
+      consultations with licensed beauticians, and professional makeovers and
+      manicures. * Contracted and trained over 300 brand ambassadors, including
+      1 tour manager, 1 CDLA driver and 100+ licensed cosmetologists * Routed
+      targeted lifestyle events supporting press, celebrity, and blogger
+      appearances in New York City, Chicago, Boston, Charlotte, Atlanta, St.
+      Paul, and Dallas
     single_image_block:
       single_image_path:
     double_image_block:
@@ -37,7 +45,7 @@ content_section:
       image_2_path: /uploads/revlon-case-2.jpg
     video_block:
       video_id: 3tQOMf7EOUk
-  - text_block_markdown: >-
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -45,7 +53,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
+  - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/revlon-case-3.jpg
     double_image_block:
