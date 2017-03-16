@@ -1,12 +1,11 @@
 ---
-client: Essie
-sort_order: 13
-headline: Pop-up Nail Salon
-hover_text: (Insert)
-hero_image_path: /uploads/essie.jpg
+client: Nestle Deer Park
+sort_order: 19
+headline: Glass Enclosed Recycling Tour Truck
+hover_text: Deer Park educates consumers on the importance of protecting the environment and recycling water bottles
+hero_image_path: /uploads/nestle-deer-park.jpg
 types:
-  - popup shop
-  - street team
+  - vehicle tour
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
