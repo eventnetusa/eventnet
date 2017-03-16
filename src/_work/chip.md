@@ -2,7 +2,7 @@
 client: "Children's Health Insurance Program"
 sort_order: 25
 headline: CHIP Community Outreach and Education
-hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching and educating consumers using kiosks in high-traffic retail locations'
+hover_text: (insert)
 hero_image_path: /uploads/chip.png
 types:
   - insurance activation
