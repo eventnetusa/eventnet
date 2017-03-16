@@ -3,7 +3,7 @@ client: Ghiradelli
 link_to_casestudy: false
 sort_order: 26
 headline: Sampling with Santa
-hover_text: 'Ghirahelli enlisted EventNetUSA for an innovative holiday sampling program. Naturally we partnered with the big man himself - Santa!'
+hover_text: 'Ghirahelli turned to EventNetUSA to produce a holiday sampling program. So naturally we enlisted the big man himself - Santa!'
 hero_image_path: /uploads/ghiradelli.png
 types:
   - street team
