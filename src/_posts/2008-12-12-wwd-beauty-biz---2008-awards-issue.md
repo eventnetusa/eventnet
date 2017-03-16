@@ -65,8 +65,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/maybelline-color-sensations-beauty-demo-eventnetusa.jpg
-      image_2_path: /uploads/maybelline-color-sensations-eventnetusa-2.jpg
+      image_1_path: /uploads/wwd-beauty-biz-08-cover.png
+      image_2_path: /uploads/wwd-2008-awards-garnier-most-innovative-eventnetusa.png
     video_block:
       video_id:
   - text_block_markdown:
