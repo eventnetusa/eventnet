@@ -1,6 +1,6 @@
 ---
 client: Delta Dental
-sort_order: 26
+sort_order: 22
 headline: Community Outreach and Enrollment
 hover_text: (insert)
 hero_image_path: /uploads/delta-dental.jpg
