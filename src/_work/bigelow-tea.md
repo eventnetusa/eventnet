@@ -1,7 +1,7 @@
 ---
 client: Bigelow Tea
 link_to_casestudy: true
-sort_order: 3
+sort_order: 7
 headline: Mobile Tea Bar US Sampling Tours
 hover_text: Bigelow warmed hearts and hands across America sampling from its Mobile Tea Bar
 hero_image_path: /uploads/bigelow-case-4.jpg
@@ -9,7 +9,7 @@ types:
   - vehicle tour
   - street team
 cta_text: Interested in a mobile marketing vehicle?
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown: >-
   ### Quick Stats
 
