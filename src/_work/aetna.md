@@ -1,11 +1,12 @@
 ---
-client: Ghiradelli
+client: Aetna
 sort_order: 22
-headline: Sampling with Santa
-hover_text: (insert)
-hero_image_path: /uploads/ghiradelli.png
+headline: Pop-Up Medicare Answer Centers
+hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching and educating consumers using kiosks in high-traffic retail locations'
+hero_image_path: /uploads/aetna.png
 types:
-  - street team
+  - insurance activation
+  - popup shop
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
