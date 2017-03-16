@@ -33,7 +33,7 @@ sidebar_text_markdown: |-
   * Average **625&nbsp;**impressions per day
   * Average **40&nbsp;**one-on-one conversations per day
   * Average **24&nbsp;**enrollment applications initiated per day
-media_section:
+content_section:
   - text_block_markdown: >-
       Health Care Service Corporation (HCSC) is one of the largest licensees of BlueCross BlueShield, operating in 5 states.
 

@@ -28,7 +28,7 @@ sidebar_text_markdown: >-
   * **416,000+** passive impressions
 
   * **1.5 million+** social media impressions
-media_section:
+content_section:
   - text_block_markdown: >-
       Owners.com partnered with EventNetUSA to bring its online, self-directed approach to home buying/selling to life via a Mobile Open House Tour.
 

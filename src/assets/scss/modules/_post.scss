@@ -1,4 +1,4 @@
-.casestudy {
+.post {
     .copy-wrapper {
         p {
             margin-top: 0;
@@ -22,14 +22,15 @@
         font-weight: 500;
       }
     }
-    .case-study-info {
-        background-color: rgba(0, 27, 68, .75);
-        position: relative;
-        top: 50%;
-        -webkit-transform: translateY(-50%);
-        -ms-transform: translateY(-50%);
-        transform: translateY(-50%);
-    }
+
+    // .case-study-info {
+    //     background-color: rgba(0, 27, 68, .75);
+    //     position: relative;
+    //     top: 50%;
+    //     -webkit-transform: translateY(-50%);
+    //     -ms-transform: translateY(-50%);
+    //     transform: translateY(-50%);
+    // }
 
     .quote {
         font-size: 12px;
@@ -58,9 +59,9 @@
         height: 100%;
     }
 
-    .case-study-sidebar span {
-        font-weight: 500;
-    }
+    // .case-study-sidebar span {
+    //     font-weight: 500;
+    // }
 }
 
 

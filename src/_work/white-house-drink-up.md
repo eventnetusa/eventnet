@@ -15,7 +15,7 @@ sidebar_text_markdown: |-
   * **75&nbsp;**members of worldwide media&nbsp;
   * **12** major water brands
   * Produced event with **3 week lead time**
-media_section:
+content_section:
   - text_block_markdown: >-
       The White House, through the Partnership for a Healthier America and Young & Rubican, approached EventNetUSA to design and produce First Lady Michelle Obama's national Drink Up Campaign launch.
 

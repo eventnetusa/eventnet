@@ -16,7 +16,7 @@ sidebar_text_markdown: |-
   * Reached Moms and PTA groups at **1,680** schools
   * Sampled **86,400** cans of LaCroix over 48 sampling days
   * Gave-away **12** instant prizes on October 30th to families who approached our teams with the winning phrase ‘I live LaCroix’
-media_section:
+content_section:
   - text_block_markdown: >-
       A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditional methods like print or TV advertising.
 

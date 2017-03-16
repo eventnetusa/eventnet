@@ -9,7 +9,7 @@ types:
 cta_text: "Let's turn heads with your next PR stunt!"
 cta: Let's talk
 sidebar_text_markdown:
-media_section:
+content_section:
   - text_block_markdown: >-
       EventNetUSA built a private island retreat in the Hudson River, equipped
       with a climate controlled hut, beach volleyball court and plenty of

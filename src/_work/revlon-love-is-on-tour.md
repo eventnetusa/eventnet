@@ -17,7 +17,7 @@ sidebar_text_markdown: |-
   * **4.5 million** over-the-road impressions
   * **130,350+** one-on-one interactions
   * More than **215,000** organic digital impressions
-media_section:
+content_section:
   - text_block_markdown: >-
       Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop, a tractor trailer retrofitted into a beauty store on wheels.
 

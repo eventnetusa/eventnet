@@ -10,7 +10,7 @@ types:
 cta_text:
 cta: Let's talk
 sidebar_text_markdown:
-media_section:
+content_section:
   - text_block_markdown: 'Snausages took over 10 major and minor league baseball stadiums with Dog Day in the Park which included appearances by Snocrates, doggie contests, doggie goodie bags and more. Partnerships with local animal shelters were developed to extend the program’s reach and donations were raised to support local efforts.'
     single_image_block:
       single_image_path:

@@ -94,26 +94,25 @@ defaults:
         image_1_path: these images must be square
         image_2_path: these images must be square
         logo_image_path: upload an SVG or image with transparency
-        media_section: use one or more media sections to create custom layouts
+        content_section: use one or more media sections to create custom layouts
         sidebar_text_markdown: (optional)
         cta: (optional)
         subheadline: (optional)
-
-
-# -
-#   scope:
-#     path: "blog.html"
-#   values:
-#     layout: "default"
-#     class: "blog"
-#     permalink: "/blog/"
-# -
-#   scope:
-#     path: ""
-#     type: "posts"
-#   values:
-#     layout: "default"
-#     class: "blog"
+  -
+    scope:
+      path: "blog.html"
+    values:
+      layout: "blog_index"
+      class: "post"
+      permalink: "/blog/"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blog_item"
+      class: "post"
+      # permalink: "/blog/:slug"
 
 
 # _config.build.yml overwrites these options when you run `gulp build`
@@ -126,7 +125,7 @@ lsi: false
 limit_posts: 10
 
 # Permalink structure and pagination options
-permalink: none
+permalink: "/blog/:slug/"
 paginate: 10
 paginate_path: 'page:num'
 excerpt_separator: ''

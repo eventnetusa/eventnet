@@ -9,7 +9,7 @@ types:
 cta_text: Looking to turn heads with a PR stunt?
 cta: Let's talk
 sidebar_text_markdown:
-media_section:
+content_section:
   - text_block_markdown: >-
       Mini Cooper had two goals for its US debut: generate interest and curiosity in hundreds of thousands of people and give the Mini a larger than life personality.
 

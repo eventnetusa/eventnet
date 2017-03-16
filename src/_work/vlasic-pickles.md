@@ -10,7 +10,7 @@ types:
 cta_text:
 cta: Let's talk
 sidebar_text_markdown:
-media_section:
+content_section:
   - text_block_markdown: >-
     single_image_block:
       single_image_path:

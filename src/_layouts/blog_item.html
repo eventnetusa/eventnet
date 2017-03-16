@@ -11,21 +11,16 @@
       <div class="wrapper">
 
         <article class="cf">
-          <div class="cover bg-center raleway" {% if page.hero_image_path %}style="background-image: url({{page.hero_image_path}});{% endif %} height: 500px">
-            <div class="case-study-info w-70 near-white pt4 pb3 pl5">
-              <h2 class="f4 lh-solid lightest-blue mb0 ttu tracked">
-                {% if page.client %}{{page.client}}{% endif %}
-              </h2>
-              <h1 class="f1 near-white lh-headline mb4">
-                {% if page.headline %}{{page.headline}}{% endif %}
-              </h1>
+          <div class="cover bg-center raleway" style="background-image: url(/uploads/blog.jpg); height: 300px">
+            <div class="bg-black-30" style="height: 100%;">
+              <div class="tc near-white pv6 pb3 pl5">
+                <h1 class="f1 lh-headline ma0 editable">Blog</h1>
+              </div>
             </div>
           </div>
 
-          <div class="w-80 center pa4 cf raleway">
-            <div class="fn fl-ns w-70-ns ph4 mt4 copy-wrapper">
-
-
+          <div class="w-60 center pa4 cf raleway">
+            <div class="ph4 mt4 copy-wrapper">
               {% for block in page.content_section %}
                 {% if block.text_block_markdown %}
                   {{ block.text_block_markdown | markdownify }}
@@ -52,37 +47,12 @@
                   <div class='embed-container mt3'><iframe src='https://www.youtube.com/embed/{{block.video_block.video_id}}' frameborder='0' allowfullscreen></iframe></div>
                 {% endif %}
               {% endfor %}
+
+
             </div>
-            <div class="fn fl-ns w-30-ns ph4 mt4 tc">
-                {% if page.cta %}
-                <p class="f4 lh-copy mt0-ns ph3 pv4 bg-blue white">
-                  {{page.cta_text}}
-                  <a class="center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked" href="#0">{{ page.cta }}</a>
-                </p>
-                {% endif %}
-                {% if page.sidebar_text_markdown %}
-                <span class="case-study-sidebar f5 lh-copy mt0-ns pa3 tl dib bg-light-gray">
-                  {{page.sidebar_text_markdown | markdownify}}
-                </span>
-                {% endif %}
-              </div>
           </div>
         </article>
 
-        {% if page.related_client_logos %}
-          <div class="w-80 center ph4 pv3 cf raleway mb4">
-            <div class="ph4">
-              <p class="raleway tc f4 mt5 mb4 black-60 ttu tracked">Ask us about these related client projects</p>
-            </div>
-            <div class="cf pa2">
-              {% for logo in page.related_client_logos %}
-                <div class="fl w-20-l w-33-m pv1 ph4 tc dib client-logo">
-                  <img class="svg" src="{{ logo.logo_image_path }}" {% if logo.logo_image_height %} style="height: {{logo.logo_image_height}};"{% endif %}>
-                </div>
-              {% endfor %}
-            </div>
-          </div>
-        {% endif %}
 
 
     </div>
@@ -92,6 +62,7 @@
   <!-- JS -->
   <!-- inject:js -->
   <!-- endinject -->
+
 
 
   </body>

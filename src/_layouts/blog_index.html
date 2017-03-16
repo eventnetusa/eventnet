@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+
+        <article class="cf">
+          <div class="cover bg-center raleway" style="background-image: url(/uploads/blog.jpg); height: 300px">
+            <div class="bg-black-30" style="height: 100%;">
+              <div class="tc near-white pv6 pb3 pl5">
+                <h1 class="f1 lh-headline ma0 editable">Blog</h1>
+              </div>
+            </div>
+          </div>
+
+          <div class="w-60 center pa4 cf raleway">
+            <div class="ph4 mt4 copy-wrapper">
+
+              <div class="post-list mb6">
+                {% for post in site.posts %}
+                  <div class="mb4">
+                    <h5 class="ma0 f5 fw4">{{ post.date | date: "%b %-d, %Y" }}</h5>
+                    <h2 class="mt1 mb2">
+                      <a class="link dim brand" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                    </h2>
+                    <h3 class="mt0 f5 fw4 lh-title measure-wide">{{post.excerpt}}</h3>
+                  </div>
+
+
+                {% endfor %}
+              </div>
+
+
+            </div>
+          </div>
+        </article>
+
+
+
+    </div>
+
+    {% include footer.html %}
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <!-- endinject -->
+
+
+
+  </body>
+
+</html>

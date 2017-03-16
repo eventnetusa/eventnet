@@ -10,7 +10,7 @@ cta_text:
 cta:
 sidebar_text_markdown: |
 
-media_section:
+content_section:
   -
     text_block_markdown: >-
     single_image_block:

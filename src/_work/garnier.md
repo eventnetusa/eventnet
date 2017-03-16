@@ -17,7 +17,7 @@ sidebar_text_markdown: |-
   * **17,000+&nbsp;**active impressions
   * **11,000+** direct impressions
   * **20,000+** product samples
-media_section:
+content_section:
   - text_block_markdown: >-
       Megabrand Garnier and upcycling pioneer TerraCycle partnered with EventNetUSA for the Garnier Greener Tour.
 
