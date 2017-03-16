@@ -2,8 +2,8 @@
 client: Silver Airways
 sort_order: 27
 headline: In Cuba I Would Visit...
-hover_text: Silver Airways asked travelers in Miami what they would want to visit on a trip to Cuba
-hero_image_path: /uploads/silver-airways.jpg
+hover_text: Silver Airways asked travelers in Miami what they would visit if on a trip to Cuba with a giant chalk wall
+hero_image_path: /uploads/silver-airways-chalk-wall.jpg
 types:
   - pr event
   - street team
