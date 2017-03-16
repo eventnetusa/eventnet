@@ -3,7 +3,7 @@ client: Major Health Insurance Provider
 link_to_casestudy: false
 sort_order: 30
 headline: Community Outreach Vehicle
-hover_text: "Our contract says we can't share their name, but trust us, you'll want to find out about our double expandable truck options for insurance outreach in your territory!"
+hover_text: "Contractually we can't share this client's name, but trust us, you'll want to learn more about our expandable truck options for outreach in your territory!"
 hero_image_path: /uploads/double-expandable-truck.png
 types:
   - insurance activation
