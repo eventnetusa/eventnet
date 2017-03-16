@@ -3,16 +3,14 @@ client: Owners.com
 sort_order: 4
 headline: Mobile Open House
 hover_text: 'Owners.com launched its online real estate tool for the modern home owner with a trailer transformed into a mobile open house, complete with a white picket fence.'
-hero_image_path: /uploads/owners.jpg
+hero_image_path: /uploads/owners-house.jpg
 types:
   - vehicle tour
   - pr event
 cta_text: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown: >-
   ### **QUICK STATS**
-
-
 
 
 
@@ -29,16 +27,7 @@ sidebar_text_markdown: >-
 
   * **1.5 million+** social media impressions
 content_section:
-  - text_block_markdown: >-
-      Owners.com partnered with EventNetUSA to bring its online, self-directed approach to home buying/selling to life via a Mobile Open House Tour.
-
-      Key objectives of the Mobile Open House Tour were to attract consumer and media attention and provide a platform to support brand awareness and education of this new alternative to buying and selling a home.
-
-      ### A LOOK BEHIND THE SCENES
-
-      * Transformed 53’ trailer into  Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website
-      * Hired, contracted and managed (1) Tour Manager, (1) Assistant Tour Manager, (3) Owners.com Product Specialists, (1) CDL-A Driver, and (140) local Brand Ambassadors who served as the face of Owners.com
-      * Developed 4 month program executing 20 events across 7 markets. Tour routed to test a mix of event categories including lifestyle locations, medium and large events, Taste of events, and Arts Festivals
+  - text_block_markdown: "Owners.com partnered with EventNetUSA to bring its online, self-directed approach to home buying/selling to life via a Mobile Open House Tour.\nKey objectives of the Mobile Open House Tour were to attract consumer and media attention and provide a platform to support brand awareness and education of this new alternative to buying and selling a home.\n### A LOOK BEHIND THE SCENES\n* Transformed 53’ trailer into\_ Mobile Open House providing consumers the opportunity to navigate and learn about the Owners.com website * Hired, contracted and managed (1) Tour Manager, (1) Assistant Tour Manager, (3) Owners.com Product Specialists, (1) CDL-A Driver, and (140) local Brand Ambassadors who served as the face of Owners.com * Developed 4 month program executing 20 events across 7 markets. Tour routed to test a mix of event categories including lifestyle locations, medium and large events, Taste of events, and Arts Festivals"
     single_image_block:
       single_image_path: /uploads/picture1.png
     double_image_block:
@@ -46,7 +35,7 @@ content_section:
       image_2_path: /uploads/picture3.png
     video_block:
       video_id: p5QpmqFpp0Y
-  - text_block_markdown: >-
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
