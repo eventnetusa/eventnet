@@ -112,6 +112,7 @@ defaults:
     values:
       layout: "blog_item"
       class: "post"
+      _hide_content: true
       # permalink: "/blog/:slug"
 
 
