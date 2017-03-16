@@ -5,7 +5,6 @@ headline: Sampling with Santa
 hover_text: (insert)
 hero_image_path: /uploads/ghiradelli.png
 types:
-  - vehicle tour
   - street team
 cta_text:
 cta: "Let's talk"
