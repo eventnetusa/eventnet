@@ -53,19 +53,24 @@
                 {% endif %}
               {% endfor %}
             </div>
+            <div class="fn fl-ns w-30-ns ph5 mt4 tc">
+              {% for logo in page.project_logos %}
+                <img src="{{ logo.logo_image_path }}" alt="" class="mb4">
+              {% endfor %}
+            </div>
             <div class="fn fl-ns w-30-ns ph4 mt4 tc">
-                {% if page.cta %}
-                <p class="f4 lh-copy mt0-ns ph3 pv4 bg-blue white">
-                  {{page.cta_text}}
-                  <a class="center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked" href="#0">{{ page.cta }}</a>
-                </p>
-                {% endif %}
-                {% if page.sidebar_text_markdown %}
-                <span class="case-study-sidebar f5 lh-copy mt0-ns pa3 tl dib bg-light-gray">
-                  {{page.sidebar_text_markdown | markdownify}}
-                </span>
-                {% endif %}
-              </div>
+              {% if page.cta %}
+              <p class="f4 lh-copy mt0-ns ph3 pv4 bg-blue white">
+                {{page.cta_text}}
+                <a class="center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked" href="#0">{{ page.cta }}</a>
+              </p>
+              {% endif %}
+              {% if page.sidebar_text_markdown %}
+              <span class="case-study-sidebar f5 lh-copy mt0-ns pa3 tl dib bg-light-gray">
+                {{page.sidebar_text_markdown | markdownify}}
+              </span>
+              {% endif %}
+            </div>
           </div>
         </article>
 

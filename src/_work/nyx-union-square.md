@@ -101,6 +101,11 @@ related_client_logos:
     logo_image_height:
   - logo_image_path: /uploads/maybelline.png
     logo_image_height:
+project_logos:
+  - logo_image_path: /uploads/bigelow.png
+    logo_image_height:
+  - logo_image_path: /uploads/garnier.png
+    logo_image_height:
 ---
 
 

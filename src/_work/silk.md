@@ -3,7 +3,7 @@ client: Silk
 sort_order: 23
 headline: Multi-Market Guerrilla Sampling
 hover_text:
-hero_image_path: /uploads/silk-sampling.png
+hero_image_path: /uploads/silk-group.jpg
 types:
   - street team
 cta_text:

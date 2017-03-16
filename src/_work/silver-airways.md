@@ -1,13 +1,12 @@
 ---
-client: Aetna
-link_to_casestudy: true
-sort_order: 19
-headline: Pop-Up Medicare Answer Centers
-hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching and educating consumers using kiosks in high-traffic retail locations'
-hero_image_path: /uploads/aetna.png
+client: Silver Airways
+sort_order: 27
+headline: In Cuba I Would Visit...
+hover_text: Silver Airways asked travelers in Miami what they would want to visit on a trip to Cuba
+hero_image_path: /uploads/silver-airways.jpg
 types:
-  - insurance activation
-  - popup shop
+  - pr event
+  - street team
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
@@ -16,8 +15,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
-      image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 related_client_logos:
