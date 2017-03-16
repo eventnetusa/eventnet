@@ -1,6 +1,6 @@
 ---
 client: LaCroix Sparkling Water
-link_to_casestudy: true
+link_to_casestudy: false
 sort_order: 21
 headline: Super Bowel XLIV Sampling Program
 hover_text: (insert)
