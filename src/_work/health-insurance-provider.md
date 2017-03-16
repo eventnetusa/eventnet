@@ -1,13 +1,14 @@
 ---
-client: Aetna
-link_to_casestudy: true
-sort_order: 19
-headline: Pop-Up Medicare Answer Centers
-hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching and educating consumers using kiosks in high-traffic retail locations'
-hero_image_path: /uploads/aetna.png
+client: Major Health Insurance Provider
+link_to_casestudy: false
+sort_order: 30
+headline: Double Expandable Community Outreach Vehicle
+hover_text: "Our contract says we can't share their name, but trust us, you'll want to find out about our double expandable truck options for insurance outreach in your territory!"
+hero_image_path: /uploads/double-expandable-truck.png
 types:
   - insurance activation
   - popup shop
+  - vehicle tour
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
