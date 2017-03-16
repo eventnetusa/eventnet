@@ -1,14 +1,14 @@
 ---
 client: 'The White House & Partnership for a Healthier America'
 link_to_casestudy: true
-sort_order: 2
+sort_order: 1
 headline: "Michelle Obama's \"Drink Up\" Campaign Launch"
 hover_text: 'First Lady Michelle Obama  and the Partnership for a Healthier America made a big splash in Watertown, WI to promote the importance of drinking water'
 hero_image_path: /uploads/slide-drink-up.jpg
 types:
   - pr event
 cta_text: Need a turnkey event solution?
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown: |-
   ### QUICK STATS
 
@@ -18,21 +18,31 @@ sidebar_text_markdown: |-
   * Produced event with **3 week lead time**
 content_section:
   - text_block_markdown: >-
-      The White House, through the Partnership for a Healthier America and Young & Rubican, approached EventNetUSA to design and produce First Lady Michelle Obama's national Drink Up Campaign launch.
+      The White House, through the Partnership for a Healthier America and Young
+      & Rubican, approached EventNetUSA to design and produce First Lady Michelle
+      Obama's national Drink Up Campaign launch.
 
-      The water themed carnival, held in the Watertown High School gymnasium, featured Dunk the Principal, water relay races, water ring toss and Ride the Surf.
+      The water themed carnival, held in the Watertown High School gymnasium,
+      featured Dunk the Principal, water relay races, water ring toss and Ride
+      the Surf.
 
-      Actress Eva Longoria, local distributors Wis-Park Inc., 7UP Bottling, and a dozen other water groups also attended the Watertown, WI event.
+      Actress Eva Longoria, local distributors Wis-Park Inc., 7UP Bottling, and
+      a dozen other water groups also attended the Watertown, WI event.
 
       ### A LOOK BEHIND THE SCENES
 
-      * Successfully executed water carnival and media presentation under a tight 3 week timeline with limited information due to White House security restrictions.
+      * Successfully executed water carnival and media presentation under a tight
+      3 week timeline with limited information due to White House security
+      restrictions.
 
-      * Conceptualized and produced carnival water themed games to engage and educate students.
+      * Conceptualized and produced carnival water themed games to engage and
+      educate students.
 
-      * Managed PR event setup and operations including press requirements for Michelle Obama and Eva Longoria
+      * Managed PR event setup and operations including press requirements for
+      Michelle Obama and Eva Longoria
 
-      * Vetted by United States Secret Service including permits and security procedures
+      * Vetted by United States Secret Service including permits and security
+      procedures
     single_image_block:
       single_image_path:
     double_image_block:
@@ -40,7 +50,7 @@ content_section:
       image_2_path:
     video_block:
       video_id: _Inxrfom_hU
-  - text_block_markdown: >-
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
