@@ -1,6 +1,6 @@
 ---
 client: Vlasic Pickles
-link_to_casestudy: true
+link_to_casestudy: false
 sort_order: 10
 headline: Pickle Stand Sampling Tour
 hover_text: Vlasic charmed pickle lovers around America with its mobile Pickle Sampling Stand
@@ -9,10 +9,10 @@ types:
   - vehicle tour
   - street team
 cta_text:
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown:
 content_section:
-  - text_block_markdown: >-
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
