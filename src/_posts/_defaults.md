@@ -1,6 +1,6 @@
 ---
 title:
-date:
+date: 2017-03-16 16:16:01 -0600
 categories:
 excerpt:
 hero_image_path:
