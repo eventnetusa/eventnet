@@ -2,7 +2,7 @@
 client: Garnier Fructis
 link_to_casestudy: false
 sort_order: 27
-headline: Pool Party Hosted by Mario Lopez
+headline: Pool Party by Mario Lopez
 hover_text: "Mario Lopez hosted Garnier's pool party featuring salon service cabanas, VIP experience, bar take over, and more."
 hero_image_path: /uploads/mario-lopez.png
 types:
