@@ -1,14 +1,14 @@
 ---
-client: Ronzoni
-sort_order: 15
-headline: 100 Year Anniversary Celebration
-hover_text: 'What better way to celebrate 100 years in business than by passing out samples at the South Beach Food & Wine Festival next to your giant pasta sand castle?'
-hero_image_path: /uploads/ronzoni.png
+client: LaCroix Sparkling Water
+sort_order: 21
+headline: Super Bowel XLIV Sampling Program
+hover_text: (insert)
+hero_image_path: /uploads/lacroix-superbowl.JPG
 types:
   - pr event
   - pr stunt
 cta_text:
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown:
 content_section:
   - text_block_markdown:
