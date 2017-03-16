@@ -3,7 +3,7 @@ client: Ronzoni
 link_to_casestudy: false
 sort_order: 5
 headline: 100 Yr Anniversary Celebration
-hover_text: 'What better way to celebrate 100 years in business than by sampleing at the South Beach Food & Wine Festival next to a giant pasta sand castle?'
+hover_text: 'We helped Ronzoni celebrate 100 years in business with a giant pasta sand castle and sampling at the South Beach Food & Wine Festival'
 hero_image_path: /uploads/ronzoni.png
 types:
   - pr event
