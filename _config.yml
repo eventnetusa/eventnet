@@ -112,7 +112,7 @@ defaults:
     values:
       layout: "blog_item"
       class: "post_item"
-      _hide_content: true
+     # _hide_content: true
       _comments:
         content_sections: "NOTE: add all post content here!"
       # permalink: "/blog/:slug"
