@@ -1,7 +1,7 @@
 ---
 client: Silver Airways
 sort_order: 27
-headline: In Cuba I Would Visit...
+headline: Guerrilla Marketing Campaign
 hover_text: Silver Airways asked travelers in Miami what they would visit if on a trip to Cuba with a giant chalk wall
 hero_image_path: /uploads/silver-airways-chalk-wall.jpg
 types:
