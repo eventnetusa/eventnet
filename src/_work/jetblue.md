@@ -1,14 +1,14 @@
 ---
 client: JetBlue Airlines
 sort_order: 16
-headline: JetBlue connected with consumers with its Story Booth
-hover_text: (insert)
+headline: "Consumers travelled down memory lane in JetBlue's Story Booth"
+hover_text: 'Launched in Rockefeller Plaza followed by a multi-city tour, the Story Booth invited visitors to record video testimony of their experiences flying JetBlue. The best stories were used in TV commercials and on the Web.'
 hero_image_path: /uploads/jetblue-story-booth.jpg
 types:
   - pr event
   - pr stunt
 cta_text:
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown:
 content_section:
   - text_block_markdown:
