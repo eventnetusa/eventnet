@@ -1,6 +1,6 @@
 ---
 client: Ghiradelli
-link_to_casestudy: true
+link_to_casestudy: false
 sort_order: 26
 headline: Sampling with Santa
 hover_text: (insert)
