@@ -31,6 +31,12 @@ types:
   - retail
   - street team
 
+categories:
+  - experiential marketing
+  - eventnetusa
+  - press
+  - events
+
 collections:
   work:
     output: true
