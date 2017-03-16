@@ -5,8 +5,7 @@ headline: Super Bowel XLIV Sampling Program
 hover_text: (insert)
 hero_image_path: /uploads/lacroix-superbowl.JPG
 types:
-  - pr event
-  - pr stunt
+  - street team
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
