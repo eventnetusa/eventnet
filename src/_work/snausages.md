@@ -3,7 +3,7 @@ client: Snausages
 link_to_casestudy: false
 sort_order: 17
 headline: Snausages Dog Days in the Park
-hover_text: Snausages took over 10 baseball stadiums with Dog Day in the Park. Partnerships with local animal shelters were developed to extend program reach and raise donations.
+hover_text: Dog Days in the Park took over 10 baseball stadiums and partnerships with local animal shelters were developed to extend program reach and raise donations.
 hero_image_path: /uploads/mets-game-august-20-2005-040.jpg
 types:
   - pr event
