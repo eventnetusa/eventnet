@@ -1,10 +1,10 @@
 ---
 client: LaCroix Sparkling Water
-link_to_casestudy: true
-sort_order: 21
-headline: Super Bowel XLIV Sampling Program
-hover_text: (insert)
-hero_image_path: /uploads/lacroix-superbowl.JPG
+link_to_casestudy: false
+sort_order: 29
+headline: 'Sample & Scoot in South Florida'
+hover_text: LaCroix hit the streets to sample its wildly popular sparkling water using custom scooters and Mini Coopers
+hero_image_path: /uploads/lacroix-mini-and-scooters.jpg
 types:
   - street team
 cta_text:
