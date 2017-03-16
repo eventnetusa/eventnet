@@ -1,13 +1,13 @@
 ---
 client: LaCroix Sparkling Water
 sort_order: 6
-headline: Fall 2016 Guerilla Sampling Program
+headline: "Fall '16 Guerilla Sampling Program"
 hover_text: 'For over 11 years, LaCroix Sparkling Water has entrusted us with placing their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'
 hero_image_path: /uploads/lacroix-case-1.jpg
 types:
   - street team
 cta_text: Want to put your brand in the hands of consumers?
-cta: Let's talk
+cta: "Let's talk"
 sidebar_text_markdown: |-
   ### QUICK STATS
 
@@ -18,15 +18,24 @@ sidebar_text_markdown: |-
   * Gave-away **12** instant prizes on October 30th to families who approached our teams with the winning phrase ‘I live LaCroix’
 content_section:
   - text_block_markdown: >-
-      A true guerilla marketing success story, LaCroix’s cult following can be largely attributed to their decision to market experientially over traditional methods like print or TV advertising.
+      A true guerilla marketing success story, LaCroix’s cult following can be
+      largely attributed to their decision to market experientially over
+      traditional methods like print or TV advertising.
 
-      EventNetUSA has supported their efforts through turnkey, in-field programs that continue to evolve with the brand, the latest being the Fall 2016 multi-market Sampling Program.
+      EventNetUSA has supported their efforts through turnkey, in-field programs
+      that continue to evolve with the brand, the latest being the Fall 2016
+      multi-market Sampling Program.
 
       ### A LOOK BEHIND THE SCENES
 
-      * Executed 2 week sampling program taking place simultaneously in Austin, Chicago, Ft. Lauderdale, Los Angeles, Seattle and San Francisco
-      * Contracted, trained, and managed 6 teams of demographically targeted brand ambassadors and tour managers in selected markets
-      * Identified key locations within predetermined markets that allowed us to reach a concentrated number of the targeted demographic including top rated schools, PTA meetings, specialty gyms, youth sporting events, fall festivals, & more
+      * Executed 2 week sampling program taking place simultaneously in Austin,
+      Chicago, Ft. Lauderdale, Los Angeles, Seattle and San Francisco
+      * Contracted, trained, and managed 6 teams of demographically targeted
+      brand ambassadors and tour managers in selected markets * Identified key
+      locations within predetermined markets that allowed us to reach
+      a concentrated number of the targeted demographic including top rated
+      schools, PTA meetings, specialty gyms, youth sporting events, fall
+      festivals, & more
     single_image_block:
       single_image_path: /uploads/lacroix-case-4.jpg
     double_image_block:
