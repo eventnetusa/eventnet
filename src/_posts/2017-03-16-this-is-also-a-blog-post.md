@@ -1,6 +1,7 @@
 ---
 title: Another sample blog post
 excerpt: This is a blog excerpt, and will be displayed on the blog index but not in the blog post itself.
+hero_image_path: /uploads/essie.jpg
 content_section:
   - text_block_markdown: >-
       NYX Professional Makeup partnered with EventNetUSA to produce a mobile

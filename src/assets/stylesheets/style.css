@@ -7206,20 +7206,21 @@ li.dot.is-selected {
   border: 0 none;
   box-sizing: border-box; }
 
-.post .copy-wrapper p {
-  margin-top: 0;
-  font-size: 1rem;
-  line-height: 1.5;
-  font-family: raleway next, raleway, sans-serif; }
-
-.post .copy-wrapper ul {
-  margin-top: 2rem;
-  font-family: raleway next, raleway, sans-serif; }
-  .post .copy-wrapper ul li {
+.post .copy-wrapper {
+  margin-top: -150px; }
+  .post .copy-wrapper p {
+    margin-top: 0;
     font-size: 1rem;
-    margin-bottom: 1rem;
     line-height: 1.5;
     font-family: raleway next, raleway, sans-serif; }
+  .post .copy-wrapper ul {
+    margin-top: 2rem;
+    font-family: raleway next, raleway, sans-serif; }
+    .post .copy-wrapper ul li {
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      line-height: 1.5;
+      font-family: raleway next, raleway, sans-serif; }
 
 .post .case-study-sidebar strong {
   font-weight: 500; }

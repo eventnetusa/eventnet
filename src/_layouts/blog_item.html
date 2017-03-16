@@ -11,7 +11,7 @@
       <div class="wrapper">
 
         <article class="cf">
-          <div class="cover bg-center raleway" style="background-image: url(/uploads/blog.jpg); height: 300px">
+          <div class="cover bg-center raleway" style="background-image: url({{page.hero_image_path}}); height: 500px">
             <div class="bg-black-30" style="height: 100%;">
               <div class="tc near-white pv6 pb3 pl5">
                 <h1 class="f1 lh-headline ma0 editable">Blog</h1>
@@ -19,8 +19,9 @@
             </div>
           </div>
 
-          <div class="w-60 center pa4 cf raleway">
-            <div class="ph4 mt4 copy-wrapper">
+          <div class="w-70 center pa4 cf raleway">
+            <div class="ph5 pt3 copy-wrapper bg-white">
+              <h1>{{page.title}}</h1>
               {% for block in page.content_section %}
                 {% if block.text_block_markdown %}
                   {{ block.text_block_markdown | markdownify }}
