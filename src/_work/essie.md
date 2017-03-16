@@ -1,6 +1,6 @@
 ---
 client: Essie
-link_to_casestudy: true
+link_to_casestudy: false
 sort_order: 13
 headline: Pop-up Nail Salon
 hover_text: (Insert)
