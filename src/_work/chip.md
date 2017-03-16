@@ -1,7 +1,7 @@
 ---
 client: "Children's Health Insurance Program"
 sort_order: 25
-headline: Community Outreach and Education
+headline: Community Outreach
 hover_text: "CHIP turned to EventNetUSA to educate parents about the benefits and availability of the Children's Health Insurance Program (CHIP)"
 hero_image_path: /uploads/chip.png
 types:
