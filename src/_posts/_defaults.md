@@ -1,6 +1,7 @@
 ---
 title:
 date:
+categories:
 excerpt:
 hero_image_path:
 content_section:
