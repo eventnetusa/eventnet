@@ -103,7 +103,7 @@ defaults:
       path: "blog.html"
     values:
       layout: "blog_index"
-      class: "post"
+      class: "post_index"
       permalink: "/blog/"
   -
     scope:
@@ -111,7 +111,7 @@ defaults:
       type: "posts"
     values:
       layout: "blog_item"
-      class: "post"
+      class: "post_item"
       _hide_content: true
       # permalink: "/blog/:slug"
 
