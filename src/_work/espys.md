@@ -3,10 +3,10 @@ client: Clear for Men
 sort_order: 20
 headline: ESPYS Sampling Program
 hover_text: (insert)
-hero_image_path: /uploads/clear-men-at-the-espys.jpg
+hero_image_path: /uploads/clear-men-espys.jpg
 types:
   - pr event
-  - pr stunt
+  - street team
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
