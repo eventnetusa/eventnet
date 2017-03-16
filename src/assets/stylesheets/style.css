@@ -7208,8 +7208,10 @@ li.dot.is-selected {
 
 .post_item .copy-wrapper {
   margin-top: -150px; }
+  .post_item .copy-wrapper h1 {
+    margin-bottom: 0; }
   .post_item .copy-wrapper p {
-    margin-top: 0;
+    margin-top: 2rem;
     font-size: 1rem;
     line-height: 1.5;
     font-family: raleway next, raleway, sans-serif; }

@@ -5,6 +5,8 @@
 
   <body class="{% if page.class %}{{ page.class }}{% endif %}">
 
+  {% assign features = site.posts | where:"featured", true %}
+
     {% include header.html %}
 
     <div class="page-content">
