@@ -1,9 +1,9 @@
 ---
-client: "Children's Health Insurance Program"
-sort_order: 25
-headline: CHIP Community Outreach and Education
+client: Delta Dental
+sort_order: 26
+headline: Community Outreach and Enrollment
 hover_text: (insert)
-hero_image_path: /uploads/chip.png
+hero_image_path: /uploads/delta-dental.jpg
 types:
   - insurance activation
 cta_text:
