@@ -7284,4 +7284,7 @@ textarea {
 .raleway {
   font-family: 'Raleway', sans-serif; }
 
+header, footer {
+  max-width: 1400px; }
+
 /*# sourceMappingURL=style.css.map */

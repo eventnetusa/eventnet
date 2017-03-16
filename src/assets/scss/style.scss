@@ -31,3 +31,7 @@ The main SCSS file for everything, yep
     font-family: 'Raleway', sans-serif;
   }
 
+  header, footer {
+    max-width: 1400px;
+  }
+
