@@ -11,6 +11,8 @@ content_section:
 
 
 
+
+
       sed quia consequuntur magni dolores eos qui ratione voluptatem sequi
       nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
       consectetur, adipisci velit, sed quia non numquam eius modi tempora
@@ -19,6 +21,8 @@ content_section:
       laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum
       iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae
       consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.
+
+
 
 
 
@@ -31,6 +35,8 @@ content_section:
     video_block:
       video_id:
 ---
+
+
 DO NOT ADD POST CONTENT HERE!
 
 Add all content in Content Sections.
