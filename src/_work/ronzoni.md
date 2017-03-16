@@ -8,6 +8,7 @@ hero_image_path: /uploads/ronzoni.png
 types:
   - pr event
   - pr stunt
+  - street team
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
