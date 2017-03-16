@@ -2,7 +2,7 @@
 client: Aetna
 sort_order: 23
 headline: Pop-Up Medicare Answer Centers
-hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching consumers using kiosks in high-traffic retail locations'
+hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching and educating consumers using kiosks in high-traffic retail locations'
 hero_image_path: /uploads/aetna.png
 types:
   - insurance activation
