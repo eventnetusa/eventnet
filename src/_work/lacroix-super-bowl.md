@@ -2,8 +2,8 @@
 client: LaCroix Sparkling Water
 link_to_casestudy: false
 sort_order: 21
-headline: Super Bowel XLIV Sampling Program
-hover_text: LaCroix kept Super Bowl XLIV fans hydrated and refreshed on the streets of Ft. Lauderdale and Miami
+headline: Sampling @ Superbowl XLIV
+hover_text: EventNetUSA kept Super Bowl XLIV fans hydrated and refreshed with LaCroix Sparkling Water on the streets of Ft. Lauderdale and Miami
 hero_image_path: /uploads/lacroix-superbowl.JPG
 types:
   - street team

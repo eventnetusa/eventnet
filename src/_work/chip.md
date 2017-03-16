@@ -1,8 +1,8 @@
 ---
 client: "Children's Health Insurance Program"
 sort_order: 25
-headline: CHIP Community Outreach and Education
-hover_text: (insert)
+headline: Community Outreach
+hover_text: "CHIP partnered with us to educate targeted consumers about the benefits and availability of the Children's Health Insurance Program (CHIP)"
 hero_image_path: /uploads/chip.png
 types:
   - insurance activation

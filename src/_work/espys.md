@@ -1,6 +1,6 @@
 ---
 client: Clear for Men
-link_to_casestudy: true
+link_to_casestudy: false
 sort_order: 20
 headline: ESPYS Sampling Program
 hover_text: (insert)

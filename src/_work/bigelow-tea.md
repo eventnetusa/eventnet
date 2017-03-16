@@ -4,7 +4,7 @@ link_to_casestudy: true
 sort_order: 7
 headline: Mobile Tea Bar US Sampling Tours
 hover_text: Bigelow warmed hearts and hands across America sampling from its Mobile Tea Bar
-hero_image_path: /uploads/bigelow-case-4.jpg
+hero_image_path: /uploads/bigelow-mtb.jpg
 types:
   - vehicle tour
   - street team

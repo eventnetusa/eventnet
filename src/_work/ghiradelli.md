@@ -3,10 +3,11 @@ client: Ghiradelli
 link_to_casestudy: false
 sort_order: 26
 headline: Sampling with Santa
-hover_text: (insert)
+hover_text: 'When Ghirahelli asked us to produce a holiday sampling,  we enlisted the help of Santa and his elves in shopping malls across America.'
 hero_image_path: /uploads/ghiradelli.png
 types:
   - street team
+  - retail
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:

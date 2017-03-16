@@ -1,13 +1,13 @@
 ---
-client: Aetna
+client: Garnier Fructis
 link_to_casestudy: false
-sort_order: 26
-headline: Pop-Up Answer Centers
-hover_text: 'When Medicare Part D launched, Aetna wasted no time reaching and educating consumers using kiosks in high-traffic retail locations'
-hero_image_path: /uploads/aetna.png
+sort_order: 27
+headline: Pool Party by Mario Lopez
+hover_text: "Mario Lopez hosted Garnier's pool party featuring salon service cabanas, VIP experience, bar take over, and more."
+hero_image_path: /uploads/mario-lopez.png
 types:
-  - insurance activation
-  - popup shop
+  - pr event
+  - pr stunt
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
@@ -16,8 +16,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
-      image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 related_client_logos:
