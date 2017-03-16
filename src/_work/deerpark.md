@@ -1,6 +1,6 @@
 ---
 client: Nestle Deer Park
-headline: Deer Park Glass Enclosed Event Truck
+headline: Deer Park Glass Enclosed Recycling Truck
 subheadline: Deer Park educates consumers on the importance of recycling water bottles
 hover_tagline: Deer Park educates consumers on the importance of recycling water bottles
 hero_image_path: /uploads/nestle-deer-park.jpg
