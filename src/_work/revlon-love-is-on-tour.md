@@ -1,5 +1,6 @@
 ---
 client: Revlon
+link_to_casestudy: true
 sort_order: 5
 headline: 'LOVE IS ON: Mobile Pop-Up Shop'
 hover_text: "Revlon turned heads across the US with its 53' pop-up shop on wheels"

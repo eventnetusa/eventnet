@@ -1,5 +1,6 @@
 ---
 client: Snausages
+link_to_casestudy: true
 sort_order: 17
 headline: Snausages Dog Days in the Park
 hover_text: Snausages took over 10 major and minor league baseball stadiums with Dog Day in the Park. Partnerships with local animal shelters were developed to extend the program’s reach and donations were raised to support local efforts.

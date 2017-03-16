@@ -51,13 +51,24 @@ cta_text: Let's get started
           {% for item in work_all %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -71,13 +82,24 @@ cta_text: Let's get started
           {% for item in work_vehicletours %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">vehicle tour</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -91,13 +113,24 @@ cta_text: Let's get started
           {% for item in work_opening %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">store grand opening</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -111,13 +144,24 @@ cta_text: Let's get started
           {% for item in work_event %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">pr event</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -131,13 +175,24 @@ cta_text: Let's get started
           {% for item in work_stunt %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">pr stunt</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -151,13 +206,24 @@ cta_text: Let's get started
           {% for item in work_popup %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">pop-up shop</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -171,13 +237,24 @@ cta_text: Let's get started
           {% for item in work_insurance %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">insurance activation</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -191,13 +268,24 @@ cta_text: Let's get started
           {% for item in work_retail %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">retail integration</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}
@@ -211,13 +299,24 @@ cta_text: Let's get started
           {% for item in work_street %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
+                {% if item.link_to_casestudy == true %}
                 <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
                   <span class="white dtc v-top w-100 h-100 child pa4">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">street team</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                    </span>
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                  </span>
                 </a>
+                {% else %}
+                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
+                  <span class="white dtc v-top w-100 h-100 child pa4">
+                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                  </span>
+                </span>
+                {% endif %}
               </div>
             </div>
           {% endfor %}

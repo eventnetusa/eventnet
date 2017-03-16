@@ -1,5 +1,6 @@
 ---
 client: Prince Pasta
+link_to_casestudy: true
 sort_order: 11
 headline: Pasta Food Truck Tour
 hover_text: (Insert)

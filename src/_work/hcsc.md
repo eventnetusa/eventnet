@@ -1,5 +1,6 @@
 ---
 client: Health Care Service Corporation
+link_to_casestudy: true
 sort_order: 7
 headline: Cross-Channel Community Outreach Program
 hover_text: See how Health Care Service Corporation educated consumers when the Affordable Care Act launched

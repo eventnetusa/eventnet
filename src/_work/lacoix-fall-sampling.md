@@ -1,5 +1,6 @@
 ---
 client: LaCroix Sparkling Water
+link_to_casestudy: true
 sort_order: 6
 headline: "Fall '16 Guerilla Sampling Program"
 hover_text: 'For over 11 years, LaCroix has entrusted us with placing their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'

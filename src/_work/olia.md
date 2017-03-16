@@ -1,5 +1,6 @@
 ---
 client: Olia
+link_to_casestudy: true
 sort_order: 12
 headline: Mobile Salon
 hover_text: (Insert)
