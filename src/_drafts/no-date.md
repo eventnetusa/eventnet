@@ -1,6 +1,6 @@
 ---
 title: no date
-date:
+date: 2017-03-14 00:00:00
 categories:
 featured_post: false
 excerpt:
