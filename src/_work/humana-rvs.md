@@ -1,7 +1,7 @@
 ---
 client: Humana
 link_to_casestudy: false
-sort_order: 32
+sort_order: 33
 headline: "\"Let's Talk\" Medicare @ Walmart"
 hover_text: "10 custom RVs, 35 states, 350 cities, 1650 Walmart's, resulted in 900% increase of Humana Medicare spending at targeted Walmart's - ask us how we did it!"
 hero_image_path: /uploads/humana-rvs.png
