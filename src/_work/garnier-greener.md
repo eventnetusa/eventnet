@@ -1,6 +1,6 @@
 ---
 client: Garnier + TerraCycle
-link_to_casestudy: true
+link_to_casestudy: false
 sort_order: 7
 headline: Garnier Greener Recycling Tour
 hover_text: Garnier teaches consumers about the importance of recycling and earth-friendly products in an eye catching glass truck
