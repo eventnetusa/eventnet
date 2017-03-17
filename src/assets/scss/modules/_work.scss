@@ -14,9 +14,39 @@
       }
   }
 
+  @media screen and (max-width: 767px) {
+    .child h1, .child .more {
+      display: none;
+    }
+    .child p {
+      font-size: 10px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .child {
+      opacity: 1;
+      .more a {
+        padding: 10px 15px;
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+      }
+      h1 {
+        font-size: 1rem;
+      }
+    }
+  }
+
   @media screen and (min-width: 960px) {
       .hero {
           height: 500px;
+      }
+  }
+
+  @media screen and (max-width: 1199px) {
+      .hover-text {
+          display: none
       }
   }
 

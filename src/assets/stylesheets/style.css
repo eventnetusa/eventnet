@@ -7156,9 +7156,30 @@ li.dot.is-selected {
   .work .hero {
     height: 300px; } }
 
+@media screen and (max-width: 767px) {
+  .work .child h1, .work .child .more {
+    display: none; }
+  .work .child p {
+    font-size: 10px; } }
+
+@media screen and (max-width: 768px) {
+  .work .child {
+    opacity: 1; }
+    .work .child .more a {
+      padding: 10px 15px;
+      position: absolute;
+      bottom: 10px;
+      left: 10px; }
+    .work .child h1 {
+      font-size: 1rem; } }
+
 @media screen and (min-width: 960px) {
   .work .hero {
     height: 500px; } }
+
+@media screen and (max-width: 1199px) {
+  .work .hover-text {
+    display: none; } }
 
 .work .nav-item {
   display: inline; }
