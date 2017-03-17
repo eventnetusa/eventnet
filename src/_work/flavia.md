@@ -1,10 +1,10 @@
 ---
-client: Prince Pasta
+client: Flavia Coffee
 link_to_casestudy: false
-sort_order: 11
+sort_order: 33
 headline: 100th Anniversary Tour
-hover_text: 'Our Prince Food Truck delivered 77k impressions, 16k samples, and 15k coupons at grocery stores and events around the Northeast. Ask us how!'
-hero_image_path: /uploads/prince-pasta.jpg
+hover_text: 'Executed 4 year sampling and sales program for Flavia, building national brand presence through various direct consumer engagement methods.'
+hero_image_path: /uploads/flavia-kiosk.jpg
 types:
   - vehicle tour
   - street team
