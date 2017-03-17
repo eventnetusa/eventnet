@@ -2,7 +2,7 @@
 client: "Ciroc + Sam's Club"
 sort_order: 24
 headline: "Sam's Club Promotion"
-hover_text: "Our challenge - increase Ciroc sales and brand presence in Sam's Clubs around the country. The solution - Pass out brand recipe cards in 47 markets over 2 days (simultaneously)."
+hover_text: "Ciroc challenged us to increase sales and brand presence in Sam's Clubs around the U.S. with a 2 day, 47 market sampling program. Ask us how we did it!"
 hero_image_path: /uploads/ciroc.jpg
 types:
   - street team
