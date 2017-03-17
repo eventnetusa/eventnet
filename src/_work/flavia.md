@@ -4,7 +4,7 @@ link_to_casestudy: false
 sort_order: 33
 headline: 100th Anniversary Tour
 hover_text: 'Executed 4 year sampling and sales program for Flavia, building national brand presence through various direct consumer engagement methods.'
-hero_image_path: /uploads/flavia-kiosk.jpg
+hero_image_path: /uploads/flavia-kiosk2.jpg
 types:
   - vehicle tour
   - street team
@@ -22,9 +22,6 @@ content_section:
       image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
     video_block:
       video_id:
-project_logos:
-  - logo_image_path:
-    logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/advil.png
     logo_image_height:
