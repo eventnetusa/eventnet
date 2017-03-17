@@ -7,6 +7,7 @@ hero_image_path: /uploads/garnier-stylebar.jpg
 types:
   - street team
   - retail
+  - vehicle tour
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
