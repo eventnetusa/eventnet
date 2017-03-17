@@ -6,9 +6,7 @@ headline: '4 Yr Sampling & Sales Program'
 hover_text: 'Executed 4 year sampling and sales program for Flavia, building national brand presence through various direct consumer engagement methods.'
 hero_image_path: /uploads/flavia-kiosk2.jpg
 types:
-  - vehicle tour
   - street team
-  - pr event
   - retail
 cta_text:
 cta: "Let's talk"
