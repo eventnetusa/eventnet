@@ -2,12 +2,14 @@
 client: Prince Pasta
 link_to_casestudy: false
 sort_order: 11
-headline: Pasta Food Truck Tour
-hover_text: (Insert)
+headline: 100th Anniversary Tour
+hover_text: 'Produced Pasta Food Truck Tour visiting retail locations and hosting events. Delivered 77k impressions, 16k pasta samples, and 15k coupons - Ask us how we did it!'
 hero_image_path: /uploads/prince-pasta.jpg
 types:
   - vehicle tour
   - street team
+  - pr event
+  - retail
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
