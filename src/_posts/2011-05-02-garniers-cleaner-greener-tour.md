@@ -1,5 +1,5 @@
 ---
-title: "Garnier's Cleaner Greener Tour in Star Magazine"
+title: "Garnier's Cleaner Greener Tour"
 date: 2011-05-02 00:00:00
 categories:
   - press
@@ -8,26 +8,34 @@ excerpt: "Star Magazine featured Garnier's The Cleaner Green Tour in their StarB
 hero_image_path: /uploads/garnier-cleaner-greener-kelly-katie.jpg
 content_section:
   - text_block_markdown: >-
-      *Excerpt from*
+      #### *Excerpt from Star Magazine:*
 
 
 
 
 
-      #### The Buzz Goes Green: The latest and greatest eco-friendly products,
-      people, and trends.
+      <div
+      id="the-buzz-goes-green-the-latest-and-greatest-eco-friendly-products-people-and-trends"><strong>"The
+      Buzz Goes Green: The latest and greatest eco-friendly products, people, and
+      trends.</strong></div>
 
 
 
 
 
-      <div>"PRETTY PEOPLE - Gossip Girls Kelly Rutherford and Katie Cassidy
-      joined forces with Garnier to launch The Cleaner Greener Tour in NYC.
-      Inspired by harsh facts - personal care and beauty products account for
-      one-third of all landfill waste-- the cosmetics company recently partnered
-      with TerraCycle to launch Garnier Fructis Pure Clean. The biodegradable
-      formulas are packaged in 50 percent postconsumer recycled plastics. Now,
-      that's something to gossip about!"</div>
+      <div>&nbsp;</div>
+
+
+
+
+
+      <div>PRETTY PEOPLE - Gossip Girls Kelly Rutherford and Katie Cassidy joined
+      forces with Garnier to launch The Cleaner Greener Tour in NYC. Inspired by
+      harsh facts - personal care and beauty products account for one-third of
+      all landfill waste-- the cosmetics company recently partnered with
+      TerraCycle to launch Garnier Fructis Pure Clean. The biodegradable formulas
+      are packaged in 50 percent postconsumer recycled plastics. Now, that's
+      something to gossip about!"</div>
     single_image_block:
       single_image_path: /uploads/starbeauty-garnier-greener-press.png
     double_image_block:
