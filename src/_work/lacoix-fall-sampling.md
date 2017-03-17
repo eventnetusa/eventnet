@@ -44,6 +44,9 @@ content_section:
       image_2_path: /uploads/lacroix-fall-sampling-miami.JPG
     video_block:
       video_id:
+project_logos:
+  - logo_image_path:
+    logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/mcdonalds.png
     logo_image_height: '50%'

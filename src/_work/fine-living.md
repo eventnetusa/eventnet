@@ -48,6 +48,9 @@ content_section:
       image_2_path: /uploads/fine-living-island.jpg
     video_block:
       video_id:
+project_logos:
+  - logo_image_path:
+    logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/snausages.png
     logo_image_height: '60%'

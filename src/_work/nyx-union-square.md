@@ -106,6 +106,11 @@ content_section:
       image_2_path: /uploads/your-nyx-store-is-now-open.jpg
     video_block:
       video_id:
+project_logos:
+  - logo_image_path: /uploads/bigelow.png
+    logo_image_height:
+  - logo_image_path: /uploads/garnier.png
+    logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/bigelow.png
     logo_image_height:
@@ -116,11 +121,6 @@ related_client_logos:
   - logo_image_path: /uploads/humana.png
     logo_image_height:
   - logo_image_path: /uploads/maybelline.png
-    logo_image_height:
-project_logos:
-  - logo_image_path: /uploads/bigelow.png
-    logo_image_height:
-  - logo_image_path: /uploads/garnier.png
     logo_image_height:
 ---
 

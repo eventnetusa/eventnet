@@ -18,6 +18,9 @@ content_section:
       image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
     video_block:
       video_id:
+project_logos:
+  - logo_image_path:
+    logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/advil.png
     logo_image_height:

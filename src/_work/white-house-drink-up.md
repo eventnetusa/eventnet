@@ -58,6 +58,9 @@ content_section:
       image_2_path: /uploads/drink-up-michelle-obama.jpg
     video_block:
       video_id:
+project_logos:
+  - logo_image_path:
+    logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/cbs.png
     logo_image_height:
