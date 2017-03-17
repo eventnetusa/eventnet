@@ -3,7 +3,7 @@ client: Prince Pasta
 link_to_casestudy: false
 sort_order: 11
 headline: 100th Anniversary Tour
-hover_text: 'Food Truck delivered 77k impressions, 16k pasta samples, and 15k coupons at grocery stores and events - Ask us how we did it!'
+hover_text: 'Our custom Prince Food Truck delivered 77k impressions, 16k pasta samples, and 15k coupons at grocery stores and events - Ask us how we did it!'
 hero_image_path: /uploads/prince-pasta.jpg
 types:
   - vehicle tour
