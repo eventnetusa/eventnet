@@ -2,12 +2,13 @@
 client: Essie
 link_to_casestudy: false
 sort_order: 13
-headline: Pop-up Nail Salon
-hover_text: (Insert)
+headline: Pop-up Manicure Suite
+hover_text: 'Executed 3 day pop-up Manicure Suite for essie, delivering over 220 free manicures to mall shoppers. Included appearances from Dallas Cowboys Cheerleaders and Beauty Influencers'
 hero_image_path: /uploads/essie.jpg
 types:
   - popup shop
   - street team
+  - retail
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
