@@ -1,10 +1,10 @@
 ---
-client: Major Health Insurance Provider
+client: Humana
 link_to_casestudy: false
-sort_order: 19
-headline: Community Outreach Vehicle
-hover_text: "Contractually we can't share this client's name, but trust us, you'll want to learn about our expandable trucks for community outreach!"
-hero_image_path: /uploads/double-expandable-truck.png
+sort_order: 32
+headline: "\"Let's Talk\" Medicare @ Walmart"
+hover_text: "10 custom RVs, 35 states, 350 cities, 1650 Walmart's, resulted in 900% increase of Humana Medicare spending at targeted Walmart's - ask us how we did it!"
+hero_image_path: /uploads/humana-rvs.png
 types:
   - insurance activation
   - popup shop
