@@ -3,7 +3,7 @@ client: Humana
 link_to_casestudy: false
 sort_order: 36
 headline: Medicare Retention Program
-hover_text: Turnkey 4 yr program delivering 90 seminars in 5 markets to 20k members and 6k health classes in 30 markets with 180k visitations.
+hover_text: Turnkey 4 yr program delivering 90 Medicare seminars in 5 markets to 20k members and 6k health classes in 30 markets with 180k visitations.
 hero_image_path: /uploads/humana-senior-seminars-in-hotels.JPG
 types:
   - insurance activation
