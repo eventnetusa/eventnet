@@ -16,8 +16,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
-      image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 related_client_logos:
