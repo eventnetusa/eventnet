@@ -1,7 +1,7 @@
 ---
 client: Cetaphil
 link_to_casestudy: false
-sort_order: 35
+sort_order: 32
 headline: Union Square Pop-Up Shop
 hover_text: 'Pop-up Shop included preview party, product sampling and demos, celebrity guest Molly Shannon and media coverage.'
 hero_image_path: /uploads/cetaphil.jpg
