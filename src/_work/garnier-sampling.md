@@ -1,9 +1,9 @@
 ---
-client: Ciroc
-sort_order: 24
-headline: In-Store Sampling
-hover_text: (insert)
-hero_image_path: /uploads/ciroc.jpg
+client: Garnier Fructis
+sort_order: 31
+headline: 'Style Bar Demos & Sampling'
+hover_text: '85 events, 20 cities, 1.2M impressions, 580k product samples - ask us how we did it'
+hero_image_path: /uploads/garnier-stylebar.jpg
 types:
   - street team
   - retail
