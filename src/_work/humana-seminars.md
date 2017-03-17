@@ -2,8 +2,8 @@
 client: Humana
 link_to_casestudy: false
 sort_order: 36
-headline: Active Outlook Retention Program
-hover_text: 'Produced 4 year Medicare Member retention program. Hosted 90 seminars in 5 markets, reaching 20k members; and 6k health classes in 30 markets garnering 180k visitations.'
+headline: Active Outlook Medicare Member Retention Program
+hover_text: 'Produced and managed 4 yr program, hosting 90 seminars in 5 markets, reaching 20k members; and 6k health classes in 30 markets garnering 180k visitations.'
 hero_image_path: /uploads/humana-senior-seminars-in-hotels.JPG
 types:
   - insurance activation
