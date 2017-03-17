@@ -3,7 +3,7 @@ client: Delta Dental
 sort_order: 22
 headline: Community Outreach and Enrollment
 hover_text: 'Nine week program targeting Navarro Discount Pharmacy shoppers. Offered oral health education, free dental screenings, photo activation and giveaways.'
-hero_image_path: /uploads/delta-dental-team.jpg
+hero_image_path: /uploads/delta-dental-event.png
 types:
   - insurance activation
 cta_text:
