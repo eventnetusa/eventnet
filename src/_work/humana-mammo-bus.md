@@ -3,7 +3,7 @@ client: Humana
 link_to_casestudy: false
 sort_order: 36
 headline: Gap Closing Screening Bus
-hover_text: 'Humana turned to EventNetUSA for mobile solution to closing gaps of care for targeted seniors. Included mammograms, bone density scans and one-on-one consultations.'
+hover_text: 'Produced/managed mobile program for closing gaps of care for targeted seniors. Included mammograms, bone density scans and one-on-one consultations.'
 hero_image_path: /uploads/humana-screening-bus.jpg
 types:
   - insurance activation
