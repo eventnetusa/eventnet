@@ -9,19 +9,8 @@ hero_image_path: /uploads/maybelline-garnier-great-beauty-tour-3.JPG
 content_section:
   - text_block_markdown: >-
       "Maybelline New York-Garnier is well on its way to taking over the beauty
-      world, due in no small part to innovative ways of reaching consumers.
-
-
-
-
-
-
-
-
-
-
-
-
+      world, due in no small part to innovative ways of reaching
+      consumers.&nbsp;
 
 
 
@@ -39,33 +28,9 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       A custom-made tractor trailer was created for the tour, outfi tted with
       both brands’ advertisements, beauty visuals and rooms large enough to hold
       one-on-one makeup and skin consultations.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -79,33 +44,9 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       Also during the year was the Garnier Fructis Style Tour, the brand’s first
       national mobile marketing tour, which visited 20 markets executing more
       than 85 events.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -115,18 +56,6 @@ content_section:
       stylist consultations, one-on-one experiences with consumers, product demos
       and entertainment to engage consumers for a complete Garnier Fructis
       experience.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
