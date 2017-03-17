@@ -7278,6 +7278,12 @@ li.dot.is-selected {
   .about .history h1 {
     font-size: 1.25rem; } }
 
+@media (min-width: 300px) and (max-width: 767px) {
+  .about .services {
+    float: none;
+    width: 90%;
+    margin: 0 auto; } }
+
 .about .offerings {
   display: -webkit-box;
   display: flex; }
@@ -7295,8 +7301,14 @@ li.dot.is-selected {
 
 .about .grid-sizer,
 .about .grid-item {
-  width: 33.33%;
+  width: 100%;
   /*margin-right: 1em;*/ }
+
+@media (min-width: 767px) {
+  .about .grid-sizer,
+  .about .grid-item {
+    width: 33.33%;
+    /*margin-right: 1em;*/ } }
 
 .frame {
   display: block;

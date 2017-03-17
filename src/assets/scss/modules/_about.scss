@@ -40,6 +40,14 @@
     }
   }
 
+  .services {
+    @media (min-width: 300px) and (max-width: 767px) {
+      float: none;
+      width: 90%;
+      margin: 0 auto;
+    }
+  }
+
   .offerings {
     display: flex;
     @media (max-width: 767px) {
@@ -57,13 +65,21 @@
     background-color: khaki;
   }
 
-
-
   .grid-sizer,
   .grid-item {
+    width: 100%;
+    /*margin-right: 1em;*/
+  }
+
+  @media (min-width: 767px) {
+    .grid-sizer,
+    .grid-item {
       width: 33.33%;
       /*margin-right: 1em;*/
+    }
   }
+
+
 }
 
 // .agency-hero {
