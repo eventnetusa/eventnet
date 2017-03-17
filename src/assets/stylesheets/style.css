@@ -7146,21 +7146,56 @@ li.dot.is-selected {
 /*.insta:last-of-type {
     padding-right: 8px;
 }*/
-.nav-item {
+@media (min-width: 300px) and (max-width: 550px) {
+  .work .hero {
+    height: 33vh; }
+    .work .hero .hero-wrapper {
+      padding-top: 2rem !important; } }
+
+@media (min-width: 551px) {
+  .work .hero {
+    height: 300px; } }
+
+@media screen and (max-width: 767px) {
+  .work .child h1, .work .child .more {
+    display: none; }
+  .work .child p {
+    font-size: 10px; } }
+
+@media screen and (max-width: 768px) {
+  .work .child {
+    opacity: 1; }
+    .work .child .more a {
+      padding: 10px 15px;
+      position: absolute;
+      bottom: 10px;
+      left: 10px; }
+    .work .child h1 {
+      font-size: 1rem; } }
+
+@media screen and (min-width: 960px) {
+  .work .hero {
+    height: 500px; } }
+
+@media screen and (max-width: 1199px) {
+  .work .hover-text {
+    display: none; } }
+
+.work .nav-item {
   display: inline; }
 
-.tab-content > .tab-pane {
+.work .tab-content > .tab-pane {
   display: none; }
 
-.tab-content > .active {
+.work .tab-content > .active {
   display: block; }
 
-.fade {
+.work .fade {
   opacity: 0;
   -webkit-transition: opacity 0.15s linear;
   transition: opacity 0.15s linear; }
 
-.fade.show {
+.work .fade.show {
   opacity: 1; }
 
 .work .child {

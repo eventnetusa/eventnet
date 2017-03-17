@@ -4,70 +4,81 @@ cta_text: Let's get started
 ---
 
 <article class="cf">
-  <div class="cover bg-center raleway" style="background-image: url(/uploads/work-hero.jpg); height: 500px">
+  <div class="hero cover bg-center raleway" style="background-image: url(/uploads/work-hero.jpg);">
     <div class="bg-black-30" style="height: 100%;">
-      <div class="tc near-white pv6 pb3 pl5">
-        <h1 class="f1 lh-headline mb0 editable">We&rsquo;re proud of our work&nbsp;</h1>
-        <p class="f2 fw5 lh-headline mt2 editable">and excited to work with you!</p>
+      <div class="hero-wrapper tc near-white pt5-m pt6-l pb3-l">
+        <h1 class="f3 f1-ns lh-headline mb0 editable">We&rsquo;re proud of our work&nbsp;</h1>
+        <p class="f4 f2-ns fw5 lh-headline mt2 editable">and excited to work with you!</p>
       </div>
     </div>
   </div>
-  <header class="cf" style="background-color: #263d60">
-    <ul class="f6 fw3 tracked tc pv2 xxx nav nav-tabs" role="tablist">
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link active" data-toggle="tab" href="#all" role="tab">All</a>
+
+  <div class="header-wrapper tc" style="background-color: #263d60">
+    <header class="center cf" style="background-color: #263d60">
+    <ul class="pl0 f6 fw3 tracked tc pv2 nav nav-tabs" role="tablist">
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link active" data-toggle="tab" href="#all" role="tab">All</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#vehicletours" role="tab">Vehicle Tours</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#vehicletours" role="tab">Vehicle Tours</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#openings" role="tab">Store Grand Openings</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#openings" role="tab">Store Grand Openings</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#events" role="tab">PR Events</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#events" role="tab">PR Events</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#stunts" role="tab">PR Stunts</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#stunts" role="tab">PR Stunts</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#popups" role="tab">Pop-up Shops</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#popups" role="tab">Pop-up Shops</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#insurance" role="tab">Insurance Activations</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#insurance" role="tab">Insurance Activations</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#retail" role="tab">Retail Integration</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#retail" role="tab">Retail Integration</a>
       </li>
-      <li class="nav-item">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 xxx nav-link" data-toggle="tab" href="#street" role="tab">Street Teams</a>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#street" role="tab">Street Teams</a>
       </li>
     </ul>
   </header>
+  </div>
+
   <div class="tab-content">
     <div class="tab-pane fade show active" id="all" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
         {% assign work_all = site.work | sort:"sort_order" %}
         {% if work_all.size > 0 %}
           {% for item in work_all %}
-            <div class="fl w-100 w-third-ns pa2">
+            <div class="fl w-50 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc more">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph3 ph4-ns pv2 pv3-ns mt3 mt4-ns dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -83,22 +94,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -114,22 +132,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -145,22 +170,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -176,22 +208,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -207,22 +246,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -238,22 +284,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -269,22 +322,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -300,22 +360,29 @@ cta_text: Let's get started
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
+                    </div>
                   </span>
                 </a>
                 {% else %}
-                <span style="background-image: url({{item.hero_image_path}});" class="link dt hide-child cover bg-center db aspect-ratio--object">
-                  <span class="white dtc v-top w-100 h-100 child pa4">
-                    <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                    <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                    <p class="f6 f5-l lh-copy">{{item.hover_text}}</p>
-                      <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt3 dib white ttu tracked" href="#0">Tell me more</a>
+                <div class="dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
+                      <div class="tc">
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                      </div>
+                    </div>
                   </span>
-                </span>
+                </div>
                 {% endif %}
               </div>
             </div>
@@ -325,10 +392,10 @@ cta_text: Let's get started
     </div>
   </div>
 
-  <div class="ph6 pv5 near-white" style="background-color: #263d60">
+  <div class="ph5-m ph6-ns pv4 pv5-ns near-white" style="background-color: #263d60">
     <div class="center tc">
-      <h1 class="f2 lh-title fw4 raleway tc mb4 editable">Ready to make your next event your greatest?</h1>
-      <a class="center f6 fw4 grow no-underline br-pill ph4 pv3 mb2 dib white bg-blue ttu tracked" href="#0">{{ page.cta_text }}</a>
+      <h1 class="f3 f2-ns lh-title fw4 raleway tc mb3 mb4-ns editable">Ready to make your next event your greatest?</h1>
+      <a class="center f6 fw4 grow no-underline br-pill ph3 ph4-ns pv2 pv3-ns mb2 dib white bg-blue ttu tracked" href="#0">{{ page.cta_text }}</a>
     </div>
   </div>
 </article>
