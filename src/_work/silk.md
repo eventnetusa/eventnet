@@ -2,7 +2,7 @@
 client: Silk
 sort_order: 23
 headline: Multi-Market Guerrilla Sampling
-hover_text:
+hover_text: '3 markets, 10 events, 27 guerrilla sampling days, 1.4M impressions, 137k samples - ask us how we did it!'
 hero_image_path: /uploads/silk.png
 types:
   - street team
