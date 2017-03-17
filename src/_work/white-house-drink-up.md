@@ -3,7 +3,7 @@ client: 'The White House & Partnership for a Healthier America'
 link_to_casestudy: true
 sort_order: 1
 headline: "Michelle Obama's \"Drink Up\" Campaign Launch"
-hover_text: 'First Lady Michelle Obama  and the Partnership for a Healthier America made a big splash in Watertown, WI to promote the importance of drinking water'
+hover_text: 'First Lady Michelle Obama  and the Partnership for a Healthier America made a big splash in Watertown, WI to promote the importance of drinking water.'
 hero_image_path: /uploads/slide-drink-up.jpg
 types:
   - pr event
