@@ -1,7 +1,7 @@
 ---
 client: Clear for Men
 link_to_casestudy: false
-sort_order: 20
+sort_order: 29
 headline: 'ESPYS Sponsorship & Sampling'
 hover_text: "Fullfilled Clear for Men's ESPYS sponsorship, including negotiation, build out, staffing and sampling. Ask us how we did it!"
 hero_image_path: /uploads/clear-men-espys.jpg
