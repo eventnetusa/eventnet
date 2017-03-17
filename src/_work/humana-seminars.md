@@ -1,14 +1,12 @@
 ---
 client: Humana
 link_to_casestudy: false
-sort_order: 33
-headline: "\"Let's Talk\" Medicare @ Walmart"
-hover_text: "10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare spending at targeted Walmart's - Ask us how we did it!"
-hero_image_path: /uploads/humana-rvs.png
+sort_order: 36
+headline: Active Outlook Seminars
+hover_text: (insert)
+hero_image_path: /uploads/humana-senior-seminars-in-hotels.JPG
 types:
   - insurance activation
-  - popup shop
-  - vehicle tour
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
