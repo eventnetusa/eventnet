@@ -8,6 +8,7 @@ hero_image_path: /uploads/aetna.png
 types:
   - insurance activation
   - popup shop
+  - retail
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
