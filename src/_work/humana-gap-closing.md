@@ -2,7 +2,7 @@
 client: Humana
 link_to_casestudy: false
 sort_order: 37
-headline: Gap Closing Screening Bus
+headline: Mobile Gap Closing Program
 hover_text: Turnkey mobile program for closing gaps of care for targeted seniors. Screenings included mammograms and bone density scans.
 hero_image_path: /uploads/humana-screening-bus.jpg
 types:
