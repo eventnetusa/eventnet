@@ -1,9 +1,9 @@
 ---
-client: Maybelline
+client: Cetaphil
 link_to_casestudy: false
-sort_order: 34
-headline: NY Fashion Week Pop-Up Shop
-hover_text: Converted empty retail space in Times Square into red carpet ready pop-up shop. Operated 7 days during NYFW and delivered over 3k makeovers.
+sort_order: 35
+headline: Union Square Pop-Up Shop
+hover_text: 'Produced Pop-Up Shop for Cetaphil in Union Square, NY. Event included preview party, product sampling, celebrity guest Molly Shannon and media coverage.'
 hero_image_path: /uploads/maybelline-nyc-popup.jpg
 types:
   - pr event
