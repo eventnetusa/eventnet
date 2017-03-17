@@ -1,13 +1,13 @@
 ---
-client: Garnier Fructis
+client: Maybelline
 link_to_casestudy: false
-sort_order: 27
-headline: Pool Party by Mario Lopez
-hover_text: "Mario Lopez hosted Garnier's pool party featuring salon service cabanas, VIP experience, bar take over, and more."
-hero_image_path: /uploads/mario-lopez.png
+sort_order: 34
+headline: NY Fashion Week Pop-Up Shop
+hover_text: 'In just 16 days, we converted empty retail space in Times Square into a red carpet ready pop-up shop. Operated 7 days during NYFW and delivered over 3k makeovers.'
+hero_image_path: /uploads/maybelline-nyc-popup.jpg
 types:
   - pr event
-  - pr stunt
+  - popup shop
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
