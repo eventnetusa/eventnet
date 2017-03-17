@@ -15,6 +15,10 @@ content_section:
 
 
 
+
+
+
+
       "One of the best things about New York Fashion Week is finding refuge from
       the tents at one of the lavish lounges in and around Lincoln Center.&nbsp;
       Garnier Fructis wants you to look your very best this fashion week by
@@ -23,6 +27,10 @@ content_section:
       you a photo-ready blowout, braids, and even lavish curls, mermaid waves
       anyone?&nbsp; You can also score some goodies, prizes and giveaways while
       there, including Garnier Fructis products.
+
+
+
+
 
 
 
@@ -37,7 +45,15 @@ content_section:
 
 
 
+
+
+
+
       #### Also featured in:
+
+
+
+
 
 
 
