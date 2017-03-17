@@ -3,7 +3,7 @@ client: Humana
 link_to_casestudy: false
 sort_order: 36
 headline: Gap Closing Screening Bus
-hover_text: 'Turnkey mobile program for closing gaps of care for targeted seniors. Included mammograms, bone density scans and one-on-one consultations.'
+hover_text: Turnkey mobile program for closing gaps of care for targeted seniors. Screenings included mammograms and bone density scans.
 hero_image_path: /uploads/humana-screening-bus.jpg
 types:
   - insurance activation
