@@ -106,7 +106,7 @@ defaults:
     scope:
       path: "blog.html"
     values:
-      layout: "blog_index"
+      layout: "default"
       class: "post_index"
       permalink: "/blog/"
   -
@@ -119,6 +119,7 @@ defaults:
      # _hide_content: true
       _comments:
         content_section: "NOTE: add all post content here!"
+        hero_image_path: "Image should be at least 2100px wide"
       # permalink: "/blog/:slug"
 
 
