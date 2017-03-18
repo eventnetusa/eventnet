@@ -1,19 +1,26 @@
 .blog {
-  // @media screen and (max-width: 767px) {
-  //     .featured {
-  //         padding-left: 0px;
-  //         padding-right: 0px;
-  //     }
-  //     .carousel-cell p {
-  //         display: none;
-  //     }
-  //     .carousel-cell h1 {
-  //         display: none;
-  //     }
-  //     .carousel-cell span {
-  //         display: none;
-  //     }
-  // }
+  @media (min-width: 300px) and (max-width: 550px) {
+      .carousel-cell {
+        height: 33vh;
+        a {
+          padding: 0 1rem !important;
+        }
+      }
+      button {
+        display: none;
+      }
+  }
+  @media (min-width: 551px) and (max-width: 767px) {
+    .carousel-cell {
+      height: 300px;
+      a {
+        padding: 0 1rem !important;
+      }
+    }
+    button {
+      display: none;
+    }
+  }
 
   // @media screen and (min-width: 300px) {
 
@@ -29,8 +36,8 @@
       background: #EEE;
       h1 {
         position: relative;
-          top: 40%;
-          transform: translateY(-40%);
+        top: 40%;
+        transform: translateY(-40%);
       }
   }
 
@@ -68,7 +75,6 @@
       border-bottom: 3px solid white;
     }
     h1 {
-      display: inline-block;
       border-bottom: 3px solid transparent;
       transition: all 0.3s ease;
     }
