@@ -3,13 +3,37 @@ title: Garnier Fructis Blow Out Bar and Style Station
 date: 2013-03-01 00:00:00
 categories:
   - press
-featured_post: false
+featured_post: true
 excerpt: 'Garnier Fructis called on EventNetUSA to build a Blow Out Bar & Style Station at the Time Warner Center for New York Fashion Week. This PR event caused a buzz among bloggers and celebrity magazines.'
 hero_image_path: /uploads/15.jpg
 content_section:
   - text_block_markdown: >-
       #### From [The Glamazon
       Diaries](http://glamazondiaries.com/2013/02/new-york-fashion-week-lounge-garnier-fructis-blow-out-bar-style-station.html):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36,6 +60,30 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       The Garnier Fructis Blow Out Bar & Style Station is open to the public but
       make sure to stop inside to book an appointment.&nbsp; It’s open for just
       two days and we’re sure Saturday is going to be a busy day since there are
@@ -49,7 +97,55 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       #### Also featured in:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
