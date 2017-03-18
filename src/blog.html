@@ -19,3 +19,93 @@ title: Blog
     {% endfor %}
   </div>
 </section>
+
+<div class="header-wrapper tc" style="background-color: #263d60">
+  <header class="center cf" style="background-color: #263d60">
+    <ul class="pl0 f6 fw3 tracked tc pv2 nav nav-tabs" role="tablist">
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link active" data-toggle="tab" href="#all" role="tab">All</a>
+      </li>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#insights" role="tab">Insights</a>
+      </li>
+      <li class="nav-item raleway">
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#press" role="tab">Press</a>
+      </li>
+    </ul>
+  </header>
+</div>
+
+<div class="tab-content">
+    <div class="tab-pane fade show active" id="all" role="tabpanel">
+      <section class="cf w100 raleway pa2" style="clear: both">
+        {% assign all_posts = site.posts | sort:"date" | reverse %}
+        {% if all_posts.size > 0 %}
+          {% for item in all_posts %}
+            <div class="fl w-50 w-third-ns pa2">
+              <div class="aspect-ratio aspect-ratio--7x5">
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.filter}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.title}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.date | date: "%B %-d %Y" }}</p>
+                    </div>
+                  </span>
+                </a>
+              </div>
+            </div>
+          {% endfor %}
+        {% endif %}
+      </section>
+    </div>
+    <div class="tab-pane fade show" id="insights" role="tabpanel">
+      <section class="cf w100 raleway pa2" style="clear: both">
+        {% assign insights = site.posts | where:"filter", "insights" %}
+        {% assign insights = insights | sort:"date" | reverse %}
+        {% if insights.size > 0 %}
+          {% for item in insights %}
+            <div class="fl w-100 w-third-ns pa2">
+              <div class="aspect-ratio aspect-ratio--7x5">
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.filter}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.title}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.date | date: "%B %-d %Y" }}</p>
+                    </div>
+                  </span>
+                </a>
+              </div>
+            </div>
+          {% endfor %}
+        {% endif %}
+      </section>
+    </div>
+    <div class="tab-pane fade show" id="press" role="tabpanel">
+      <section class="cf w100 raleway pa2" style="clear: both">
+        {% assign press = site.posts | where:"filter", "press" %}
+        {% assign press = press | sort:"date" | reverse %}
+        {% if press.size > 0 %}
+          {% for item in press %}
+            <div class="fl w-100 w-third-ns pa2">
+              <div class="aspect-ratio aspect-ratio--7x5">
+                <a href="{{item.url}}" style="" class="link dt hide-child">
+                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <span class="white child aspect-ratio--object">
+                    <div class="pa1 pa3-m pa4-l">
+                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.filter}}</p>
+                      <h1 class="f3 fw4 mt3 lh-title">{{item.title}}</h1>
+                      <p class="f6 f5-l lh-copy hover-text">{{item.date | date: "%B %-d %Y" }}</p>
+                    </div>
+                  </span>
+                </a>
+              </div>
+            </div>
+          {% endfor %}
+        {% endif %}
+      </section>
+    </div>
+  </div>

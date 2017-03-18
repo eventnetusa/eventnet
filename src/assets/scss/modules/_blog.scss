@@ -36,8 +36,8 @@
       background: #EEE;
       h1 {
         position: relative;
-        top: 40%;
-        transform: translateY(-40%);
+        top: 50%;
+        transform: translateY(-50%);
       }
   }
 
@@ -80,5 +80,61 @@
     }
   }
 
+  @media screen and (max-width: 1199px) {
+      .hover-text {
+          display: none
+      }
+  }
+
+  .nav-item {
+      display: inline;
+  }
+
+  .tab-content>.tab-pane {
+      display: none;
+  }
+
+  .tab-content>.active {
+      display: block;
+  }
+
+  .fade {
+      opacity: 0;
+      -webkit-transition: opacity 0.15s linear;
+      -o-transition: opacity 0.15s linear;
+      transition: opacity 0.15s linear;
+  }
+
+  .fade.show {
+      opacity: 1;
+  }
+
+  .child {
+    background-color: rgba(178, 34, 34, .7);
+  }
+
+  @media screen and (max-width: 767px) {
+    .child h1, .child .more {
+      display: none;
+    }
+    .child p {
+      font-size: 10px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .child {
+      opacity: 1;
+      .more a {
+        padding: 10px 15px;
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+      }
+      h1 {
+        font-size: 1rem;
+      }
+    }
+  }
 
 }

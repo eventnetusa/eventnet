@@ -1,7 +1,7 @@
 ---
 title: Garnier Fructis Blow Out Bar and Style Station
 date: 2013-03-01 00:00:00
-categories:
+filter:
   - press
 featured_post: true
 excerpt: 'Garnier Fructis called on EventNetUSA to build a Blow Out Bar & Style Station at the Time Warner Center for New York Fashion Week. This PR event caused a buzz among bloggers and celebrity magazines.'

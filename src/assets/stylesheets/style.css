@@ -7300,9 +7300,9 @@ code, .code {
   background: #EEE; }
   .blog .carousel h1 {
     position: relative;
-    top: 40%;
-    -webkit-transform: translateY(-40%);
-            transform: translateY(-40%); }
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
 
 .blog button.previous {
   left: 20px; }
@@ -7337,6 +7337,47 @@ code, .code {
     border-bottom: 3px solid transparent;
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease; }
+
+@media screen and (max-width: 1199px) {
+  .blog .hover-text {
+    display: none; } }
+
+.blog .nav-item {
+  display: inline; }
+
+.blog .tab-content > .tab-pane {
+  display: none; }
+
+.blog .tab-content > .active {
+  display: block; }
+
+.blog .fade {
+  opacity: 0;
+  -webkit-transition: opacity 0.15s linear;
+  transition: opacity 0.15s linear; }
+
+.blog .fade.show {
+  opacity: 1; }
+
+.blog .child {
+  background-color: rgba(178, 34, 34, 0.7); }
+
+@media screen and (max-width: 767px) {
+  .blog .child h1, .blog .child .more {
+    display: none; }
+  .blog .child p {
+    font-size: 10px; } }
+
+@media screen and (max-width: 768px) {
+  .blog .child {
+    opacity: 1; }
+    .blog .child .more a {
+      padding: 10px 15px;
+      position: absolute;
+      bottom: 10px;
+      left: 10px; }
+    .blog .child h1 {
+      font-size: 1rem; } }
 
 .frame {
   display: block;
