@@ -1,7 +1,7 @@
 ---
 title: "Garnier's Cleaner Greener Tour"
 date: 2011-05-02 00:00:00
-categories:
+filter:
   - press
 featured_post: true
 excerpt: "Star Magazine featured Garnier's The Cleaner Green Tour in their StarBeauty segment. The article centered on the Garnier Fructis Pure Clean products and the New York City event's appearance by actresses Kelly Rutherford and Katie Cassidy."

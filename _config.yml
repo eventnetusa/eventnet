@@ -31,6 +31,10 @@ types:
   - retail
   - street team
 
+filters:
+  - insights
+  - press
+
 categories:
   - insights
   - press
@@ -106,8 +110,8 @@ defaults:
     scope:
       path: "blog.html"
     values:
-      layout: "blog_index"
-      class: "post_index"
+      layout: "default"
+      class: "blog"
       permalink: "/blog/"
   -
     scope:
@@ -119,6 +123,8 @@ defaults:
      # _hide_content: true
       _comments:
         content_section: "NOTE: add all post content here!"
+        hero_image_path: "Image should be at least 2100px wide"
+        filter: "This is the category"
       # permalink: "/blog/:slug"
 
 

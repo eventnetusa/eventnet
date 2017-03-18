@@ -1,0 +1,140 @@
+.blog {
+  @media (min-width: 300px) and (max-width: 550px) {
+      .carousel-cell {
+        height: 33vh;
+        a {
+          padding: 0 1rem !important;
+        }
+      }
+      button {
+        display: none;
+      }
+  }
+  @media (min-width: 551px) and (max-width: 767px) {
+    .carousel-cell {
+      height: 300px;
+      a {
+        padding: 0 1rem !important;
+      }
+    }
+    button {
+      display: none;
+    }
+  }
+
+  // @media screen and (min-width: 300px) {
+
+  // }
+
+  @media screen and (min-width: 768px) {
+      .carousel-cell {
+        height: 500px;
+      }
+  }
+
+  .carousel {
+      background: #EEE;
+      h1 {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);
+      }
+  }
+
+  button.previous {
+    left: 20px;
+  }
+
+  button.next {
+    right: 20px;
+  }
+
+  .carousel-cell {
+    width: 100%;
+    background-position: center;
+  }
+
+  .carousel-cell span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 27, 68, 0.65);
+  }
+
+  .carousel-cell a {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    &:hover h1 {
+      border-bottom: 3px solid white;
+    }
+    h1 {
+      border-bottom: 3px solid transparent;
+      transition: all 0.3s ease;
+    }
+  }
+
+  @media screen and (max-width: 1199px) {
+      .hover-text {
+          display: none
+      }
+  }
+
+  .nav-item {
+      display: inline;
+  }
+
+  .tab-content>.tab-pane {
+      display: none;
+  }
+
+  .tab-content>.active {
+      display: block;
+  }
+
+  .fade {
+      opacity: 0;
+      -webkit-transition: opacity 0.15s linear;
+      -o-transition: opacity 0.15s linear;
+      transition: opacity 0.15s linear;
+  }
+
+  .fade.show {
+      opacity: 1;
+  }
+
+  .child {
+    background-color: rgba(178, 34, 34, .7);
+  }
+
+  @media screen and (max-width: 767px) {
+    .child h1, .child .more {
+      display: none;
+    }
+    .child p {
+      font-size: 10px;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .child {
+      opacity: 1;
+      .more a {
+        padding: 10px 15px;
+        position: absolute;
+        bottom: 10px;
+        left: 10px;
+      }
+      h1 {
+        font-size: 1rem;
+      }
+    }
+  }
+
+}

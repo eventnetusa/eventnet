@@ -1,7 +1,7 @@
 ---
 title: Maybelline Great Beauty Tour
 date: 2008-12-12 00:00:00
-categories:
+filter:
   - press
 featured_post: true
 excerpt: 'In their 2008 Awards Issue, WWD Beauty Biz Magazine named the EventNetUSA-produced Maybelline New York-Garnier the most innovative mass campaign of the year.'
