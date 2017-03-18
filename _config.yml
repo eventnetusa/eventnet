@@ -107,7 +107,7 @@ defaults:
       path: "blog.html"
     values:
       layout: "default"
-      class: "post_index"
+      class: "blog"
       permalink: "/blog/"
   -
     scope:

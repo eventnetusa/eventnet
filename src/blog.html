@@ -2,24 +2,19 @@
 title: Blog
 ---
 
-<!-- {% assign featured = site.posts | where:"featured_post", true | limit: 5 %} -->
-
+{% assign featured = site.posts | where:"featured_post", "true" | limit: 5 %}
 
 <section class="hero">
-  <div class="carousel mv3 mv5-ns">
-    {% for item in page.work %}
-      {% assign var = site.work | where:"slug", item | first %}
-      <div class="carousel-cell dt relative hide-child">
-        <a href="{{ var.url }}">
-          <span class="white child dtc v-mid pa5 pt5 pr6">
-            <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{ var.type }}</p>
-            <h1 class="f3 fw4 mt3 lh-title">{{ var.headline }}</h1>
-            <p class="f6 f5-l lh-copy">
-              {{ var.tagline }}
-            </p>
-          </span>
-        <img src="{{ var.hero_image_path }}" />
-        </a>
+  <div class="carousel">
+    {% for item in featured %}
+      <div class="carousel-cell cover tc" style="background-image: url({{ item.hero_image_path }})">
+
+        <span>
+          <a href="{{ item.url }}">
+            <h1 class="white raleway">{{ item.title }}</h1>
+          </a>
+        </span>
+
       </div>
     {% endfor %}
   </div>

@@ -1,0 +1,78 @@
+.blog {
+  // @media screen and (max-width: 767px) {
+  //     .featured {
+  //         padding-left: 0px;
+  //         padding-right: 0px;
+  //     }
+  //     .carousel-cell p {
+  //         display: none;
+  //     }
+  //     .carousel-cell h1 {
+  //         display: none;
+  //     }
+  //     .carousel-cell span {
+  //         display: none;
+  //     }
+  // }
+
+  // @media screen and (min-width: 300px) {
+
+  // }
+
+  @media screen and (min-width: 768px) {
+      .carousel-cell {
+        height: 500px;
+      }
+  }
+
+  .carousel {
+      background: #EEE;
+      h1 {
+        position: relative;
+          top: 40%;
+          transform: translateY(-40%);
+      }
+  }
+
+  button.previous {
+    left: 20px;
+  }
+
+  button.next {
+    right: 20px;
+  }
+
+  .carousel-cell {
+    width: 100%;
+    background-position: center;
+  }
+
+  .carousel-cell span {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 27, 68, 0.65);
+  }
+
+  .carousel-cell a {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    &:hover h1 {
+      border-bottom: 3px solid white;
+    }
+    h1 {
+      display: inline-block;
+      border-bottom: 3px solid transparent;
+      transition: all 0.3s ease;
+    }
+  }
+
+
+}
