@@ -9,6 +9,9 @@
       button {
         display: none;
       }
+      .child h1 {
+        font-size: 13px !important;
+      }
   }
   @media (min-width: 551px) and (max-width: 767px) {
     .carousel-cell {
@@ -60,8 +63,16 @@
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(0, 27, 68, 0.65);
+    background-color: rgba(0, 27, 68, 0.5);
   }
+
+  // .carousel-cell:nth-child(odd) span {
+  //   background-color: rgba(0, 27, 68, 0.65);
+  // }
+
+  // .carousel-cell:nth-child(even) span {
+  //   background-color: rgba(178, 34, 34, .7);
+  // }
 
   .carousel-cell a {
     position: absolute;
@@ -110,12 +121,20 @@
   }
 
   .child {
+    opacity: 1;
     background-color: rgba(178, 34, 34, .7);
+    h1 {
+      transition: all 0.3s ease;
+      border-bottom: 1px solid transparent;
+    }
+    &:hover h1 {
+      border-bottom: 1px solid white;
+    }
   }
 
   @media screen and (max-width: 767px) {
     .child h1, .child .more {
-      display: none;
+      // display: none;
     }
     .child p {
       font-size: 10px;

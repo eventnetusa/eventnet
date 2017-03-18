@@ -7282,7 +7282,9 @@ code, .code {
     .blog .carousel-cell a {
       padding: 0 1rem !important; }
   .blog button {
-    display: none; } }
+    display: none; }
+  .blog .child h1 {
+    font-size: 13px !important; } }
 
 @media (min-width: 551px) and (max-width: 767px) {
   .blog .carousel-cell {
@@ -7320,7 +7322,7 @@ code, .code {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 27, 68, 0.65); }
+  background-color: rgba(0, 27, 68, 0.5); }
 
 .blog .carousel-cell a {
   position: absolute;
@@ -7360,11 +7362,16 @@ code, .code {
   opacity: 1; }
 
 .blog .child {
+  opacity: 1;
   background-color: rgba(178, 34, 34, 0.7); }
+  .blog .child h1 {
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    border-bottom: 1px solid transparent; }
+  .blog .child:hover h1 {
+    border-bottom: 1px solid white; }
 
 @media screen and (max-width: 767px) {
-  .blog .child h1, .blog .child .more {
-    display: none; }
   .blog .child p {
     font-size: 10px; } }
 
