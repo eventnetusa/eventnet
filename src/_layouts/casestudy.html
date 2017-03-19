@@ -55,7 +55,7 @@
             </div>
             <div class="fn fl-ns w-30-ns ph5 mt4 tc">
               {% for logo in page.project_logos %}
-                <img src="{{ logo.logo_image_path }}" alt="" class="mb4">
+                <img src="{{ logo.logo_image_path }}" alt="" class="mb4"  style="height: {{logo.logo_image_height}};">
               {% endfor %}
             </div>
             <div class="fn fl-ns w-30-ns ph4 mt4 tc">
