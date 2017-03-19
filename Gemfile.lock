@@ -63,7 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  jekyll (= 3.4.0)
   jekyll-compose
   jekyll-feed
   jekyll-gist
@@ -74,4 +74,4 @@ DEPENDENCIES
   redcarpet
 
 BUNDLED WITH
-   1.14.5
+   1.14.6
