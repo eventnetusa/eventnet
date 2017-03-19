@@ -1,4 +1,25 @@
 .casestudy {
+
+    @media (min-width: 300px) and (max-width: 550px) {
+        .hero {
+            height: 33vh;
+            .case-study-info {
+              padding-top: 2rem !important;
+            }
+        }
+    }
+
+    @media (min-width: 551px) {
+        .hero {
+            height: 300px;
+        }
+    }
+
+    @media screen and (min-width: 960px) {
+        .hero {
+            height: 500px;
+        }
+    }
     .copy-wrapper {
         p {
             margin-top: 0;
