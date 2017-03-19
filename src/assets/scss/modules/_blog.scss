@@ -122,13 +122,18 @@
 
   .child {
     opacity: 1;
-    background-color: rgba(178, 34, 34, .7);
+    transition: all 0.3s ease;
+    background-color: rgba(178, 34, 34, .5);
     h1 {
       transition: all 0.3s ease;
       border-bottom: 1px solid transparent;
     }
     &:hover h1 {
       border-bottom: 1px solid white;
+    }
+    &:hover {
+      transition: all 0.3s ease;
+      background-color: rgba(178, 34, 34, .7);
     }
   }
 

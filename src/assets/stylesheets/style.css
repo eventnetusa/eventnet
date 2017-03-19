@@ -7366,13 +7366,19 @@ code, .code {
 
 .blog .child {
   opacity: 1;
-  background-color: rgba(178, 34, 34, 0.7); }
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  background-color: rgba(178, 34, 34, 0.5); }
   .blog .child h1 {
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
     border-bottom: 1px solid transparent; }
   .blog .child:hover h1 {
     border-bottom: 1px solid white; }
+  .blog .child:hover {
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    background-color: rgba(178, 34, 34, 0.7); }
 
 @media screen and (max-width: 767px) {
   .blog .child p {
@@ -7552,6 +7558,19 @@ header, footer {
 @media (min-width: 737px) {
   header img {
     float: left; } }
+
+@media (min-width: 769px) {
+  header {
+    position: fixed;
+    z-index: 99; } }
+
+@media (min-width: 769px) and (max-width: 880px) {
+  .page-content {
+    margin-top: 66px; } }
+
+@media (min-width: 881px) {
+  .page-content {
+    margin-top: 98px; } }
 
 @media (min-width: 300px) and (max-width: 550px) {
   footer .inner {

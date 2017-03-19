@@ -83,6 +83,26 @@ The main SCSS file for everything, yep
     }
   }
 
+  @media (min-width: 769px) {
+    header {
+      position: fixed;
+      z-index: 99;
+    }
+  }
+
+  @media (min-width: 769px) and (max-width: 880px) {
+    .page-content {
+      margin-top: 66px;
+    }
+  }
+
+  @media (min-width: 881px) {
+    .page-content {
+      margin-top: 98px;
+    }
+  }
+
+
   // FOOTER
   @media (min-width: 300px) and (max-width: 550px) {
     footer .inner {
