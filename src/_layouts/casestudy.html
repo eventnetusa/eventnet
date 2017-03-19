@@ -12,8 +12,8 @@
 
         <article class="cf">
           <div class="hero cover bg-center raleway" {% if page.hero_image_path %}style="background-image: url({{page.hero_image_path}});{% endif %}">
-            <div class="case-study-info w-70 near-white pt4 pb3 pl5">
-              <h2 class="f4 lh-solid lightest-blue mb0 ttu tracked">
+            <div class="case-study-info w-100 w-70-ns near-white pt2 pt4-ns pb2 pb3-ns pl3 pl5-ns">
+              <h2 class="f5 f4-ns lh-solid lightest-blue mb0 ttu tracked">
                 {% if page.client %}{{page.client}}{% endif %}
               </h2>
               <h1 class="f1 near-white lh-headline mb4">
@@ -22,8 +22,8 @@
             </div>
           </div>
 
-          <div class="w-80 center pa4 cf raleway">
-            <div class="fn fl-ns w-70-ns ph4 mt4 copy-wrapper">
+          <div class="w-90-l center pa4 cf raleway">
+            <div class="content fn fl-ns w-60-m w-70-l ph4 mt4 copy-wrapper">
 
 
               {% for block in page.content_section %}
@@ -53,20 +53,26 @@
                 {% endif %}
               {% endfor %}
             </div>
-            <div class="fn fl-ns w-30-ns ph5 mt4 tc">
+            <div class="aside fn fl-ns w-40-m w-30-l ph5 mt4 tc">
               {% for logo in page.project_logos %}
                 <img src="{{ logo.logo_image_path }}" alt="" class="mb4"  style="height: {{logo.logo_image_height}};">
               {% endfor %}
             </div>
-            <div class="fn fl-ns w-30-ns ph4 mt4 tc">
+            <div class="aside fn fl-ns w-40-m w-30-l ph4 mt4 tc">
               {% if page.cta %}
-              <p class="f4 lh-copy mt0-ns ph3 pv4 bg-blue white">
-                {{page.cta_text}}
-                <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta }}</a>
-              </p>
+              <div class="bg-blue ph3">
+                <p class="f4 lh-copy mt0-ns pt4 white">
+                  {{page.cta_text}}
+                  <div class="w-100 pb3">
+                    <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta }}</a>
+                  </div>
+
+                </p>
+              </div>
+
               {% endif %}
               {% if page.sidebar_text_markdown %}
-              <span class="case-study-sidebar f5 lh-copy mt0-ns pa3 tl dib bg-light-gray">
+              <span class="case-study-sidebar f5 lh-copy mt0-ns pa3 tl db dib-l bg-light-gray">
                 {{page.sidebar_text_markdown | markdownify}}
               </span>
               {% endif %}
@@ -75,13 +81,13 @@
         </article>
 
         {% if page.related_client_logos %}
-          <div class="w-80 center ph4 pv3 cf raleway mb4">
+          <div class="w-80-l center ph4 pv3 cf raleway mb4">
             <div class="ph4">
-              <p class="raleway tc f4 mt5 mb4 black-60 ttu tracked"><a class="link dim brand" href="mailto:sales@eventnetusa.com">Ask us</a> about these related client projects</p>
+              <p class="raleway tc f4 mt2 mt5-l mb4 black-60 ttu tracked"><a class="link dim brand" href="mailto:sales@eventnetusa.com">Ask us</a> about these related client projects</p>
             </div>
             <div class="cf pa2">
               {% for logo in page.related_client_logos %}
-                <div class="fl w-20-l w-33-m pv1 ph4 tc dib client-logo">
+                <div class="fl w-20-l w-33-m pv3 pv1-ns ph4 tc dib client-logo">
                   <img class="svg" src="{{ logo.logo_image_path }}" {% if logo.logo_image_height %} style="height: {{logo.logo_image_height}};"{% endif %}>
                 </div>
               {% endfor %}
