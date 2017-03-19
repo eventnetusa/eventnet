@@ -23,13 +23,7 @@ cta_text: Let's get started
         <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#vehicletours" role="tab">Vehicle Tours</a>
       </li>
       <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#openings" role="tab">Store Grand Openings</a>
-      </li>
-      <li class="nav-item raleway">
         <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#events" role="tab">PR Events</a>
-      </li>
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#stunts" role="tab">PR Stunts</a>
       </li>
       <li class="nav-item raleway">
         <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#popups" role="tab">Pop-up Shops</a>
@@ -41,7 +35,7 @@ cta_text: Let's get started
         <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#retail" role="tab">Retail Integration</a>
       </li>
       <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#street" role="tab">Street Teams</a>
+        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#street" role="tab">Sampling/Street Teams</a>
       </li>
     </ul>
   </header>
@@ -124,87 +118,11 @@ cta_text: Let's get started
         {% endif %}
       </section>
     </div>
-    <div class="tab-pane fade show" id="openings" role="tabpanel">
-      <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_opening = site.work | where_exp:"item", "item.types contains 'grand opening'" | sort:"sort_order" %}
-        {% if work_opening.size > 0 %}
-          {% for item in work_opening %}
-            <div class="fl w-100 w-third-ns pa2">
-              <div class="aspect-ratio aspect-ratio--7x5">
-                {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
-                  <span class="white child aspect-ratio--object">
-                    <div class="pa1 pa3-m pa4-l">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
-                    </div>
-                  </span>
-                </a>
-                {% else %}
-                <div class="dt hide-child">
-                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
-                  <span class="white child aspect-ratio--object">
-                    <div class="pa1 pa3-m pa4-l">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <div class="tc">
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
-                      </div>
-                    </div>
-                  </span>
-                </div>
-                {% endif %}
-              </div>
-            </div>
-          {% endfor %}
-        {% endif %}
-      </section>
-    </div>
     <div class="tab-pane fade show" id="events" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
         {% assign work_event = site.work | where_exp:"item", "item.types contains 'pr event'" | sort:"sort_order" %}
         {% if work_event.size > 0 %}
           {% for item in work_event %}
-            <div class="fl w-100 w-third-ns pa2">
-              <div class="aspect-ratio aspect-ratio--7x5">
-                {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
-                  <span class="white child aspect-ratio--object">
-                    <div class="pa1 pa3-m pa4-l">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <p class="f6 f5-l lh-copy hover-text">{{item.hover_text}}</p>
-                    </div>
-                  </span>
-                </a>
-                {% else %}
-                <div class="dt hide-child">
-                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
-                  <span class="white child aspect-ratio--object">
-                    <div class="pa1 pa3-m pa4-l">
-                      <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
-                      <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
-                      <div class="tc">
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
-                      </div>
-                    </div>
-                  </span>
-                </div>
-                {% endif %}
-              </div>
-            </div>
-          {% endfor %}
-        {% endif %}
-      </section>
-    </div>
-    <div class="tab-pane fade show" id="stunts" role="tabpanel">
-      <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_stunt = site.work | where_exp:"item", "item.types contains 'pr stunt'" | sort:"sort_order" %}
-        {% if work_stunt.size > 0 %}
-          {% for item in work_stunt %}
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
