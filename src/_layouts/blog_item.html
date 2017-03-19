@@ -84,13 +84,47 @@
 
     </div>
 
+    <div class="remodal tl raleway" data-remodal-id="modal">
+      <button data-remodal-action="close" class="remodal-close"></button>
+      <main class="pa4 black-60">
+        <form id="quote" class="measure center" role="form" method="post" action="http://formspree.io/sales@eventnetusa.com">
+          <fieldset id="contact" class="ba b--transparent ph0 mh0 pv0">
+            <legend class="f2 brand tc fw6 ph0 mb2">Request a Quote</legend>
+            <div class="mt3">
+              <input required class="pa2 input-reset ba b--black-60 bg-transparent w-100" type="text" name="name" id="name" placeholder="Your Name">
+            </div>
+            <div class="mt3">
+              <input required class="pa2 input-reset ba b--black-60 bg-transparent w-100" type="email" name="email" id="email-address" placeholder="Your Email Address">
+            </div>
+            <div class="mt3">
+              <input class="pa2 input-reset ba b--black-60 bg-transparent w-100" type="text" name="phone" id="phone" placeholder="Your Phone Number">
+            </div>
+            <div class="mv3">
+              <textarea required class="raleway pa2 input-reset ba b--black-60 bg-transparent w-100" type="info" name="info" id="info" placeholder="Please tell us about your project"></textarea>
+            </div>
+            <input class="is-hidden" name="_gotcha">
+            <input id="_subject" type="hidden" name="_subject" value="Website Quote Request">
+          </fieldset>
+          <div class="button">
+            <input class="b ttu ph3 pv2 input-reset bg-brand white bg-transparent grow pointer f6 dib" type="submit" value="Submit">
+          </div>
+          <div class="lh-copy mt3 tr">
+            <p>Or reach us directly:<br />
+            (954) 467-9898<br />
+            <a class="link" href="mailt:sales@eventnetusa.com">sales@eventnetusa.com</a></p>
+          </div>
+        </form>
+      </main>
+
+    </div>
+
     {% include footer.html %}
 
   <!-- JS -->
   <!-- inject:js -->
   <!-- endinject -->
 
-
+  <script src="/assets/javascript/index.js"></script>
 
   </body>
 

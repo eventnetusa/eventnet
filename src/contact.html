@@ -21,13 +21,15 @@ title: Contact
       <p><a class="link brand editable" href="mailt:info@eventnetusa.com">info@eventnetusa.com</a></p>
     </div>
     <div class="fl w-100 w-60-ns pa2">
-      <form class="center pv4">
+      <form id="contact" class="center pv4">
         <fieldset class="cf bn ma0 pa0">
-          <input class="mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="NAME" type="text" name="email-address" value="" id="name" />
-          <input class="mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="PHONE" type="text" name="email-address" value="" id="phone" />
-          <input class="mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="EMAIL" type="text" name="email-address" value="" id="email-address" />
-          <textarea class="mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="MESSAGE" type="text" name="email-address" value="" id="message"></textarea>
-          <input class="raleway mb3 f6 f5-l button-reset fl pv3 tc bn bg-animate bg-black-70 hover-bg-black white pointer w-25" type="submit" value="SEND" />
+          <input required class="raleway mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="NAME" type="text" name="name" value="" id="name" />
+          <input required class="raleway mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="PHONE" type="text" name="phone" value="" id="phone" />
+          <input required class="raleway mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="EMAIL" type="text" name="email" value="" id="email-address" />
+          <textarea required class="raleway mb3 f6 f5-l input-reset ba bw1 b--black-60 fl black-80 bg-white pa3 lh-solid w-100" placeholder="MESSAGE" type="text" name="message" value="" id="message"></textarea>
+          <input class="raleway mb3 f6 f5-l button-reset fl pv3 tc bn bg-animate bg-navy hover-bg-dark-blue white pointer w-100 w-25-ns" type="submit" value="SEND" />
+          <input class="is-hidden" name="_gotcha">
+          <input id="_subject" type="hidden" name="_subject" value="Website Contact">
         </fieldset>
       </form>
     </div>

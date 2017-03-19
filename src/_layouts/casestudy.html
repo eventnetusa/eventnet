@@ -62,7 +62,7 @@
               {% if page.cta %}
               <p class="f4 lh-copy mt0-ns ph3 pv4 bg-blue white">
                 {{page.cta_text}}
-                <a class="center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked" href="#0">{{ page.cta }}</a>
+                <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta }}</a>
               </p>
               {% endif %}
               {% if page.sidebar_text_markdown %}
@@ -92,12 +92,20 @@
 
     </div>
 
+    {% include modal.html %}
+
     {% include footer.html %}
+
+
 
   <!-- JS -->
   <!-- inject:js -->
   <!-- endinject -->
 
+
+
+
+    <script src="/assets/javascript/index.js"></script>
 
   </body>
 

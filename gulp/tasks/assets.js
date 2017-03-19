@@ -27,6 +27,7 @@ gulp.task('scripts', () =>
     'src/assets/javascript/jquery-3.1.1.js',
     'src/assets/javascript/jquery.vide.js',
     'src/assets/javascript/flickity.min.js',
+    'src/assets/javascript/remodal.js',
     'src/assets/javascript/instafeed.js',
     'src/assets/javascript/masonry.pkgd.js',
     'src/assets/javascript/vendor.js',
