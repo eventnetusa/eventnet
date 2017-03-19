@@ -11,7 +11,11 @@
       <div class="wrapper">
 
         <article class="cf">
-          <div class="cover bg-center raleway" {% if page.hero_image_path %}style="background-image: url({{page.hero_image_path}});{% endif %} height: 500px">
+          {% if page.hero_image_path %}
+            <div class="cover bg-center raleway" style="background-image: url({{page.hero_image_path}});">
+          {% else %}
+            <div class="cover bg-center raleway">
+          {% endif %}
             <div class="case-study-info w-70 near-white pt4 pb3 pl5">
               <h2 class="f4 lh-solid lightest-blue mb0 ttu tracked">
                 {% if page.client %}{{page.client}}{% endif %}
