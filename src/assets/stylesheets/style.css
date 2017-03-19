@@ -7216,6 +7216,25 @@ code, .code {
     .casestudy .hero .case-study-info {
       width: 70%; } }
 
+.casestudy .client-logo {
+  height: 125px; }
+  @media (min-width: 768px) and (max-width: 959px) {
+    .casestudy .client-logo {
+      width: 20% !important; } }
+  .casestudy .client-logo img {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+
+.casestudy .client-logo.project-logo {
+  height: 75px; }
+  .casestudy .client-logo.project-logo img {
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+            transform: translateY(-50%); }
+
 .casestudy .copy-wrapper p {
   margin-top: 0;
   font-size: 1rem;
