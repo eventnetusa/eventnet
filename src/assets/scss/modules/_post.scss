@@ -20,6 +20,9 @@
           height: 500px;
         }
     }
+    .overlay {
+      background-color: rgba(0, 27, 68, 0.3);
+    }
     .copy-wrapper {
         @media (min-width: 768px) and (max-width: 992px) {
           margin-top: -200px;

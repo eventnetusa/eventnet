@@ -7185,6 +7185,9 @@ code, .code {
 .casestudy .case-study-sidebar strong {
   font-weight: 500; }
 
+.casestudy .case-study-sidebar ul {
+  padding-left: 1.5rem; }
+
 .casestudy .case-study-info {
   background-color: rgba(0, 27, 68, 0.75);
   position: relative;
@@ -7322,7 +7325,7 @@ code, .code {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 27, 68, 0.5); }
+  background-color: rgba(0, 27, 68, 0.2); }
 
 .blog .carousel-cell a {
   position: absolute;
@@ -7411,6 +7414,9 @@ code, .code {
 @media screen and (min-width: 768px) {
   .post .hero {
     height: 500px; } }
+
+.post .overlay {
+  background-color: rgba(0, 27, 68, 0.3); }
 
 @media (min-width: 768px) and (max-width: 992px) {
   .post .copy-wrapper {
