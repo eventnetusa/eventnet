@@ -7471,27 +7471,41 @@ code, .code {
   width: 100%;
   height: 100%; }
 
-input,
-textarea {
+@media (min-width: 300px) and (max-width: 550px) {
+  .contact .hero {
+    height: 33vh; }
+    .contact .hero .hero-wrapper {
+      padding-top: 2rem !important; } }
+
+@media (min-width: 551px) {
+  .contact .hero {
+    height: 300px; } }
+
+@media screen and (min-width: 960px) {
+  .contact .hero {
+    height: 500px; } }
+
+.contact input,
+.contact textarea {
   /*border-color: #951d1d !important;*/ }
 
-::-webkit-input-placeholder {
+.contact ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
   color: rgba(102, 102, 102, 0.75); }
 
-::-moz-placeholder {
+.contact ::-moz-placeholder {
   /* Firefox 19+ */
   color: rgba(102, 102, 102, 0.75); }
 
-:-ms-input-placeholder {
+.contact :-ms-input-placeholder {
   /* IE 10+ */
   color: rgba(102, 102, 102, 0.75); }
 
-:-moz-placeholder {
+.contact :-moz-placeholder {
   /* Firefox 18- */
   color: rgba(102, 102, 102, 0.75); }
 
-#map {
+.contact #map {
   width: 100%;
   height: 500px; }
 
