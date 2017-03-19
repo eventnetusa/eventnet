@@ -7396,44 +7396,69 @@ code, .code {
   border: 0 none;
   box-sizing: border-box; }
 
-.post_item .copy-wrapper {
-  margin-top: -150px; }
-  .post_item .copy-wrapper h1 {
-    margin-bottom: 0; }
-  .post_item .copy-wrapper p {
-    margin-top: 2rem;
+@media (min-width: 300px) and (max-width: 550px) {
+  .post .hero {
+    height: 33vh; }
+  .post button {
+    display: none; }
+  .post .child h1 {
+    font-size: 13px !important; } }
+
+@media (min-width: 551px) and (max-width: 767px) {
+  .post .hero {
+    height: 300px; } }
+
+@media screen and (min-width: 768px) {
+  .post .hero {
+    height: 500px; } }
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .post .copy-wrapper {
+    margin-top: -200px; } }
+
+@media (min-width: 993px) {
+  .post .copy-wrapper {
+    margin-top: -250px; } }
+
+.post .copy-wrapper h1 {
+  margin-bottom: 0; }
+
+.post .copy-wrapper p {
+  margin-top: 2rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-family: raleway next, raleway, sans-serif; }
+
+.post .copy-wrapper ul {
+  margin-top: 2rem;
+  font-family: raleway next, raleway, sans-serif; }
+  .post .copy-wrapper ul li {
     font-size: 1rem;
+    margin-bottom: 1rem;
     line-height: 1.5;
     font-family: raleway next, raleway, sans-serif; }
-  .post_item .copy-wrapper ul {
-    margin-top: 2rem;
-    font-family: raleway next, raleway, sans-serif; }
-    .post_item .copy-wrapper ul li {
-      font-size: 1rem;
-      margin-bottom: 1rem;
-      line-height: 1.5;
-      font-family: raleway next, raleway, sans-serif; }
 
-.post_item .case-study-sidebar strong {
-  font-weight: 500; }
+.post .copy-wrapper a {
+  color: #b22222;
+  text-decoration: none; }
 
-.post_item .quote {
+.post .quote {
   font-size: 12px; }
 
-.post_item .double-image img {
+.post .double-image img {
   width: 300px;
   height: 300px; }
 
-.post_item .embed-container {
+.post .embed-container {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   max-width: 100%; }
 
-.post_item .embed-container iframe,
-.post_item .embed-container object,
-.post_item .embed-container embed {
+.post .embed-container iframe,
+.post .embed-container object,
+.post .embed-container embed {
   position: absolute;
   top: 0;
   left: 0;

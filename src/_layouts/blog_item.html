@@ -1,7 +1,31 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- SEO -->
+    {% seo %}
+
+    <!-- CSS -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="/assets/stylesheets/style.css">
+    <!-- endinject -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700" rel="stylesheet">
+    {% if page.class == 'contact' %}
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBneDEmVxTOynU_pTBnXtocMu3TDzxkp4"></script>
+    {% endif %}
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/images/touch/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/assets/favicon.ico">
+    <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58ceb2513f98570011e643ca&product=sticky-share-buttons"></script>
+
+  </head>
 
   <body class="{% if page.class %}{{ page.class }}{% endif %}">
 
@@ -11,17 +35,16 @@
       <div class="wrapper">
 
         <article class="cf">
-          <div class="cover bg-center raleway" style="background-image: url({{page.hero_image_path}}); height: 500px">
+          <div class="hero cover bg-center raleway" style="background-image: url({{page.hero_image_path}});">
             <div class="bg-black-30" style="height: 100%;">
               <div class="tc near-white pv6 pb3 pl5">
-                <h1 class="f1 lh-headline ma0 editable">Blog</h1>
               </div>
             </div>
           </div>
 
-          <div class="w-70 center pa4 cf raleway">
-            <div class="ph5 pt3 copy-wrapper bg-white">
-              <h1>{{page.title}}</h1>
+          <div class="w-70-l center pa4-ns cf raleway">
+            <div class="ph4 ph5-l pt2 pt3-l pb4 copy-wrapper bg-white">
+              <h1 class="f3 f2-m f1-ns">{{page.title}}</h1>
               {% for block in page.content_section %}
                 {% if block.text_block_markdown %}
                   {{ block.text_block_markdown | markdownify }}
@@ -52,6 +75,9 @@
 
             </div>
           </div>
+
+
+
         </article>
 
 

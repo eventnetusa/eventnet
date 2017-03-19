@@ -119,7 +119,7 @@ defaults:
       type: "posts"
     values:
       layout: "blog_item"
-      class: "post_item"
+      class: "post"
      # _hide_content: true
       _comments:
         content_section: "NOTE: add all post content here!"
