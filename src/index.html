@@ -25,6 +25,49 @@ capabilities:
     info: 'Our extensive & diverse network of brand ambassadors put your brand in hand through grassroots level engagement.'
 top_cta: Request a quote
 bottom_cta: request a quote
+logos:
+  - logo_image: uploads/bigelow.svg
+    logo_height:
+  - logo_image: uploads/mini.svg
+    logo_height: 40%
+  - logo_image: uploads/att.svg
+    logo_height: 40%
+  - logo_image: uploads/revlon.svg
+    logo_height:
+  - logo_image: uploads/whitehouse.svg
+    logo_height: 45%
+  - logo_image: uploads/aa.svg
+    logo_height:
+  - logo_image: uploads/cbs.svg
+    logo_height:
+  - logo_image: uploads/coke.svg
+    logo_height: 30%
+  - logo_image: uploads/garnier.svg
+    logo_height: 19%
+  - logo_image: uploads/humana.svg
+    logo_height: 15%
+  - logo_image: uploads/kelloggs.svg
+    logo_height: 50%
+  - logo_image: uploads/maybelline.svg
+    logo_height:
+  - logo_image: uploads/nestle.svg
+    logo_height: 30%
+  - logo_image: uploads/silk.svg
+    logo_height: 30%
+  - logo_image: uploads/visa.svg
+    logo_height: 30%
+  - logo_image: uploads/yoplait.svg
+    logo_height: 50%
+  - logo_image: uploads/aetna.svg
+    logo_height: 25%
+  - logo_image: uploads/mcdonalds.svg
+    logo_height: 30%
+  - logo_image: uploads/lacroix.svg
+    logo_height: 40%
+  - logo_image: uploads/nyx.svg
+    logo_height: 20%
+
+
 ---
 
 <div id="video" style="width: 100%;" data-vide-bg="uploads/videos/home-edit-compressed" data-vide-options="loop: true, muted: false, position: 50% 50%">
@@ -50,66 +93,11 @@ bottom_cta: request a quote
   <h2 class="raleway tc f3 f2-ns mb2 mb4-ns navy editable">Select Clients and Agencies</h2>
   <div class="mw8 center">
     <div class="cf pa2">
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/bigelow.svg" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/mini.svg" style="height: 40%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/att.svg" style="height: 40%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/revlon.svg" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/whitehouse.svg" style="height: 45%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/aa.svg" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/cbs.svg" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/coke.svg" style="height: 30%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/garnier.svg" style="height: 19%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/humana.svg" style="height: 15%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/kelloggs.svg" style="height: 50%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/maybelline.svg" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/nestle.svg" style="height: 30%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/silk.svg" style="height: 30%" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/visa.svg" style="height: 30%" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/yoplait.svg" style="height: 50%" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/aetna.svg" style="height: 25%" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/mcdonalds.svg" style="height: 30%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/lacroix.svg" style="height: 40%;" />
-      </div>
-      <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-        <img class="svg" src="uploads/nyx.svg" style="height: 20%;" />
-      </div>
+      {% for logo in page.logos %}
+        <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
+          <img class="svg" src="{{ logo.logo_image }}" {% if logo.logo_height %} style="height: {{logo.logo_height}};"{% endif %} />
+        </div>
+      {% endfor %}
     </div>
   </div>
 </div>
