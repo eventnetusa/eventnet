@@ -7378,7 +7378,7 @@ code, .code {
   .blog .child:hover {
     -webkit-transition: all 0.3s ease;
     transition: all 0.3s ease;
-    background-color: rgba(178, 34, 34, 0.7); }
+    background-color: rgba(178, 34, 34, 0.6); }
 
 @media screen and (max-width: 767px) {
   .blog .child p {
@@ -7850,9 +7850,13 @@ header, footer {
     float: left; } }
 
 @media (min-width: 769px) {
-  header {
+  .header-wrapper {
     position: fixed;
-    z-index: 99; } }
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    height: 98px; } }
 
 @media (min-width: 769px) and (max-width: 880px) {
   .page-content {
