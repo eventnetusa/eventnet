@@ -14,9 +14,17 @@ content_section:
 
 
 
+
+
+
+
       NEW YORK, Oct. 14 /PRNewswire/ -- This Columbus Day, it's a new world of
       FINE LIVING for all New Yorkers who witness a tropical island paradise
       appear on the Hudson River as New York City's "sixth borough."
+
+
+
+
 
 
 
@@ -26,6 +34,10 @@ content_section:
       search of the spirit and soul of America, this is the quintessential stop
       on their nationwide journey. The Haches' captivating adventures are now
       being chronicled on the FINE LIVING network and on FineLiving.com.
+
+
+
+
 
 
 
@@ -47,12 +59,20 @@ content_section:
 
 
 
+
+
+
+
       With carriage commitments already at more than 12 million subscribers since
       FINE LIVING began its rollout in March 2002 -- including DIRECTV (channel
       232) -- the network ranks among the fastest-growing in the industry. Its
       companion web site, FineLiving.com , is also achieving prominence as an
       empowering resource to save time and money, offering useful and
       entertaining lifestyle information.
+
+
+
+
 
 
 
@@ -70,10 +90,18 @@ content_section:
 
 
 
+
+
+
+
       "That spirit exemplifies the FINE LIVING programming philosophy on our
       network, the extensive lifestyle resources on our website and now the
       Haches' unique adventure on their own private island paradise on the Hudson
       River under the gaze of the Statue of Liberty," Solomon added.
+
+
+
+
 
 
 
@@ -88,11 +116,19 @@ content_section:
 
 
 
+
+
+
+
       In addition, visitors to the website also will be able to suggest
       subsequent stops for the Haches once they leave the island. The New York
       adventure is the latest stop for Rob and Emily Hache's "Found in America:
       A Cross-Country Radical Sabbatical," a popular short-form original series
       on the FINE LIVING network.
+
+
+
+
 
 
 
