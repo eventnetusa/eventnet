@@ -105,6 +105,12 @@
       }
   }
 
+  @media (max-width: 1313px) {
+    .no-link .hover-text {
+      display: none;
+    }
+  }
+
   .nav-item {
       display: inline;
   }

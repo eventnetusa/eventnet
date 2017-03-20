@@ -7187,6 +7187,10 @@ code, .code {
   .work .hover-text-small {
     display: none; } }
 
+@media (max-width: 1313px) {
+  .work .no-link .hover-text {
+    display: none; } }
+
 .work .nav-item {
   display: inline; }
 
