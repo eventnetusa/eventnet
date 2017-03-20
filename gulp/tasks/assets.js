@@ -26,6 +26,7 @@ gulp.task('scripts', () =>
   gulp.src([
     'src/assets/javascript/jquery-3.1.1.js',
     'src/assets/javascript/jquery.vide.js',
+    'node_modules/imgix.js/dist/imgix.js',
     'src/assets/javascript/flickity.min.js',
     'src/assets/javascript/remodal.js',
     'src/assets/javascript/instafeed.js',

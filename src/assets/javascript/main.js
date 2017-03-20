@@ -16,7 +16,7 @@
   $getQuote.submit(function(e) {
     e.preventDefault();
     $.ajax({
-     url: '//formspree.io/sales@eventnetusa.com',
+     url: 'https://formspree.io/sales@eventnetusa.com',
      method: 'POST',
      data: $(this).serialize(),
      dataType: 'json',
@@ -39,7 +39,7 @@
   $webContact.submit(function(e) {
     e.preventDefault();
     $.ajax({
-     url: '//formspree.io/sales@eventnetusa.com',
+     url: 'https://formspree.io/sales@eventnetusa.com',
      method: 'POST',
      data: $(this).serialize(),
      dataType: 'json',
