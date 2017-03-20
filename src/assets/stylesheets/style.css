@@ -7126,11 +7126,24 @@ code, .code {
   .work .hero {
     height: 500px; } }
 
+@media (max-width: 666px) {
+  .work .child .more {
+    display: none; } }
+
+@media (min-width: 667px) and (max-width: 767px) {
+  .work .child .more a {
+    right: 10px;
+    font-size: 12px; } }
+
 @media screen and (max-width: 767px) {
-  .work .child h1, .work .child .more {
+  .work .child h1 {
     display: none; }
   .work .child p {
     font-size: 10px; } }
+
+@media screen and (max-width: 768px) {
+  .work .hover-text-small {
+    display: none; } }
 
 @media screen and (max-width: 768px) {
   .work .child {
@@ -7143,8 +7156,32 @@ code, .code {
     .work .child h1 {
       font-size: 1rem; } }
 
+@media (max-width: 666px) {
+  .work .hover-text-small {
+    display: none; } }
+
+@media (min-width: 769px) and (max-width: 991px) {
+  .work .inner-child {
+    padding: 1rem !important; }
+    .work .inner-child .client {
+      font-size: 12px; }
+    .work .inner-child h1 {
+      font-size: 1.1rem !important; }
+    .work .inner-child .hover-text-small {
+      display: none; } }
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+  .work .inner-child {
+    padding: 1rem !important; }
+    .work .inner-child h1 {
+      font-size: 1.25rem !important; } }
+
 @media screen and (max-width: 1199px) {
   .work .hover-text {
+    display: none; } }
+
+@media screen and (min-width: 1200px) {
+  .work .hover-text-small {
     display: none; } }
 
 .work .nav-item {
