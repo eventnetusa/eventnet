@@ -14,10 +14,6 @@ content_section:
 
 
 
-
-
-
-
       <div><p>"FAIRFIELD -- When Bigelow Tea's leadership decided to spread their
       passion for tea across the nation, they knew not just any form of
       transportation would do.</p><p>'We did a lot of work trying to find the
@@ -56,7 +52,8 @@ content_section:
       mobile tea bar you're going to pay attention.'</p><p>Cindi Bigelow said
       people often forget that the company is family-run and smaller than some of
       its competitors. 'We don't have all the money the big boys have but this is
-      a big investment for us,' she said.</p></div>
+      a big investment for us,' she said."</p><p>By Keila Torres
+      Ocasio</p></div>
     single_image_block:
       single_image_path:
     double_image_block:
