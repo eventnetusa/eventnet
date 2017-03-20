@@ -8008,6 +8008,10 @@ textarea {
 .is-hidden {
   display: none; }
 
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none; }
+
 input[type="submit"] {
   letter-spacing: 1px; }
 
