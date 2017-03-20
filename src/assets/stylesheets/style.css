@@ -7035,12 +7035,12 @@ code, .code {
     .home .featured {
       padding-left: 0px;
       padding-right: 0px; }
-    .home .carousel-cell p {
+    .home .carousel-cell p.hover-text {
       display: none; }
     .home .carousel-cell h1 {
-      display: none; }
+      font-size: 1rem; }
     .home .carousel-cell span {
-      display: none; } }
+      padding: 10px !important; } }
   .home .carousel {
     background: #EEE; }
   .home .carousel-cell span {
@@ -7071,6 +7071,9 @@ code, .code {
   @media screen and (min-width: 768px) {
     .home .carousel img {
       height: 400px; } }
+  @media screen and (max-width: 768px) {
+    .home .carousel-cell.is-selected .child {
+      opacity: 1; } }
   .home .capability {
     -webkit-transition: background 0.15s linear;
     transition: background 0.15s linear;

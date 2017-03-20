@@ -100,14 +100,14 @@
             padding-left: 0px;
             padding-right: 0px;
         }
-        .carousel-cell p {
+        .carousel-cell p.hover-text {
             display: none;
         }
         .carousel-cell h1 {
-            display: none;
+            font-size: 1rem;
         }
         .carousel-cell span {
-            display: none;
+            padding: 10px !important;
         }
     }
 
@@ -158,6 +158,12 @@
     @media screen and (min-width: 768px) {
         .carousel img {
             height: 400px;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .carousel-cell.is-selected .child {
+            opacity: 1;
         }
     }
 
