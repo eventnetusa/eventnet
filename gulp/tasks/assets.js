@@ -52,7 +52,7 @@ gulp.task('scripts', () =>
     .pipe(when(!argv.prod, sourcemaps.write('.')))
     .pipe(when(argv.prod, gulp.dest('.tmp/assets/javascript')))
     // .pipe(when(argv.prod, gulp.dest('src/assets/javascript'))) // for cloud cannon
-    .pipe(when(argv.prod, when('*.js', gzip({append: true}))))
+    // .pipe(when(argv.prod, when('*.js', gzip({append: true}))))
     .pipe(when(argv.prod, size({
       gzip: true,
       showFiles: true
@@ -88,7 +88,7 @@ gulp.task('styles', () =>
     .pipe(when(!argv.prod, sourcemaps.write('.')))
     .pipe(when(argv.prod, gulp.dest('.tmp/assets/stylesheets')))
     // .pipe(when(argv.prod, gulp.dest('src/assets/stylesheets'))) // for cloudcannon
-    .pipe(when(argv.prod, when('*.css', gzip({append: true}))))
+    // .pipe(when(argv.prod, when('*.css', gzip({append: true}))))
     .pipe(when(argv.prod, size({
       gzip: true,
       showFiles: true
