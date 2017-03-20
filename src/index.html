@@ -172,13 +172,7 @@ logos:
               {{ var.hover_text }}
             </p>
           </span>
-        <img
-          ix-path="{{ var.hero_image_path }}"
-          ix-params='{
-            "auto": "compress"
-          }'
-          sizes="(min-width: 960px) 33vw, 100vw"
-          />
+        <img src="{{ var.hero_image_path }}" />
         </a>
       </div>
     {% endfor %}
