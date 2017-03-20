@@ -1,9 +1,8 @@
 ---
 title: Maybelline Great Beauty Tour
 date: 2008-12-12 00:00:00
-filter:
-  - press
-featured_post: true
+filter: press
+featured_post: false
 excerpt: 'In their 2008 Awards Issue, WWD Beauty Biz Magazine named the EventNetUSA-produced Maybelline New York-Garnier the most innovative mass campaign of the year.'
 hero_image_path: /uploads/maybelline-garnier-great-beauty-tour-3.JPG
 content_section:
@@ -26,8 +25,104 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       "Maybelline New York-Garnier is well on its way to taking over the beauty
       world, due in no small part to innovative ways of reaching consumers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,9 +164,105 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       A custom-made tractor trailer was created for the tour, outfi tted with
       both brands’ advertisements, beauty visuals and rooms large enough to hold
       one-on-one makeup and skin consultations.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -109,9 +300,105 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Also during the year was the Garnier Fructis Style Tour, the brand’s first
       national mobile marketing tour, which visited 20 markets executing more
       than 85 events.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -133,6 +420,54 @@ content_section:
       stylist consultations, one-on-one experiences with consumers, product demos
       and entertainment to engage consumers for a complete Garnier Fructis
       experience.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
