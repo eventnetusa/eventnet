@@ -42,12 +42,6 @@ collections:
     output: true
     permalink: /work/:slug/
     _hide_content: true
-    values:
-      _comments:
-        hover_text: Shown on thumbnail hovers
-        hero_image_path: A wide rectangular image (~2100px wide)
-        thumbnail_image_path: A rectangle with a 7x5 aspect ratio (~800x571px)
-
 
 defaults:
   -
@@ -93,7 +87,6 @@ defaults:
       class: "casestudy"
       _comments:
         slug: Used to create the link
-        hero_image_path: Image should be at least 2000px wide
         single_image_path: Image should be at least 1000px wide
         video_id: A youtube video ID
         video_block: A youtube video ID
@@ -107,6 +100,9 @@ defaults:
         sidebar_text_markdown: (optional)
         cta: (optional)
         subheadline: (optional)
+        hover_text: Shown on thumbnail hovers
+        hero_image_path: A wide rectangular image (~2100px wide)
+        thumbnail_image_path: A rectangle with a 7x5 aspect ratio (~800x571px)
   -
     scope:
       path: "blog.html"
