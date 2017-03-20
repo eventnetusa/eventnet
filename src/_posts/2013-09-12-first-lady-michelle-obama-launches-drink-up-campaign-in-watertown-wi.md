@@ -1,5 +1,5 @@
 ---
-title: First Lady Michelle Obama Launches Drink Up
+title: 'First Lady Michelle Obama Launches Drink Up campaign in Watertown, WI'
 date: 2013-09-12 00:00:00
 filter: press
 featured_post: true
@@ -18,7 +18,55 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       ##### By Bill Glauber and Karen Herzog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
