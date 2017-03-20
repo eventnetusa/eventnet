@@ -5,6 +5,7 @@ sort_order: 3
 headline: 'LOVE IS ON: Mobile Pop-Up Shop US Tour'
 hover_text: "Revlon captured the hearts of cosmetic enthusiasts across America with its 53' pop-up shop on wheels."
 hero_image_path: /uploads/revlon-case-6.jpg
+thumbnail_image_path: /uploads/revlon-thumb.jpg
 types:
   - popup shop
   - vehicle tour

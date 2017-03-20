@@ -5,6 +5,7 @@ sort_order: 10
 headline: Cross-Channel Community Outreach Program
 hover_text: See how Health Care Service Corporation educated consumers when the Affordable Care Act launched
 hero_image_path: /uploads/hcsc-case-9.jpg
+thumbnail_image_path: /uploads/hcsc-thumb.jpg
 types:
   - insurance activation
   - popup shop

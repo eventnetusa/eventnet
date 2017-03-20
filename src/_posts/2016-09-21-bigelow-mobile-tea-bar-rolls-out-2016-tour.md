@@ -5,6 +5,7 @@ filter: press
 featured_post: false
 excerpt: 'The Bigelow Mobile Tea Bar, which has already logged more than 14,000 miles and served more than 86,000 cups of tea to consumers across the U.S. will once again be on the road making several stops in the weeks and months ahead.'
 hero_image_path: /uploads/teabar1.jpg
+thumbnail_image_path: /uploads/teabar1.jpg
 content_section:
   - text_block_markdown: >-
       #### As seen in [The

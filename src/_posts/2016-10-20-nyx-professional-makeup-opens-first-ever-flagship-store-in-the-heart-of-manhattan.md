@@ -5,6 +5,7 @@ filter: press
 featured_post: true
 excerpt: "NYX Professional Makeup is set to launch its first flagship store in Manhattan on Friday, October 28th, just in time for Halloween. Located in the heart of Union Square, the cosmetic company's 20th domestic store is perfectly positioned for New Yorkers and tourists alike to shop the complete line of affordable, professional makeup."
 hero_image_path: /uploads/img-0047.jpg
+thumbnail_image_path: /uploads/img-0047-thumb.jpg
 content_section:
   - text_block_markdown: >-
       #### As seen on [PR

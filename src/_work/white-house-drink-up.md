@@ -5,6 +5,7 @@ sort_order: 2
 headline: "Michelle Obama's \"Drink Up\" Campaign Launch"
 hover_text: 'First Lady Michelle Obama  and the Partnership for a Healthier America made a big splash in Watertown, WI to promote the importance of drinking water.'
 hero_image_path: /uploads/slide-drink-up.jpg
+thumbnail_image_path: /uploads/slide-drink-up.jpg
 types:
   - pr event
 cta_text: Need a turnkey event solution?

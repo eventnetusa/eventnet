@@ -5,6 +5,7 @@ sort_order: 21
 headline: NY Fashion Week Pop-Up Shop
 hover_text: Converted empty retail space in Times Square into red carpet ready pop-up shop. Operated 7 days during NYFW and delivered 3k makeovers.
 hero_image_path: /uploads/maybelline-nyc-popup.jpg
+thumbnail_image_path: /uploads/maybelline-nyc-popup.jpg
 types:
   - pr event
   - popup shop

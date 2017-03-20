@@ -4,6 +4,7 @@ sort_order: 20
 headline: Multi-Market Guerrilla Sampling
 hover_text: '3 markets, 10 events, 27 guerrilla sampling days, 1.4M impressions, 137k samples - ask us how we did it!'
 hero_image_path: /uploads/silk.png
+thumbnail_image_path: /uploads/silk-thumb.jpg
 types:
   - street team
 cta_text:

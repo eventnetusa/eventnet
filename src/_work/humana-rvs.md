@@ -5,6 +5,7 @@ sort_order: 23
 headline: "\"Let's Talk\" Medicare @ Walmart"
 hover_text: "10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare spending at targeted Walmart's - Ask us how we did it!"
 hero_image_path: /uploads/humana-rvs.png
+thumbnail_image_path: /uploads/humana-rvs.png
 types:
   - insurance activation
   - popup shop

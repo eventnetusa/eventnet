@@ -5,6 +5,7 @@ filter: press
 featured_post: false
 excerpt: "Up until now, the best place to snag NYX Cosmetics' products was online or at your local drugstore. Well, that's all about to change. Starting Oct. 28, you'll be able to hit the official store to stock up on all the beauty products that you need. Where is the NYX Cosmetics' flagship store? It won't surprise you which city the store chose as their go-to location."
 hero_image_path: /uploads/nyx-union-square-grand-opening.jpg
+thumbnail_image_path: /uploads/nyx-union-square-grand-opening.jpg
 content_section:
   - text_block_markdown: >-
       #### As seen on

@@ -45,6 +45,9 @@ collections:
     values:
       _comments:
         hover_text: Shown on thumbnail hovers
+        hero_image_path: A wide rectangular image (~2100px wide)
+        thumbnail_image_path: A rectangle with a 7x5 aspect ratio (~800x571px)
+
 
 defaults:
   -
@@ -89,18 +92,18 @@ defaults:
       layout: "casestudy"
       class: "casestudy"
       _comments:
-        slug: used to create the link
-        hero_image_path: image should be at least 2000px wide
-        single_image_path: image should be at least 1000px wide
-        video_id: a youtube video ID
-        video_block: a youtube video ID
-        related_client_logos: add up to five logos
-        logo_image_height: when logo is too tall, use a percentage to decrease the height
-        double_image_block: these images must be square
-        image_1_path: these images must be square
-        image_2_path: these images must be square
-        logo_image_path: upload an SVG or image with transparency
-        content_section: use one or more media sections to create custom layouts
+        slug: Used to create the link
+        hero_image_path: Image should be at least 2000px wide
+        single_image_path: Image should be at least 1000px wide
+        video_id: A youtube video ID
+        video_block: A youtube video ID
+        related_client_logos: Add up to five logos
+        logo_image_height: When logo is too tall, use a percentage to decrease the height
+        double_image_block: These images must be square
+        image_1_path: These images must be square
+        image_2_path: These images must be square
+        logo_image_path: Upload an SVG or image with transparency
+        content_section: Use one or more media sections to create custom layouts
         sidebar_text_markdown: (optional)
         cta: (optional)
         subheadline: (optional)
@@ -121,7 +124,8 @@ defaults:
      # _hide_content: true
       _comments:
         content_section: "NOTE: add all post content here!"
-        hero_image_path: "Image should be at least 2100px wide"
+        hero_image_path: A wide rectangular image (~2100px wide)
+        thumbnail_image_path: A rectangle with a 7x5 aspect ratio (~800x571px)
         filter: "This is the category"
       # permalink: "/blog/:slug"
 

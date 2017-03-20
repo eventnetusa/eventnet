@@ -6,6 +6,7 @@ headline:
 subheadline: |
 hover_tagline:
 hero_image_path:
+thumbnail_image_path:
 type:
 cta_text:
 cta:

@@ -5,6 +5,7 @@ sort_order: 15
 headline: 100th Anniversary Tour
 hover_text: 'Our Prince Food Truck delivered 77k impressions, 16k samples, and 15k coupons at grocery stores and events around the Northeast. Ask us how!'
 hero_image_path: /uploads/prince-pasta.jpg
+thumbnail_image_path: /uploads/prince-pasta.jpg
 types:
   - vehicle tour
   - street team

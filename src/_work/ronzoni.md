@@ -5,6 +5,7 @@ sort_order: 11
 headline: 100 Yr Anniversary Celebration
 hover_text: "We helped Ronzoni celebrate 100 years in business with a giant pasta sand castle and sampling at South Beach's Food & Wine Festival"
 hero_image_path: /uploads/ronzoni.png
+thumbnail_image_path: /uploads/ronzoni.png
 types:
   - pr event
   - pr stunt

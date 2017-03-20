@@ -5,6 +5,7 @@ sort_order: 14
 headline: Community Outreach Vehicle
 hover_text: "Contractually we can't share this client's name, but trust us, you'll want to learn about our expandable trucks for community outreach!"
 hero_image_path: /uploads/double-expandable-truck.png
+thumbnail_image_path: /uploads/double-expandable-truck.png
 types:
   - insurance activation
   - popup shop

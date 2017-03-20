@@ -5,6 +5,7 @@ sort_order: 18
 headline: 'Sample & Scoot in South Florida'
 hover_text: "We hit the streets of Miami and Ft. Lauderdale to sample LaCroix's wildly popular sparkling water from zippy scooters and Mini Coopers"
 hero_image_path: /uploads/lacroix-mini-and-scooters.jpg
+thumbnail_image_path: /uploads/lacroix-mini-and-scooters.jpg
 types:
   - street team
 cta_text:

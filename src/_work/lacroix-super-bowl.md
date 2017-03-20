@@ -5,6 +5,7 @@ sort_order: 33
 headline: Sampling @ Superbowl XLIV
 hover_text: EventNetUSA kept Super Bowl XLIV fans hydrated and refreshed with LaCroix Sparkling Water on the streets of Ft. Lauderdale and Miami
 hero_image_path: /uploads/lacroix-superbowl.JPG
+thumbnail_image_path: /uploads/lacroix-superbowl.JPG
 types:
   - street team
 cta_text:

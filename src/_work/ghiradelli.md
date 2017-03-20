@@ -5,6 +5,7 @@ sort_order: 28
 headline: Sampling with Santa
 hover_text: 'When Ghirahelli asked us to produce a holiday sampling program,  we enlisted the help of Santa and his elves in shopping malls across America.'
 hero_image_path: /uploads/ghiradelli.png
+thumbnail_image_path: /uploads/ghiradelli.png
 types:
   - street team
   - retail

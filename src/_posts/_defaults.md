@@ -5,6 +5,7 @@ filter:
 featured_post: false
 excerpt:
 hero_image_path:
+thumbnail_image_path:
 content_section:
   -
     text_block_markdown: >-

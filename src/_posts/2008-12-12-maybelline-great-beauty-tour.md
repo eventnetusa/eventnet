@@ -5,6 +5,7 @@ filter: press
 featured_post: false
 excerpt: 'In their 2008 Awards Issue, WWD Beauty Biz Magazine named the EventNetUSA-produced Maybelline New York-Garnier the most innovative mass campaign of the year.'
 hero_image_path: /uploads/maybelline-garnier-great-beauty-tour-3.JPG
+thumbnail_image_path: /uploads/maybelline-garnier-great-beauty-tour-3.JPG
 content_section:
   - text_block_markdown: >-
       #### As seen in WWD Beauty Biz:

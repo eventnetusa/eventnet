@@ -5,6 +5,7 @@ sort_order: 29
 headline: 'ESPYS Sponsorship & Sampling'
 hover_text: "Fullfilled Clear for Men's ESPYS sponsorship, including negotiation, build out, staffing and sampling. Ask us how we did it!"
 hero_image_path: /uploads/clear-men-espys.jpg
+thumbnail_image_path: /uploads/espy-thumb.jpg
 types:
   - pr event
   - street team

@@ -5,6 +5,7 @@ filter: press
 featured_post: false
 excerpt: "Featuring 40 different tea flavors and several bar stools, the inside of the trailer was converted into a mini bar, with images of the Bigelow family and the tea company's history lining the walls. Intimate, professional, but fun is how Cindi Bigelow, president of Bigelow Tea, describes the 31-foot trailer."
 hero_image_path: /uploads/bigelow-trailer-cttimes-2014.jpg
+thumbnail_image_path: /uploads/bigelow-trailer-cttimes-2014.jpg
 content_section:
   - text_block_markdown: >-
       #### Published September 16, 2014 on the

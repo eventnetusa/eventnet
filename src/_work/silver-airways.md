@@ -4,6 +4,7 @@ sort_order: 26
 headline: Guerrilla Marketing Campaign
 hover_text: Silver Airways partnered with us to ask travelers in Miami what they would visit on a trip to Cuba and enter a sweepstakes to win 2 tickets.
 hero_image_path: /uploads/silver-airways-chalk-wall.jpg
+thumbnail_image_path: /uploads/silver-airways-chalk-wall.jpg
 types:
   - pr event
   - street team

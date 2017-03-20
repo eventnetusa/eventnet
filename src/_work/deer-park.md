@@ -5,6 +5,7 @@ sort_order: 22
 headline: Glass Enclosed Recycling Truck
 hover_text: Deer Park educated consumers on the importance of recycling water bottles with an interactive glass truck experience
 hero_image_path: /uploads/nestle-deer-park.jpg
+thumbnail_image_path: /uploads/nestle-deer-park.jpg
 types:
   - vehicle tour
 cta_text:

@@ -5,6 +5,7 @@ filter: press
 featured_post: true
 excerpt: 'First lady Michelle Obama has been trying to get American kids to become more physically active through her “Let’s Move!” initiative.  Now, she is urging everyone to “Drink Up.” To drive home the message, Obama came to Watertown High School on Thursday to pitch Americans on the health benefits of drinking water.'
 hero_image_path: /uploads/drink-up-michelle-obama.jpg
+thumbnail_image_path: /uploads/drink-up-michelle-obama.jpg
 content_section:
   - text_block_markdown: >-
       #### As seen in the [Milwaukee Journal

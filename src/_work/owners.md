@@ -5,6 +5,7 @@ sort_order: 8
 headline: Mobile Open House
 hover_text: 'Owners.com launched its online real estate tool for the modern home owner with a trailer transformed into a mobile open house, complete with a white picket fence.'
 hero_image_path: /uploads/owners-house.jpg
+thumbnail_image_path: /uploads/owners-house.jpg
 types:
   - vehicle tour
   - pr event

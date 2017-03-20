@@ -5,6 +5,7 @@ sort_order: 19
 headline: Pop-Up Answer Centers
 hover_text: 'When Medicare Part D launched, Aetna turned to EventNetUSA to educate consumers using kiosks in shopping malls and HEB stores'
 hero_image_path: /uploads/aetna.png
+thumbnail_image_path: /uploads/aetna.png
 types:
   - insurance activation
   - popup shop
