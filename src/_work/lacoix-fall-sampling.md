@@ -4,7 +4,7 @@ link_to_casestudy: true
 sort_order: 1
 headline: "Fall '16 Guerilla Sampling Program"
 hover_text: 'For over 11 years, LaCroix has entrusted us with placing their product in the hands of consumers using street team sampling, tradeshow exhibiting, and mobile marketing programs.'
-hero_image_path: /uploads/lacroix.png
+hero_image_path: /uploads/lacroix-case-1.jpg
 types:
   - street team
 cta_text: Want to put your brand in the hands of consumers?
