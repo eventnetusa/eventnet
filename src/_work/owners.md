@@ -45,7 +45,7 @@ content_section:
     video_block:
       video_id: Mr-d9XwzPM8
 project_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/owners-com-logo.jpg
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/Logo_Olia_Verso.jpg

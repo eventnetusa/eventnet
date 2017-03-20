@@ -128,7 +128,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/health-care-service-corporation-logo.jpg
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/humana.png

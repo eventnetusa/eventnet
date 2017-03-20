@@ -80,7 +80,7 @@ content_section:
     video_block:
       video_id: OvUjkom0HOE
 project_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/bigelow.JPG
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/biotherm.png

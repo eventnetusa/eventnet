@@ -14,63 +14,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      ##### By NYX Professional MakeupE
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+      ##### By NYX Professional Makeup
 
 
 

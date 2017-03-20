@@ -6,7 +6,6 @@ headline: Mini in a Stadium
 hover_text: 'When deciding how to enter the US Market, Mini Cooper and Crispin Porter + Bogusky looked to EventNetUSA to pull off a stunt as unique and eye catching as the brand itself.'
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
 types:
-  - pr stunt
 cta_text: Looking to turn heads with a PR stunt?
 cta: "Let's talk"
 sidebar_text_markdown:
@@ -45,7 +44,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/mini-cooper.jpg
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/advil.png

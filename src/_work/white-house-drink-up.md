@@ -59,7 +59,9 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/whitehouse.png
+    logo_image_height:
+  - logo_image_path: /uploads/phalogo.png
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/cbs.png
