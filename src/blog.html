@@ -7,7 +7,7 @@ title: Blog
 <section class="hero">
   <div class="carousel">
     {% for item in featured %}
-      <div class="carousel-cell cover tc" style="background-image: url({{ item.hero_image_path }})">
+      <div class="carousel-cell cover tc" style="background-image: url({{ item.hero_image_path }}); background-position: top;">
 
         <span>
           <a class="pa6-m pa4-l" href="{{ item.url }}">
