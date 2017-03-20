@@ -25,6 +25,8 @@
     <link rel="shortcut icon" href="/assets/favicon.ico">
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=58ceb2513f98570011e643ca&product=sticky-share-buttons"></script>
 
+    <meta property="ix:host" content="eventnet.imgix.net">
+
   </head>
 
   <body class="{% if page.class %}{{ page.class }}{% endif %}">
@@ -35,7 +37,15 @@
       <div class="wrapper">
 
         <article class="cf">
-          <div class="hero cover bg-center raleway" style="background-image: url({{page.hero_image_path}}); background-position: top;">
+          <div class="hero cover bg-center raleway" style="background-position: top;">
+          <img
+              class="js-img"
+              ix-path="{{page.hero_image_path}}"
+              ix-params='{
+                "auto": "compress"
+              }'
+              sizes="100vw"
+            >
             <div class="overlay" style="height: 100%;">
               <div class="tc near-white pv6 pb3 pl5">
               </div>
@@ -120,11 +130,14 @@
 
     {% include footer.html %}
 
+
   <!-- JS -->
   <!-- inject:js -->
   <!-- endinject -->
 
   <script src="/assets/javascript/index.js"></script>
+
+  {% include js_post.html %}
 
   </body>
 

@@ -103,7 +103,16 @@ logos:
     <div class="cf pa2">
       {% for logo in page.logos %}
         <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-          <img class="svg" src="{{ logo.logo_image }}" style="height: {{logo.logo_height}};" />
+          <img class="svg"
+               ix-path="{{ logo.logo_image }}"
+               ix-params='{
+                 "auto": "compress"
+               }'
+               sizes="125px"
+               style="height: {{logo.logo_height}};"
+          />
+
+
         </div>
       {% endfor %}
     </div>
@@ -163,7 +172,13 @@ logos:
               {{ var.hover_text }}
             </p>
           </span>
-        <img src="{{ var.hero_image_path }}" />
+        <img
+          ix-path="{{ var.hero_image_path }}"
+          ix-params='{
+            "auto": "compress"
+          }'
+          sizes="(min-width: 960px) 33vw, 100vw"
+          />
         </a>
       </div>
     {% endfor %}

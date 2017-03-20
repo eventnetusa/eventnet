@@ -38,6 +38,11 @@ The main SCSS file for everything, yep
     max-width: 1400px;
   }
 
+  // imgix background-images
+  .js-img {
+    display: none;
+  }
+
   // HEADER
   // @media (min-width: 600px) and (max-width: 400px)  {...}
 

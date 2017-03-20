@@ -7926,6 +7926,9 @@ html.remodal-is-locked {
 header, footer {
   max-width: 1400px; }
 
+.js-img {
+  display: none; }
+
 @media (min-width: 300px) and (max-width: 430px) {
   header {
     padding-left: 0 !important;

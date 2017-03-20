@@ -45,7 +45,14 @@ title: Blog
             <div class="fl w-50 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <img
+                    class="db bg-center cover aspect-ratio--object"
+                    ix-path="{{item.hero_image_path}}"
+                    ix-params='{
+                      "auto": "compress"
+                    }'
+                    sizes="(max-width: 551px) 50vw, 33vw""
+                  >
                   <span class="white child aspect-ratio--object">
                     <div class="pa1 pa3-m pa4-l">
                       <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.filter}}</p>
@@ -72,7 +79,14 @@ title: Blog
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <img
+                    class="db bg-center cover aspect-ratio--object"
+                    ix-path="{{item.hero_image_path}}"
+                    ix-params='{
+                      "auto": "compress"
+                    }'
+                    sizes="(max-width: 551px) 50vw, 33vw""
+                  >
                   <span class="white child aspect-ratio--object">
                     <div class="pa1 pa3-m pa4-l">
                       <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.filter}}</p>
@@ -98,7 +112,14 @@ title: Blog
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img style="background-image: url({{item.hero_image_path}});" class="db bg-center cover aspect-ratio--object" alt="">
+                  <img
+                    class="db bg-center cover aspect-ratio--object"
+                    ix-path="{{item.hero_image_path}}"
+                    ix-params='{
+                      "auto": "compress"
+                    }'
+                    sizes="(max-width: 551px) 50vw, 33vw""
+                  >
                   <span class="white child aspect-ratio--object">
                     <div class="pa1 pa3-m pa4-l">
                       <p class="f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.filter}}</p>
