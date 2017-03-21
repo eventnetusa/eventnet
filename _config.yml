@@ -101,8 +101,8 @@ defaults:
         cta: (optional)
         subheadline: (optional)
         hover_text: Shown on thumbnail hovers
-        hero_image_path: A wide rectangular image (~2100px wide)
-        thumbnail_image_path: A rectangle with a 7x5 aspect ratio (~800x571px)
+        hero_image_path: Ideally 1950x750px (2.6 aspect ratio rectangle )
+        thumbnail_image_path: Ideally 800x571px (1.4 aspect ratio rectangle)
   -
     scope:
       path: "blog.html"
@@ -120,8 +120,8 @@ defaults:
      # _hide_content: true
       _comments:
         content_section: "NOTE: add all post content here!"
-        hero_image_path: A wide rectangular image (~2100px wide)
-        thumbnail_image_path: A rectangle with a 7x5 aspect ratio (~800x571px)
+        hero_image_path: Ideally 1950x750px (2.6 aspect ratio rectangle )
+        thumbnail_image_path: Ideally 800x571px (1.4 aspect ratio rectangle)
         filter: "This is the category"
       # permalink: "/blog/:slug"
 
