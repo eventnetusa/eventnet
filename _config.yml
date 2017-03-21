@@ -124,6 +124,13 @@ defaults:
         thumbnail_image_path: Ideally 800x571px (1.4 aspect ratio rectangle)
         filter: "This is the category"
       # permalink: "/blog/:slug"
+  -
+    scope:
+      path: "cms.md"
+    values:
+      layout: "cms"
+      permalink: "/cms/"
+      _hide_content: true
 
 
 # _config.build.yml overwrites these options when you run `gulp build`
