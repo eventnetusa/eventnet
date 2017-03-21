@@ -17,9 +17,13 @@
     <!-- SEO -->
     {% seo %}
 
-    <!-- CSS -->
-    <!-- inject:css -->
-    <link rel="stylesheet" href="/assets/stylesheets/style.css">
+    <!-- non-injected js -->
+    {% if jekyll.environment == 'production' %}
+      <script src=/assets/styleshetts/styles.css></script>
+    {% else %}
+      <script src="/assets/styleshetts/styles.min.css"></script>
+    {% endif %}
+     <!-- end -->
     <!-- endinject -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,500,700" rel="stylesheet">
     {% if page.class == 'contact' %}
@@ -145,7 +149,7 @@
   {% if jekyll.environment == 'production' %}
     <script src=/assets/javascript/index.js></script>
   {% else %}
-    <script src="/assets/javascript/index.js"></script>
+    <script src="/assets/javascript/index.min.js"></script>
   {% endif %}
    <!-- end -->
 
