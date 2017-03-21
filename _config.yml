@@ -5,10 +5,10 @@ title: EventNetUSA
 description: Turnkey brand event production & management. Bringing ideas to life for marketers and agencies since 1976.
 url: http://www.eventnetusa.com
 
-# Used so Jekyll outputs the site correctly so Gulp can do what it wants
+# CloudCannon uses these:
 source: src
 destination: dist
-# exclude: ['assets']
+exclude:
 
 # Same as the title etc for your site but can instead be
 # called by using 'site.author.name' and so on

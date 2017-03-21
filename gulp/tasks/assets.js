@@ -51,8 +51,7 @@ gulp.task('scripts', () =>
     // .pipe(when(argv.prod, rev()))
     .pipe(when(!argv.prod, sourcemaps.write('.')))
     .pipe(when(argv.prod, gulp.dest('.tmp/assets/javascript')))
-    // .pipe(when(argv.prod, gulp.dest('src/assets/javascript'))) // for cloud cannon
-    // .pipe(when(argv.prod, when('*.js', gzip({append: true}))))
+    .pipe(when(argv.prod, when('*.js', gzip({append: true}))))
     .pipe(when(argv.prod, size({
       gzip: true,
       showFiles: true
@@ -73,7 +72,7 @@ gulp.task('styles', () =>
       precision: 10
     }).on('error', sass.logError))
     .pipe(postcss([
-      autoprefixer({browsers: '> 5%'})
+      autoprefixer({browsers: 'last 1 version'}) // modify as needed
     ]))
     .pipe(size({
       showFiles: true
@@ -87,8 +86,7 @@ gulp.task('styles', () =>
     // .pipe(when(argv.prod, rev()))
     .pipe(when(!argv.prod, sourcemaps.write('.')))
     .pipe(when(argv.prod, gulp.dest('.tmp/assets/stylesheets')))
-    // .pipe(when(argv.prod, gulp.dest('src/assets/stylesheets'))) // for cloudcannon
-    // .pipe(when(argv.prod, when('*.css', gzip({append: true}))))
+    .pipe(when(argv.prod, when('*.css', gzip({append: true}))))
     .pipe(when(argv.prod, size({
       gzip: true,
       showFiles: true

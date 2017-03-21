@@ -26,30 +26,30 @@ cta_text: Let's get started
 
   <div class="work-header-wrapper tc" style="background-color: #263d60">
     <div class="center cf" style="background-color: #263d60">
-    <ul class="pl0 f6 fw3 tracked tc pv2 nav nav-tabs" role="tablist">
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link active" data-toggle="tab" href="#all" role="tab">All</a>
-      </li>
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#vehicletours" role="tab">Vehicle Tours</a>
-      </li>
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#events" role="tab">PR Events</a>
-      </li>
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#popups" role="tab">Pop-up Shops</a>
-      </li>
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#insurance" role="tab">Insurance Activations</a>
-      </li>
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#retail" role="tab">Retail Integration</a>
-      </li>
-      <li class="nav-item raleway">
-        <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#street" role="tab">Sampling/Street Teams</a>
-      </li>
-    </ul>
-  </div>
+      <ul class="pl0 f6 fw3 tracked tc pv2 nav nav-tabs" role="tablist">
+        <li class="nav-item raleway">
+          <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link active" data-toggle="tab" href="#all" role="tab">All</a>
+        </li>
+        <li class="nav-item raleway">
+          <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#vehicletours" role="tab">Vehicle Tours</a>
+        </li>
+        <li class="nav-item raleway">
+          <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#events" role="tab">PR Events</a>
+        </li>
+        <li class="nav-item raleway">
+          <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#popups" role="tab">Pop-up Shops</a>
+        </li>
+        <li class="nav-item raleway">
+          <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#insurance" role="tab">Insurance Activations</a>
+        </li>
+        <li class="nav-item raleway">
+          <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#retail" role="tab">Retail Integration</a>
+        </li>
+        <li class="nav-item raleway">
+          <a class="link near-white dib hover-bg-dark-blue pv2 ph3 nav-link" data-toggle="tab" href="#street" role="tab">Sampling/Street Teams</a>
+        </li>
+      </ul>
+    </div>
   </div>
 
   <div class="tab-content">
@@ -68,16 +68,16 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <p class="f6 f5-l lh-copy hover-text-small">{{item.hover_text | truncatewords: "12"}}</p>
                     </div>
-                  </span>
+                  </div>
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link no-link">
@@ -87,18 +87,20 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
+                        <!-- htmlmin:ignore -->
                         <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph3 ph4-ns pv2 pv3-ns mt3 mt4-ns dib white ttu tracked" href="#0">Tell me more</a>
+                        <!-- htmlmin:ignore -->
                       </div>
                     </div>
-                  </span>
+                  </div>
                 </div>
                 {% endif %}
               </div>
@@ -122,16 +124,16 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <p class="f6 f5-l lh-copy hover-text-small">{{item.hover_text | truncatewords: "12"}}</p>
                     </div>
-                  </span>
+                  </div>
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
@@ -141,18 +143,20 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
+                        <!-- htmlmin:ignore -->
                         <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <!-- htmlmin:ignore -->
                       </div>
                     </div>
-                  </span>
+                  </div>
                 </div>
                 {% endif %}
               </div>
@@ -176,16 +180,16 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <p class="f6 f5-l lh-copy hover-text-small">{{item.hover_text | truncatewords: "12"}}</p>
                     </div>
-                  </span>
+                  </div>
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
@@ -195,18 +199,20 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
+                        <!-- htmlmin:ignore -->
                         <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <!-- htmlmin:ignore -->
                       </div>
                     </div>
-                  </span>
+                  </div>
                 </div>
                 {% endif %}
               </div>
@@ -230,16 +236,16 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <p class="f6 f5-l lh-copy hover-text-small">{{item.hover_text | truncatewords: "12"}}</p>
                     </div>
-                  </span>
+                  </div>
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
@@ -249,18 +255,20 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
+                        <!-- htmlmin:ignore -->
                         <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <!-- htmlmin:ignore -->
                       </div>
                     </div>
-                  </span>
+                  </div>
                 </div>
                 {% endif %}
               </div>
@@ -284,16 +292,16 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <p class="f6 f5-l lh-copy hover-text-small">{{item.hover_text | truncatewords: "12"}}</p>
                     </div>
-                  </span>
+                  </div>
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
@@ -303,18 +311,20 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
+                        <!-- htmlmin:ignore -->
                         <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <!-- htmlmin:ignore -->
                       </div>
                     </div>
-                  </span>
+                  </div>
                 </div>
                 {% endif %}
               </div>
@@ -338,16 +348,16 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <p class="f6 f5-l lh-copy hover-text-small">{{item.hover_text | truncatewords: "12"}}</p>
                     </div>
-                  </span>
+                  </div>
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
@@ -357,18 +367,20 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
+                        <!-- htmlmin:ignore -->
                         <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <!-- htmlmin:ignore -->
                       </div>
                     </div>
-                  </span>
+                  </div>
                 </div>
                 {% endif %}
               </div>
@@ -392,16 +404,16 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <p class="f6 f5-l lh-copy hover-text-small">{{item.hover_text | truncatewords: "12"}}</p>
                     </div>
-                  </span>
+                  </div>
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
@@ -411,18 +423,20 @@ cta_text: Let's get started
                     ix-params='{
                       "auto": "compress"
                     }'
-                    sizes="(max-width: 551px) 50vw, 25vw""
+                    sizes="(max-width: 551px) 50vw, 25vw"
                   >
-                  <span class="white child aspect-ratio--object">
+                  <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
                       <h1 class="f3 fw4 mt3 lh-title">{{item.headline}}</h1>
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
+                        <!-- htmlmin:ignore -->
                         <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <!-- htmlmin:ignore -->
                       </div>
                     </div>
-                  </span>
+                  </div>
                 </div>
                 {% endif %}
               </div>

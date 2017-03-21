@@ -19,8 +19,13 @@
 
   <!-- JS -->
   <!-- inject:js -->
-  <script src="/assets/javascript/index.min.js"></script>
   <!-- endinject -->
+
+  <!-- for cloudcannon -->
+  {% if jekyll.environment == 'production' %}
+    <script src=/assets/javascript/index.js></script>
+  {% endif %}
+   <!-- end -->
 
   <!-- js partials -->
   {% if page.class == 'home' %}
