@@ -4,7 +4,7 @@ link_to_casestudy: true
 sort_order: 7
 headline: Garnier Greener Recycling Tour
 hover_text: Garnier teaches consumers about the importance of recycling and earth-friendly products in an eye catching glass truck
-hero_image_path: /uploads/garnier-102-3657.jpg
+hero_image_path: /uploads/garnier-case-study2.jpg
 thumbnail_image_path: /uploads/garnier-102-3657.jpg
 types:
   - retail
