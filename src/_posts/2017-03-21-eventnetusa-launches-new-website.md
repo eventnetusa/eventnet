@@ -4,14 +4,38 @@ date: 2017-03-21 00:00:00
 filter: press
 featured_post: false
 excerpt: 'Kicking off Spring with something fresh, EventNetUSA’s newly redesigned website goes live today. The Fort Lauderdale-based experiential marketing agency announces www.eventnetusa.com’s new look is in full bloom.'
-hero_image_path: /uploads/test-homepage.png
-thumbnail_image_path: /uploads/square-homepage.png
+hero_image_path: /uploads/press-release-hero.png
+thumbnail_image_path: /uploads/press-release-hero.png
 content_section:
   - text_block_markdown: >-
       Kicking off Spring with something fresh, EventNetUSA’s newly redesigned
       website goes live today. The Fort Lauderdale-based experiential marketing
       agency announces [www.eventnetusa.com](http://www.eventnetusa.com)&nbsp;new
       look is in full bloom.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -34,10 +58,58 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Set with the goal of bringing brand ideas to life with originality and
       quality, the event marketing company prides themselves in their expertise
       in delivering turnkey solutions on time and on budget for brand and their
       agencies across the U.S.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -58,9 +130,57 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       The new website, designed with the user experience in mind, will help
       marketing managers and account executives identify the agency’s
       capabilities and portfolio more quickly and clearly than ever before.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -84,6 +204,30 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Another noteworthy addition is a new Careers page. With at least 1 program
       on the road any given day of the year, EventNetUSA is constantly placing
       staff to deliver their clients’ brand messaging. This added technology
@@ -98,10 +242,58 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       EventNetUSA’s website will be updated on a regular basis with news of
       current programs, case studies on the latest activations, company
       milestones, industry whitepapers, and job listings for those looking to
       join their team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
