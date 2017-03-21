@@ -35,7 +35,39 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       ### A LOOK BEHIND THE SCENES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -77,15 +109,15 @@ project_logos:
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/snausages.png
-    logo_image_height: '60%'
-  - logo_image_path: /uploads/jetblue.png
     logo_image_height: '40%'
+  - logo_image_path: /uploads/jetblue.png
+    logo_image_height: '30%'
   - logo_image_path: /uploads/maybelline.png
     logo_image_height:
   - logo_image_path: /uploads/vaseline.jpg
-    logo_image_height:
+    logo_image_height: '50%'
   - logo_image_path: /uploads/ronzoni-gray.png
-    logo_image_height:
+    logo_image_height: '70%'
 ---
 
 

@@ -68,7 +68,7 @@ project_logos:
 related_client_logos:
   - logo_image_path: /uploads/maybelline.png
     logo_image_height:
-  - logo_image_path: /uploads/garnier.png
+  - logo_image_path: /uploads/garnier-gray.png
     logo_image_height:
   - logo_image_path: /uploads/nyx.png
     logo_image_height: '20%'
