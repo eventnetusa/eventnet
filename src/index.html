@@ -75,7 +75,7 @@ logos:
   - logo_image: uploads/nyx.svg
     logo_height: '20%'
   - logo_image: /uploads/cpb.png
-    logo_height: '85%'
+    logo_height: '60%'
 ---
 
 <div id="video" style="width: 100%;" data-vide-bg="uploads/videos/home-edit-compressed" data-vide-options="loop: true, muted: false, position: 50% 50%">
@@ -103,14 +103,9 @@ logos:
     <div class="cf pa2">
       {% for logo in page.logos %}
         <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-          <img class="svg"
-               ix-path="{{ logo.logo_image }}"
-               ix-params='{
+          <img class="svg" ix-path="{{ logo.logo_image }}" ix-params='{
                  "auto": "compress"
-               }'
-               sizes="125px"
-               style="height: {{logo.logo_height}};"
-          />
+               }' sizes="125px" style="height: {{logo.logo_height}};" />
 
 
         </div>
