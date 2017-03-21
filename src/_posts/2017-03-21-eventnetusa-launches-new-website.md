@@ -17,10 +17,18 @@ content_section:
 
 
 
+
+
+
+
       Founded in 1976, EventNetUSA produces and manages marketing activations
       nationwide for some of the world’s most recognizable brands and agencies,
       including Coca Cola, L’Oreal, Aetna Inc., Young & Rubicam, and even the
       White House.
+
+
+
+
 
 
 
@@ -35,8 +43,16 @@ content_section:
 
 
 
+
+
+
+
       Today, EventNetUSA takes their commitment to making their client’s brand
       activations simple and stress free one step further.
+
+
+
+
 
 
 
@@ -45,6 +61,10 @@ content_section:
       The new website, designed with the user experience in mind, will help
       marketing managers and account executives identify the agency’s
       capabilities and portfolio more quickly and clearly than ever before.
+
+
+
+
 
 
 
@@ -60,6 +80,10 @@ content_section:
 
 
 
+
+
+
+
       Another noteworthy addition is a new Careers page. With at least 1 program
       on the road any given day of the year, EventNetUSA is constantly placing
       staff to deliver their clients’ brand messaging. This added technology
@@ -70,10 +94,18 @@ content_section:
 
 
 
+
+
+
+
       EventNetUSA’s website will be updated on a regular basis with news of
       current programs, case studies on the latest activations, company
       milestones, industry whitepapers, and job listings for those looking to
       join their team.
+
+
+
+
 
 
 
