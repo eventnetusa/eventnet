@@ -29,13 +29,19 @@ content_section:
 
 
 
+
+
       EventNetUSA helped Garnier and TerraCycle catch the attention of every
       Wal-Mart consumer with an impressive glass enclosed truck, Garnier styling
       stations and games and giveaways located near to the store entrance/exit.
 
 
 
+
+
       ### A LOOK BEHIND THE SCENES &nbsp;
+
+
 
 
 
@@ -79,6 +85,8 @@ content_section:
       video_id:
 project_logos:
   - logo_image_path: /uploads/garnier.png
+    logo_image_height:
+  - logo_image_path: /uploads/5512337513-647d76684f-1.jpg
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/walmart.png
