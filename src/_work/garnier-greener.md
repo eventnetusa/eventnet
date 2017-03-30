@@ -87,7 +87,7 @@ project_logos:
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
   - logo_image_path: /uploads/5512337513-647d76684f-1.jpg
-    logo_image_height: '80%'
+    logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/walmart.png
     logo_image_height:
