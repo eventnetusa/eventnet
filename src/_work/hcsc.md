@@ -83,6 +83,10 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      &nbsp;
+
+
+
       POP-UP RETAIL STORES
 
       <br>Indoor Activations
@@ -112,6 +116,10 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      &nbsp;
+
+
+
       MOBILE ENROLLMENT RV
 
 
