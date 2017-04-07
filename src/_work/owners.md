@@ -45,8 +45,6 @@ content_section:
       * Transformed 53’ trailer into&nbsp; Mobile Open House providing consumers
       the opportunity to navigate and learn about the Owners.com website
 
-
-
       * Hired, contracted and managed (1) Tour Manager, (1) Assistant Tour
       Manager, (3) Owners.com Product Specialists, (1) CDL-A Driver, and (140)
       local Brand Ambassadors who served as the face of Owners.com
