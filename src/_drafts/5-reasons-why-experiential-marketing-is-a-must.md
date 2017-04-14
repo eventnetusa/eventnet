@@ -1,6 +1,6 @@
 ---
 title: 5 Reasons Why Experiential Marketing is a Must
-date: 2017-03-16 00:00:00
+date: 2017-04-19 00:00:00
 filter: insights
 featured_post: false
 excerpt: 'Now that experiential marketing is a mainstream practice, everyone is talking about ways to take activations to the next level. Digital graffiti walls, virtual reality, geo-tracking: the world of experiential is limited only by one’s imagination.'
