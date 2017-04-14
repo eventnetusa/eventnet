@@ -3,12 +3,12 @@ title: 'Experiential Retail: How NYX Cosmetics Is Bringing Brick and Mortars Bac
 date: 2017-05-24 00:00:00
 filter: insights
 featured_post: false
-excerpt: 'In today’s digitally driven world, ecommerce is dominating, retailers are becoming defined by their social media presence, and one-click purchases are the expectation. Heritage brands are seeking creative ways to grow with consumer lifestyles and new brands are challenged to cut through the clutter of the internet.'
+excerpt: 'In today’s digitally driven world, e-commerce is dominating, retailers are becoming defined by their social media presence, and one-click purchases are the expectation. Heritage brands are seeking creative ways to grow with consumer lifestyles and new brands are challenged to cut through the clutter of the internet.'
 hero_image_path:
 thumbnail_image_path:
 content_section:
   - text_block_markdown: >-
-      In today’s digitally driven world, ecommerce is dominating, retailers are
+      In today’s digitally driven world, e-commerce is dominating, retailers are
       becoming defined by their social media presence, and one-click purchases
       are the expectation. Heritage brands are seeking creative ways to grow with
       consumer lifestyles and new brands are challenged to cut through the
