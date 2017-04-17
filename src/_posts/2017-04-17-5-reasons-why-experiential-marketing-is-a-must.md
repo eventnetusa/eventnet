@@ -8,23 +8,17 @@ hero_image_path: /uploads/hero-image2-5-reasons-blog-post.jpg
 thumbnail_image_path: /uploads/20161001-125153.jpg
 content_section:
   - text_block_markdown: >-
+      **April 17, 2017**
+
+
+
+
+
       Now that experiential marketing is a mainstream practice, everyone is
       talking about ways to take brand activations to the next level. Digital
       graffiti walls, virtual reality, geo-tracking: the world of experiential is
       limited only by one’s imagination. Experiential is proven to nurture
       long-lasting brand relationships with consumers of all kinds.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -37,31 +31,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **1. Genuine Interaction**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -79,31 +49,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **2. Pave a Two-Way Street**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -120,31 +66,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **3. Build a Buzz**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -164,31 +86,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **4. Hit the Web Running**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -206,31 +104,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **5. Make More Sales**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -245,33 +119,9 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       Experiential marketing campaigns offer an enormous payoff compared to
       traditional marketing. Studies show great return on investment as well as
       excellent return on engagement for event marketing campaigns done right.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -289,35 +139,11 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       The 2014 version of the EventTrack survey reports that 93 percent of
       consumers say live events are more effective than television advertising.
       The reason is clear from the 89 percent of people who say live events give
       them a better understanding of a brand’s product or service than
       a television, print, banner or radio ad.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
