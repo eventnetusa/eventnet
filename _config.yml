@@ -31,7 +31,7 @@ types:
 
 filters:
   - insights
-  - press
+  - pressd
 
 categories:
   - insights
@@ -135,8 +135,8 @@ defaults:
 
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts
-future: true
-show_drafts: true
+future: false
+show_drafts: false
 # Disables the more accurate related posts for faster generating of the site
 lsi: false
 # Only make the last 10 posts so generating isn't slow
