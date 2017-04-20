@@ -3,7 +3,7 @@
   var feed = new Instafeed({
     get: 'user',
     userId: 353224793,
-    accessToken: '353224793.1677ed0.2b9078e2ba574b35bc312d7d95d304ca',
+    accessToken: '353224793.1677ed0.8d0f5642ab5548908c55ac3461832509',
     sortBy: 'most-recent',
     limit: 10,
     resolution: 'low_resolution',
