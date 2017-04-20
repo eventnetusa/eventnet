@@ -34,7 +34,7 @@ content_section:
 
       Set with the goal of bringing brand ideas to life with originality and
       quality, the event marketing company prides themselves in their expertise
-      in delivering turnkey solutions on time and on budget for brand and their
+      in delivering turnkey solutions on time and on budget for brands and their
       agencies across the U.S.
 
 
@@ -42,7 +42,7 @@ content_section:
 
 
       Today, EventNetUSA takes their commitment to making their client’s brand
-      activations simple and stress free one step further.
+      activations simple and stress-free one step further.
 
 
 

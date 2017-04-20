@@ -22,21 +22,28 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       Revlon partnered with EventNetUSA to produce the LOVE IS ON Pop-up Shop,
-      a tractor trailer retrofitted into a beauty store on wheels.
+      a tractor trailer retrofitted into a beauty store on wheels. Our Pop-Up
+      Shop's objectives were to deliver brand messaging, demonstrate and sell
+      product, integrate social media and press, and provide a “look, touch,
+      feel” experience through an experiential marketing tour.
 
-      Our Pop-Up Shop's objectives were to deliver brand messaging, demonstrate
-      and sell product, integrate social media and press, and provide a “look,
-      touch, feel” experience through an experiential marketing tour.
 
-      ### **A LOOK BEHIND THE SCENES:**
+
+      ### **A LOOK BEHIND THE SCENES**
+
+
 
       * Customized a 53 foot trailer with 100 feet of retail space, POS and
       banking systems for wireless sales transfers using Square, and an area for
-      social media integration * Included a product sample bar, personal
-      consultations with licensed beauticians, and professional makeovers and
-      manicures. * Contracted and trained over 300 brand ambassadors, including
-      1 tour manager, 1 CDLA driver and 100+ licensed cosmetologists * Routed
-      targeted lifestyle events supporting press, celebrity, and blogger
+      social media integration
+
+      * Included a product sample bar, personal consultations with licensed
+      beauticians, and professional makeovers and manicures.
+
+      * Contracted and trained over 300 brand ambassadors, including 1 tour
+      manager, 1 CDLA driver and 100+ licensed cosmetologists
+
+      * Routed targeted lifestyle events supporting press, celebrity, and blogger
       appearances in New York City, Chicago, Boston, Charlotte, Atlanta, St.
       Paul, and Dallas
     single_image_block:

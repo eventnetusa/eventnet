@@ -22,27 +22,41 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       Megabrand Garnier and upcycling pioneer TerraCycle partnered with
-      EventNetUSA for the Garnier Greener Tour.
+      EventNetUSA for the Garnier Greener Tour. The tour held events at
+      Wal-Mart’s all over the country to raise awareness about the recyclability
+      of cosmetic packaging, encourage people to think differently about waste,
+      and teach simple ways to have a positive impact on the environment.
 
-      The tour held events at Wal-Mart’s all over the country to raise awareness
-      about the recyclability of cosmetic packaging, encourage people to think
-      differently about waste, and teach simple ways to have a positive impact on
-      the environment.
+
+
+
 
       EventNetUSA helped Garnier and TerraCycle catch the attention of every
       Wal-Mart consumer with an impressive glass enclosed truck, Garnier styling
       stations and games and giveaways located near to the store entrance/exit.
 
-      ### A LOOK BEHIND THE SCENES
+
+
+
+
+      ### A LOOK BEHIND THE SCENES &nbsp;
+
+
+
+
 
       * For the Garnier Greener Tour, EventNetUSA produced and managed the glass
       truck, styling stations, display pieces, games and contests, site logistics
-      for 30 Wal-Mart locations, staffing and routing. * The glass truck featured
-      interactive education displays demonstrating ways to recycle empty hair
-      care, skin care or cosmetic packaging. * Each event set-up included Garnier
-      styling stations, TerraCycle collection bins to encourage consumers to
-      recycle empty personal care and beauty items; a TerraCycle representative
-      on site to educate on recycling and upcycling and fun games and activities.
+      for 30 Wal-Mart locations, staffing and routing.
+
+      * The glass truck featured interactive education displays demonstrating
+      ways to recycle empty hair care, skin care or cosmetic packaging.
+
+      * Each event set-up included Garnier styling stations, TerraCycle
+      collection bins to encourage consumers to recycle empty personal care and
+      beauty items; a TerraCycle representative on site to educate on recycling
+      and upcycling and fun games and activities.
+
       * Brand Ambassadors located near store entrance and exit doors educated
       passersby on Garnier products, recycling and upcycling as well as passed
       out product samples.
@@ -72,6 +86,8 @@ content_section:
 project_logos:
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
+  - logo_image_path: /uploads/5512337513-647d76684f-1.jpg
+    logo_image_height: '90%'
 related_client_logos:
   - logo_image_path: /uploads/walmart.png
     logo_image_height:
