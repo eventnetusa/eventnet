@@ -29,7 +29,7 @@ gulp.task('scripts', () =>
     'node_modules/imgix.js/dist/imgix.js',
     'src/assets/javascript/flickity.min.js',
     'src/assets/javascript/remodal.js',
-    'src/assets/javascript/instafeed.js',
+    'src/assets/javascript/salad-spinner.min.js',
     'src/assets/javascript/masonry.pkgd.js',
     'src/assets/javascript/vendor.js',
     'src/assets/javascript/tether.js',
