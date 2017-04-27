@@ -5,7 +5,7 @@ sort_order:
 headline:
 subheadline: |
 hover_tagline:
-hero_image_path:
+hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
 thumbnail_image_path:
 type:
 cta_text:
