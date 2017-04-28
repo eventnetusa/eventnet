@@ -6,7 +6,7 @@ headline:
 subheadline:
 hover_tagline:
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
-thumbnail_image_path:
+thumbnail_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
 type:
 cta_text:
 cta:
