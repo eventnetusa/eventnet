@@ -7,7 +7,7 @@ cta_text: Let's get started
   <div class="hero cover bg-center raleway" style="background-position: top;">
     <img
       class="js-img"
-        ix-path="/uploads/work-hero.jpg"
+        ix-path="work-hero.jpg"
         ix-params='{
           "w": 400,
           "h": 200,
@@ -64,7 +64,7 @@ cta_text: Let's get started
                 <a href="{{item.url}}" style="" class="link dt hide-child">
                   <img
                     class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path}}"
+                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
                     ix-params='{
                       "auto": "compress"
                     }'

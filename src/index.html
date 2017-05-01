@@ -26,53 +26,53 @@ capabilities:
 top_cta: Request a quote
 bottom_cta: request a quote
 logos:
-  - logo_image: uploads/bigelow.svg
+  - logo_image: /uploads/bigelow.svg
     logo_height:
-  - logo_image: uploads/mini.svg
+  - logo_image: /uploads/mini.svg
     logo_height: '40%'
   - logo_image: /uploads/dunkin.png
     logo_height: '40%'
-  - logo_image: uploads/revlon.svg
+  - logo_image: /uploads/revlon.svg
     logo_height:
-  - logo_image: uploads/whitehouse.svg
+  - logo_image: /uploads/whitehouse.svg
     logo_height: '45%'
   - logo_image: /uploads/jetblue.png
     logo_height: '30%'
-  - logo_image: uploads/cbs.svg
+  - logo_image: /uploads/cbs.svg
     logo_height:
-  - logo_image: uploads/coke.svg
+  - logo_image: /uploads/coke.svg
     logo_height: '30%'
-  - logo_image: uploads/garnier.svg
+  - logo_image: /uploads/garnier.svg
     logo_height: '19%'
   - logo_image: /uploads/yr.png
     logo_height: '30%'
-  - logo_image: uploads/humana.svg
+  - logo_image: /uploads/humana.svg
     logo_height: '15%'
-  - logo_image: uploads/maybelline.svg
+  - logo_image: /uploads/maybelline.svg
     logo_height:
   - logo_image: /uploads/mml.png
     logo_height: '50%'
   - logo_image: /uploads/nestle-gray.png
     logo_height: '55%'
-  - logo_image: uploads/kelloggs.svg
+  - logo_image: /uploads/kelloggs.svg
     logo_height: '50%'
   - logo_image: /uploads/carnival-gray.png
     logo_height:
-  - logo_image: uploads/visa.svg
+  - logo_image: /uploads/visa.svg
     logo_height: '30%'
-  - logo_image: uploads/yoplait.svg
+  - logo_image: /uploads/yoplait.svg
     logo_height: '50%'
   - logo_image: /uploads/cronin.png
     logo_height: '50%'
-  - logo_image: uploads/aetna.svg
+  - logo_image: /uploads/aetna.svg
     logo_height: '25%'
   - logo_image: /uploads/rbb.png
     logo_height: '50%'
-  - logo_image: uploads/mcdonalds.svg
+  - logo_image: /uploads/mcdonalds.svg
     logo_height: '30%'
-  - logo_image: uploads/lacroix.svg
+  - logo_image: /uploads/lacroix.svg
     logo_height: '40%'
-  - logo_image: uploads/nyx.svg
+  - logo_image: /uploads/nyx.svg
     logo_height: '20%'
   - logo_image: /uploads/cpb.png
     logo_height: '60%'
@@ -103,7 +103,7 @@ logos:
     <div class="cf pa2">
       {% for logo in page.logos %}
         <div class="fl w-50 w-20-l w-33-m pv1 ph4 tc dib client-logo">
-          <img class="svg" ix-path="{{ logo.logo_image }}" ix-params='{
+          <img class="svg" ix-path="{{ logo.logo_image | replace: '/uploads/', '' }}" ix-params='{
                  "auto": "compress"
                }' sizes="125px" style="height: {{logo.logo_height}};" />
 
@@ -114,7 +114,7 @@ logos:
   </div>
 </div>
 
-<div class="capabilities pv3 pv5-ns tc cf bg-near-white relative bb bt" style="background-image: url(uploads/bg-1.jpg); background-position: center; border-width: 2px; border-color: #efefef;">
+<div class="capabilities pv3 pv5-ns tc cf bg-near-white relative bb bt" style="background-image: /url(uploads/bg-1.jpg); background-position: center; border-width: 2px; border-color: #efefef;">
   <div class="relative z-1">
     <h2 class="raleway f3 f2-ns mb0 navy editable">Our Capabilities</h2>
     <p class="info tc fw4 f4 raleway near-black mt3 mb4 center">A full-service, turnkey approach created to make your job easier.</p>
