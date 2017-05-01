@@ -55,7 +55,7 @@ cta_text: Let's get started
   <div class="tab-content">
     <div class="tab-pane fade show active" id="all" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_all = site.work | sort:"sort_order" %}
+        {% assign work_all = site.work | sort:"sort_number" %}
         {% if work_all.size > 0 %}
           {% for item in work_all %}
             <div class="fl w-50 w-third-ns pa2">
@@ -111,7 +111,7 @@ cta_text: Let's get started
     </div>
     <div class="tab-pane fade show" id="vehicletours" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_vehicletours = site.work | where_exp:"item", "item.types contains 'vehicle tour'" | sort:"sort_order" %}
+        {% assign work_vehicletours = site.work | where_exp:"item", "item.types contains 'vehicle tour'" | sort:"sort_number" %}
         {% if work_vehicletours.size > 0 %}
           {% for item in work_vehicletours %}
             <div class="fl w-100 w-third-ns pa2">
@@ -167,7 +167,7 @@ cta_text: Let's get started
     </div>
     <div class="tab-pane fade show" id="events" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_event = site.work | where_exp:"item", "item.types contains 'pr event'" | sort:"sort_order" %}
+        {% assign work_event = site.work | where_exp:"item", "item.types contains 'pr event'" | sort:"sort_number" %}
         {% if work_event.size > 0 %}
           {% for item in work_event %}
             <div class="fl w-100 w-third-ns pa2">
@@ -223,7 +223,7 @@ cta_text: Let's get started
     </div>
     <div class="tab-pane fade show" id="popups" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_popup = site.work | where_exp:"item", "item.types contains 'popup shop'" | sort:"sort_order" %}
+        {% assign work_popup = site.work | where_exp:"item", "item.types contains 'popup shop'" | sort:"sort_number" %}
         {% if work_popup.size > 0 %}
           {% for item in work_popup %}
             <div class="fl w-100 w-third-ns pa2">
@@ -279,7 +279,7 @@ cta_text: Let's get started
     </div>
     <div class="tab-pane fade show" id="insurance" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_insurance = site.work | where_exp:"item", "item.types contains 'insurance activation'" | sort:"sort_order" %}
+        {% assign work_insurance = site.work | where_exp:"item", "item.types contains 'insurance activation'" | sort:"sort_number" %}
         {% if work_insurance.size > 0 %}
           {% for item in work_insurance %}
             <div class="fl w-100 w-third-ns pa2">
@@ -335,7 +335,7 @@ cta_text: Let's get started
     </div>
     <div class="tab-pane fade show" id="retail" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_retail = site.work | where_exp:"item", "item.types contains 'retail'" | sort:"sort_order" %}
+        {% assign work_retail = site.work | where_exp:"item", "item.types contains 'retail'" | sort:"sort_number" %}
         {% if work_retail.size > 0 %}
           {% for item in work_retail %}
             <div class="fl w-100 w-third-ns pa2">
@@ -391,7 +391,7 @@ cta_text: Let's get started
     </div>
     <div class="tab-pane fade show" id="street" role="tabpanel">
       <section class="cf w100 raleway pa2" style="clear: both">
-        {% assign work_street = site.work | where_exp:"item", "item.types contains 'street team'" | sort:"sort_order" %}
+        {% assign work_street = site.work | where_exp:"item", "item.types contains 'street team'" | sort:"sort_number" %}
         {% if work_street.size > 0 %}
           {% for item in work_street %}
             <div class="fl w-100 w-third-ns pa2">

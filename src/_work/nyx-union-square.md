@@ -1,7 +1,7 @@
 ---
 client: NYX Professional Makeup
 link_to_casestudy: true
-sort_order: 5
+sort_number: 5
 headline: Beauty + Swag Truck and Flagship Store Grand Opening
 hover_text: NYX Professional Makeup took over the streets of NYC to promote its Union Square Flagship Store Grand Opening
 hero_image_path: /uploads/nyx-case-4.jpg

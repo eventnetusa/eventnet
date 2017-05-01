@@ -1,7 +1,7 @@
 ---
 client: Carnival Cruise Line
 link_to_casestudy: true
-sort_order: '1'
+sort_number: 1
 headline: Interactive Event Display and Photo Activation
 subheadline: Travel Agents at the CLIA Cruise360 event got to participate in games and activities featured on board Carnival ships
 hover_tagline: Travel Agents at the CLIA Cruise360 event got to participate in games and activities featured on board Carnival ships

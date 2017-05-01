@@ -1,7 +1,7 @@
 ---
 client: Bigelow Tea
 link_to_casestudy: true
-sort_order: 6
+sort_number: 6
 headline: Mobile Tea Bar US Sampling Tours
 hover_text: Bigelow warmed hearts and hands across America sampling from its Mobile Tea Bar
 hero_image_path: /uploads/bigelow-mtb.jpg

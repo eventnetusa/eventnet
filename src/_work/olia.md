@@ -1,7 +1,7 @@
 ---
 client: Olia
 link_to_casestudy: false
-sort_order: 16
+sort_number: 16
 headline: Mobile Salon
 hover_text: "EventNetUSA took Olia on the road with a 44' goose neck trailer converted into a fully functioning mobile hair salon"
 hero_image_path: /uploads/4-4-13-041.jpg

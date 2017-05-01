@@ -1,7 +1,7 @@
 ---
 client: Nestle Deer Park
 link_to_casestudy: false
-sort_order: 22
+sort_number: 22
 headline: Glass Enclosed Recycling Truck
 hover_text: Deer Park educated consumers on the importance of recycling water bottles with an interactive glass truck experience
 hero_image_path: /uploads/nestle-deer-park.jpg

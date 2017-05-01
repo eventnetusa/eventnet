@@ -1,7 +1,7 @@
 ---
 client:
 link_to_casestudy: true
-sort_order:
+sort_number:
 headline:
 subheadline: |
 hover_tagline:

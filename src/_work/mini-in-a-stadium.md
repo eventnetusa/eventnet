@@ -1,7 +1,7 @@
 ---
 client: Mini Cooper
 link_to_casestudy: true
-sort_order: 4
+sort_number: 4
 headline: Mini in a Stadium
 hover_text: 'When deciding how to enter the US Market, Mini Cooper and Crispin Porter + Bogusky looked to EventNetUSA to pull off a stunt as unique and eye catching as the brand itself.'
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
