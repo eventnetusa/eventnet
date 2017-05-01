@@ -5,8 +5,8 @@ sort_order: '1'
 headline: Interactive Event Display and Photo Activation
 subheadline: Travel Agents at the CLIA Cruise360 event got to participate in games and activities featured on board Carnival ships
 hover_tagline: Travel Agents at the CLIA Cruise360 event got to participate in games and activities featured on board Carnival ships
-hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
-thumbnail_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
+hero_image_path: /uploads/carnival-hero-image.jpg
+thumbnail_image_path: /uploads/carnival-hero-image.jpg
 type: pr event
 cta_text: Interested in an interactive display for your next trade show?
 cta: "Let's talk!"
