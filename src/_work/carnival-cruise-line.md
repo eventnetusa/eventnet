@@ -3,8 +3,8 @@ client: Carnival Cruise Line
 link_to_casestudy: true
 sort_order: 1
 headline: Interactive Event Display and Photo Activation
-subheadline: Travel Agents at the CLIA Cruise360 event got to participate in games and activities featured on board Carnival ships
-hover_tagline: Travel Agents at the CLIA Cruise360 event got to participate in games and activities featured on board Carnival ships
+subheadline: 'Travel Agents at the CLIA Cruise360 event in Ft Lauderdale, FL had a blast participating in games and activities featured on board Carnival ships!'
+hover_tagline: 'Travel Agents at the CLIA Cruise360 event in Ft Lauderdale, FL had a blast participating in games and activities featured on board Carnival ships!'
 hero_image_path: /uploads/carnival-hero-image.jpg
 thumbnail_image_path: /uploads/carnival-hero-image.jpg
 type: pr event
@@ -20,7 +20,11 @@ content_section:
 
 
 
+
+
       ### **A LOOK BEHIND THE SCENES**
+
+
 
 
 
