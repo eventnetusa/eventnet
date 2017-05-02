@@ -3,11 +3,10 @@ client:
 link_to_casestudy: true
 sort_number:
 headline:
-subheadline: |
-hover_tagline:
+hover_text:
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
 thumbnail_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
-type:
+types:
 cta_text:
 cta:
 sidebar_text_markdown: |
