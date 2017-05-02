@@ -20,11 +20,7 @@ content_section:
 
 
 
-
-
       ### **A LOOK BEHIND THE SCENES**
-
-
 
 
 
@@ -54,7 +50,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/img-0395.JPG
     double_image_block:
-      image_1_path: /uploads/img-0416.JPG
+      image_1_path: /uploads/social-media.jpg
       image_2_path: /uploads/img-7505.JPG
     video_block:
       video_id:
