@@ -4,7 +4,7 @@ link_to_casestudy: true
 sort_order: 1
 headline: Interactive Event Display and Photo Activation
 hover_text: 'Travel Agents at the CLIA Cruise360 event in Ft Lauderdale, FL had a blast participating in games and activities featured on board Carnival ships!'
-hero_image_path: /uploads/carnival-hero-image.jpg
+hero_image_path: /uploads/social-media.jpg
 thumbnail_image_path: /uploads/carnival-hero-image.jpg
 types:
   - pr event
@@ -20,7 +20,11 @@ content_section:
 
 
 
+
+
       ### **A LOOK BEHIND THE SCENES**
+
+
 
 
 
