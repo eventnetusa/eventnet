@@ -6862,10 +6862,22 @@ code, .code {
       font-size: 1.25rem; } }
   @media (min-width: 768px) {
     .home .capabilities p.info {
-      font-size: 1.75rem; } }
+      font-size: 1.75rem;
+      margin-bottom: .5em; }
+    .home .capabilities p a {
+      text-decoration: none;
+      border-bottom: 2px solid; }
+    .home .capabilities p.bottom {
+      margin-bottom: 1.5em; } }
   @media (max-width: 767px) {
     .home .capabilities p.info {
-      font-size: 1.25rem; } }
+      font-size: 1.25rem;
+      margin-bottom: .5em; }
+    .home .capabilities p a {
+      text-decoration: none;
+      border-bottom: 2px solid; }
+    .home .capabilities p.bottom {
+      margin-bottom: 1.5em; } }
   .home .client-logo {
     height: 125px; }
   .home .client-logo .svg {
