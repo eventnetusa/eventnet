@@ -1,8 +1,8 @@
 ---
 title: 'Experiential Retail: How NYX Cosmetics Is Bringing Brick and Mortars Back'
-date: 2017-05-24 00:00:00
+date: 2017-05-18 10:00:00
 filter: insights
-featured_post: false
+featured_post: true
 excerpt: 'In today’s digitally driven world, e-commerce is dominating, retailers are becoming defined by their social media presence, and one-click purchases are the expectation. Heritage brands are seeking creative ways to grow with consumer lifestyles and new brands are challenged to cut through the clutter of the internet.'
 hero_image_path: /uploads/nyx-collage.png
 thumbnail_image_path: /uploads/nyx-collage.png
@@ -38,8 +38,8 @@ content_section:
 
       Unfortunately, while in-field activations excel in driving awareness and
       brand loyalty, unless you have a POS system on-site, you’re not making
-      direct product sales. They need to get their target audience into the
-      stores for that.
+      direct product sales. Brands need to get their target audience into the
+      retail stores for that.
 
 
 
@@ -56,12 +56,6 @@ content_section:
       Taking cues from some of the brightest minds in event marketing, brands are
       transforming spaces into experiential havens that seamlessly blend the
       worlds of digital and physical.
-
-
-
-
-
-      &nbsp;
 
 
 
