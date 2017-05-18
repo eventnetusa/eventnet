@@ -1,5 +1,5 @@
 ---
-title: 'Experiential Retail: How NYX Cosmetics Is Bringing Brick and Mortars Back'
+title: 'Experiential Retail: How NYX Professional Makeup Is Bringing Brick and Mortars Back'
 date: 2017-05-18 10:30:00
 filter: insights
 featured_post: true
@@ -30,9 +30,105 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       **With fewer opportunities for consumer-facing interaction, brands must
       create retail store environments that offer the richness of one-on-one
       exchanges along with the convenience of digital solutions.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -72,10 +168,106 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Unfortunately, while in-field activations excel in driving awareness and
       brand loyalty, unless you have a POS system on-site, you’re not making
       direct product sales. Brands need to get their target audience into the
       retail stores for that.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -113,9 +305,105 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Taking cues from some of the brightest minds in event marketing, brands are
       transforming spaces into experiential havens that seamlessly blend the
       worlds of digital and physical.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -153,9 +441,105 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       **Take a closer look at NYX Professional Makeup, a digital-native turned
       experiential retail innovator that’s redefining the brick and mortar
       experience.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -177,6 +561,54 @@ content_section:
       cosmetic fangirl’s playground is both a socially entrenched and physically
       interactive experience that adopts the following methods for engaging with
       its media-savvy consumers:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -224,6 +656,54 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       NYX Professional Makeup’s answer to this challenge plaguing all retailers
       is genius and brand professionals from any industry can and should take
       note.
@@ -244,7 +724,103 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
