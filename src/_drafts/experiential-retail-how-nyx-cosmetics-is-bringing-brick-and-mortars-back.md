@@ -107,6 +107,22 @@ content_section:
       NYX Professional Makeup’s answer to this challenge plaguing all retailers
       is genius and brand professionals from any industry can and should take
       note.
+
+
+
+
+
+      &nbsp;
+
+
+
+
+
+      *For another example of NYX Professional Makeup's love for experiential
+      marketing, take a look our [case
+      study](https://www.eventnetusa.com/work/nyx-union-square/) on the Union
+      Square Beauty+Swag Truck and Flagship Store Grand Opening produced by
+      EventNetUSA.*
     single_image_block:
       single_image_path: /uploads/nyx-beauty-bar-experiential-retail.PNG
     double_image_block:
