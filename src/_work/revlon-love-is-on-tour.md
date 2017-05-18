@@ -1,7 +1,7 @@
 ---
 client: Revlon
 link_to_casestudy: true
-sort_number: 3
+sort_number: 1
 headline: 'LOVE IS ON: Mobile Pop-Up Shop US Tour'
 hover_text: "Revlon captured the hearts of cosmetic enthusiasts across America with its 53' pop-up shop on wheels."
 hero_image_path: /uploads/revlon-case-6.jpg
@@ -29,7 +29,11 @@ content_section:
 
 
 
+
+
       ### **A LOOK BEHIND THE SCENES**
+
+
 
 
 
