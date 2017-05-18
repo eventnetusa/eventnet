@@ -5,11 +5,35 @@ filter: pressd
 featured_post: false
 excerpt: 'Carnival Cruise Line will visit travel agents in six cities from May 11-18 as part of a festival inspired “Agentpalooza” bus tour. Hosted by Carnival’s Vice President of Sales & Trade Marketing Adolfo Perez and the line’s sales leadership team, the tour encompasses events featuring one-on-one meetings between agents and Carnival sales team members, marketing and product experiences and a variety of engaging entertainment activities. A community service and philanthropic component will round out each event.'
 hero_image_path: /uploads/bus-tour-creative.jpg
-thumbnail_image_path: /uploads/bus-tour-creative.jpg
+thumbnail_image_path: /uploads/agentpalooza-v3.jpg
 content_section:
   - text_block_markdown: >-
       Original content can be seen on
       [Carnival-news.com](https://carnival-news.com/2017/04/12/carnival-cruise-line-to-host-agentpalooza-bus-tour-with-series-of-travel-agent-events/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -36,6 +60,30 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       “Visiting agents on a bus tour is an excellent way to cover a great deal of
       ground at once with numerous team members and to do what we do best – work
       with agents on providing the best sales and service we can while having
@@ -52,7 +100,55 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Stops on the “Agentpalooza” bus tour schedule include:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73,6 +169,30 @@ content_section:
       * May 17: Jacksonville, Fla.
 
       * May 18: Orlando, Fla.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -105,6 +225,30 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Travel agents are encouraged to sign up early for these events, as
       availability is limited. During the tour dates, agents will also be able to
       follow the tour and participate in events online via GoCCL.com and
@@ -119,7 +263,55 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       This tour was also covered by:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -140,6 +332,30 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       [Travel
       Weekly](http://www.travelweekly.com/Media/Carnival-Agentpalooza-Treating-agents-like-rock-stars)
 
@@ -151,8 +367,56 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       [Travel Market
       Report](http://www.travelmarketreport.com/articles/Carnival-Cruise-Line-Readies-Agentpalooza)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
