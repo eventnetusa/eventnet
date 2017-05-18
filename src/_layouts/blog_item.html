@@ -52,7 +52,7 @@
           <div class="hero cover bg-center raleway" style="background-position: top;">
           <img
               class="js-img"
-              ix-path="{{page.hero_image_path}}"
+              ix-path="{{page.hero_image_path | replace: '/uploads/', ''}}"
               ix-params='{
                 "auto": "compress"
               }'
