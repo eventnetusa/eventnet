@@ -14,7 +14,8 @@ cta:
 sidebar_text_markdown: |-
   ### **QUICK STATS**
 
-  * Traveled **3,500+&nbsp;**miles by bus over 8 days
+  * **5** states, **6** cities, **8** days
+  * Traveled **3,500+&nbsp;**miles&nbsp;
   * **1.5M+** over-the-road impressions
   * Over **80%** attendance from invited travel agents in all markets
   * **1,000+**Rock Star Travel Agents
