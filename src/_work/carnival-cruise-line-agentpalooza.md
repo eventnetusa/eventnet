@@ -35,7 +35,7 @@ content_section:
 
 
 
-      ### **MARKETS:**
+      **MARKETS:**
 
 
 
@@ -55,7 +55,7 @@ content_section:
 
 
 
-      ### **EVENTS INCLUDED:**
+      **EVENTS INCLUDED:**
 
 
 
