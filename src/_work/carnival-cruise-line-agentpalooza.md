@@ -123,14 +123,14 @@ project_logos:
   - logo_image_path: /uploads/carnival-cruise-line.png
     logo_image_height:
 related_client_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/yr.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/essie.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/fineliving.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/revlon.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/cpb.png
     logo_image_height:
 ---
