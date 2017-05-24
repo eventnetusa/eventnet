@@ -18,7 +18,7 @@ sidebar_text_markdown: |-
   * Traveled **3,500+&nbsp;**miles&nbsp;
   * **1.5M+** over-the-road impressions
   * Over **80%** attendance from invited travel agents in all markets
-  * **1,000+**Rock Star Travel Agents
+  * **1,000+&nbsp;**Rock Star Travel Agents
   * 1 live Travel Agents Rock tattoo **(really!)**
 content_section:
   - text_block_markdown: >-
