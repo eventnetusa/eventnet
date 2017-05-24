@@ -28,7 +28,9 @@ content_section:
 
       Hosted by Carnival’s Executive Sales Team, AgentPalooza celebrated travel
       agents and the rock stars they are through invite-only, exclusive events in
-      select markets.
+      select markets. Adolfo Perez, Vice President of Sales & Trade Marketing,
+      even got a Travel Agents Rock tattoo on stage to show his love for Carnival
+      travel agents!&nbsp;
 
 
 
