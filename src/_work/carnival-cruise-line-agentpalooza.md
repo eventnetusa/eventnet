@@ -3,7 +3,7 @@ client: Carnival Cruise Line
 link_to_casestudy: true
 sort_number: 1
 headline: 2017 AGENTPALOOZA CAMPAIGN TOUR
-hover_text: 'Carnival Cruise Line retained EventNetUSA to produce and operate the 2017 AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 7 days.'
+hover_text: 'Carnival Cruise Line retained EventNetUSA to produce and operate the 2017 AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.'
 hero_image_path: /uploads/carnival-hero-image.jpg
 thumbnail_image_path: /uploads/carnival-thumbnail.jpg
 types:
@@ -14,7 +14,7 @@ cta:
 sidebar_text_markdown: |-
   ### **QUICK STATS**
 
-  * Traveled **3,500+**miles by bus over 9 days
+  * Traveled **3,500+&nbsp;**miles by bus over 8 days
   * **1.5M+** over-the-road impressions
   * Over **80%** attendance from invited travel agents in all markets
   * **1,000+**Rock Star Travel Agents
@@ -22,7 +22,7 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       Carnival Cruise Line retained EventNetUSA to produce and operate the 2017
-      AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 7 days.
+      AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.
 
 
 
