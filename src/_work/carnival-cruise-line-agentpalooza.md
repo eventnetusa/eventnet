@@ -107,7 +107,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/20170517-120920.jpg
     double_image_block:
-      image_1_path: /uploads/20170515-104423.jpg
+      image_1_path: /uploads/jenga.png
       image_2_path: /uploads/20170517-1224332.jpg
     video_block:
       video_id:
