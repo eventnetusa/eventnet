@@ -39,8 +39,8 @@ content_section:
       * Houston, TX – May 11<sup>th</sup>
 
       * New Orleans, LA – May 12<sup>th</sup> &nbsp;…and 13<sup>th</sup>&nbsp;(We
-      can’t control the weather but we can react quickly to reschedule events for
-      the following day when rain just won’t cooperate)
+      can’t control the weather but we can react quickly to reschedule events
+      when rain just won’t cooperate.)
 
       * Charleston, SC – May 15<sup>th</sup>
 
