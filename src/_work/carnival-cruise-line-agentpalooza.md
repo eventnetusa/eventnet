@@ -28,10 +28,22 @@ content_section:
 
 
       Hosted by Carnival’s Executive Sales Team, AgentPalooza celebrated travel
-      agents and the rock stars they are through invite-only, exclusive events in
-      select markets. Adolfo Perez, Vice President of Sales & Trade Marketing,
-      even got a Travel Agents Rock tattoo on stage to show his love for Carnival
-      travel agents!&nbsp;
+      agents and the rock stars they are through exclusive, invite-only events.
+
+
+
+      AgentPalooza cranked the volume up to create a true rock star experience.
+      Travel agents arrived in a lavish limo entrance with paparazzi and fans
+      crowding the red carpet, begging for autographs and photos. Stylists and
+      makeup teams brought out the inner-rocker in every agent for concert stage
+      photos. VIP swag bags and must-have giveaways topped off the event, sending
+      every agent home ready to rock for Carnival.&nbsp;
+
+
+
+      Adolfo Perez, Vice President of Sales & Trade Marketing, even got a Travel
+      Agents Rock tattoo on stage to show his love for Carnival travel
+      agents!&nbsp;
 
 
 
@@ -39,19 +51,19 @@ content_section:
 
 
 
-      * Houston, TX – May 11<sup>th</sup>
+      * Houston, TX - Minute Maid Park - May 11<sup>th</sup>
 
-      * New Orleans, LA – May 12<sup>th</sup> &nbsp;…and 13<sup>th</sup>&nbsp;(We
-      can’t control the weather but we can react quickly to reschedule events
-      when rain just won’t cooperate.)
+      * New Orleans, LA - Mardi Gras World - May 12<sup>th</sup> &nbsp;…and
+      13<sup>th</sup>&nbsp;(We can’t control the weather but we can react quickly
+      to reschedule events when rain just won’t cooperate.)
 
-      * Charleston, SC – May 15<sup>th</sup>
+      * Charleston, SC - Patriot's Point Park - May 15<sup>th</sup>
 
-      * Atlanta, GA – May 16<sup>th</sup>
+      * Atlanta, GA - Suntrust Park - May 16<sup>th</sup>
 
-      * Jacksonville, FL – May 17<sup>th</sup>
+      * Jacksonville, FL - Jacksonville Landing - May 17<sup>th</sup>
 
-      * Orlando, FL – May 18<sup>th</sup>
+      * Orlando, FL Kissimmee "Park" - May 18<sup>th</sup>
 
 
 
@@ -116,7 +128,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/adolfo-tattoo.png
     double_image_block:
-      image_1_path: /uploads/concert.png
+      image_1_path: /uploads/rock-star.png
       image_2_path: /uploads/crowd.png
     video_block:
       video_id:
