@@ -134,7 +134,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/20170516-101234.jpg
+      single_image_path: /uploads/dancing.png
     double_image_block:
       image_1_path: /uploads/jenga.png
       image_2_path:
