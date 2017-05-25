@@ -32,12 +32,12 @@ content_section:
 
 
 
-      AgentPalooza cranked the volume up to create a true rock star experience.
-      Travel agents arrived in a lavish limo entrance with paparazzi and fans
-      crowding the red carpet, begging for autographs and photos. Stylists and
-      makeup teams brought out the inner-rocker in every agent for concert stage
-      photos. VIP swag bags and must-have giveaways topped off the event, sending
-      every agent home ready to rock for Carnival.&nbsp;
+      AgentPalooza cranked up the volume to create a true rock star experience.
+      Travel agents arrived via limo entrance with paparazzi and fans crowding
+      the red carpet, begging for autographs and photos. Stylists and makeup
+      teams brought out the inner-rocker in every agent for concert stage photos.
+      VIP swag bags and must-have giveaways topped every event, sending agents
+      home ready to rock for Carnival.&nbsp;
 
 
 
