@@ -41,8 +41,8 @@ content_section:
 
 
 
-      Adolfo Perez, Vice President of Sales & Trade Marketing, even got a Travel
-      Agents Rock tattoo on stage to show his love for Carnival travel
+      Adolfo Perez, Vice President of Sales & Trade Marketing, even got a *Travel
+      Agents Rock* tattoo on stage to show his love for Carnival travel
       agents!&nbsp;
 
 
