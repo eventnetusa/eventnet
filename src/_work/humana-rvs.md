@@ -1,7 +1,7 @@
 ---
 client: Humana
 link_to_casestudy: true
-sort_number: 23
+sort_number: 8
 headline: "\"Let's Talk\" Medicare National RV Tour"
 hover_text: "10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare spending at targeted Walmart's..."
 hero_image_path: /uploads/rv-hero-image-fixed.jpg
