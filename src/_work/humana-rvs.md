@@ -17,9 +17,9 @@ sidebar_text_markdown: |-
 
   * **10** custom RV's
   * **35** states, **350**cities
-  * **1650** Walmart stores
+  * **1650** Walmart/Sam's Club stores
   * **900%** increse in Humana Medicare spending @ targeted Walmarts
-  * **250k+** miles traveled
+  * **300k+** miles traveled
   * **5M+** market specific media impressions within target demographic
   * **3x** renewed program
 
