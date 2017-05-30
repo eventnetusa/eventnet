@@ -16,9 +16,11 @@ sidebar_text_markdown: |-
   ### QUICK STATS
 
   * **8** custom RV's
-  * **35** states
+  * **35** states, **350**cities
   * **1650** Walmart stores
   * **900%** increse in Humana Medicare spending @ targeted Walmarts
+  * **250k+** miles traveled
+  * **5M+** market specific media impressions within target demographic
   * **3x** renewed program
 
   &nbsp;
@@ -112,7 +114,7 @@ related_client_logos:
   - logo_image_path: /uploads/aarp-with-no-tag.jpg
     logo_image_height:
   - logo_image_path: /uploads/bcbs.png
-    logo_image_height:
+    logo_image_height: '50'
   - logo_image_path: /uploads/CHIP-2.png
     logo_image_height:
 ---
