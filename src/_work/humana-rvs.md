@@ -100,7 +100,7 @@ content_section:
       single_image_path: /uploads/humana-rvs.png
     double_image_block:
       image_1_path: /uploads/picture3.jpg
-      image_2_path: /uploads/picture5.jpg
+      image_2_path: /uploads/picture2.jpg
     video_block:
       video_id:
 project_logos:
