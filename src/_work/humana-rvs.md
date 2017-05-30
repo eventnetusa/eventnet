@@ -35,9 +35,17 @@ content_section:
 
 
 
+
+
+
+
       EventNetUSA conceptualized, designed and executed the "Let's Talk"
       campaign, a nationwide mobile education tour designed to help Medicare
       beneficiaries learn about new plan and prescription drug coverage options.
+
+
+
+
 
 
 
@@ -53,11 +61,19 @@ content_section:
 
 
 
+
+
+
+
       At each stop, consumers learned about important dates related to the
       enrollment process and how to research prescription drug availability.
       Humana Medicare Advisors also offered guidance as to which type of plan may
       be best suited for a beneficiary based on health, lifestyle and income
       criteria.
+
+
+
+
 
 
 
@@ -72,6 +88,10 @@ content_section:
 
 
 
+
+
+
+
       Taking key learnings from year 1, EventNetUSA enhanced the Let's Talk
       program to include learning sessions and activities offered through the
       Humana Active Outlook lifestyle enrichment program, including better bone
@@ -81,7 +101,15 @@ content_section:
 
 
 
+
+
+
+
       ### A LOOK BEHIND THE SCENES
+
+
+
+
 
 
 
@@ -104,13 +132,25 @@ content_section:
 
 
 
+
+
+
+
       &nbsp;
 
 
 
 
 
+
+
+
+
       &nbsp;
+
+
+
+
 
 
 
@@ -135,7 +175,7 @@ related_client_logos:
   - logo_image_path: /uploads/aarp-with-no-tag.jpg
     logo_image_height:
   - logo_image_path: /uploads/bcbs.png
-    logo_image_height: '50'
+    logo_image_height: '50%'
   - logo_image_path: /uploads/CHIP-2.png
     logo_image_height:
 ---
