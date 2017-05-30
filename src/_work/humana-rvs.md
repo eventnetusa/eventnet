@@ -10,7 +10,7 @@ types:
   - insurance activation
   - popup shop
   - vehicle tour
-cta_text: Ready to take your insurance message on the road?
+cta_text: Ready to educated and engage with consumers on the road?
 cta: "Let's Talk!"
 sidebar_text_markdown: |-
   ### QUICK STATS
