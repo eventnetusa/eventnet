@@ -26,19 +26,16 @@ sidebar_text_markdown: |-
   &nbsp;
 content_section:
   - text_block_markdown: >-
-      In 2006, the health insurance industry took a major turn with the launch of
-      Medicare Part D. Looking for a way to spearhead the industry's sudden need
-      for consumer outreach and education, Humana turned to EventNetUSA.&nbsp;
-
-
+      In 2006 the health insurance industry underwent major changes with the
+      launch of Medicare Part D. Looking for a way to spearhead the industry's
+      sudden need for consumer outreach and education, Humana turned to
+      EventNetUSA.&nbsp;
 
 
 
       EventNetUSA conceptualized, designed and executed the "Let's Talk"
       campaign, a nationwide mobile education tour designed to help Medicare
       beneficiaries learn about new plan and prescription drug coverage options.
-
-
 
 
 
@@ -50,15 +47,11 @@ content_section:
 
 
 
-
-
       At each stop, consumers learned about important dates related to the
       enrollment process and how to research prescription drug availability.
       Humana Medicare Advisors also offered guidance as to which type of plan may
       be best suited for a beneficiary based on health, lifestyle and income
       criteria.
-
-
 
 
 
@@ -69,8 +62,6 @@ content_section:
 
 
 
-
-
       Taking key learnings from year 1, EventNetUSA enhanced the Let's Talk
       program to include learning sessions and activities offered through the
       Humana Active Outlook lifestyle enrichment program, including better bone
@@ -78,11 +69,7 @@ content_section:
 
 
 
-
-
       ### A LOOK BEHIND THE SCENES
-
-
 
 
 
@@ -101,17 +88,11 @@ content_section:
 
 
 
-
-
       &nbsp;
 
 
 
-
-
       &nbsp;
-
-
 
 
 
