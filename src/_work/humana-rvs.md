@@ -57,8 +57,8 @@ content_section:
 
       Year 1 of the Let's Talk RV tour was so successful, reaching more than
       250,000 consumers between August 2005 and May 2006 and travelling over
-      110,000 miles, Humana decided to renew the program with EventNetUSA for
-      years 2 and 3.
+      110,000 miles, Humana renewed the program with EventNetUSA for years 2 and
+      3.
 
 
 
