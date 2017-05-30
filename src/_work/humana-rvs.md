@@ -15,7 +15,7 @@ cta: "Let's Talk!"
 sidebar_text_markdown: |-
   ### QUICK STATS
 
-  * **8** custom RV's
+  * **10** custom RV's
   * **35** states, **350**cities
   * **1650** Walmart stores
   * **900%** increse in Humana Medicare spending @ targeted Walmarts
@@ -39,7 +39,7 @@ content_section:
 
 
       To tackle the challenge of reaching America's 42 million Medicare
-      beneficiaries, EventNetUSA built a fleet of eight RVs and recruited
+      beneficiaries, EventNetUSA built a fleet of ten RVs and recruited 20
       Medicare Advisors who would travel the country, visiting with seniors at
       senior centers, medical centers, senior expos, Walmart Supercenters and
       Sam's Club stores.
@@ -72,7 +72,7 @@ content_section:
 
 
 
-      * Customized 8&nbsp;RV's with mobile consultation "living rooms"
+      * Customized 10 RV's with mobile consultation "living rooms"
 
       * Leveraged Humana relationship with Walmart to conduct program at 1,650
       Supercenters and Sam's Club locations
@@ -82,7 +82,7 @@ content_section:
 
       * Custom routed 35 state, 350 city tour while maintaining DOT compliance
 
-      * Recruited, hired and trained 8 Medicare Advisors/Tour Managers (retained
+      * Recruited, hired and trained 20 Medicare Advisors/Tour Managers (retained
       for 3 years)
 
 
@@ -97,10 +97,10 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture2.jpg
     double_image_block:
-      image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
-      image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
+      image_1_path: /uploads/picture3.jpg
+      image_2_path: /uploads/picture5.jpg
     video_block:
       video_id:
 project_logos:
