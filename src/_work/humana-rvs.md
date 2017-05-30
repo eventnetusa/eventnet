@@ -4,7 +4,7 @@ link_to_casestudy: true
 sort_number: 23
 headline: "\"Let's Talk\" Medicare @ Walmart"
 hover_text: "10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare spending at targeted Walmart's..."
-hero_image_path: /uploads/rv-hero-image-fixed.jpg
+hero_image_path: /uploads/rv-hero-image-fixed2.jpg
 thumbnail_image_path: /uploads/humana-rvs.png
 types:
   - insurance activation
@@ -32,9 +32,13 @@ content_section:
 
 
 
+
+
       EventNetUSA conceptualized, designed and executed the "Let's Talk"
       campaign, a nationwide mobile education tour designed to help Medicare
       beneficiaries learn about new plan and prescription drug coverage options.
+
+
 
 
 
@@ -46,11 +50,15 @@ content_section:
 
 
 
+
+
       At each stop, consumers learned about important dates related to the
       enrollment process and how to research prescription drug availability.
       Humana Medicare Advisors also offered guidance as to which type of plan may
       be best suited for a beneficiary based on health, lifestyle and income
       criteria.
+
+
 
 
 
@@ -61,6 +69,8 @@ content_section:
 
 
 
+
+
       Taking key learnings from year 1, EventNetUSA enhanced the Let's Talk
       program to include learning sessions and activities offered through the
       Humana Active Outlook lifestyle enrichment program, including better bone
@@ -68,7 +78,11 @@ content_section:
 
 
 
+
+
       ### A LOOK BEHIND THE SCENES
+
+
 
 
 
@@ -87,11 +101,17 @@ content_section:
 
 
 
+
+
       &nbsp;
 
 
 
+
+
       &nbsp;
+
+
 
 
 
