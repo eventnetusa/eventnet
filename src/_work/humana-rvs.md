@@ -97,7 +97,7 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path: /uploads/picture2.jpg
+      single_image_path: /uploads/humana-rvs.png
     double_image_block:
       image_1_path: /uploads/picture3.jpg
       image_2_path: /uploads/picture5.jpg
