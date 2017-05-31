@@ -1,7 +1,7 @@
 ---
 client: Mini Cooper
 link_to_casestudy: true
-sort_number: 4
+sort_number: 5
 headline: Mini in a Stadium
 hover_text: 'When deciding how to enter the US Market, Mini Cooper and Crispin Porter + Bogusky looked to EventNetUSA to pull off a stunt as unique and eye catching as the brand itself.'
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
@@ -20,6 +20,8 @@ content_section:
 
 
 
+
+
       Stadium fans enjoyed an up-close look at the Mini and TV viewers got
       a glimpse each time the Saints made a play in the end zone. *Mini in
       a Stadium* appeared on live TV broadcasts an average of once every 4 ½
@@ -28,7 +30,11 @@ content_section:
 
 
 
+
+
       ### **A LOOK BEHIND THE SCENES**
+
+
 
 
 
