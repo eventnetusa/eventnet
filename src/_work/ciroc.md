@@ -1,6 +1,6 @@
 ---
 client: Ciroc
-sort_number: 24
+sort_number: 26
 headline: "Sam's Club Promotion"
 hover_text: "Our challenge: Increase Ciroc sales and brand presence in Sam's Clubs with a 2 day, 47 market in-store sampling program. Ask us how we did it!"
 hero_image_path: /uploads/ciroc.jpg
