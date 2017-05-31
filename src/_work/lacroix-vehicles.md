@@ -1,7 +1,7 @@
 ---
 client: LaCroix Sparkling Water
 link_to_casestudy: false
-sort_number: 18
+sort_number: 23
 headline: 'Sample & Scoot in South Florida'
 hover_text: "We hit the streets of Miami and Ft. Lauderdale to sample LaCroix's wildly popular sparkling water from zippy scooters and Mini Coopers"
 hero_image_path: /uploads/lacroix-mini-and-scooters.jpg
