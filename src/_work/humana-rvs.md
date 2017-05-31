@@ -15,7 +15,7 @@ cta: "Let's Talk!"
 sidebar_text_markdown: |-
   ### QUICK STATS
 
-  * **10** custom RV's
+  * **10** custom Humana "Let's Talk" RV's
   * **35** states, **350&nbsp;**cities
   * **1650** Walmart/Sam's Club stores
   * **900%** increase in Humana Medicare spending @ targeted Walmarts
@@ -27,30 +27,27 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       In 2005 the health insurance industry underwent major changes with the
-      launch of Medicare Part D. Looking for a way to spearhead the industry's
-      sudden need for consumer outreach and education, Humana turned to
-      EventNetUSA.&nbsp;
+      launch of Medicare Part D. To spearhead the industry's sudden need for
+      consumer outreach and education, Humana turned to EventNetUSA.&nbsp;
 
 
 
-      EventNetUSA conceptualized, designed and executed the "Let's Talk"
-      campaign, a nationwide mobile education tour designed to help Medicare
-      beneficiaries learn about new plan and prescription drug coverage options.
+      Leveraging Humana's partnership with Walmart, we conceptualized, designed
+      and executed the national "Let's Talk" Campaign. The tour was designed to
+      educate Walmart's Senior shoppers and to help beneficiaries learn about new
+      plan and prescription drug coverage options.
 
 
 
-      To tackle the challenge of reaching America's 42 million Medicare
-      beneficiaries, EventNetUSA built a fleet of ten RVs and recruited 20
-      Medicare Advisors who would travel the country, visiting with seniors at
-      senior centers, medical centers, senior expos, Walmart Supercenters and
-      Sam's Club stores.
+      We built a fleet of ten RVs and recruited and trained 20 Medicare Advisors
+      who would travel the country, visiting with seniors at senior centers,
+      medical centers, senior expos in addition to Walmart Supercenters and Sam's
+      Club stores.
 
 
 
-      At each stop, consumers learned about important dates related to the
-      enrollment process and how to research prescription drug availability.
-      Humana Medicare Advisors also offered guidance as to which type of plan may
-      be best suited for a beneficiary based on health, lifestyle and income
+      Onsite, Humana Medicare Advisors offered RV guests guidance as to which
+      type of plan may be best suited based on their health, lifestyle and income
       criteria.
 
 
@@ -73,18 +70,15 @@ content_section:
 
 
 
-      * Customized 10 RV's with mobile consultation "living rooms"
-
-      * Leveraged Humana relationship with Walmart to conduct program at 1,650
-      Supercenters and Sam's Club locations
-
-      * Executed a Media Outreach program generating print, video and live media
-      coverage
-
-      * Custom routed 35 state, 350 city tour while maintaining DOT compliance
+      * Customized 10 Humana "Let's Talk" RV's&nbsp;
 
       * Recruited, hired and trained 20 Medicare Advisors/Tour Managers (retained
       for 3 years)
+
+      * Leveraged Humana's partnership with Walmart, conducting 1,650 Walmart
+      Supercenter and Sam's Club appearances
+
+      * Executed Media Outreach
 
 
 
