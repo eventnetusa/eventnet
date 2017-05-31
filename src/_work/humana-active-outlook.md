@@ -33,14 +33,10 @@ content_section:
 
 
 
-
-
       Reaching over 20,000 members in 3 years, Medicare Seminars took place in
       hotel ballrooms, educating members on Medicare plans and benefits. Each
       half-day seminar included lunch, a presentation, free health screenings,
       Silver Sneakers fitness classes and an exit survey.&nbsp;&nbsp;
-
-
 
 
 
@@ -51,13 +47,9 @@ content_section:
 
 
 
-
-
       ### A LOOK BEHIND THE SCENES
 
       <br>*Seminars*
-
-
 
 
 
@@ -74,11 +66,7 @@ content_section:
 
 
 
-
-
       ### *Health Classes*
-
-
 
 
 
@@ -95,8 +83,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
-      image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
+      image_1_path: /uploads/bone-density.jpg
+      image_2_path: /uploads/active-outlook-seminar.jpg
     video_block:
       video_id:
 project_logos:
