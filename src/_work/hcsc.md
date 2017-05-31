@@ -1,7 +1,7 @@
 ---
 client: Health Care Service Corporation
 link_to_casestudy: true
-sort_number: 10
+sort_number: 11
 headline: Cross-Channel Community Outreach Program
 hover_text: See how Health Care Service Corporation educated consumers when the Affordable Care Act launched
 hero_image_path: /uploads/hcsc-case-9.jpg
@@ -45,6 +45,8 @@ content_section:
 
 
 
+
+
       To ensure reach and depth of knowledge about HCSC’s ACA offerings,
       EventNetUSA executed a three pronged approach using Mobile Assistance
       Centers (MAC), Pop-Up Retail Stores and a Mobile Enrollment RV in the
@@ -54,13 +56,19 @@ content_section:
 
 
 
+
+
       ### A LOOK BEHIND THE SCENES
+
+
 
 
 
       Mobile Assistance Center (MAC)
 
       <br>Outdoor and Indoor Health Insurance Activations
+
+
 
 
 
@@ -87,9 +95,13 @@ content_section:
 
 
 
+
+
       POP-UP RETAIL STORES
 
       <br>Indoor Activations
+
+
 
 
 
@@ -128,7 +140,11 @@ content_section:
 
 
 
+
+
       MOBILE ENROLLMENT RV
+
+
 
 
 
