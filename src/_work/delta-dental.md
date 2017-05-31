@@ -1,6 +1,6 @@
 ---
 client: Delta Dental
-sort_number: 31
+sort_number: 33
 headline: 'Outreach & Enrollment Events'
 hover_text: '9 week program targeting Navarro Pharmacy shoppers. Offered oral health education, free dental screenings, photo activation and more!'
 hero_image_path: /uploads/delta-dental-event.png
