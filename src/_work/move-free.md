@@ -1,12 +1,13 @@
 ---
-client:
-link_to_casestudy: true
-sort_number:
-headline:
+client: Move Free
+link_to_casestudy: false
+sort_number: 39
+headline: Mall Walking Events
 hover_text:
 hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
-thumbnail_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
+thumbnail_image_path: /uploads/move-free-mall-walking-program.jpg
 types:
+  - insurance activation
 cta_text:
 cta:
 sidebar_text_markdown:
