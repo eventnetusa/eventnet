@@ -1,14 +1,13 @@
 ---
 client: Snausages
 link_to_casestudy: false
-sort_number: 17
+sort_number: 22
 headline: Snausages Dog Days in the Park
 hover_text: Snausages took over 10 major baseball stadiums with Dog Days in the Park to raise awareness and donations for local animal shelters
 hero_image_path: /uploads/mets-game-august-20-2005-040.jpg
 thumbnail_image_path: /uploads/mets-game-august-20-2005-040.jpg
 types:
   - pr event
-  - pr stunt
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
