@@ -1,7 +1,7 @@
 ---
 client: Major Health Insurance Provider
 link_to_casestudy: false
-sort_number: 14
+sort_number: 28
 headline: Community Outreach Vehicle
 hover_text: "Contractually we can't share this client's name, but trust us, you'll want to learn about our expandable trucks for community outreach!"
 hero_image_path: /uploads/double-expandable-truck.png
