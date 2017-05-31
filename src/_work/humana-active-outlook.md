@@ -1,7 +1,7 @@
 ---
 client: Humana
 link_to_casestudy: true
-sort_number: 27
+sort_number: 15
 headline: Medicare Retention Program
 hover_text: Turnkey 3 yr program delivering 90 Medicare seminars in 5 markets to 20k members and 6k health classes in 30 markets with 180k visitations.
 hero_image_path: /uploads/humana-senior-seminars-in-hotels-hero-image.jpg
@@ -33,10 +33,14 @@ content_section:
 
 
 
+
+
       Reaching over 20,000 members in 3 years, Medicare Seminars took place in
       hotel ballrooms, educating members on Medicare plans and benefits. Each
       half-day seminar included lunch, a presentation, free health screenings,
       Silver Sneakers fitness classes and an exit survey.&nbsp;&nbsp;
+
+
 
 
 
@@ -47,9 +51,13 @@ content_section:
 
 
 
+
+
       ### A LOOK BEHIND THE SCENES
 
       <br>*Seminars*
+
+
 
 
 
@@ -66,7 +74,11 @@ content_section:
 
 
 
+
+
       ### *Health Classes*
+
+
 
 
 
