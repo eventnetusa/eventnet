@@ -10,20 +10,30 @@ types:
   - insurance activation
 cta_text: Ready to host a national or regional seminar program?
 cta: "Let's talk"
-sidebar_text_markdown: |-
+sidebar_text_markdown: >-
   ### SEMINAR QUICK STATS
 
+
+
   * **3** year program
-  * **5** markets
-  * **90**&nbsp;seminars
+
   * **20k** members reached
 
-  ### HEALTH CLASSES QUICK STATS
+  * Results from exit survey confirmed audience retention and willingness to
+  participate
+
+
+
+  ### HEALTH & WELLNESS CLASSES QUICK STATS
+
+
 
   * **3** year program
-  * **30** markets
-  * **6k**classes
+
+  * **6k&nbsp;**classes
+
   * **27** unique subject matters
+
   * **180k+** visitations
 content_section:
   - text_block_markdown: >-
