@@ -21,7 +21,7 @@ sidebar_text_markdown: |-
   * **900%** increase in Humana Medicare spending @ targeted Walmarts
   * **300k+** miles traveled
   * **5M+** market specific media impressions within target demographic
-  * **3x** renewed program
+  * **3x** renewed program&nbsp;
 
   &nbsp;
 content_section:
