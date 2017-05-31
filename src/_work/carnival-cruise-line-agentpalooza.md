@@ -5,7 +5,7 @@ sort_number: 1
 headline: 2017 AGENTPALOOZA CAMPAIGN TOUR
 hover_text: 'Carnival Cruise Line retained EventNetUSA to produce and operate the 2017 AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.'
 hero_image_path: /uploads/carnival-hero-image-2.jpg
-thumbnail_image_path: /uploads/carnival-thumbnail.jpg
+thumbnail_image_path: /uploads/thumbnail-image.png
 types:
   - pr event
   - vehicle tour
@@ -27,8 +27,12 @@ content_section:
 
 
 
+
+
       Hosted by Carnival’s Executive Sales Team, AgentPalooza celebrated travel
       agents and the rock stars they are through exclusive, invite-only events.
+
+
 
 
 
@@ -41,13 +45,19 @@ content_section:
 
 
 
+
+
       Adolfo Perez, Vice President of Sales & Trade Marketing, even got a *Travel
       Agents Rock* tattoo on stage to show his love for Carnival travel
       agents!&nbsp;
 
 
 
+
+
       **MARKETS:**
+
+
 
 
 
@@ -67,7 +77,11 @@ content_section:
 
 
 
+
+
       **EVENTS INCLUDED:**
+
+
 
 
 
@@ -91,7 +105,11 @@ content_section:
 
 
 
+
+
       ### **HOW WE DID IT:**
+
+
 
 
 
