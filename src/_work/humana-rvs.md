@@ -1,7 +1,7 @@
 ---
 client: Humana
 link_to_casestudy: true
-sort_number: 8
+sort_number: 4
 headline: "\"Let's Talk\" Medicare National RV Tour"
 hover_text: "10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare spending at targeted Walmart's..."
 hero_image_path: /uploads/rv-hero-image-fixed.jpg
@@ -32,10 +32,14 @@ content_section:
 
 
 
+
+
       Leveraging Humana's partnership with Walmart, we conceptualized, designed
       and executed the national "Let's Talk" Campaign. The tour was designed to
       educate Walmart's Senior shoppers and to help beneficiaries learn about new
       plan and prescription drug coverage options.
+
+
 
 
 
@@ -46,9 +50,13 @@ content_section:
 
 
 
+
+
       Onsite, Humana Medicare Advisors offered RV guests guidance as to which
       type of plan may be best suited based on their health, lifestyle and income
       criteria.
+
+
 
 
 
@@ -59,6 +67,8 @@ content_section:
 
 
 
+
+
       Taking key learnings from year 1, EventNetUSA enhanced the Let's Talk
       program to include learning sessions and activities offered through the
       Humana Active Outlook lifestyle enrichment program, including better bone
@@ -66,7 +76,11 @@ content_section:
 
 
 
+
+
       ### A LOOK BEHIND THE SCENES
+
+
 
 
 
@@ -82,11 +96,17 @@ content_section:
 
 
 
+
+
       &nbsp;
 
 
 
+
+
       &nbsp;
+
+
 
 
 
