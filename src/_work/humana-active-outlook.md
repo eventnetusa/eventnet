@@ -88,14 +88,10 @@ project_logos:
   - logo_image_path: /uploads/humana.png
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/advil.png
+  - logo_image_path: /uploads/aarp-with-no-tag.jpg
     logo_image_height:
-  - logo_image_path: /uploads/chevy.png
+  - logo_image_path: /uploads/humana.png
     logo_image_height:
-  - logo_image_path: /uploads/jetblue.png
-    logo_image_height:
-  - logo_image_path: /uploads/mm.png
-    logo_image_height:
-  - logo_image_path: /uploads/fineliving.png
+  - logo_image_path:
     logo_image_height:
 ---
