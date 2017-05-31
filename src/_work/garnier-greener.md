@@ -1,7 +1,7 @@
 ---
 client: Garnier + TerraCycle
 link_to_casestudy: true
-sort_number: 7
+sort_number: 16
 headline: Garnier Greener Recycling Tour
 hover_text: Garnier teaches consumers about the importance of recycling and earth-friendly products in an eye catching glass truck
 hero_image_path: /uploads/garnier-case-study2.jpg
@@ -31,6 +31,10 @@ content_section:
 
 
 
+
+
+
+
       EventNetUSA helped Garnier and TerraCycle catch the attention of every
       Wal-Mart consumer with an impressive glass enclosed truck, Garnier styling
       stations and games and giveaways located near to the store entrance/exit.
@@ -39,7 +43,15 @@ content_section:
 
 
 
+
+
+
+
       ### A LOOK BEHIND THE SCENES &nbsp;
+
+
+
+
 
 
 
