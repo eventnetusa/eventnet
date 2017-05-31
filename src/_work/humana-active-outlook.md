@@ -58,7 +58,7 @@ content_section:
       * Conducted comprehensive market research and analysis for 5 select
       markets
 
-      * Qualified and contracted 90 different hotel ballrooms
+      * Designed, scheduled and executed 90 seminars
 
       * Recruited, hired and trained full-time travelling operations team
 
