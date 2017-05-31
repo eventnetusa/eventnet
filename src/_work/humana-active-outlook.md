@@ -49,7 +49,9 @@ content_section:
 
       ### A LOOK BEHIND THE SCENES
 
-      <br>*Seminars*
+
+
+      ### *Seminars*
 
 
 
