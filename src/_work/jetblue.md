@@ -1,14 +1,13 @@
 ---
 client: JetBlue Airlines
 link_to_casestudy: false
-sort_number: 12
+sort_number: 17
 headline: Pop-Up Story Booth
 hover_text: 'Launched in Rockefeller Plaza followed by a multi-city tour, the Story Booth invited visitors to record stories of their experiences flying JetBlue'
 hero_image_path: /uploads/jetblue-story-booth.jpg
 thumbnail_image_path: /uploads/jetblue-story-booth.jpg
 types:
   - pr event
-  - pr stunt
 cta_text:
 cta: "Let's talk"
 sidebar_text_markdown:
