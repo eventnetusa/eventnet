@@ -27,7 +27,41 @@ sidebar_text_markdown: >-
 
   &nbsp;
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      Silk Milk and Cactus Denver partnered with EventNetUSA to introduce the
+      Silk On-The-Go Almond and Cashew Milk product to strategic markets through
+      aggressive one-on-one sampling focused on the female target.
+
+
+
+      ### A LOOK BEHIND THE SCENES
+
+
+
+      * Executed two week guerrilla sampling efforts in Boston, San Diego and
+      Denver distributing over 45,000 bottles per market to targeted consumers
+
+      * Recruited, training and staffed Tour Managers and in-field brand
+      ambassadors&nbsp;
+
+      * Produced branded event materials, tents, signs and sampling coolers
+
+      * Researched, scheduled and coordinated strategic event sampling in
+      addition to targeted product distribution at offices, gyms, yoga studios,
+      outside of health food stores, retailers, and more
+
+      * Conducted consumer surveys for measuring brand awareness, loyalty and
+      flavor feedback
+
+      * &nbsp;
+
+
+
+      &nbsp;
+
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
