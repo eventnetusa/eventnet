@@ -30,7 +30,9 @@ content_section:
 
 
       * Executed two week guerrilla sampling efforts in Boston, San Diego and
-      Denver distributing over 45,000 bottles per market to targeted consumers
+      Denver
+
+      * Distributed over 45,000 bottles per market to targeted consumers
 
       * Recruited, training and staffed Tour Managers and in-field brand
       ambassadors&nbsp;
