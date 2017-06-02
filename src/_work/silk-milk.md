@@ -60,7 +60,7 @@ content_section:
       video_id:
 project_logos:
   - logo_image_path: /uploads/new-silk-logo.png
-    logo_image_height: '80%'
+    logo_image_height:
   - logo_image_path: /uploads/cacterick-and-type-black.gif
     logo_image_height: '80%'
 related_client_logos:
