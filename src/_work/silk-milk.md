@@ -25,11 +25,7 @@ content_section:
 
 
 
-
-
       ### **A LOOK BEHIND THE SCENES**
-
-
 
 
 
@@ -52,6 +48,14 @@ content_section:
     double_image_block:
       image_1_path: /uploads/silk2.png
       image_2_path: /uploads/silk3.png
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/silk1.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 project_logos:
