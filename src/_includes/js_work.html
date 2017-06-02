@@ -19,4 +19,22 @@
     });
   }
 
+  $(document).ready(function(){
+      var cookieName = 'tab-'+document.URL.replace("/", "").replace(":", "").replace("%", "").replace("#", "");
+      $('*[data-toggle="tab"]').on("click", function() {
+          // var cookieName = 'tab-'+document.URL.replace("/", "").replace(":", "").replace("%", "").replace("#", "");
+          var cookieValue = $(this).attr("href");
+          Cookies.set(cookieName, cookieValue, { path: '' });
+          // console.log('cookie set!');
+      })
+      var cookie = Cookies.get(cookieName);
+      if (cookie) {
+        $("ul.nav-tabs li a[href='"+ cookie +"']").click();
+    }
+
+  })
+
+
+
+
 </script>
