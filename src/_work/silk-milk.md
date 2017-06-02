@@ -29,22 +29,22 @@ content_section:
 
 
 
-      * Executed two week guerrilla sampling efforts in Boston, San Diego and
-      Denver
+      * Executed two week guerrilla sampling program in key markets on the east
+      and west coasts.
 
-      * Distributed over 45,000 bottles per market to targeted consumers
+      * Distributed over 45,000 bottles per market, primarily to targeted female
+      demographic
 
-      * Recruited, training and staffed Tour Managers and in-field brand
-      ambassadors&nbsp;
+      * Team Silk Brand Ambassadors were heavily trained to deliver key brand and
+      product messaging
 
-      * Produced branded event materials, tents, signs and sampling coolers
+      * Produced branded tents, signs and sampling coolers
 
-      * Researched, scheduled and coordinated strategic event sampling in
-      addition to targeted product distribution at offices, gyms, yoga studios,
-      outside of health food stores, retailers, and more
+      * Researched and scheduled gyms, yoga studios, health food stores,
+      retailers and offices with strategic event sampling&nbsp;
 
-      * Conducted consumer surveys for measuring brand awareness, loyalty and
-      flavor feedback
+      * Measured brand awareness, loyalty and flavor feedback through consumer
+      surveys from event attendees
     single_image_block:
       single_image_path: /uploads/silk-sampling.png
     double_image_block:
