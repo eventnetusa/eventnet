@@ -28,10 +28,18 @@
           // console.log('cookie set!');
       })
       var cookie = Cookies.get(cookieName);
-      if (cookie) {
+      if (cookie == '#all') {
+        $('#all').addClass('show active');
+        // console.log('show all!')
+      }
+      else if (cookie) {
         $("ul.nav-tabs li a[href='"+ cookie +"']").click();
-    }
-
+        // console.log('found a cookie, show' + cookie);
+      }
+      else {
+        $("#all").addClass('show active');
+        // console.log('no cookie, show all!');
+      }
   })
 
 
