@@ -2,8 +2,8 @@
 client: Silk Milk
 link_to_casestudy: true
 sort_number: 9
-headline: Multi-Market Guerrilla Sampling
-hover_text: '3 markets, 2, weeks, 10 events, 27 guerrilla sampling days, 136k samples - ask us how we did it!'
+headline: Coast-to-Coast Guerrilla Sampling
+hover_text: 'Coast-to-coast sampling in key markets, 9,700 bottles sampled per day, 1.4M impressions - see how we did it!'
 hero_image_path: /uploads/silk.png
 thumbnail_image_path: /uploads/silk-thumb.jpg
 types:
