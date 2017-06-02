@@ -19,9 +19,9 @@ sidebar_text_markdown: |-
   * **1.4M+ impressions**
 content_section:
   - text_block_markdown: >-
-      Silk Milk and Cactus Denver partnered with EventNetUSA to introduce the
-      Silk On-The-Go Almond and Cashew Milk product to strategic markets through
-      aggressive one-on-one sampling focused on the female target.
+      Silk Milk and Cactus Denver partnered with EventNetUSA to introduce Silk
+      On-The-Go Almond and Cashew Milk to strategic markets through aggressive
+      one-on-one sampling focused on the female target.
 
 
 
