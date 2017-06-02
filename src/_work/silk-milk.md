@@ -13,10 +13,9 @@ cta: "Let's talk!"
 sidebar_text_markdown: |-
   ### **QUICK STATS**
 
-  * **3 simultaneous markets**: Boston, San Diego and Denver
-  * **136k** **bottles** sampled over 2 weeks (**over 9,700 bottles per day**)
-  * **27 guerilla** sampling days + **10 event** days&nbsp;
-  * **1.4M+ impressions**
+  * **Simultaneous** key markets on east and west coasts
+  * Averaged&nbsp;**9,700** bottles sampled each day
+  * **1.4M+**impressions
 content_section:
   - text_block_markdown: >-
       Silk Milk and Cactus Denver partnered with EventNetUSA to introduce Silk
