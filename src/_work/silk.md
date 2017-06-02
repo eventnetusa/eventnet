@@ -83,14 +83,14 @@ project_logos:
   - logo_image_path: /uploads/cacterick-and-type-black.gif
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/advil.png
+  - logo_image_path: /uploads/bigelow.JPG
     logo_image_height:
-  - logo_image_path: /uploads/chevy.png
+  - logo_image_path: /uploads/la-croix.png
     logo_image_height:
-  - logo_image_path: /uploads/jetblue.png
+  - logo_image_path: /uploads/boost-logo-680x344.jpg
     logo_image_height:
-  - logo_image_path: /uploads/mm.png
+  - logo_image_path: /uploads/celsius.jpg
     logo_image_height:
-  - logo_image_path: /uploads/fineliving.png
+  - logo_image_path: /uploads/slim-fast.jpg
     logo_image_height:
 ---
