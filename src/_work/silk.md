@@ -63,10 +63,10 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/ilk4.png
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/silk2.png
+      image_2_path: /uploads/silk3.png
     video_block:
       video_id:
 project_logos:
