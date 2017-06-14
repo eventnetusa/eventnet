@@ -4,8 +4,8 @@ date: 2017-06-21 10:00:00
 filter: insights
 featured_post: true
 excerpt:
-hero_image_path:
-thumbnail_image_path:
+hero_image_path: /uploads/sampling-hero-image-2.png
+thumbnail_image_path: /uploads/sampling-thumbnail-image.png
 content_section:
   - text_block_markdown: >-
       <div><p>Summer is here and that means Street-Team Sampling Season is too!
@@ -21,17 +21,59 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       <div><ul><li>Age</li><li>Gender</li><li>Ethnicity</li><li>Lifestyle</li><li>Sexua
+
+
+
+
+
+
 
        Orientation</li><li>Household
 
+
+
+
+
+
+
       Status</li><li>Geography</li><li>Interests/Hobbies</li><li>Beliefs/Opinions</li><li>Profession</li><li>Incom
+
+
+
        Level</li><li>Residence Type</li></ul><p>2. Routing Around Town</p><p>Now
+
+
+
       that you&rsquo;ve defined your target demographic, identify relevant
       opportunities for reaching consumers and create a customized routing
       strategy for the overall program.</p><p>For example, taking the target
       demographic: Mom&rsquo;s with Young Children</p><p>Relevant Sampling
       Locations May Include</p></div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -47,10 +89,34 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       Be sure to consider other important factors too like peak times, ease or
       difficulty of sampling in the location and always have a backup plan for
       weather, law enforcement or other factors that might throw a wrench into
       your plans.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -84,6 +150,18 @@ content_section:
       learning more.</p><p>5. Reporting</p><p>Before feet hit the street, define
       what metrics and data you want to take away from the overall
       program.</p><p>Sample Reporting Metrics</p></div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
