@@ -5,9 +5,11 @@
 
   <body class="{% if page.class %}{{ page.class }}{% endif %}">
 
+    {% if page.private_project_type == 'B2B' %}
     {% include header.html %}
+    {% endif %}
 
-    <div class="page-content">
+    <div class="page-content {% if page.private_project_type == 'B2C' %}b2c{% endif %}">
       <div class="wrapper">
 
         <article class="cf">
@@ -59,7 +61,11 @@
                 <p class="f4 lh-copy mt0-ns pt4 white">
                   {{page.cta_headline}}
                   <div class="w-100 pb3">
+                    {% if page.cta_link_url %}
+                    <a target="_blank" href="{{page.cta_link_url}}" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
+                    {% else %}
                     <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
+                    {% endif %}
                   </div>
                 </p>
               </div>
@@ -77,8 +83,9 @@
 
     {% include modal.html %}
 
+    {% if page.private_project_type == 'B2B' %}
     {% include footer.html %}
-
+    {% endif %}
 
     <!-- non-injected js -->
     {% if jekyll.environment == 'production' %}

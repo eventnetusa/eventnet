@@ -21,6 +21,10 @@ author:
   twitter:
   github:
 
+private_project_types:
+  - B2B
+  - B2C
+
 types:
   - vehicle tour
   - pr event

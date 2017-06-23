@@ -1,11 +1,12 @@
 ---
-small_headline: Hi there
-large_headline: You may be interested in this thing
+small_headline: voluptate velit esse
+large_headline: Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.
 hero_image_path: /uploads/private-placeholder.jpg
-
-cta_headline: Buy now or regret your inaction!
-cta_text: Okay then
-cta_link:
+private_project_type: B2C
+cta_headline: vel voluptas illum qui dolorem commodi eum fugiat!
+cta_text: quia dolor
+cta_link: false
+cta_link_url: http://www.google.com
 
 sidebar_text_markdown: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.
