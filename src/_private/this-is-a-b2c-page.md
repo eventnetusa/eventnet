@@ -11,10 +11,10 @@ sidebar_text_markdown: 'Sed ut perspiciatis unde omnis iste natus error sit volu
 content_section:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
-      image_1_path: /uploads/5.jpg
-      image_2_path: /uploads/4.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
