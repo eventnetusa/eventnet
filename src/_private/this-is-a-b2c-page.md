@@ -1,6 +1,6 @@
 ---
 small_headline: This is a small headline
-large_headline: '<meta name="robots" content="noindex, nofollow">'
+large_headline: This is a large headline
 hero_image_path: /uploads/private-placeholder.jpg
 private_project_type: B2C
 cta_link: true
