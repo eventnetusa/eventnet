@@ -7043,6 +7043,8 @@ code, .code {
 
 .work .nav-item {
   display: inline; }
+  .work .nav-item a.active-tab {
+    background-color: #00449e; }
 
 .work .tab-content > .tab-pane {
   display: none; }
@@ -7052,10 +7054,11 @@ code, .code {
 
 .work .fade {
   opacity: 0;
-  transition: opacity 0.15s linear; }
+  transition: opacity 0.3s linear; }
 
 .work .fade.show {
-  opacity: 1; }
+  opacity: 1;
+  transition: opacity 0.3s linear; }
 
 .work .child {
   background-color: rgba(178, 34, 34, 0.7); }

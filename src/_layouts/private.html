@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="{% if page.class %}{{ page.class }}{% endif %}">
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+
+        <article class="cf">
+          <div class="hero cover bg-center raleway" {% if page.hero_image_path %}style="background-image: url({{page.hero_image_path}});background-position: top;{% endif %}">
+            <div class="case-study-info w-100 w-70-ns near-white pt2 pt4-ns pb2 pb3-ns pl3 pl5-ns">
+              <h2 class="f5 f4-ns lh-solid lightest-blue mb0 ttu tracked">
+                {% if page.small_headline %}{{page.small_headline}}{% endif %}
+              </h2>
+              <h1 class="f1 near-white lh-headline mb4">
+                {% if page.large_headline %}{{page.large_headline}}{% endif %}
+              </h1>
+            </div>
+          </div>
+
+          <div class="w-90-l center pa4 cf raleway">
+            <div class="content fn fl-ns w-60-m w-70-l ph4 mt4 copy-wrapper">
+
+
+              {% for block in page.content_section %}
+                {% if block.text_block_markdown %}
+                  {{ block.text_block_markdown | markdownify }}
+                {% endif %}
+                {% if block.single_image_block.single_image_path %}
+                  <img src="{{ block.single_image_block.single_image_path }}" class="w-100 mt4 mb0" alt="">
+                {% endif %}
+                {% if block.double_image_block.image_2_path %}
+                  <div class="cf mt2 mb0">
+                    <div class="fl pa0" style="width: 49%;">
+                      <div class="aspect-ratio aspect-ratio--1x1 mb0">
+                        <div class="aspect-ratio--object cover" style="background:url({{block.double_image_block.image_1_path}}) center;"></div>
+                      </div>
+                    </div>
+                    <div class="fr pa0" style="width: 49%;">
+                      <div class="aspect-ratio aspect-ratio--1x1 mb0">
+                        <div class="aspect-ratio--object cover" style="background:url({{block.double_image_block.image_2_path}}) center;"></div>
+                      </div>
+                    </div>
+                  </div>
+                {% endif %}
+                {% if block.video_block.video_id %}
+                  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>
+                  <div class='embed-container mt3'><iframe src='https://www.youtube.com/embed/{{block.video_block.video_id}}' frameborder='0' allowfullscreen></iframe></div>
+                {% endif %}
+              {% endfor %}
+            </div>
+            <div class="aside fn fl-ns w-40-m w-30-l ph4 mt4 tc">
+              {% if page.cta_text %}
+              <div class="bg-blue ph3">
+                <p class="f4 lh-copy mt0-ns pt4 white">
+                  {{page.cta_headline}}
+                  <div class="w-100 pb3">
+                    <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
+                  </div>
+                </p>
+              </div>
+              {% endif %}
+              {% if page.sidebar_text_markdown %}
+              <span class="case-study-sidebar f5 lh-copy mt0-ns pa3 tl db dib-l bg-light-gray">
+                {{page.sidebar_text_markdown | markdownify}}
+              </span>
+              {% endif %}
+            </div>
+          </div>
+        </article>
+
+    </div>
+
+    {% include modal.html %}
+
+    {% include footer.html %}
+
+
+    <!-- non-injected js -->
+    {% if jekyll.environment == 'production' %}
+      <script src=/assets/javascript/index.js></script>
+    {% else %}
+      <script src="/assets/javascript/index.min.js"></script>
+    {% endif %}
+     <!-- end -->
+
+  </body>
+
+</html>
