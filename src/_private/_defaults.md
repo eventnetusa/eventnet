@@ -3,10 +3,10 @@ small_headline:
 large_headline:
 hero_image_path: /uploads/private-placeholder.jpg
 private_project_type: B2C
-cta_headline:
-cta_text:
 cta_link: false
 cta_link_url:
+cta_headline:
+cta_text:
 
 sidebar_text_markdown: |
 
@@ -23,7 +23,9 @@ content_section:
 
 _comments:
   private_project_type: B2C will not show header or footer
+  cta_headline: Optional
   cta_text: the text for the CTA button
-  cta_link: is the CTA a link to another page or site?
-  cta_link_url: the page or site the CTA should link to
+  cta_link: Does the CTA triggera link to another page or site? (Othwerwise it triggers a contact form.)
+  cta_link_url: The url the CTA should link to (if the above is checked)
+  siebar_text: This appear beneath the CTA
 ---
