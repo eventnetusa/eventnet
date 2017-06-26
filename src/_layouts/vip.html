@@ -65,19 +65,21 @@
                   <div class='embed-container mt3'><iframe src='https://www.youtube.com/embed/{{block.video_block.video_id}}' frameborder='0' allowfullscreen></iframe></div>
                 {% endif %}
               {% endfor %}
-              {% if page.cta_text %}
-              <div class="bottom-cta bg-blue ph3 mt3 tc">
-                <p class="f4 lh-copy mt0 pt4 white">
-                  {{page.cta_headline}}
-                  <div class="w-100 pb3">
-                    {% if page.cta_link_url %}
-                    <a target="_blank" href="{{page.cta_link_url}}" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
-                    {% else %}
-                    <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
-                    {% endif %}
-                  </div>
-                </p>
-              </div>
+              {% if show_cta_at_bottom %}
+                {% if page.cta_text %}
+                <div class="bottom-cta bg-blue ph3 mt3 tc">
+                  <p class="f4 lh-copy mt0 pt4 white">
+                    {{page.cta_headline}}
+                    <div class="w-100 pb3">
+                      {% if page.cta_link_url %}
+                      <a target="_blank" href="{{page.cta_link_url}}" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
+                      {% else %}
+                      <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
+                      {% endif %}
+                    </div>
+                  </p>
+                </div>
+                {% endif %}
               {% endif %}
             </div>
             <div class="aside fn fl-ns w-40-m w-30-l ph4 mt4 tc">

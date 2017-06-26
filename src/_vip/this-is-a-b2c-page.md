@@ -4,6 +4,7 @@ large_headline: This is a large headline
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2C
 hide_social_links: false
+show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'mailto:ryan@yandeussing.com'
 cta_headline: This button will take you to google.com

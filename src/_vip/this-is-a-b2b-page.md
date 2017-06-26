@@ -4,6 +4,7 @@ large_headline: 'This is a large headline, which is not as small as a small head
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2B
 hide_social_links: false
+show_cta_at_bottom: true
 cta_link: false
 cta_link_url:
 cta_headline: "Let's talk about your project"

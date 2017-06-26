@@ -4,6 +4,7 @@ large_headline:
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2C
 hide_social_links: false
+show_cta_at_bottom: false
 cta_link: false
 cta_link_url:
 cta_headline:
