@@ -2,7 +2,8 @@
 small_headline: This is a small headline
 large_headline: 'This is a large headline, which is not as small as a small headline'
 hero_image_path: /uploads/private-placeholder.jpg
-private_project_type: B2B
+vip_project_type: B2B
+hide_social_links: false
 cta_link: false
 cta_link_url:
 cta_headline: "Let's talk about your project."
@@ -49,7 +50,8 @@ content_section:
     video_block:
       video_id:
 _comments:
-  private_project_type: B2C will not show header or footer
+  hide_social_links: hide social sharing links?
+  vip_project_type: B2C will not show header or footer
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: Does the CTA triggera link to another page or site? (Othwerwise it triggers a contact form.)

@@ -2,7 +2,8 @@
 small_headline: This is a small headline
 large_headline: '<meta name="robots" content="noindex, nofollow">'
 hero_image_path: /uploads/private-placeholder.jpg
-private_project_type: B2C
+vip_project_type: B2C
+hide_social_links: false
 cta_link: true
 cta_link_url: 'http://www.google.com'
 cta_headline: This button will take you to google.com
@@ -18,7 +19,8 @@ content_section:
     video_block:
       video_id:
 _comments:
-  private_project_type: B2C will not show header or footer
+  hide_social_links: hide social sharing links?
+  vip_project_type: B2C will not show header or footer
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: Does the CTA triggera link to another page or site? (Othwerwise it triggers a contact form.)

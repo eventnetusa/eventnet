@@ -21,7 +21,7 @@ author:
   twitter:
   github:
 
-private_project_types:
+vip_project_types:
   - B2B
   - B2C
 
@@ -46,9 +46,9 @@ collections:
     output: true
     permalink: /work/:slug/
     _hide_content: true
-  private:
+  vip:
     output: true
-    permalink: /private/:slug/
+    permalink: /VIP/:slug/
     _hide_content: true
 
 defaults:
@@ -142,10 +142,10 @@ defaults:
   -
     scope:
       path: ""
-      type: private
+      type: vip
     values:
-      layout: "private"
-      class: "private"
+      layout: "vip"
+      class: "vip"
 
 
 # _config.build.yml overwrites these options when you run `gulp build`
