@@ -13,7 +13,18 @@
       <div class="wrapper">
 
         <article class="cf">
-          <div class="hero cover bg-center raleway" {% if page.hero_image_path %}style="background-image: url({{page.hero_image_path}});background-position: top;{% endif %}">
+          <div class="hero cover bg-center raleway" style="background-position: top;">
+            <img
+              class="js-img"
+                ix-path="{{ page.hero_image_path | replace: '/uploads/', ''}}"
+                ix-params='{
+                  "w": 400,
+                  "h": 200,
+                  "fit": "crop",
+                  "crop": "center"
+                }'
+                sizes="100vw"
+              >
             <div class="case-study-info w-100 w-70-ns near-white pt2 pt4-ns pb2 pb3-ns pl3 pl5-ns">
               <h2 class="f5 f4-ns lh-solid lightest-blue mb0 ttu tracked">
                 {% if page.small_headline %}{{page.small_headline}}{% endif %}
@@ -24,7 +35,7 @@
             </div>
           </div>
 
-          <div class="w-90-l center pa4 cf raleway">
+          <div class="w-90-l relative center pa4 cf raleway">
             <div class="content fn fl-ns w-60-m w-70-l ph4 mt4 copy-wrapper">
 
 
@@ -54,6 +65,20 @@
                   <div class='embed-container mt3'><iframe src='https://www.youtube.com/embed/{{block.video_block.video_id}}' frameborder='0' allowfullscreen></iframe></div>
                 {% endif %}
               {% endfor %}
+              {% if page.cta_text %}
+              <div class="bottom-cta bg-blue ph3 mt3 tc">
+                <p class="f4 lh-copy mt0 pt4 white">
+                  {{page.cta_headline}}
+                  <div class="w-100 pb3">
+                    {% if page.cta_link_url %}
+                    <a target="_blank" href="{{page.cta_link_url}}" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
+                    {% else %}
+                    <a data-remodal-target="modal" class="pointer center f6 fw4 grow no-underline br-pill ph4 pv3 mt3 mb2 dib white bg-navy ttu tracked">{{ page.cta_text }}</a>
+                    {% endif %}
+                  </div>
+                </p>
+              </div>
+              {% endif %}
             </div>
             <div class="aside fn fl-ns w-40-m w-30-l ph4 mt4 tc">
               {% if page.cta_text %}
@@ -94,6 +119,10 @@
       <script src="/assets/javascript/index.min.js"></script>
     {% endif %}
      <!-- end -->
+
+    {% if page.class == 'vip' %}
+      {% include js_vip.html %}
+    {% endif %}
 
   </body>
 

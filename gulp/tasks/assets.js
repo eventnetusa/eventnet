@@ -34,6 +34,7 @@ gulp.task('scripts', () =>
     'src/assets/javascript/masonry.pkgd.js',
     'src/assets/javascript/vendor.js',
     'src/assets/javascript/tether.js',
+    'src/assets/javascript/enquire.js',
     'src/assets/javascript/bootstrap.js',
     'src/assets/javascript/main.js'
   ])

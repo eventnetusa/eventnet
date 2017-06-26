@@ -40,7 +40,7 @@ _comments:
   vip_project_type: B2C will not show header or footer
   cta_headline: Optional
   cta_text: the text for the CTA button
-  cta_link: Does the CTA triggera link to another page, site, or email? (use 'mailto:email@example.com' for an email address)
+  cta_link: "Does the CTA triggera link to another page, site, or email? (note: use 'mailto:info@eventnetusa.com' format for an email address)"
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---

@@ -168,6 +168,15 @@
     .case-study-sidebar span {
         font-weight: 500;
     }
+
+    .bottom-cta {
+        @media screen and (max-width: 767px) {
+            display: none;
+        }
+        @media screen and (min-width: 768px) {
+            display: block;
+        }
+    }
 }
 
 

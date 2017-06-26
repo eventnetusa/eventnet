@@ -19,30 +19,4 @@
     });
   }
 
-  $(document).ready(function(){
-      var cookieName = 'tab-'+document.URL.replace("/", "").replace(":", "").replace("%", "").replace("#", "");
-      $('*[data-toggle="tab"]').on("click", function() {
-          // var cookieName = 'tab-'+document.URL.replace("/", "").replace(":", "").replace("%", "").replace("#", "");
-          var cookieValue = $(this).attr("href");
-          Cookies.set(cookieName, cookieValue, { path: '' });
-          // console.log('cookie set!');
-      })
-      var cookie = Cookies.get(cookieName);
-      if (cookie == '#all') {
-        $('#all').addClass('show active');
-        // console.log('show all!')
-      }
-      else if (cookie) {
-        $("ul.nav-tabs li a[href='"+ cookie +"']").click();
-        // console.log('found a cookie, show' + cookie);
-      }
-      else {
-        $("#all").addClass('show active');
-        // console.log('no cookie, show all!');
-      }
-  })
-
-
-
-
 </script>
