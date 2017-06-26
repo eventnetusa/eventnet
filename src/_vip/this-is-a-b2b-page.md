@@ -6,7 +6,7 @@ vip_project_type: B2B
 hide_social_links: false
 cta_link: false
 cta_link_url:
-cta_headline: "Let's talk about your project."
+cta_headline: "Let's talk about your project"
 cta_text: request a quote
 sidebar_text_markdown: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
@@ -35,6 +35,8 @@ content_section:
 
 
 
+
+
       Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
       consectetur, adipisci velit, sed quia non numquam eius modi tempora
       incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad
@@ -54,7 +56,7 @@ _comments:
   vip_project_type: B2C will not show header or footer
   cta_headline: Optional
   cta_text: the text for the CTA button
-  cta_link: Does the CTA triggera link to another page, site, or email? (use 'mailto:email@example.com' for an email address)
+  cta_link: "Does the CTA triggera link to another page, site, or email? (use 'mailto:email@example.com' for an email address)"
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
