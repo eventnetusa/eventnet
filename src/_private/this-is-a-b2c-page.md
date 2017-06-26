@@ -4,7 +4,7 @@ large_headline: This is a large headline
 hero_image_path: /uploads/private-placeholder.jpg
 private_project_type: B2C
 cta_link: true
-cta_link_url: 'http://www.google.com'
+cta_link_url: 'mailto:ryan@yandeussing.com'
 cta_headline: This button will take you to google.com
 cta_text: click me
 sidebar_text_markdown: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia&nbsp;'
@@ -15,6 +15,8 @@ content_section:
       veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
       ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
       consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+
+
 
 
 
