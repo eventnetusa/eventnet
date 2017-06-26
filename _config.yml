@@ -48,7 +48,7 @@ collections:
     _hide_content: true
   vip:
     output: true
-    permalink: /VIP/:slug/
+    permalink: /vip/:slug/
     _hide_content: true
 
 defaults:
