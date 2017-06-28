@@ -55,8 +55,6 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      ### &nbsp;
-
       ### COUNTRY CLUB RESIDENCES
 
       Largest and most expensive communities. Typically private, gated neighborhoods with golf courses, tennis courts, fitness facilities and club houses.
@@ -67,9 +65,15 @@ content_section:
       image_2_path: /uploads/club-house.jpg
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: |-
-      ### &nbsp;
-
       ### COMMUNITY LIVING
 
       55+ senior communities built by leading real estate developers. Mostly private homes and apartments with recreation and retail located within the community.
@@ -81,10 +85,6 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### &nbsp;
-
-
-
       ### **INDEPENDENT LIVING**
 
 
@@ -101,10 +101,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      &nbsp;
-
-      ### Our SARC™ national network spans coast-to-coast, with highest concentrations in in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.
+  - text_block_markdown: 'Our SARC™ national network spans coast-to-coast, with highest concentrations in in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.'
     single_image_block:
       single_image_path: /uploads/country-map.png
     double_image_block:
@@ -112,10 +109,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      ### &nbsp;
-
-      ### EXAMPLES OF SARC™ ASSOCIATE FACILITIES&nbsp;
+  - text_block_markdown: '### EXAMPLES OF SARC™ ASSOCIATE FACILITIES&nbsp;'
     single_image_block:
       single_image_path: /uploads/sarc-collage.png
     double_image_block:
