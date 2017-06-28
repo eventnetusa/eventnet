@@ -16,7 +16,7 @@ sidebar_text_markdown: |-
   * Active seniors living healthier lifestyles
   * Geo-targeting
 
-  ### OUTREACH OPPORTUNITIES (PRE-AEP AND AEP)
+  ### OUTREACH OPPORTUNITIES (PRE-AEP/AEP)
 
   * Host onsite Medicare Seminars
   * Sponsorship/tie-ins of SARC™ social and sporting events, etc.
