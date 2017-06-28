@@ -46,14 +46,6 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
   - text_block_markdown: |-
       ### COUNTRY CLUB RESIDENCES
 
@@ -70,7 +62,7 @@ content_section:
 
       55+ senior communities built by leading real estate developers. Mostly private homes and apartments with recreation and retail located within the community.
     single_image_block:
-      single_image_path: /uploads/community-living.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -87,7 +79,7 @@ content_section:
 
       <br>&nbsp;
     single_image_block:
-      single_image_path: /uploads/independent-living.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
