@@ -46,31 +46,21 @@ content_section:
 
 
 
-      ### COUNTRY CLUB RESIDENCES
+      * ### COUNTRY CLUB RESIDENCES
 
-
-
-      Largest and most expensive communities. Typically private, gated
+        * Largest and most expensive communities. Typically private, gated
       neighborhoods with golf courses, tennis courts, fitness facilities and club
       houses.
 
+      * ### COMMUNITY LIVING
 
-
-      ### COMMUNITY LIVING
-
-
-
-      55+ senior communities built by leading real estate developers. Mostly
+        * 55+ senior communities built by leading real estate developers. Mostly
       private homes and apartments with recreation and retail located within the
       community.
 
+      * ### **INDEPENDENT LIVING**
 
-
-      ### **INDEPENDENT LIVING**
-
-
-
-      Usually apartment style living with food and transportation services
+        * Usually apartment style living with food and transportation services
       provided by property management. Most communities are combined with
       assisted living housing.
 
