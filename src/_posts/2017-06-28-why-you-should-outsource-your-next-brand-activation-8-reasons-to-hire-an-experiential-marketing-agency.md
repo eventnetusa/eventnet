@@ -4,8 +4,8 @@ date: 2017-06-28 10:00:00
 filter: insights
 featured_post: false
 excerpt: 'Are you looking to join the rapidly increasing number of brands taking their marketing efforts to the streets? Are you holding back because you think you can save money by doing it in-house? Whether you need to convince yourself, your team or your boss, these 8 reasons will show you why you need to hire an experiential marketing agency for your next brand activation.'
-hero_image_path:
-thumbnail_image_path:
+hero_image_path: /uploads/collage-for-8-reasons.png
+thumbnail_image_path: /uploads/thumbnail-for-8-reasons.png
 content_section:
   - text_block_markdown: >-
       Are you looking to join the rapidly increasing number of brands taking
@@ -19,7 +19,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **1. Retain Complete Control**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -35,7 +59,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **2. Score the Cream of the Crop**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -53,7 +101,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **3. A Tried & True Process**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,7 +141,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **4. Permits, Parking, Police**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -82,7 +178,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **5. Reporting to Your Boss**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -97,7 +217,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **6. It’s the Little Things**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -113,7 +257,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **7. Insurance**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -126,7 +294,31 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
       **8. On Time & On Budget**
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -136,6 +328,18 @@ content_section:
       When your contract is signed, you have a team committed to keeping one eye
       on the calendar and the other on the bottom line. You’ll be notified of
       approaching deadlines and purchases will be made with your budget in mind.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
