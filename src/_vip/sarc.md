@@ -84,7 +84,10 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: 'Our SARC™ national network spans coast-to-coast, with highest concentrations in in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.'
+  - text_block_markdown: |-
+      &nbsp;
+
+      ### Our SARC™ national network spans coast-to-coast, with highest concentrations in in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.
     single_image_block:
       single_image_path: /uploads/country-map.png
     double_image_block:
