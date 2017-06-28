@@ -35,12 +35,18 @@ content_section:
 
 
 
-
-
       ### **With a year of planning, research and contract negotiations, we offer
       a network of 175+ prime SARC™ locations for Medicare lead generation,
       activation and enrollment events to active seniors in their own
       community.**
+
+
+
+      **&nbsp;**
+
+
+
+      **&nbsp;**
     single_image_block:
       single_image_path:
     double_image_block:
@@ -72,8 +78,6 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ### **INDEPENDENT LIVING**
-
-
 
 
 
