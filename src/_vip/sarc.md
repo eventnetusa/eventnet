@@ -1,6 +1,6 @@
 ---
-small_headline: Take Your Medicare Marketing to Socially Active Retirement Communities
-large_headline: SARCs for Medicare
+small_headline: SARC (Socially Active Retirement Community)
+large_headline: TAKE YOUR MEDICARE MARKETING TO THE NEXT LEVEL WITH OUR SARC NETWORK
 hero_image_path: /uploads/golf-community.png
 vip_project_type: B2B
 hide_social_links: true
