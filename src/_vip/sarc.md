@@ -84,6 +84,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ### **INDEPENDENT LIVING**
 
@@ -96,6 +104,14 @@ content_section:
       <br>&nbsp;
     single_image_block:
       single_image_path: /uploads/independent-living.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
