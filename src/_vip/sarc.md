@@ -30,15 +30,14 @@ sidebar_text_markdown: |-
   * Small Conference Rooms (seats 25-50)
 content_section:
   - text_block_markdown: >-
-      ### **Understanding the need to expand Medicare marketing to reach the
-      increasing senior base, EventNetUSA created the SARC™ Network**
+      Understanding the need to expand Medicare marketing to reach the increasing
+      senior base, EventNetUSA created the SARC™ Network
 
 
 
-      ### **With a year of planning, research and contract negotiations, we offer
+      With a year of planning, research and contract negotiations, we offer
       a network of 175+ prime SARC™ locations for Medicare lead generation,
-      activation and enrollment events to active seniors in their own
-      community.**
+      activation and enrollment events to active seniors in their own community.
 
 
 
