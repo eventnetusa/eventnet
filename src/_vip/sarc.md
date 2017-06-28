@@ -30,14 +30,15 @@ sidebar_text_markdown: |-
   * Small Conference Rooms (seats 25-50)
 content_section:
   - text_block_markdown: >-
-      Understanding the need to expand Medicare marketing to reach the increasing
-      senior base, EventNetUSA created the SARC™ Network
+      ### **Understanding the need to expand Medicare marketing to reach the
+      increasing senior base, EventNetUSA created the SARC™ Network**
 
 
 
-      With a year of planning, research and contract negotiations, we offer
+      ### **With a year of planning, research and contract negotiations, we offer
       a network of 175+ prime SARC™ locations for Medicare lead generation,
-      activation and enrollment events to active seniors in their own community.
+      activation and enrollment events to active seniors in their own
+      community.**
     single_image_block:
       single_image_path:
     double_image_block:
@@ -46,6 +47,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
+      ### &nbsp;
+
       ### COUNTRY CLUB RESIDENCES
 
       Largest and most expensive communities. Typically private, gated neighborhoods with golf courses, tennis courts, fitness facilities and club houses.
@@ -57,6 +60,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
+      ### &nbsp;
+
       ### COMMUNITY LIVING
 
       55+ senior communities built by leading real estate developers. Mostly private homes and apartments with recreation and retail located within the community.
@@ -68,6 +73,10 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      ### &nbsp;
+
+
+
       ### **INDEPENDENT LIVING**
 
 
@@ -95,7 +104,10 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '### EXAMPLES OF SARC™ ASSOCIATE FACILITIES&nbsp;'
+  - text_block_markdown: |-
+      ### &nbsp;
+
+      ### EXAMPLES OF SARC™ ASSOCIATE FACILITIES&nbsp;
     single_image_block:
       single_image_path: /uploads/sarc-collage.png
     double_image_block:
