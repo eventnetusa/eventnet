@@ -19,31 +19,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **1. Retain Complete Control**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -59,31 +35,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **2. Score the Cream of the Crop**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -101,31 +53,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **3. A Tried & True Process**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -134,38 +62,14 @@ content_section:
       Any master of their craft tests their methods and adjusts to optimize
       success. The more years in the industry, the more opportunity there is to
       boil down a tried & true turnkey event production and management process.
-      *You*don’t have years to master event logistics, so hire a seasoned
+      *You&nbsp;*don’t have years to master event logistics, so hire a seasoned
       veteran!
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **4. Permits, Parking, Police**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -178,31 +82,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **5. Reporting to Your Boss**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -217,31 +97,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **6. It’s the Little Things**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -257,31 +113,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **7. Insurance**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -294,31 +126,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       **8. On Time & On Budget**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -328,18 +136,6 @@ content_section:
       When your contract is signed, you have a team committed to keeping one eye
       on the calendar and the other on the bottom line. You’ll be notified of
       approaching deadlines and purchases will be made with your budget in mind.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
