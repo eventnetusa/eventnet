@@ -42,41 +42,30 @@ content_section:
 
 
 
-      **&nbsp;**
+      &nbsp;
 
 
 
-      **&nbsp;**
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: |-
       ### COUNTRY CLUB RESIDENCES
 
-      Largest and most expensive communities. Typically private, gated neighborhoods with golf courses, tennis courts, fitness facilities and club houses.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: |-
+
+
+      Largest and most expensive communities. Typically private, gated
+      neighborhoods with golf courses, tennis courts, fitness facilities and club
+      houses.
+
+
+
       ### COMMUNITY LIVING
 
-      55+ senior communities built by leading real estate developers. Mostly private homes and apartments with recreation and retail located within the community.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
+
+
+      55+ senior communities built by leading real estate developers. Mostly
+      private homes and apartments with recreation and retail located within the
+      community.
+
+
+
       ### **INDEPENDENT LIVING**
 
 
@@ -85,15 +74,13 @@ content_section:
       provided by property management. Most communities are combined with
       assisted living housing.
 
-      <br>&nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '### EXAMPLES OF SARC™ ASSOCIATE FACILITIES&nbsp;'
+
+
+      **&nbsp;**
+
+
+
+      **&nbsp;**EXAMPLES OF SARC™ ASSOCIATE FACILITIES&nbsp;
     single_image_block:
       single_image_path: /uploads/sarc-collage.png
     double_image_block:
