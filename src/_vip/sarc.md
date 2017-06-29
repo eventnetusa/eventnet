@@ -79,7 +79,7 @@ content_section:
 
 
 
-      &nbsp;
+      .
 
 
 
