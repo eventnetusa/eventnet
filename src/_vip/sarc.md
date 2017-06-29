@@ -7,7 +7,7 @@ hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'mailto:sales@eventnetusa.com'
-cta_headline: Ready to learn more about Medicare Marketing at SARCs?
+cta_headline: Ready to learn more about Medicare Marketing at SARCs™?
 cta_text: "Let's Talk"
 sidebar_text_markdown: |-
   ### REACH YOUR TARGET DEMOGRAPHIC
