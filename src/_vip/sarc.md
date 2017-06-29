@@ -30,8 +30,8 @@ sidebar_text_markdown: |-
   * Small Conference Rooms (seats 25-50)
 content_section:
   - text_block_markdown: >-
-      EventNetUSA has developed an exclusive network of SARCs™(Socially Active
-      Retirement Communities) to create new opportunities for your Medicare
+      EventNetUSA has developed an exclusive network of SARCs™ (Socially Active
+      Retirement Communities) to create better opportunities for Medicare
       Outreach Teams to reach seniors.
 
 
@@ -72,6 +72,14 @@ content_section:
       <br>Usually apartment style living with food and transportation services
       provided by property management. Most communities are combined with
       assisted living housing.
+
+
+
+      &nbsp;
+
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -79,7 +87,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '### Our SARC™ national network spans coast-to-coast, with highest concentrations in in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.'
+  - text_block_markdown: '**Our SARC™ national network spans coast-to-coast, with highest concentrations in in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.**'
     single_image_block:
       single_image_path: /uploads/country-map.png
     double_image_block:
