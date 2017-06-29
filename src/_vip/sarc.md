@@ -4,7 +4,7 @@ large_headline: REACH NEW HEIGHTS WITH MEDICARE MARKETING AT SARCs™
 hero_image_path: /uploads/golf-community.png
 vip_project_type: B2B
 hide_social_links: true
-show_cta_at_bottom: false
+show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'mailto:sales@eventnetusa.com'
 cta_headline: Ready to learn more about Medicare Marketing at SARCs?
