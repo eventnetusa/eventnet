@@ -12,7 +12,7 @@ cta_text: "Let's Talk"
 sidebar_text_markdown: |-
   ### REACH YOUR TARGET DEMOGRAPHIC
 
-  * Average age of SARC™ residents is 68.3yr
+  * Average age of SARC™ residents is 66.3yr
   * Active seniors living healthier lifestyles
   * Geo-targeting
 
@@ -20,6 +20,7 @@ sidebar_text_markdown: |-
 
   * Host onsite Medicare Seminars
   * Sponsorship/tie-ins of SARC™ social and sporting events, etc.
+  * 2018 onsite screenings
 
   ### SEMINAR OUTREACH FACILITIES
 
@@ -91,7 +92,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**Our SARC™ national network spans coast-to-coast, with highest concentrations in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.**'
+  - text_block_markdown: '**The SARC™ national network spans coast-to-coast, with highest concentrations in Arizona, California, Florida, Pennsylvania, North and South Carolina and New England.**'
     single_image_block:
       single_image_path: /uploads/country-map.png
     double_image_block:
