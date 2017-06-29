@@ -30,46 +30,46 @@ sidebar_text_markdown: |-
   * Small Conference Rooms (seats 25-50)
 content_section:
   - text_block_markdown: >-
-      Understanding the need to expand Medicare marketing to reach the increasing
-      senior base, EventNetUSA created the SARC™ Network
+      EventNetUSA has developed an exclusive network of SARCs™(Socially Active
+      Retirement Communities) to create new opportunities for your Medicare
+      Outreach Teams to reach seniors.
 
 
 
-      With a year of planning, research and contract negotiations, we offer
-      a network of 175+ prime SARC™ locations for Medicare lead generation,
-      activation and enrollment events to active seniors in their own community.
+      SARC™ Partnerships enable Medicare Outreach Teams to host educational
+      seminars onsite for community residents.&nbsp;
 
 
 
-      &nbsp;
+      EventNetUSA manages turn-key local marketing, pre-registration and
+      logistics, allowing your teams to focus on consumer engagement, education
+      and lead generation.&nbsp;
 
 
 
-      ### COUNTRY CLUB RESIDENCES
+      ### 3 Types of SARC™ Properties:
 
 
 
-      * Largest and most expensive communities. Typically private, gated
+      **COUNTRY CLUB RESIDENCES**
+
+      <br>Largest and most expensive communities. Typically private, gated
       neighborhoods with golf courses, tennis courts, fitness facilities and club
       houses.
 
 
 
-      ### COMMUNITY LIVING
+      **COMMUNITY LIVING**
 
-
-
-      * 55+ senior communities built by leading real estate developers. Mostly
+      <br>55+ senior communities built by leading real estate developers. Mostly
       private homes and apartments with recreation and retail located within the
       community.
 
 
 
-      ### **INDEPENDENT LIVING**
+      **INDEPENDENT LIVING**
 
-
-
-      * Usually apartment style living with food and transportation services
+      <br>Usually apartment style living with food and transportation services
       provided by property management. Most communities are combined with
       assisted living housing.
     single_image_block:
