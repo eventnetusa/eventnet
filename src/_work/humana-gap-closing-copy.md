@@ -1,11 +1,11 @@
 ---
 client: Humana
 link_to_casestudy: false
-sort_number: 19
-headline: Mobile Gap Closing Program
-hover_text: Turnkey mobile program for closing gaps of care for targeted seniors. Screenings included mammograms and bone density scans.
-hero_image_path: /uploads/humana-screening-bus.jpg
-thumbnail_image_path: /uploads/humana-screening-bus.jpg
+sort_number: 6
+headline: Pop-Up Guidance Centers
+hover_text: "To close gaps in care and raise awareness of Humana's Guidance Centers, Humana Medicare Members enjoy free wellness and health screening events across multiple markets."
+hero_image_path: /uploads/hero-image.png
+thumbnail_image_path: /uploads/img-20170607-110338.jpg
 types:
   - insurance activation
   - vehicle tour
