@@ -43,6 +43,8 @@ content_section:
 
 
 
+
+
       Reaching over 20,000 members seminars educated Humana members on Medicare
       plans and benefits. Each half-day seminar included lunch, a presentation,
       free health screenings, Silver Sneakers fitness classes and an exit
@@ -50,11 +52,17 @@ content_section:
 
 
 
+
+
       A LOOK BEHIND THE SCENES
 
 
 
+
+
       ### *Seminars*
+
+
 
 
 
@@ -66,7 +74,11 @@ content_section:
 
 
 
+
+
       ### *Health Classes*
+
+
 
 
 
@@ -93,5 +105,7 @@ related_client_logos:
   - logo_image_path: /uploads/humana.png
     logo_image_height:
   - logo_image_path: /uploads/loreal.jpg
+    logo_image_height:
+  - logo_image_path: /uploads/aetna-02.jpg
     logo_image_height:
 ---
