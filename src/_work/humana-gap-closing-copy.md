@@ -1,7 +1,7 @@
 ---
 client: Humana
 link_to_casestudy: false
-sort_number: 6
+sort_number: 9
 headline: Pop-Up Guidance Centers
 hover_text: "To close gaps in care and raise awareness of Humana's Guidance Centers, Humana Medicare Members enjoy free wellness and health screening events across multiple markets."
 hero_image_path: /uploads/hero-image.png
