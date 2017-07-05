@@ -47,6 +47,10 @@ content_section:
 
 
 
+
+
+
+
       To ensure reach and depth of knowledge about HCSC’s ACA offerings,
       EventNetUSA executed a three pronged approach using Mobile Assistance
       Centers (MAC), Pop-Up Retail Stores and a Mobile Enrollment RV in the
@@ -58,7 +62,15 @@ content_section:
 
 
 
+
+
+
+
       ### A LOOK BEHIND THE SCENES
+
+
+
+
 
 
 
@@ -67,6 +79,10 @@ content_section:
       Mobile Assistance Center (MAC)
 
       <br>Outdoor and Indoor Health Insurance Activations
+
+
+
+
 
 
 
@@ -97,9 +113,17 @@ content_section:
 
 
 
+
+
+
+
       POP-UP RETAIL STORES
 
       <br>Indoor Activations
+
+
+
+
 
 
 
@@ -142,7 +166,15 @@ content_section:
 
 
 
+
+
+
+
       MOBILE ENROLLMENT RV
+
+
+
+
 
 
 
@@ -169,12 +201,12 @@ project_logos:
 related_client_logos:
   - logo_image_path: /uploads/humana.png
     logo_image_height:
-  - logo_image_path: /uploads/aetna.png
+  - logo_image_path: /uploads/CHIP-2.png
     logo_image_height:
-  - logo_image_path: /uploads/CHIP.png
+  - logo_image_path: /uploads/aetna-02.jpg
     logo_image_height: '70%'
   - logo_image_path: /uploads/aarp.png
     logo_image_height:
-  - logo_image_path: /uploads/amerihealth-gray.png
+  - logo_image_path: /uploads/amh-logo-hdr.gif
     logo_image_height:
 ---
