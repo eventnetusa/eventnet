@@ -17,7 +17,7 @@ sidebar_text_markdown: |-
   * Launch Events and PR Stunts
   * Travel Agent Seminar Tours
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: 'Make a splash at at CLIA, Cruise360 and CruiseWorld with innovative trade marketing activations'
     single_image_block:
       single_image_path:
     double_image_block:
