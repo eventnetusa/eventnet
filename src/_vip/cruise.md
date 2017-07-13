@@ -24,25 +24,16 @@ content_section:
 
 
 
-      * brand positioning,
+      * **brand positioning&nbsp;**
 
-      * targeted audience research &nbsp;
+      * **targeted audience research &nbsp;**
 
-      * creative event planning
+      * **creative event planning**
 
 
 
       &nbsp;Our full service approach and team of industry experts ensure every
       brand idea comes to life with originality, quality, on time and on budget.
-
-
-
-      You may have seen cruise trade stories featuring our recent work for
-      Carnival, including the first ever [AgentPalooza
-      Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/)
-      and exciting displays at cruise trade events such as CLIA Cruise360. We
-      would like the opportunity to discuss b2b travel agent/trade marketing for
-      CruiseLine.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -50,9 +41,9 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: 'You may have seen cruise trade stories featuring our recent work for Carnival, including the first ever [AgentPalooza Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/) and exciting displays at cruise trade events such as CLIA Cruise360. We would like the opportunity to discuss b2b travel agent/trade marketing for CruiseLine.'
+  - text_block_markdown: 'You may have seen cruise trade stories featuring our recent work for Carnival, including the first ever [AgentPalooza Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/) and exciting displays at cruise trade events such as CLIA Cruise360.&nbsp;'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/download.jpg
     double_image_block:
       image_1_path:
       image_2_path:
