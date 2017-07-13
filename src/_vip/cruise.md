@@ -50,6 +50,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: 'You may have seen cruise trade stories featuring our recent work for Carnival, including the first ever [AgentPalooza Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/) and exciting displays at cruise trade events such as CLIA Cruise360. We would like the opportunity to discuss b2b travel agent/trade marketing for CruiseLine.'
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type: B2C will not show header or footer
