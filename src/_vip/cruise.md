@@ -1,15 +1,21 @@
 ---
 small_headline: Travel and Trade Marketing
-large_headline: WE ARE FULL STEAM AHEAD IN TRAVEL AGENT AND TRADE MARKETING
+large_headline: "WE ARE FULL STEAM AHEAD IN TRAVEL AGENT AND TRADE MARKETING ACTIVATION'S"
 hero_image_path: /uploads/20170517-120920.jpg
 vip_project_type: B2B
-hide_social_links: false
-show_cta_at_bottom: false
-cta_link: false
-cta_link_url:
-cta_headline:
-cta_text:
-sidebar_text_markdown:
+hide_social_links: true
+show_cta_at_bottom: true
+cta_link: true
+cta_link_url: 'https://www.eventnetusa.com/contact/'
+cta_headline: "Ready to learn more about trade marketing activation's?"
+cta_text: "Let's Talk"
+sidebar_text_markdown: |-
+  **Our capabilities include:&nbsp;**
+
+  * Traveling Roadshows
+  * Tradeshow Exhibits and Interactive Displays
+  * Launch Events and PR Stunts
+  * Travel Agent Seminar Tours
 content_section:
   - text_block_markdown:
     single_image_block:
