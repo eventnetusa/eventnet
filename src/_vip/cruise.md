@@ -18,22 +18,28 @@ sidebar_text_markdown: |-
   * Travel Agent Seminar Tours
 content_section:
   - text_block_markdown: >-
-      Make a splash at CruiseWorld with innovative trade marketing activation's.
-      Located in Fort Lauderdale, cruise capital of the world, EventNetUSA excels
-      in providing turnkey event production that includes:
+      Make a splash at CruiseWorld with innovative trade marketing activation's!
 
 
 
-      * **brand positioning&nbsp;**
+      &nbsp;Located in Fort Lauderdale, the cruise capital of the world,
+      EventNetUSA excels in providing turnkey event production that includes:
 
-      * **targeted audience research &nbsp;**
 
-      * **creative event planning**
+
+      * **Brand positioning&nbsp;**
+
+      * **Targeted audience research &nbsp;**
+
+      * **Creative event planning**
 
 
 
       &nbsp;Our full service approach and team of industry experts ensure every
       brand idea comes to life with originality, quality, on time and on budget.
+      Let EventNetUSA help you stand out in a sea of boring booths with an
+      exciting, interactive activation that showcases your brand's unique style
+      and personality.
     single_image_block:
       single_image_path:
     double_image_block:
