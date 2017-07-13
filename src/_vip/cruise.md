@@ -1,8 +1,8 @@
 ---
 small_headline: Travel and Trade Marketing
 large_headline: WE ARE FULL STEAM AHEAD IN TRAVEL AGENT AND TRADE MARKETING
-hero_image_path: /uploads/private-placeholder.jpg
-vip_project_type: B2C
+hero_image_path: /uploads/20170517-120920.jpg
+vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
 cta_link: false
