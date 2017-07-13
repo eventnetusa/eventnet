@@ -49,18 +49,26 @@ content_section:
       video_id:
   - text_block_markdown: '**You may have seen cruise trade stories featuring our recent work for Carnival, including the first ever [AgentPalooza Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/) and exciting displays at cruise trade events such as CLIA Cruise360.&nbsp;**'
     single_image_block:
-      single_image_path: /uploads/download.jpg
+      single_image_path: /uploads/1.png
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/dancing.png
+      image_2_path: /uploads/carnival-hero-image-2.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/5.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/3.jpg
+      image_2_path: /uploads/picture5.png
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/20170516-101234.jpg
+    double_image_block:
+      image_1_path: /uploads/20170515-104423.jpg
+      image_2_path: /uploads/carnival-hero-image.jpg
     video_block:
       video_id:
 _comments:
