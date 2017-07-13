@@ -18,7 +18,8 @@ sidebar_text_markdown: |-
   * Travel Agent Seminar Tours
 content_section:
   - text_block_markdown: >-
-      Make a splash at CruiseWorld with innovative trade marketing activation's!
+      **Make a splash at CruiseWorld with innovative trade marketing
+      activation's!**
 
 
 
