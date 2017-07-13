@@ -17,7 +17,32 @@ sidebar_text_markdown: |-
   * Launch Events and PR Stunts
   * Travel Agent Seminar Tours
 content_section:
-  - text_block_markdown: 'Make a splash at at CLIA, Cruise360 and CruiseWorld with innovative trade marketing activations'
+  - text_block_markdown: >-
+      Make a splash at CruiseWorld with innovative trade marketing activation's.
+      Located in Fort Lauderdale, cruise capital of the world, EventNetUSA excels
+      in providing turnkey event production that includes:
+
+
+
+      * brand positioning,
+
+      * targeted audience research &nbsp;
+
+      * creative event planning
+
+
+
+      &nbsp;Our full service approach and team of industry experts ensure every
+      brand idea comes to life with originality, quality, on time and on budget.
+
+
+
+      You may have seen cruise trade stories featuring our recent work for
+      Carnival, including the first ever [AgentPalooza
+      Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/)
+      and exciting displays at cruise trade events such as CLIA Cruise360. We
+      would like the opportunity to discuss b2b travel agent/trade marketing for
+      CruiseLine.
     single_image_block:
       single_image_path:
     double_image_block:
