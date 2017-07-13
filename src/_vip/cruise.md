@@ -69,7 +69,7 @@ content_section:
       single_image_path: /uploads/20170516-101234.jpg
     double_image_block:
       image_1_path: /uploads/20170515-104423.jpg
-      image_2_path: /uploads/carnival-hero-image.jpg
+      image_2_path: /uploads/4.jpg
     video_block:
       video_id:
 _comments:
