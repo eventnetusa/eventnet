@@ -38,13 +38,13 @@ content_section:
 
 
 
-      * **Traveling Roadshows and Mobile Tours**
+      * Traveling Roadshows and Mobile Tours
 
-      * **Tradeshow Exhibits and Interactive Displays**
+      * Tradeshow Exhibits and Interactive Displays
 
-      * **Launch Events and PR Stunts**
+      * Launch Events and PR Stunts
 
-      * **Travel Agent Seminar Tours**
+      * Travel Agent Seminar Tours
 
 
 
