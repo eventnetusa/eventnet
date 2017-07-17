@@ -24,14 +24,13 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      **Make a splash at CruiseWorld with innovative trade marketing
-      activations!**
+      **Make a splash at CruiseWorld 2017!**
 
 
 
-      &nbsp;Located in Fort Lauderdale, the cruise capital of the world,
-      EventNetUSA excels in providing turnkey event production and management
-      that includes:
+      &nbsp;EventNetUSA is located in Fort Lauderdale, the cruise capital of the
+      world, We excels in providing turnkey event production and management that
+      includes:
 
 
 
@@ -57,7 +56,16 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**You may have seen cruise trade stories featuring our recent work for Carnival, including the first ever [AgentPalooza Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/) and exciting displays at cruise trade events such as CLIA Cruise360.&nbsp;**​'
+  - text_block_markdown: >-
+      **You may have seen our work for Carnival in cruise trade stories featuring
+      our recent event, the first ever [AgentPalooza
+      Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/)
+      and exciting displays at cruise trade events such as CLIA
+      Cruise360.&nbsp;**​
+
+
+
+      **Here are examples of EventNetUSA Programs.**
     single_image_block:
       single_image_path: /uploads/8.jpg
     double_image_block:
