@@ -10,12 +10,18 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: "Ready to learn more about trade marketing activation's?"
 cta_text: "Let's Talk"
 sidebar_text_markdown: |-
-  **Our capabilities include:&nbsp;**
+  Turnkey Service Offerings:
 
-  * Traveling Roadshows
-  * Tradeshow Exhibits and Interactive Displays
-  * Launch Events and PR Stunts
-  * Travel Agent Seminar Tours
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue & Vehicle Procurement
+  * Routing & Logistics
+  * Staffing & Training&nbsp;
+  * Budget Forecasting and Management
+  * Liability Insurance & Risk Management
+  * Account Management & Reporting
+  * Social Media Integration
+  * Permitting & Legal
 content_section:
   - text_block_markdown: >-
       **Make a splash at CruiseWorld with innovative trade marketing
@@ -24,23 +30,30 @@ content_section:
 
 
       &nbsp;Located in Fort Lauderdale, the cruise capital of the world,
-      EventNetUSA excels in providing turnkey event production that includes:
+      EventNetUSA excels in providing turnkey event production and management
+      that includes:
 
 
 
-      * **Brand positioning&nbsp;**
+      * **Traveling Roadshows/Mobile Tours**
 
-      * **Targeted audience research &nbsp;**
+      * **Tradeshow Exhibits and Interactive Displays**
 
-      * **Creative event planning**
+      * **Launch Events and PR Stunts**
+
+      * **Travel Agent Seminar Tours**
 
 
 
-      &nbsp;Our full service approach and team of industry experts ensure every
-      brand idea comes to life with originality, quality, on time and on budget.
-      Let EventNetUSA help you stand out in a sea of boring booths with an
-      exciting, interactive activation that showcases your brand's unique style
-      and personality.
+      &nbsp;
+
+
+
+      Our full service approach and team of industry experts ensure every brand
+      idea comes to life with originality, quality, on time and on budget. Let
+      EventNetUSA help you stand out in a sea of exhibits with an exciting,
+      interactive activation that showcases your brand's unique style and
+      personality.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -50,26 +63,26 @@ content_section:
       video_id:
   - text_block_markdown: '**You may have seen cruise trade stories featuring our recent work for Carnival, including the first ever [AgentPalooza Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/) and exciting displays at cruise trade events such as CLIA Cruise360.&nbsp;**'
     single_image_block:
-      single_image_path: /uploads/crowd.png
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/dancing.png
-      image_2_path: /uploads/carnival-hero-image-2.jpg
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/img-0416.JPG
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/img-0333.JPG
-      image_2_path: /uploads/picture5.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/20170516-101234.jpg
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/20170515-104423.jpg
-      image_2_path: /uploads/4.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 _comments:
