@@ -1,14 +1,14 @@
 ---
-small_headline:
-large_headline:
-hero_image_path: /uploads/private-placeholder.jpg
-vip_project_type: B2C
-hide_social_links: false
-show_cta_at_bottom: false
-cta_link: false
-cta_link_url:
-cta_headline:
-cta_text:
+small_headline: MEDICARE OEP OUTREACH MARKETING
+large_headline: ITS NOT TO LATE TO GET THE MOST OUT OF YOUR 2017-2018 OEP OUTREACH INTITIATIVES
+hero_image_path:
+vip_project_type: B2B
+hide_social_links: true
+show_cta_at_bottom: true
+cta_link: true
+cta_link_url: 'https://www.eventnetusa.com/contact/'
+cta_headline: Ready to learn more about Medicare OE Opportunities
+cta_text: "Let's Talk"
 sidebar_text_markdown:
 content_section:
   - text_block_markdown:
