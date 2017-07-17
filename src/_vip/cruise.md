@@ -69,7 +69,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/5-2.jpg
     double_image_block:
-      image_1_path: /uploads/water-launch-event.jpg
+      image_1_path: /uploads/revlon-case-5.jpg
       image_2_path: /uploads/1.jpg
     video_block:
       video_id:
