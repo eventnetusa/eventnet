@@ -34,9 +34,9 @@ content_section:
 
 
 
-      * **Traveling Roadshows/Mobile Tours**
+      * **Traveling Roadshows and Mobile Tours**
 
-      * **Trade show Exhibits and Interactive Displays**
+      * **Tradeshow Exhibits and Interactive Displays**
 
       * **Launch Events and PR Stunts**
 
@@ -60,12 +60,11 @@ content_section:
       **You may have seen our work for Carnival in cruise trade stories featuring
       our recent event, the first ever [AgentPalooza
       Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/)
-      and exciting displays at cruise trade events such as CLIA
-      Cruise360.&nbsp;**​
+      and exciting displays at trade events such as CLIA Cruise360.&nbsp;**​
 
 
 
-      **Here are examples of EventNetUSA Programs.**
+      **Here are examples of EventNetUSA Programs:**
     single_image_block:
       single_image_path: /uploads/8.jpg
     double_image_block:
