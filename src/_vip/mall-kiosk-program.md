@@ -1,5 +1,5 @@
 ---
-small_headline:
+small_headline: Mall Kiosk Program
 large_headline:
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2C
