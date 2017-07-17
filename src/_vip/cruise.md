@@ -37,7 +37,7 @@ content_section:
 
       * **Traveling Roadshows/Mobile Tours**
 
-      * **Tradeshow Exhibits and Interactive Displays**
+      * **Trade show Exhibits and Interactive Displays**
 
       * **Launch Events and PR Stunts**
 
@@ -63,23 +63,31 @@ content_section:
       video_id:
   - text_block_markdown: '**You may have seen cruise trade stories featuring our recent work for Carnival, including the first ever [AgentPalooza Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/) and exciting displays at cruise trade events such as CLIA Cruise360.&nbsp;**'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/1.jpg
     double_image_block:
       image_1_path: /uploads/dancing.png
-      image_2_path:
+      image_2_path: /uploads/2.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/3.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/4.JPG
+      image_2_path: /uploads/5-1.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/5-2.jpg
+    double_image_block:
+      image_1_path: /uploads/6.jpg
+      image_2_path: /uploads/7.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/8.jpg
     double_image_block:
       image_1_path:
       image_2_path:
