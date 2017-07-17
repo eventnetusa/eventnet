@@ -45,10 +45,6 @@ content_section:
 
 
 
-      &nbsp;
-
-
-
       Our full service approach and team of industry experts ensure every brand
       idea comes to life with originality, quality, on time and on budget. Let
       EventNetUSA help you stand out in a sea of exhibits with an exciting,
