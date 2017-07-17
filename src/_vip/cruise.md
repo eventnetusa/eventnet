@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: "Ready to learn more about trade marketing activation's?"
 cta_text: "Let's Talk"
 sidebar_text_markdown: |-
-  Turnkey Service Offerings:
+  **Turnkey Service Offerings:**
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
