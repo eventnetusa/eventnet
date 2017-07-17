@@ -29,9 +29,13 @@ content_section:
 
 
 
+
+
       &nbsp;Located in Fort Lauderdale, the cruise capital of the world,
       EventNetUSA excels in providing turnkey event production and management
       that includes:
+
+
 
 
 
@@ -42,6 +46,8 @@ content_section:
       * **Launch Events and PR Stunts**
 
       * **Travel Agent Seminar Tours**
+
+
 
 
 
