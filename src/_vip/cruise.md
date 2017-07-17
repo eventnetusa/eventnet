@@ -67,14 +67,6 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/5-2.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
       single_image_path: /uploads/6.jpg
     double_image_block:
       image_1_path: /uploads/dancing.png
