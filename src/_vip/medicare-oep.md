@@ -24,8 +24,8 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      There is still time to **Engage, Activate and Enroll**consumers this OEP.
-      If you can make a timely decision in the next 3 weeks, EventNetUSA is
+      There is still time to **Engage, Activate and Enroll &nbsp;**consumers this
+      OEP. If you can make a timely decision in the next 3 weeks, EventNetUSA is
       prepared to assist for upcoming Medicare OE 2017-18 outreach marketing.
 
 
@@ -37,18 +37,18 @@ content_section:
 
 
 
-      * Activation/enrollment RV’s,
+      * Mall Kiosks
 
-      * Branded Mobile Retail & Community Outreach Trailers
+      * Pop-up Retail Stores
 
-      * Turnkey mall Medicare kiosks: Includes branding, shipping, installation,
-      staffing and dismantling &nbsp;
+      * Mobile Assistance Center (MAC)
 
-      * Mall pop-up inline space with agent sales offices
-
+      * Mobile Enrollment RV's
 
 
-      Learn More about our available programs below:
+
+      Expand your lead generation, enrollment and screening initiatives with the
+      these programs:
     single_image_block:
       single_image_path:
     double_image_block:
