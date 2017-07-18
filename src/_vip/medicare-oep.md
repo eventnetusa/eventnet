@@ -56,6 +56,125 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: >-
+      MALL KIOSK PROGRAM
+
+
+
+      EventNetUSA Produces interactive mall kiosks in high trafficked mall
+      corridors
+
+
+
+      Program Overview:
+
+
+
+      * Research and contract venues
+
+      * Branding, installation and dismantling&nbsp;
+
+      * Manage day-to-day operations, including staffing
+
+      * Collect leads and make on-site appointments&nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      POP-UP RETAIL STORES
+
+
+
+      Turnkey pop-up mall stores inclusive of design, build, IT integration,
+      security, graphics, and installation
+
+
+
+      Program Overview:
+
+
+
+      * Market research and analysis
+
+      * Site visit, selection, negotiation and rental contract execution
+
+      * Turnkey Build out, installation and dismantling
+
+      * Manage day to day store operations, including staffing
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      MOBILE ASSISTANCE CENTER (MAC)
+
+
+
+      Centers are used to reach targeted consumers at local festivals, runs,
+      churches, strip centers, retail stores and community events
+
+
+
+      Program Overview:
+
+
+
+      * Market Research and analysis
+
+      * Routing and Logistics
+
+      * Branding
+
+      * Staffing
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      MOBILE ENROLLMENT RV'S
+
+
+
+      Custom RV utilized for relevant retail stops to engage, activate and enroll
+      consumers on-site or schedule follow-up meetings
+
+
+
+      Program Overview:
+
+
+
+      * Routing and Logistics
+
+      * Market research and analysis
+
+      * Event selection, negotiation and contract execution, site fees
+
+      * &nbsp;Manages the design, build, IT integration, security, graphics, and
+      installation
+
+      * CDL Driver
+
+      * Signage
+
+      * Exterior banners
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type: B2C will not show header or footer
