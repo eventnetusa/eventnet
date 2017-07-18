@@ -70,10 +70,10 @@ content_section:
       video_id:
   - text_block_markdown: '**POP-UP RETAIL STORES**'
     single_image_block:
-      single_image_path: /uploads/picture3.png
+      single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/picture3.png
+      image_2_path: /uploads/picture4.jpg
     video_block:
       video_id:
   - text_block_markdown: EventNetUSA will secure mall space in your targeted zip code and build out temporary store. We can supply trained staff/greeters upon request.
