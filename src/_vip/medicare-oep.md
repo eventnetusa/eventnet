@@ -92,7 +92,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: 'Your Medicare mobile assistance center contains seating for 8, video screen, and generator to provide electricity. MAC can be used indoor or outdoor. EventNetUSA can supply driver/greeter and manage set up upon request. We can also work with you on routing.'
+  - text_block_markdown: 'Your Medicare mobile assistance center contains seating for 8, video screen, and generator to provide electricity. MAC can be used indoor or outdoor and can be easily pulled by a car or light truck trailer hitch. Set up time: 20 minutes. EventNetUSA can supply driver/greeter and manage set up upon request. We can also work with you on routing.'
     single_image_block:
       single_image_path:
     double_image_block:
