@@ -30,11 +30,11 @@ content_section:
 
 
 
-      We still have available:
+      Limited availabilities for this September include:
 
 
 
-      * Mall Kiosks
+      * Mall Medicare Kiosks
 
       * Pop-up Retail Stores
 
@@ -60,7 +60,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '10x10" Mall Kiosk. We will secure malls in your targeted zip code, brand and have it delivered to your team. We can supply trained staff for lead generation if you request.'
+  - text_block_markdown: '10x10" Mall Kiosk. We will secure malls in your targeted zip code, brand kiosk and have it delivered/set up for your team at the mall. We can supply trained staff/greeters upon request.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -76,7 +76,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: EventNetUSA will secure mall space in your targeted zip code and build out temporary store. We can supply trained staff for lead generation if you request.
+  - text_block_markdown: EventNetUSA will secure mall space in your targeted zip code and build out temporary store. We can supply trained staff/greeters upon request.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -119,9 +119,9 @@ content_section:
 
 
 
-      **Note: EventNetUSA cannot guarantee that all client request will be
-      fulfilled by Medicare OEP due to availability of fleet vehicles and mall
-      displays as pictured above.**
+      **Note: EventNetUSA cannot guarantee that all client requests will be
+      fulfilled and ready to open by Medicare OEP due to availability of fleet
+      vehicles and mall displays as pictured above.**
     single_image_block:
       single_image_path:
     double_image_block:
