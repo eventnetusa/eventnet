@@ -92,18 +92,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      Your Medicare mobile assistance center contains seating for 8, video
-      screen, and generator to provide Electricity.
-
-
-
-      MAC can be used indoor or outdoor.
-
-
-
-      EventNetUSA can supply driver/greeter and manage set up upon request. We
-      can also work with you on routing.
+  - text_block_markdown: 'Your Medicare mobile assistance center contains seating for 8, video screen, and generator to provide electricity.MAC can be used indoor or outdoor. EventNetUSA can supply driver/greeter and manage set up upon request. We can also work with you on routing.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -120,8 +109,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      In select markets, EventNetUSA to provide branded, leased RV, Including
-      certified driver. RV size and dimension TBD based on availability in each
+      In select markets, EventNetUSA will provide branded, leased RV with
+      a certified driver. RV size and dimension TBD based on availability in each
       market.
 
 
@@ -132,7 +121,7 @@ content_section:
 
       **Note: EventNetUSA cannot guarantee that all client request will be
       fulfilled by Medicare OEP due to availability of fleet vehicles and mall
-      displays as pictured above**
+      displays as pictured above.**
     single_image_block:
       single_image_path:
     double_image_block:
