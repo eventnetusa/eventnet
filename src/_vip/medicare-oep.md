@@ -30,11 +30,7 @@ content_section:
 
 
 
-
-
       Limited availability for this September include:
-
-
 
 
 
@@ -45,8 +41,6 @@ content_section:
       * Mobile Assistance Center (MAC)
 
       * Mobile Enrollment RV's
-
-
 
 
 
@@ -110,7 +104,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
+      image_1_path: /uploads/hcsc-rv.png
       image_2_path: /uploads/rv-agent.jpg
     video_block:
       video_id:
@@ -121,23 +115,15 @@ content_section:
 
 
 
+      &nbsp;
+
 
 
       &nbsp;
 
 
 
-
-
       &nbsp;
-
-
-
-
-
-      &nbsp;
-
-
 
 
 
