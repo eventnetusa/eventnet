@@ -7,7 +7,7 @@ hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to learn more about Medicare OEP Outreach?
+cta_headline: Venues and vehicles are limited in certain markets.
 cta_text: "Let's Talk"
 sidebar_text_markdown: |-
   **Turnkey Service Offerings:**
@@ -30,7 +30,7 @@ content_section:
 
 
 
-      Limited availabilities for this September include:
+      Limited availability for this September include:
 
 
 
