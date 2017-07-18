@@ -1,6 +1,6 @@
 ---
 small_headline: MEDICARE OEP OUTREACH MARKETING
-large_headline: ITS NOT TO LATE TO GET THE MOST OUT OF YOUR 2017-2018 OEP OUTREACH INTITIATIVES
+large_headline: 'ITS NOT TO LATE TO GET THE MOST OUT OF YOUR 2017-2018 OEP OUTREACH INITIATIVES!'
 hero_image_path:
 vip_project_type: B2B
 hide_social_links: true
