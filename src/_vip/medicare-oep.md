@@ -44,8 +44,7 @@ content_section:
 
 
 
-      Expand your lead generation, enrollment and screening initiatives with
-      these programs:
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -53,7 +52,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '## **MALL KIOSK PROGRAM**'
+  - text_block_markdown: '**MALL KIOSK PROGRAM**'
     single_image_block:
       single_image_path: /uploads/ins-kiosk-002-003.jpg
     double_image_block:
@@ -70,6 +69,70 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: '**POP-UP RETAIL STORES**'
+    single_image_block:
+      single_image_path: /uploads/picture3.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: EventNetUSA will secure mall space in your targeted zip code and build out temporary store. We can supply trained staff for lead generation if you request.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: '**MOBILE ASSISTANCE CENTER (MAC**)'
+    single_image_block:
+      single_image_path: /uploads/mac-outside.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      Your Medicare mobile assistance center contains seating for 8, video
+      screen, and generator to provide Electricity.
+
+
+
+      MAC can be used indoor or outdoor.
+
+
+
+      EventNetUSA can supply driver/greeter and manage set up upon request. We
+      can also work with you on routing.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: "**MOBILE ENROLLMENT RV'S**"
+    single_image_block:
+      single_image_path: /uploads/rv-vehicle.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      In select markets, EventNetUSA to provide branded, leased RV, Including
+      certified driver. RV size and dimension TBD based on availability in each
+      market.
+
+
+
+      &nbsp;
+
+
+
+      **Note: EventNetUSA cannot guarantee that all client request will be
+      fulfilled by Medicare OEP due to availability of fleet vehicles and mall
+      displays as pictured above**
     single_image_block:
       single_image_path:
     double_image_block:
