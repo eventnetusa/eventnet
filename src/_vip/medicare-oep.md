@@ -23,7 +23,32 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      There is still time to **Engage, Activate and Enroll**consumers this OEP.
+      If you can make a timely decision in the next 3 weeks, EventNetUSA is
+      prepared to assist for upcoming Medicare OE 2017-18 outreach marketing.
+
+
+
+      We are the leading experiential marketing supplier to your health insurance
+      industry, and have been since the introduction of Medicare Part D in 2005.
+      We can provide turnkey event production with a short lead time for the
+      following programs.
+
+
+
+      * Activation/enrollment RV’s,
+
+      * Branded Mobile Retail & Community Outreach Trailers
+
+      * Turnkey mall Medicare kiosks: Includes branding, shipping, installation,
+      staffing and dismantling &nbsp;
+
+      * Mall pop-up inline space with agent sales offices
+
+
+
+      Learn More about our available programs below:
     single_image_block:
       single_image_path:
     double_image_block:
