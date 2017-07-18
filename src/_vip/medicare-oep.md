@@ -7,7 +7,7 @@ hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Venues and vehicles are limited in certain markets.
+cta_headline: 'Ready to engage, activate and enroll for this year’s Medicare OEP?'
 cta_text: "Let's Talk"
 sidebar_text_markdown: |-
   **Turnkey Service Offerings:**
@@ -30,7 +30,11 @@ content_section:
 
 
 
+
+
       Limited availability for this September include:
+
+
 
 
 
@@ -41,6 +45,8 @@ content_section:
       * Mobile Assistance Center (MAC)
 
       * Mobile Enrollment RV's
+
+
 
 
 
@@ -60,7 +66,7 @@ content_section:
       image_2_path: /uploads/img-thing.jpg
     video_block:
       video_id:
-  - text_block_markdown: '10x10" Mall Kiosk. We will secure malls in your targeted zip code, brand kiosk and have it delivered/set up for your team at the mall. We can supply trained staff/greeters upon request.'
+  - text_block_markdown: '12x12" Mall Kiosk. We will secure malls in your targeted zip code, brand kiosk and have it delivered/set up for your team at the mall. We can supply trained staff/greeters upon request.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -115,15 +121,23 @@ content_section:
 
 
 
+
+
+      &nbsp;
+
+
+
+
+
       &nbsp;
 
 
 
+
+
       &nbsp;
 
 
-
-      &nbsp;
 
 
 
