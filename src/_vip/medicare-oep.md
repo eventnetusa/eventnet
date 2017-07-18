@@ -53,10 +53,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      **MALL KIOSK PROGRAM**
-
-      &nbsp;
+  - text_block_markdown: '## **MALL KIOSK PROGRAM**'
     single_image_block:
       single_image_path: /uploads/ins-kiosk-002-003.jpg
     double_image_block:
