@@ -57,12 +57,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      MALL KIOSK PROGRAM
+      **MALL KIOSK PROGRAM**
 
 
 
-      EventNetUSA Produces interactive mall kiosks in high trafficked mall
-      corridors
+      EventNetUSA produces interactive mall kiosks in high trafficked mall
+      corridors.
 
 
 
@@ -85,12 +85,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      POP-UP RETAIL STORES
+      **POP-UP RETAIL STORES**
 
 
 
       Turnkey pop-up mall stores inclusive of design, build, IT integration,
-      security, graphics, and installation
+      security, graphics, and installation.
 
 
 
@@ -113,12 +113,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      MOBILE ASSISTANCE CENTER (MAC)
+      **MOBILE ASSISTANCE CENTER (MAC**)
 
 
 
-      Centers are used to reach targeted consumers at local festivals, runs,
-      churches, strip centers, retail stores and community events
+      MAC's are used to reach targeted consumers at local festivals, runs,
+      churches, strip centers, retail stores and community events.
 
 
 
@@ -141,12 +141,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      MOBILE ENROLLMENT RV'S
+      **MOBILE ENROLLMENT RV'S**
 
 
 
       Custom RV utilized for relevant retail stops to engage, activate and enroll
-      consumers on-site or schedule follow-up meetings
+      consumers on-site or schedule follow-up meetings.
 
 
 
@@ -154,13 +154,13 @@ content_section:
 
 
 
-      * Routing and Logistics
+      * Routing and logistics
 
       * Market research and analysis
 
       * Event selection, negotiation and contract execution, site fees
 
-      * &nbsp;Manages the design, build, IT integration, security, graphics, and
+      * Manage the design, build, IT integration, security, graphics, and
       installation
 
       * CDL Driver
