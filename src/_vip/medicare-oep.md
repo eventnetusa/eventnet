@@ -34,7 +34,7 @@ content_section:
 
 
 
-      * Mall Medicare Kiosks
+      * Mall Kiosks
 
       * Pop-up Retail Stores
 
@@ -112,6 +112,14 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with
       a certified driver. RV size and dimension TBD based on availability in each
       market.
+
+
+
+      &nbsp;
+
+
+
+      &nbsp;
 
 
 
