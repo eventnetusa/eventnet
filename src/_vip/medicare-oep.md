@@ -47,7 +47,7 @@ content_section:
 
 
 
-      Expand your lead generation, enrollment and screening initiatives with the
+      Expand your lead generation, enrollment and screening initiatives with
       these programs:
     single_image_block:
       single_image_path:
@@ -108,8 +108,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/popup-interior.png
+      image_2_path: /uploads/popup-layout.png
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -134,10 +134,10 @@ content_section:
 
       * Staffing
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/mac-vehicle.png
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/mac-inside.png
+      image_2_path: /uploads/mac-outside.png
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -171,8 +171,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/rv-vehicle.png
+      image_2_path: /uploads/rv-agent.jpg
     video_block:
       video_id:
 _comments:
