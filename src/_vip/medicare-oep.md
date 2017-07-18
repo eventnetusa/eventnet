@@ -1,6 +1,6 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
-large_headline: 'ITS NOT TO LATE TO GET THE MOST OUT OF YOUR 2017-2018 OEP OUTREACH INITIATIVES!'
+large_headline: "IT'S NOT TOO LATE TO ORDER MALLS & VEHICLES FOR MEDICARE MARKETING OUTREACH!"
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2B
 hide_social_links: true
@@ -30,10 +30,14 @@ content_section:
 
 
 
+
+
       We are the leading experiential marketing supplier to your health insurance
       industry, and have been since the introduction of Medicare Part D in 2005.
       We can provide turnkey event production with a short lead time for the
       following programs.
+
+
 
 
 
@@ -44,6 +48,8 @@ content_section:
       * Mobile Assistance Center (MAC)
 
       * Mobile Enrollment RV's
+
+
 
 
 
@@ -61,12 +67,18 @@ content_section:
 
 
 
+
+
       EventNetUSA produces interactive mall kiosks in high trafficked mall
       corridors.
 
 
 
+
+
       Program Overview:
+
+
 
 
 
@@ -89,12 +101,18 @@ content_section:
 
 
 
+
+
       Turnkey pop-up mall stores inclusive of design, build, IT integration,
       security, graphics, and installation.
 
 
 
+
+
       Program Overview:
+
+
 
 
 
@@ -117,12 +135,18 @@ content_section:
 
 
 
+
+
       MAC's are used to reach targeted consumers at local festivals, runs,
       churches, strip centers, retail stores and community events.
 
 
 
+
+
       Program Overview:
+
+
 
 
 
@@ -145,12 +169,18 @@ content_section:
 
 
 
+
+
       Custom RV utilized for relevant retail stops to engage, activate and enroll
       consumers on-site or schedule follow-up meetings.
 
 
 
+
+
       Program Overview:
+
+
 
 
 
