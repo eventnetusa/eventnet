@@ -24,20 +24,13 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      There is still time to **Engage, Activate and Enroll &nbsp;**consumers this
-      OEP. If you can make a timely decision in the next 3 weeks, EventNetUSA is
-      prepared to assist for upcoming Medicare OE 2017-18 outreach marketing.
+      There is still time to **Engage, Activate and Enroll &nbsp;**consumers in
+      OEP if you can make a decision in the next 3 weeks. EventNetUSA is prepared
+      with vehicles, venues and staff.
 
 
 
-
-
-      We are the leading experiential marketing supplier to your health insurance
-      industry, and have been since the introduction of Medicare Part D in 2005.
-      We can provide turnkey event production with a short lead time for the
-      following programs.
-
-
+      We still have available:
 
 
 
@@ -51,8 +44,6 @@ content_section:
 
 
 
-
-
       Expand your lead generation, enrollment and screening initiatives with
       these programs:
     single_image_block:
@@ -62,147 +53,23 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
+  - text_block_markdown: |-
       **MALL KIOSK PROGRAM**
 
-
-
-
-
-      EventNetUSA produces interactive mall kiosks in high trafficked mall
-      corridors.
-
-
-
-
-
-      Program Overview:
-
-
-
-
-
-      * Research and contract venues
-
-      * Branding, installation and dismantling&nbsp;
-
-      * Manage day-to-day operations, including staffing
-
-      * Collect leads and make on-site appointments&nbsp;
+      &nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/ins-kiosk-002-003.jpg
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      **POP-UP RETAIL STORES**
-
-
-
-
-
-      Turnkey pop-up mall stores inclusive of design, build, IT integration,
-      security, graphics, and installation.
-
-
-
-
-
-      Program Overview:
-
-
-
-
-
-      * Market research and analysis
-
-      * Site visit, selection, negotiation and rental contract execution
-
-      * Turnkey Build out, installation and dismantling
-
-      * Manage day to day store operations, including staffing
+  - text_block_markdown: '10x10" Mall Kiosk. We will secure malls in your targeted zip code, brand and have it delivered to your team. We can supply trained staff for lead generation if you request.'
     single_image_block:
-      single_image_path: /uploads/popup-layout.png
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/hcsc-case-8.jpg
-      image_2_path: /uploads/hcsc-case-5.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      **MOBILE ASSISTANCE CENTER (MAC**)
-
-
-
-
-
-      MAC's are used to reach targeted consumers at local festivals, runs,
-      churches, strip centers, retail stores and community events.
-
-
-
-
-
-      Program Overview:
-
-
-
-
-
-      * Market Research and analysis
-
-      * Routing and Logistics
-
-      * Branding
-
-      * Staffing
-    single_image_block:
-      single_image_path: /uploads/mac-vehicle.png
-    double_image_block:
-      image_1_path: /uploads/mac-inside.png
-      image_2_path: /uploads/mac-outside.png
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      **MOBILE ENROLLMENT RV'S**
-
-
-
-
-
-      Custom RV utilized for relevant retail stops to engage, activate and enroll
-      consumers on-site or schedule follow-up meetings.
-
-
-
-
-
-      Program Overview:
-
-
-
-
-
-      * Routing and logistics
-
-      * Market research and analysis
-
-      * Event selection, negotiation and contract execution, site fees
-
-      * Manage the design, build, IT integration, security, graphics, and
-      installation
-
-      * CDL Driver
-
-      * Signage
-
-      * Exterior banners
-    single_image_block:
-      single_image_path: /uploads/rv-vehicle.png
-    double_image_block:
-      image_1_path: /uploads/picture3.jpg
-      image_2_path: /uploads/rv-agent.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 _comments:
