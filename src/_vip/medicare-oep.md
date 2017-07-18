@@ -106,10 +106,10 @@ content_section:
 
       * Manage day to day store operations, including staffing
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/popup-layout.png
     double_image_block:
-      image_1_path: /uploads/popup-interior.png
-      image_2_path: /uploads/popup-layout.png
+      image_1_path: /uploads/hcsc-case-8.jpg
+      image_2_path: /uploads/hcsc-case-5.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -169,9 +169,9 @@ content_section:
 
       * Exterior banners
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/rv-vehicle.png
     double_image_block:
-      image_1_path: /uploads/rv-vehicle.png
+      image_1_path: /uploads/picture3.jpg
       image_2_path: /uploads/rv-agent.jpg
     video_block:
       video_id:
