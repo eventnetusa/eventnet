@@ -57,7 +57,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/ins-kiosk-002-003.jpg
-      image_2_path:
+      image_2_path: /uploads/img-thing.jpg
     video_block:
       video_id:
   - text_block_markdown: '10x10" Mall Kiosk. We will secure malls in your targeted zip code, brand kiosk and have it delivered/set up for your team at the mall. We can supply trained staff/greeters upon request.'
