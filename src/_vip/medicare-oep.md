@@ -127,9 +127,9 @@ content_section:
 
 
 
-      **Note: EventNetUSA cannot guarantee that all client requests will be
-      fulfilled and ready to open by Medicare OEP due to availability of fleet
-      vehicles and mall displays as pictured above.**
+      <div><strong>Note: EventNetUSA cannot guarantee that all client requests
+      will be fulfilled and ready to open by Medicare OEP due to availability of
+      fleet vehicles and mall displays as pictured above.</strong></div>
     single_image_block:
       single_image_path:
     double_image_block:
