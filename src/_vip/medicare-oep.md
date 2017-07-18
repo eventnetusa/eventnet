@@ -102,10 +102,10 @@ content_section:
       video_id:
   - text_block_markdown: "**MOBILE ENROLLMENT RV'S**"
     single_image_block:
-      single_image_path: /uploads/rv-vehicle.png
+      single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/hcsc-rv.png
+      image_2_path: /uploads/rv-agent.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
