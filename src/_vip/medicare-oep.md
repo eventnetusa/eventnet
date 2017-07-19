@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
 large_headline: "IT'S NOT TOO LATE TO ORDER MALLS & VEHICLES FOR MEDICARE MARKETING OUTREACH"
-hero_image_path: /uploads/medicare-hero-collage-1.png
+hero_image_path: /uploads/medicare-hero-collage-2.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -96,13 +96,25 @@ content_section:
 
 
 
+
+
+
+
       &nbsp;
 
 
 
 
 
+
+
+
+
       &nbsp;
+
+
+
+
 
 
 
