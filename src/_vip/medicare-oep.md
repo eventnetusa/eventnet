@@ -23,19 +23,7 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown: >-
-      There is still time to **Engage, Activate and Enroll &nbsp;**consumers in
-      OEP if you can make a decision in the next 3 weeks. EventNetUSA is prepared
-      with vehicles, venues and staff. Limited availability for this September
-      include:
-
-      * Turnkey Mall Kiosks
-
-      * Pop-up Retail Stores
-
-      * Mobile Assistance Center (MAC)
-
-      * Mobile Enrollment RV's
+  - text_block_markdown: "There is still time to **Engage, Activate and Enroll &nbsp;**consumers in OEP if you can make a decision in the next 3 weeks. EventNetUSA is prepared with vehicles, venues and staff. Limited availability for this September include: \\* Turnkey Mall Kiosks \\* Pop-up Retail Stores \\* Mobile Assistance Center (MAC) \\* Mobile Enrollment RV's"
     single_image_block:
       single_image_path:
     double_image_block:
@@ -99,7 +87,24 @@ content_section:
       image_2_path: /uploads/rv-agent.jpg
     video_block:
       video_id:
-  - text_block_markdown: 'In select markets, EventNetUSA will provide branded, leased RV with a certified driver. RV size and dimension TBD based on availability in each market. **Note: EventNetUSA cannot guarantee that all client requests will be fulfilled and ready to open by Medicare OEP due to availability of fleet vehicles and mall displays as pictured above.**'
+  - text_block_markdown: >-
+      In select markets, EventNetUSA will provide branded, leased RV with
+      a certified driver. RV size and dimension TBD based on availability in each
+      market.
+
+
+
+      &nbsp;
+
+
+
+      &nbsp;
+
+
+
+      **Note: EventNetUSA cannot guarantee that all client requests will be
+      fulfilled and ready to open by Medicare OEP due to availability of fleet
+      vehicles and mall displays as pictured above.**
     single_image_block:
       single_image_path:
     double_image_block:
