@@ -8,33 +8,33 @@ hero_image_path: /uploads/sampling-hero-image-2.png
 thumbnail_image_path: /uploads/sampling-thumbnail-image.png
 content_section:
   - text_block_markdown: >-
-      <div><p>Summer is here and that means Street-Team Sampling Season is too!
+      <p>Summer is here and that means Street-Team Sampling Season is too!
       Here are 5 tips for creating and executing a successful brand-in-hand
       campaign.</p><p>&nbsp;Define Your Demographic</p><p>An audience can be
       defined any number of ways based on an almost infinite number of criteria.
       But your audience is unique to your brand, so you&rsquo;re going to want to
       identify the factors that can be used to create a better connection between
       their interests and what your company offers.</p><p>Basic Demographic
-      Points to Consider</p></div>
+      Points to Consider</p>
 
-      <div><ul><li>Age</li><li>Gender</li><li>Ethnicity</li><li>Lifestyle</li><li>SexuaOrientation</li><li>Household Status</li><li>Geography</li><li>Interests/Hobbies</li><li>Beliefs/Opinions</li><li>Profession</li><li>Income Level</li><li>Residence Type</li></ul><p>2. Routing Around Town</p><p>Now  that you&rsquo;ve defined your target demographic, identify relevant
+      <ul><li>Age</li><li>Gender</li><li>Ethnicity</li><li>Lifestyle</li><li>SexuaOrientation</li><li>Household Status</li><li>Geography</li><li>Interests/Hobbies</li><li>Beliefs/Opinions</li><li>Profession</li><li>Income Level</li><li>Residence Type</li></ul><p>2. Routing Around Town</p><p>Now  that you&rsquo;ve defined your target demographic, identify relevant
       opportunities for reaching consumers and create a customized routing
       strategy for the overall program.</p><p>For example, taking the target
       demographic: Mom&rsquo;s with Young Children</p><p>Relevant Sampling
-      Locations May Include</p></div>
+      Locations May Include</p>
 
-      <div><ul><li>Parks and Playgrounds</li><li>Little League Sports
+      <ul><li>Parks and Playgrounds</li><li>Little League Sports
       Fields</li><li>Mommy&amp;Me Classes</li><li>School Carpool
       Lanes</li><li>Special Events (i.e. Disney on Ice)</li><li>Family Parades
       and Festivals</li><li>Famer&rsquo;s Markets</li><li>Parking lots of product
-      retailers</li></ul></div>
+      retailers</li></ul>
 
       Be sure to consider other important factors too like peak times, ease or
       difficulty of sampling in the location and always have a backup plan for
       weather, law enforcement or other factors that might throw a wrench into
       your plans.
 
-      <div><p>3. Staffing for Success</p><p>Your sampling team is the face and
+      <p>3. Staffing for Success</p><p>Your sampling team is the face and
       voice of your brand on the streets, so hiring the right staff is vital to
       the success of any sampling program. At a minimum, Brand Ambassadors should
       have the following qualifications:</p><ul><li>Plenty of previous sampling
@@ -61,7 +61,7 @@ content_section:
       packaging or inserts to be read later when the consumer is invested in
       learning more.</p><p>5. Reporting</p><p>Before feet hit the street, define
       what metrics and data you want to take away from the overall
-      program.</p><p>Sample Reporting Metrics</p></div>
+      program.</p><p>Sample Reporting Metrics</p>
 
       * # Samples
 

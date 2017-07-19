@@ -10,9 +10,9 @@ content_section:
   - text_block_markdown: >-
       #### Featured on [Radar
       Online](http://radaronline.com/photos/kevin-and-danielle-jonas-celebrate-national-lovers-day-in-nyc-with-revlon/)
-      <div>"Love is in the air as Kevin and Danielle Jonas kick off National
+      "Love is in the air as Kevin and Danielle Jonas kick off National
       Lover&rsquo;s Day at the Revlon LOVE IS ON Pop-up Shop in Times
-      Square."</div>
+      Square."
     single_image_block:
       single_image_path: /uploads/kevin-danielle-jonas-revlon01.jpg
     double_image_block:
