@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
 large_headline: "IT'S NOT TOO LATE TO ORDER MALLS & VEHICLES FOR MEDICARE MARKETING OUTREACH!"
-hero_image_path: /uploads/picmonkey-image.jpg
+hero_image_path: /uploads/picmonkey-collage-2.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -27,6 +27,38 @@ content_section:
       There is still time to **Engage, Activate and Enroll &nbsp;**consumers in
       OEP if you can make a decision in the next 3 weeks. EventNetUSA is prepared
       with vehicles, venues and staff.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -94,6 +126,38 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       * Turnkey Mall Kiosks
 
       * Pop-up Retail Stores
@@ -101,6 +165,38 @@ content_section:
       * Mobile Assistance Center (MAC)
 
       * Mobile Enrollment RV's
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -235,6 +331,104 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
 
 
@@ -269,6 +463,38 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
 
 
@@ -302,8 +528,6 @@ content_section:
 
 
 
-
-      &nbsp;
 
 
 
