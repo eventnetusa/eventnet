@@ -7813,6 +7813,14 @@ html.remodal-is-locked {
 .vip .case-study-sidebar span {
   font-weight: 500; }
 
+@media screen and (max-width: 767px) {
+  .vip .bottom-cta {
+    display: none; } }
+
+@media screen and (min-width: 768px) {
+  .vip .bottom-cta {
+    display: block; } }
+
 @media (min-width: 300px) and (max-width: 550px) {
   .contact .hero {
     height: 33vh; }

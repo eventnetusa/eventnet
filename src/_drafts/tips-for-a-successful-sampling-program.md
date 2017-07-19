@@ -17,67 +17,11 @@ content_section:
       their interests and what your company offers.</p><p>Basic Demographic
       Points to Consider</p></div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      <div><ul><li>Age</li><li>Gender</li><li>Ethnicity</li><li>Lifestyle</li><li>Sexua
-
-
-
-
-
-
-
-       Orientation</li><li>Household
-
-
-
-
-
-
-
-      Status</li><li>Geography</li><li>Interests/Hobbies</li><li>Beliefs/Opinions</li><li>Profession</li><li>Incom
-
-
-
-       Level</li><li>Residence Type</li></ul><p>2. Routing Around Town</p><p>Now
-
-
-
-      that you&rsquo;ve defined your target demographic, identify relevant
+      <div><ul><li>Age</li><li>Gender</li><li>Ethnicity</li><li>Lifestyle</li><li>SexuaOrientation</li><li>Household Status</li><li>Geography</li><li>Interests/Hobbies</li><li>Beliefs/Opinions</li><li>Profession</li><li>Income Level</li><li>Residence Type</li></ul><p>2. Routing Around Town</p><p>Now  that you&rsquo;ve defined your target demographic, identify relevant
       opportunities for reaching consumers and create a customized routing
       strategy for the overall program.</p><p>For example, taking the target
       demographic: Mom&rsquo;s with Young Children</p><p>Relevant Sampling
       Locations May Include</p></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       <div><ul><li>Parks and Playgrounds</li><li>Little League Sports
       Fields</li><li>Mommy&amp;Me Classes</li><li>School Carpool
@@ -85,42 +29,10 @@ content_section:
       and Festivals</li><li>Famer&rsquo;s Markets</li><li>Parking lots of product
       retailers</li></ul></div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       Be sure to consider other important factors too like peak times, ease or
       difficulty of sampling in the location and always have a backup plan for
       weather, law enforcement or other factors that might throw a wrench into
       your plans.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       <div><p>3. Staffing for Success</p><p>Your sampling team is the face and
       voice of your brand on the streets, so hiring the right staff is vital to
@@ -150,22 +62,6 @@ content_section:
       learning more.</p><p>5. Reporting</p><p>Before feet hit the street, define
       what metrics and data you want to take away from the overall
       program.</p><p>Sample Reporting Metrics</p></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       * # Samples
 

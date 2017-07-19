@@ -11,71 +11,7 @@ content_section:
       #### As seen in the [Milwaukee Journal
       Sentinel](http://archive.jsonline.com/news/wisconsin/michelle-obama-urges-americans-to-drink-up-in-watertown-visit-b9996672z1-223516351.html):
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       ##### By Bill Glauber and Karen Herzog
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
       <div>Watertown -- First lady Michelle Obama has been trying to get American
       kids to become more physically active through her &ldquo;Let&rsquo;s

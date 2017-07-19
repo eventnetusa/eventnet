@@ -9,62 +9,10 @@ thumbnail_image_path: /uploads/garnier-cleaner-greener-kelly-katie.jpg
 content_section:
   - text_block_markdown: >-
       #### As seen in Star Magazine:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       <div
       id="the-buzz-goes-green-the-latest-and-greatest-eco-friendly-products-people-and-trends"><strong>The
       Buzz Goes Green: The latest and greatest eco-friendly products, people, and
       trends.</strong></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-      <div>&nbsp;</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
       <div>PRETTY PEOPLE - Gossip Girls Kelly Rutherford and Katie Cassidy joined
       forces with Garnier to launch The Cleaner Greener Tour in NYC. Inspired by
       harsh facts - personal care and beauty products account for one-third of
