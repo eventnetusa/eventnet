@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
 large_headline: "IT'S NOT TOO LATE TO ORDER MALLS & VEHICLES FOR MEDICARE MARKETING OUTREACH!"
-hero_image_path: /uploads/medicare-hero.jpg
+hero_image_path: /uploads/picmonkey-image.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -44,7 +44,39 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       Limited availability for this September include:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,6 +101,22 @@ content_section:
       * Mobile Assistance Center (MAC)
 
       * Mobile Enrollment RV's
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -171,6 +219,56 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      &nbsp;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
 
 
@@ -189,6 +287,22 @@ content_section:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       &nbsp;
 
 
@@ -206,8 +320,6 @@ content_section:
 
 
 
-
-      &nbsp;
 
 
 
