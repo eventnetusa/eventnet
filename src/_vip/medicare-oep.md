@@ -30,11 +30,7 @@ content_section:
 
 
 
-
-
       Limited availability for this September include:
-
-
 
 
 
@@ -45,8 +41,6 @@ content_section:
       * Mobile Assistance Center (MAC)
 
       * Mobile Enrollment RV's
-
-
 
 
 
@@ -62,8 +56,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/ins-kiosk-002-003.jpg
-      image_2_path: /uploads/img-thing.jpg
+      image_1_path: /uploads/ins-kiosk-002.jpg
+      image_2_path: /uploads/ins-kiosk-003.jpg
     video_block:
       video_id:
   - text_block_markdown: '12x12" Mall Kiosk. We will secure malls in your targeted zip code, brand kiosk and have it delivered/set up for your team at the mall. We can supply trained staff/greeters upon request.'
@@ -121,23 +115,15 @@ content_section:
 
 
 
+      &nbsp;
+
 
 
       &nbsp;
 
 
 
-
-
       &nbsp;
-
-
-
-
-
-      &nbsp;
-
-
 
 
 
