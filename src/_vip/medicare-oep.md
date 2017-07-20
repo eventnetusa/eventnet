@@ -1,6 +1,6 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
-large_headline: "IT'S NOT TOO LATE TO ORDER MALLS & VEHICLES FOR MEDICARE MARKETING OUTREACH"
+large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND MOBILE TRAILERS FOR THIS YEAR'S OEP"
 hero_image_path: /uploads/picture6-updated.png
 vip_project_type: B2B
 hide_social_links: true
@@ -91,8 +91,6 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with
       a certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
-
-
 
 
 
