@@ -7,7 +7,7 @@ hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to learn more about trade marketing activations?
+cta_headline: Ready to discuss your CruiseWorld Display and Activation?
 cta_text: "Let's Talk"
 sidebar_text_markdown: |-
   **Turnkey Service Offerings:**
