@@ -101,9 +101,13 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      In select markets, EventNetUSA will provide branded, leased RV with
+      In select markets, EventNetUSA will provide branded, leased RV's with
       a certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
+
+
+
+      &nbsp;
 
 
 
