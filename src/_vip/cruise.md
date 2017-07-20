@@ -1,6 +1,6 @@
 ---
 small_headline: Travel and Trade Marketing
-large_headline: WE ARE FULL STEAM AHEAD IN TRAVEL AGENT AND TRADE MARKETING ACTIVATIONS
+large_headline: 'ALL ABOARD FOR TRAVEL AGENT AND TRADE MARKETING ACTIVATIONS!'
 hero_image_path: /uploads/20170517-120920.jpg
 vip_project_type: B2B
 hide_social_links: true
@@ -30,9 +30,17 @@ content_section:
 
 
 
+
+
+
+
       &nbsp;EventNetUSA is located in Fort Lauderdale, the cruise capital of the
       world, We excels in providing turnkey event production and management that
       includes:
+
+
+
+
 
 
 
@@ -45,6 +53,10 @@ content_section:
       * Launch Events and PR Stunts
 
       * Travel Agent Seminar Tours
+
+
+
+
 
 
 
@@ -67,6 +79,10 @@ content_section:
       our recent event, the first ever [AgentPalooza
       Tour](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/)
       and exciting displays at trade events such as CLIA Cruise360.&nbsp;**​
+
+
+
+
 
 
 
