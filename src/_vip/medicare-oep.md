@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
 large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND MOBILE TRAILERS FOR THIS YEAR'S OEP"
-hero_image_path: /uploads/picture6-updated.png
+hero_image_path: /uploads/picture6-updated-1.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -27,6 +27,8 @@ content_section:
       2018 OEP is quickly approaching and EventNetUSA wants to help you reach
       your engagement, activation and enrollment goals. Program opportunities
       include:
+
+
 
 
 
@@ -104,6 +106,8 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with
       a certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
+
+
 
 
 
