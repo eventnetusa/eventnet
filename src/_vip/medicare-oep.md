@@ -1,6 +1,6 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
-large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND MOBILE TRAILERS FOR THIS YEAR'S OEP"
+large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND OUTREACH VEHICLES FOR THIS YEAR'S OEP"
 hero_image_path: /uploads/picture6-updated.png
 vip_project_type: B2B
 hide_social_links: true
