@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
-large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND OUTREACH VEHICLES FOR THIS YEAR'S OEP"
-hero_image_path: /uploads/picture6-updated.png
+large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND MOBILE TRAILERS FOR THIS YEAR'S OEP"
+hero_image_path: /uploads/picture6-updated-1.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -30,6 +30,8 @@ content_section:
 
 
 
+
+
       * Turnkey Mall Kiosks
 
       * Mobile Assistance Centers
@@ -37,10 +39,6 @@ content_section:
       * Pop-Up Retail Stores
 
       * Enrollment RVs
-
-
-
-      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -56,7 +54,7 @@ content_section:
       image_2_path: /uploads/ins-kiosk-003.jpg
     video_block:
       video_id:
-  - text_block_markdown: "12'x12' footprint includes branded kiosk with monitor, flooring and meeting table with chairs. EventNetUSA will secure malls in your targeted zip codes and provide trained staff/greeters upon request."
+  - text_block_markdown: '12x12" footprint includes branded kiosk with monitor, flooring and meeting table with chairs. EventNetUSA will secure malls in your targeted zip codes and provide trained staff/greeters upon request.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -68,11 +66,11 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture3.png
-      image_2_path: /uploads/picture4.jpg
+      image_1_path: /uploads/picture3-updated.jpg
+      image_2_path: /uploads/picture4-updated.jpg
     video_block:
       video_id:
-  - text_block_markdown: 'Invite consumers into a custom pop-up retail store to learn about plan and product offerings and meet with your licensed brokers. Turnkey services include space lease, custom build out, staffing upon request, etc.&nbsp;'
+  - text_block_markdown: EventNetUSA will secure mall space in your targeted zip code and build out temporary store. We can supply trained staff/greeters upon request.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -88,7 +86,7 @@ content_section:
       image_2_path: /uploads/mac-outside.png
     video_block:
       video_id:
-  - text_block_markdown: "Our Mobile Assistance Center's are a great way to reach consumers around the community to discuss plan and produce offerings. Easily towed by an SUV or truck with trailer hitch, the MAC unit is versatile for indoor or outdoor set-ups. MAC units include seating for 9 people, drop-down monitor, iPads and multiple power options. Routing and staffing available upon request.&nbsp;"
+  - text_block_markdown: 'Your Medicare mobile assistance center contains seating for 8, video screen, and generator to provide electricity. MAC can be used indoor or outdoor and can be easily pulled by a car or light truck trailer hitch. Set up time: 20 minutes. EventNetUSA can supply driver/greeter and manage set up upon request. We can also work with you on routing.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -104,7 +102,18 @@ content_section:
       image_2_path: /uploads/rv-agent.jpg
     video_block:
       video_id:
-  - text_block_markdown: "EventNetUSA's RV's can be customized for outreach, enrollment, gap closing, etc. With over 10 years experience in producing and managing RV programs for insurance providers, we are ready to hit the road to support your goals for OEP.&nbsp;\n\n\\*RV's available in select markets.\n\n&nbsp;\n\n**Note: Programs described above require 6-10 week lead times. EventNetUSA does not guarantee availability.&nbsp;**"
+  - text_block_markdown: >-
+      In select markets, EventNetUSA will provide branded, leased RV with
+      a certified driver. RV size and dimension TBD based on availability in each
+      market.&nbsp;
+
+
+
+
+
+      **Note: EventNetUSA cannot guarantee that all client requests will be
+      fulfilled and ready to open by Medicare OEP due to availability of fleet
+      vehicles and mall displays as pictured above.**
     single_image_block:
       single_image_path:
     double_image_block:
