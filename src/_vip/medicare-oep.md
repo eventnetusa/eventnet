@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
 large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND MOBILE TRAILERS FOR THIS YEAR'S OEP"
-hero_image_path: /uploads/picture6-updated-1.jpg
+hero_image_path: /uploads/picture6-updated.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -30,8 +30,6 @@ content_section:
 
 
 
-
-
       * Turnkey Mall Kiosks
 
       * Mobile Assistance Centers
@@ -54,7 +52,7 @@ content_section:
       image_2_path: /uploads/ins-kiosk-003.jpg
     video_block:
       video_id:
-  - text_block_markdown: '12x12" Mall Kiosk. We will secure malls in your targeted zip code, brand kiosk and have it delivered/set up for your team at the mall. We can supply trained staff/greeters upon request.'
+  - text_block_markdown: '12x12" footprint includes branded kiosk with monitor, flooring and meeting table with chairs. EventNetUSA will secure malls in your targeted zip codes and provide trained staff/greeters upon request.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -106,8 +104,6 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with
       a certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
-
-
 
 
 
