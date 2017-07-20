@@ -100,20 +100,7 @@ content_section:
       image_2_path: /uploads/rv-agent.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      In select markets, EventNetUSA will provide branded, leased RV's with
-      a certified driver. RV size and dimension TBD based on availability in each
-      market.&nbsp;
-
-
-
-      &nbsp;
-
-
-
-      **Note: EventNetUSA cannot guarantee that all client requests will be
-      fulfilled and ready to open by Medicare OEP due to availability of fleet
-      vehicles and mall displays as pictured above.**
+  - text_block_markdown: "EventNetUSA's RV's can be customized for outreach, enrollment, gap closing, etc. With over 10 years experience in producing and managing RV programs for insurance providers, we are ready to hit the road to support your goals for OEP.&nbsp;\n\n\\*Available in select markets only.\n\n&nbsp;\n\n**Note: EventNetUSA cannot guarantee that all client requests will be fulfilled and ready to open by Medicare OEP due to availability of fleet vehicles and mall displays as pictured above.**"
     single_image_block:
       single_image_path:
     double_image_block:
