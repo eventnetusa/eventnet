@@ -1,14 +1,14 @@
 ---
-small_headline:
-large_headline:
+small_headline: MEDICARE SEMINAR
+large_headline: 'PROVIDE YOUR RESIDENTS WITH A EDUCATIONAL SEMINAR AND FUN ACTIVITY!'
 hero_image_path: /uploads/private-placeholder.jpg
-vip_project_type: B2C
-hide_social_links: false
-show_cta_at_bottom: false
-cta_link: false
-cta_link_url:
-cta_headline:
-cta_text:
+vip_project_type: B2B
+hide_social_links: true
+show_cta_at_bottom: true
+cta_link: true
+cta_link_url: 'https://www.eventnetusa.com/contact/'
+cta_headline: Are you interested in renting your auditorium?
+cta_text: "I'm Interested!"
 sidebar_text_markdown:
 content_section:
   - text_block_markdown:
