@@ -23,7 +23,20 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown: "There is still time to **Engage, Activate and Enroll &nbsp;**consumers in OEP if you can make a decision in the next 3 weeks. EventNetUSA is prepared with vehicles, venues and staff. Limited availability for this September include: \\* Turnkey Mall Kiosks \\* Pop-up Retail Stores \\* Mobile Assistance Center (MAC) \\* Mobile Enrollment RV's"
+  - text_block_markdown: >-
+      2018 OEP is quickly approaching and EventNetUSA wants to help you reach
+      your engagement, activation and enrollment goals. Program opportunities
+      include:
+
+
+
+      * Turnkey Mall Kiosks
+
+      * Mobile Assistance Centers
+
+      * Pop-Up Retail Stores
+
+      * Enrollment RVs
     single_image_block:
       single_image_path:
     double_image_block:
