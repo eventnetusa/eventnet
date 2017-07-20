@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE OEP OUTREACH
 large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS  AND MOBILE TRAILERS FOR THIS YEAR'S OEP"
-hero_image_path: /uploads/picture6-updated-1.jpg
+hero_image_path: /uploads/picture6-updated.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -27,8 +27,6 @@ content_section:
       2018 OEP is quickly approaching and EventNetUSA wants to help you reach
       your engagement, activation and enrollment goals. Program opportunities
       include:
-
-
 
 
 
@@ -70,7 +68,7 @@ content_section:
       image_2_path: /uploads/picture4.jpg
     video_block:
       video_id:
-  - text_block_markdown: EventNetUSA will secure mall space in your targeted zip code and build out temporary store. We can supply trained staff/greeters upon request.
+  - text_block_markdown: 'Invite consumers into a custom pop-up retail store to learn about plan and product offerings and meet with your licensed brokers. Turnkey services include space lease, custom build out, staffing upon request, etc.&nbsp;'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -106,8 +104,6 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with
       a certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
-
-
 
 
 
