@@ -52,7 +52,7 @@ content_section:
       image_2_path: /uploads/ins-kiosk-003.jpg
     video_block:
       video_id:
-  - text_block_markdown: '12x12" footprint includes branded kiosk with monitor, flooring and meeting table with chairs. EventNetUSA will secure malls in your targeted zip codes and provide trained staff/greeters upon request.'
+  - text_block_markdown: "12'x12' footprint includes branded kiosk with monitor, flooring and meeting table with chairs. EventNetUSA will secure malls in your targeted zip codes and provide trained staff/greeters upon request."
     single_image_block:
       single_image_path:
     double_image_block:
