@@ -37,6 +37,10 @@ content_section:
       * Pop-Up Retail Stores
 
       * Enrollment RVs
+
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
