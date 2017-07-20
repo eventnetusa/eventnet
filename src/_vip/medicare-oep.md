@@ -99,7 +99,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/rv10001-updated.png
-      image_2_path:
+      image_2_path: /uploads/rv-agent-updated.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
