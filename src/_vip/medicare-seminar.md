@@ -11,7 +11,33 @@ cta_headline: Are you interested in renting your auditorium?
 cta_text: "I'm Interested!"
 sidebar_text_markdown:
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      **Informative, Educational and Entertaining**
+
+
+
+      This fall between October 15th - December 7th, we would like to provide an
+      educational seminar on "Updates In Medicare and What It Means To You".
+
+
+
+      Host a seminar at your community to educate and engage your residents
+
+
+
+      We will be renting conference rooms, auditoriums, and theaters in
+      communities with a high percentage of 55+ residents. The free three hour
+      seminar includes:
+
+
+
+      * 45 minute Update in Medicare presentation followed by
+
+      * Refreshments
+
+      * Door prizes and
+
+      * Entertainment or Activity
     single_image_block:
       single_image_path:
     double_image_block:
