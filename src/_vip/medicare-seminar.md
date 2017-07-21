@@ -1,6 +1,6 @@
 ---
 small_headline: MEDICARE SEMINAR
-large_headline: 'PROVIDE YOUR RESIDENTS WITH A EDUCATIONAL SEMINAR AND FUN ACTIVITY!'
+large_headline: 'PROVIDE YOUR RESIDENTS WITH AN EDUCATIONAL SEMINAR AND FUN ACTIVITY!'
 hero_image_path: /uploads/line-dancing.jpg
 vip_project_type: B2B
 hide_social_links: true
@@ -19,41 +19,7 @@ sidebar_text_markdown: |-
   * Preferred activity
   * Advertising availability (newsletters, flyers etc.)
 content_section:
-  - text_block_markdown: >-
-      **Informative, Educational and Entertaining**
-
-
-
-
-
-      This fall between October 15th - December 7th, we would like to provide an
-      educational seminar on **"Updates In Medicare and What It Means To You"**.
-
-
-
-
-
-      Host a seminar at your community to educate and engage your residents.
-
-
-
-
-
-      We will <u>pay</u> to rent conference rooms, auditoriums, and theaters in
-      communities with a high percentage of 55+ residents. The FREE three hour
-      seminar includes:
-
-
-
-
-
-      * 45 minute Update in Medicare presentation followed by
-
-      * Refreshments
-
-      * Door prizes and
-
-      * Entertainment or Activity
+  - text_block_markdown: "**Informative, Educational and Entertaining**\n\nThis fall between October 15th - December 7th, we would like to provide an educational seminar on **\"Updates In Medicare and What It Means To You\"**.\n\nHost a seminar at your community to educate and engage your residents.\n\nWe will <u>pay</u> to rent conference rooms, auditoriums, and theaters in communities with a high percentage of 55+ residents. The FREE three hour seminar includes:\n\n* 45 minute Update in Medicare presentation followed by\n* Refreshments\n* Door prizes and\n* Entertainment or Activity\n\n**\\*\\*\\*Updates in 2018 Medicare is a consumer education program with no direct selling or purchase required.**"
     single_image_block:
       single_image_path:
     double_image_block:
