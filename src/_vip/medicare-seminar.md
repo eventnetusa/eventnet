@@ -66,7 +66,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/theater.jpg
-      image_2_path:
+      image_2_path: /uploads/theater-2.jpg
     video_block:
       video_id:
   - text_block_markdown: '<u>Auditoriums</u>'
