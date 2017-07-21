@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Are you interested in renting your facility?
 cta_text: "I'm Interested!"
 sidebar_text_markdown: |-
-  What we need to know
+  **What we need to know:**
 
   * Type of facility available
   * Cost of facility
