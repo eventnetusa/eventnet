@@ -77,6 +77,14 @@ content_section:
       image_2_path: /uploads/auditorium-1.jpg
     video_block:
       video_id:
+  - text_block_markdown: '**EXAMPLE ACTIVITIES**'
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/line-dancing-2.jpg
+      image_2_path: /uploads/activity-2-updated.jpg
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type: B2C will not show header or footer
