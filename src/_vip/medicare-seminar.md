@@ -17,16 +17,16 @@ content_section:
 
 
       This fall between October 15th - December 7th, we would like to provide an
-      educational seminar on "Updates In Medicare and What It Means To You".
+      educational seminar on **"Updates In Medicare and What It Means To You"**.
 
 
 
-      Host a seminar at your community to educate and engage your residents
+      Host a seminar at your community to educate and engage your residents.
 
 
 
       We will be renting conference rooms, auditoriums, and theaters in
-      communities with a high percentage of 55+ residents. The free three hour
+      communities with a high percentage of 55+ residents. The FREE three hour
       seminar includes:
 
 
