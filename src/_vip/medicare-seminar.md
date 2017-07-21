@@ -25,7 +25,7 @@ content_section:
 
 
 
-      We will be renting conference rooms, auditoriums, and theaters in
+      We will <u>pay</u> to rent conference rooms, auditoriums, and theaters in
       communities with a high percentage of 55+ residents. The FREE three hour
       seminar includes:
 
@@ -43,6 +43,38 @@ content_section:
     double_image_block:
       image_1_path:
       image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: '**TYPES OF FACILITIES**'
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: Conference Rooms
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/cnference-1.jpg
+      image_2_path: /uploads/conference-2.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: Theaters
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/theater.jpg
+      image_2_path: /uploads/theater-2.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: Auditorium
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/auditorium-2.jpg
+      image_2_path: /uploads/auditorium-1.jpg
     video_block:
       video_id:
 _comments:
