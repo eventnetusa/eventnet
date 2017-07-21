@@ -1,13 +1,13 @@
 ---
 small_headline: MEDICARE SEMINAR
 large_headline: 'PROVIDE YOUR RESIDENTS WITH A EDUCATIONAL SEMINAR AND FUN ACTIVITY!'
-hero_image_path: /uploads/private-placeholder.jpg
+hero_image_path: /uploads/line-dancing.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Are you interested in renting your auditorium?
+cta_headline: Are you interested in renting your facility?
 cta_text: "I'm Interested!"
 sidebar_text_markdown:
 content_section:
@@ -16,8 +16,12 @@ content_section:
 
 
 
+
+
       This fall between October 15th - December 7th, we would like to provide an
       educational seminar on **"Updates In Medicare and What It Means To You"**.
+
+
 
 
 
@@ -25,9 +29,13 @@ content_section:
 
 
 
+
+
       We will <u>pay</u> to rent conference rooms, auditoriums, and theaters in
       communities with a high percentage of 55+ residents. The FREE three hour
       seminar includes:
+
+
 
 
 
