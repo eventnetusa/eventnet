@@ -1,7 +1,7 @@
 ---
 client: Vlasic Pickles
 link_to_casestudy: true
-sort_number: 14
+sort_number: 9
 headline: Pickle Stand Sampling Tour
 hover_text: Vlasic charmed pickle lovers around America with its mobile Pickle Sampling Stand
 hero_image_path: /uploads/eventnetusa-1.jpg
