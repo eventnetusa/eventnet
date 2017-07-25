@@ -9,7 +9,7 @@ thumbnail_image_path: /uploads/eventnetusa-1.jpg
 types:
   - vehicle tour
   - street team
-cta_text: Looking for a unique way to launch a new product?
+cta_text: Looking for a unique way to launch your next product?
 cta: "Let's talk"
 sidebar_text_markdown: |-
   * Over 152,000 pickles sampled (65% above goal)
