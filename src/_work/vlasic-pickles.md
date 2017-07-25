@@ -9,11 +9,35 @@ thumbnail_image_path: /uploads/eventnetusa-1.jpg
 types:
   - vehicle tour
   - street team
-cta_text:
+cta_text: "Want to put your brand in consumer's hands?"
 cta: "Let's talk"
-sidebar_text_markdown:
+sidebar_text_markdown: |-
+  * Over 150,000 pickles sampled
+  * Cross country sampling at large events, festivals and guerrilla stops
+  * Distributed coupons and recipe cards with samples
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      A favorite of pickle lovers, Vlasic turned to EventNetUSA to introduce it's
+      Farmer's Garden line to consumers around America.&nbsp;
+
+
+
+      A LOOK BEHIND THE SCENES
+
+
+
+      * Transformed event trailer into a mobile farm-stand inspired pickle bar
+
+      * Custom routed one month tour of America, sampling at large events and
+      festivals as well as guerrilla stops
+
+      * Recruited, hired and trained team including Tour Manager, Assistant
+      Managers and Brand Ambassadors
+
+      * Hosted on-site blogger and media pickling demonstrations
+
+      * Integrated Facebook with social media staging area and displayed live
+      Twitter feed using Social Wall.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
