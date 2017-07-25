@@ -9,7 +9,7 @@ thumbnail_image_path: /uploads/eventnetusa-1.jpg
 types:
   - vehicle tour
   - street team
-cta_text: "Want to put your brand in consumer's hands?"
+cta_text: Looking for a unique way to launch a new product?
 cta: "Let's talk"
 sidebar_text_markdown: |-
   * Over 152,000 pickles sampled (65% above goal)
@@ -24,13 +24,19 @@ content_section:
 
 
 
+
+
       The artisanal twist on a summer favorite needed a one-of-a-kind activation
       to win the hearts and taste buds of grocery shoppers, food bloggers, chef's
       and pickle lovers alike.&nbsp;
 
 
 
+
+
       ### A LOOK BEHIND THE SCENES
+
+
 
 
 
