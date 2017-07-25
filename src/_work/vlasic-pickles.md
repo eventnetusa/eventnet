@@ -34,18 +34,18 @@ content_section:
 
 
 
-      * Transformed event trailer into a mobile farm-stand inspired pickle bar to
+      * Transformed event trailer into mobile farm-stand inspired pickle bar to
       deliver farm fresh samples to consumers, top tier food media and social
       influencers
 
-      * Custom routed one month tour of America, sampling at large events and
-      festivals as well as guerrilla stops
+      * Custom routed one month tour of America, sampling at large events,
+      festivals and guerrilla stops
 
       * Recruited, hired, trained and managed team including Tour Manager,
       Assistant Managers and Brand Ambassadors
 
       * Integrated Facebook with social media staging area and displayed live
-      Twitter feed using Social Wall.&nbsp;
+      Twitter feed using Social Wall
     single_image_block:
       single_image_path: /uploads/6.jpg
     double_image_block:
