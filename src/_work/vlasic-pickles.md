@@ -14,7 +14,7 @@ cta: "Let's talk"
 sidebar_text_markdown: |-
   * Over 152,000 pickles sampled (65% above goal)
   * 308M impressions generated (301% above goal)
-  * Featured in Today, Every Day with Rachel Ray and Hungry Girl
+  * Featured on Today, Every Day with Rachel Ray and Hungry Girl
   * Traveled to 5 major markets across America
   * VIP tasting, pairing and chef pickling demonstration with Chef David Burke in New York City, hosting the nation’s most influential food bloggers
 content_section:
