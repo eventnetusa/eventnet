@@ -12,30 +12,36 @@ types:
 cta_text: "Want to put your brand in consumer's hands?"
 cta: "Let's talk"
 sidebar_text_markdown: |-
-  * Over 150,000 pickles sampled
-  * Cross country sampling at large events, festivals and guerrilla stops
-  * Distributed coupons and recipe cards with samples
+  * Over 152,000 pickles sampled (65% above goal)
+  * 308M impressions generated (301% above goal)
   * Featured in Today, EveryDay with Rachel Ray and Hungry Girl
+  * Travelled to 5 major markets across America
 content_section:
   - text_block_markdown: >-
-      A favorite of pickle lovers, Vlasic turned to EventNetUSA to introduce it's
-      Farmer's Garden line to consumers around America.&nbsp;
+      Vlasic turned to EventNetUSA to help launch it's new farm fresh, all
+      natural Farmer's Garden Pickles.
 
 
 
-      A LOOK BEHIND THE SCENES
+      The artisanal twist on a summer favorite needed a one-of-a-kind activation
+      to win the hearts and taste buds of grocery shoppers, food bloggers, chef's
+      and pickle lovers alike.&nbsp;
 
 
 
-      * Transformed event trailer into a mobile farm-stand inspired pickle bar
+      ### A LOOK BEHIND THE SCENES
+
+
+
+      * Transformed event trailer into a mobile farm-stand inspired pickle bar to
+      deliver farm fresh samples to consumers, top tier food media and social
+      influencers
 
       * Custom routed one month tour of America, sampling at large events and
       festivals as well as guerrilla stops
 
       * Recruited, hired and trained team including Tour Manager, Assistant
       Managers and Brand Ambassadors
-
-      * Hosted on-site blogger and media pickling demonstrations
 
       * Integrated Facebook with social media staging area and displayed live
       Twitter feed using Social Wall.&nbsp;
