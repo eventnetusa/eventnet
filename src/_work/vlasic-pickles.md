@@ -24,19 +24,13 @@ content_section:
 
 
 
-
-
       The artisanal twist on a summer favorite needed a one-of-a-kind activation
       to win the hearts and taste buds of grocery shoppers, food bloggers, chef's
       and pickle lovers alike.&nbsp;
 
 
 
-
-
       ### A LOOK BEHIND THE SCENES
-
-
 
 
 
@@ -47,8 +41,8 @@ content_section:
       * Custom routed one month tour of America, sampling at large events and
       festivals as well as guerrilla stops
 
-      * Recruited, hired and trained team including Tour Manager, Assistant
-      Managers and Brand Ambassadors
+      * Recruited, hired, trained and managed team including Tour Manager,
+      Assistant Managers and Brand Ambassadors
 
       * Integrated Facebook with social media staging area and displayed live
       Twitter feed using Social Wall.&nbsp;
