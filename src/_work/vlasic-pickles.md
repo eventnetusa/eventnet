@@ -15,6 +15,7 @@ sidebar_text_markdown: |-
   * Over 150,000 pickles sampled
   * Cross country sampling at large events, festivals and guerrilla stops
   * Distributed coupons and recipe cards with samples
+  * Featured in Today, EveryDay with Rachel Ray and Hungry Girl
 content_section:
   - text_block_markdown: >-
       A favorite of pickle lovers, Vlasic turned to EventNetUSA to introduce it's
@@ -44,7 +45,7 @@ content_section:
       image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
       image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
     video_block:
-      video_id:
+      video_id: uxasxT1pnD4
 project_logos:
   - logo_image_path:
     logo_image_height:
