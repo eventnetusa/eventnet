@@ -54,17 +54,17 @@ content_section:
     video_block:
       video_id: uxasxT1pnD4
 project_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/vlasic.png
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/advil.png
+  - logo_image_path: /uploads/prince.png
     logo_image_height:
-  - logo_image_path: /uploads/chevy.png
+  - logo_image_path: /uploads/yoplait.jpg
     logo_image_height:
-  - logo_image_path: /uploads/jetblue.png
+  - logo_image_path: /uploads/ronzoni.png
     logo_image_height:
-  - logo_image_path: /uploads/mm.png
+  - logo_image_path: /uploads/celsius.jpg
     logo_image_height:
-  - logo_image_path: /uploads/fineliving.png
+  - logo_image_path: /uploads/sangiorgio.png
     logo_image_height:
 ---
