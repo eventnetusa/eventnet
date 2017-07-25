@@ -47,10 +47,10 @@ content_section:
       * Integrated Facebook with social media staging area and displayed live
       Twitter feed using Social Wall.&nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/6.jpg
     double_image_block:
-      image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
-      image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
+      image_1_path: /uploads/5-31-17-vlasic.jpg
+      image_2_path:
     video_block:
       video_id: uxasxT1pnD4
 project_logos:
