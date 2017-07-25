@@ -1,7 +1,7 @@
 ---
 client: Silk Milk
 link_to_casestudy: true
-sort_number: 9
+sort_number: 15
 headline: Coast-to-Coast Guerrilla Sampling
 hover_text: 'Coast-to-coast sampling in key markets, 9,700 bottles sampled per day, 1.4M impressions - see how we did it!'
 hero_image_path: /uploads/silk.png
@@ -24,7 +24,11 @@ content_section:
 
 
 
+
+
       ### **A LOOK BEHIND THE SCENES**
+
+
 
 
 
