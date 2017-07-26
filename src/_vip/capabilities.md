@@ -43,7 +43,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      Mobile Vehicle Tours
+      ### MOBILE VEHICLE AND TRAILER TOURS
 
       Create a unique consumer experience with a customized marketing vehicle built, routed and staffed to reach your target audience on the road.
     single_image_block:
@@ -59,6 +59,25 @@ content_section:
     double_image_block:
       image_1_path: /uploads/6.jpg
       image_2_path: /uploads/beauty--swag-truck-nyx.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: |-
+      ### INSURANCE ACTIVATIONS
+
+      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer engagement and activation programs.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/case-hsbc.jpg
+      image_2_path: /uploads/double-expandable-truck.png
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/hcsc-case-3.jpg
+      image_2_path: /uploads/hcsc-rv.png
     video_block:
       video_id:
 _comments:
