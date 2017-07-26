@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to make your next event your greatest?
 cta_text: "Let's Talk!"
 sidebar_text_markdown: |-
-  Turnkey Service Offerings Include
+  ### Turnkey Service Offerings Include
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
