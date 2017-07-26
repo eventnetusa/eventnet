@@ -121,6 +121,36 @@ content_section:
       image_2_path: /uploads/essie-thumb.jpg
     video_block:
       video_id:
+  - text_block_markdown: |-
+      ### GRAND OPENINGS
+
+      We handle permitting, line management, hospitality and display production so that your first impression to your guests is your best!
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
+      image_2_path: /uploads/7.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: |-
+      ### SAMPLING & STREET TEAMS
+
+      Our expert routing and diverse network of brand ambassadors puts your brand in consumer's hands from grassroots level engagement to major events.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/lacroix-superbowl.JPG
+      image_2_path: /uploads/silk-thumb.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/garnier-case-3.jpg
+      image_2_path: /uploads/20170708_094506.jpg
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type: B2C will not show header or footer
