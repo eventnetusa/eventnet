@@ -86,10 +86,10 @@ content_section:
 
 
 
-      * From trailer to cosmetic counter
+      * From trailer to Lash Bar
 
-      * Contemporary bistro lighting and bar stools polished off the upscale,
-      minimalist design
+      * Contemporary bistro lighting and bar stools polished off the upscale
+      cosmetic counter
 
       * Consumers sat at bar to receive Great Lash Mascara demonstrations and
       product samples
