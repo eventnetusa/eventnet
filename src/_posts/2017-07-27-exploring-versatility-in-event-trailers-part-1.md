@@ -35,30 +35,30 @@ content_section:
 
 
 
-      * Full interior and exterior graphic with coordinating skirt.
+      * Full interior and exterior graphic with coordinating skirt
 
       * Swing doors open for sampling, serving, product demonstrations and crowd
-      presentations from within brand bar.
+      presentations from within brand bar
 
       * End-to-end bar is perfect for displaying product, mounting iPads or
       providing consumers with a place to relax while receiving product
-      demonstrations.
+      demonstrations
 
       * Overhead canopy brings relief from sun and rain while also providing the
-      look and feel of a permanent installation.
+      look and feel of a permanent installation
 
       * Header sign easily pops-up to for added height and visibility at crowded
-      events and festivals.
+      events and festivals
 
       * Video monitors located on swing doors deliver client’s key brand
-      messaging anywhere, anytime.
+      messaging anywhere, anytime
 
       * Sound system catches the attention of consumers far away and creates
-      a defined event space up close.
+      a defined event space up close
 
-      * Hydraulic stabilizer legs for safety and leveling in place.
+      * Hydraulic stabilizer legs for safety and leveling in place
 
-      * Side entrance door for easy and low-profile entry and exit.
+      * Side entrance door for easy and low-profile entry and exit
 
 
 
