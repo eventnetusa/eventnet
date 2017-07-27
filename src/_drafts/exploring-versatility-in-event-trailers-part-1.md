@@ -59,11 +59,43 @@ content_section:
       * Hydraulic stabilizer legs for safety and leveling in place.
 
       * Side entrance door for easy and low-profile entry and exit.
+
+
+
+
+
+      &nbsp;
+
+
+
+
+
+      ### **1 BRAND BAR, 5 TOURS, INFINITE STYLE POSSIBILITIES &nbsp;&nbsp;**
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      ### **1. MAYBELLINE – GREAT LASH MASCARA SAMPLING TOUR**
+
+
+
+
+
+      * From trailer to cosmetic counter
+
+      * Contemporary bistro lighting and bar stools polished off the upscale,
+      minimalist design
+
+      * Bar used for Great Lash Mascara demonstrations
+    single_image_block:
+      single_image_path: /uploads/maybelline-style-bar.jpg
+    double_image_block:
+      image_1_path: /uploads/maybelline-style-bar2.jpg
+      image_2_path: /uploads/maybelline-style-bar3.png
     video_block:
       video_id:
 ---
