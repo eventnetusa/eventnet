@@ -20,6 +20,10 @@ content_section:
 
 
 
+
+
+
+
       Today, we’re taking a look at a modest event trailer with bold
       opportunities. Built to spec based on our proprietary design, EventNetUSA’s
       “brand bar” is functional, versatile and flexible to take on any brands
@@ -29,7 +33,15 @@ content_section:
 
 
 
+
+
+
+
       ### **CUSTOM DESIGNED 18’ CARGO TRAILER**
+
+
+
+
 
 
 
@@ -64,7 +76,15 @@ content_section:
 
 
 
+
+
+
+
       &nbsp;
+
+
+
+
 
 
 
@@ -80,6 +100,10 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ### **1. MAYBELLINE: GREAT LASH MASCARA SAMPLING TOUR**
+
+
+
+
 
 
 
@@ -105,6 +129,10 @@ content_section:
 
 
 
+
+
+
+
       * From trailer to farm-stand inspired Pickle Bar
 
       * Rustic design elements and props took pickle lovers from food festivals
@@ -121,6 +149,10 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ### **3. YOPLAIT YOGURT: MAKE YOUR LIDS COUNT TOUR**
+
+
+
+
 
 
 
@@ -159,6 +191,10 @@ content_section:
 
 
 
+
+
+
+
       * From trailer to Happy Meal Mobile
 
       * Using the iconic golden arches as inspiration, a custom header was
@@ -180,6 +216,10 @@ content_section:
       Stay tuned for Part 2 to learn about ways we've transformed our 53' Event
       Trailer for client's like Revlon, Maybelline, Owners.com and Garnier
       Fructis!
+
+
+
+
 
 
 
