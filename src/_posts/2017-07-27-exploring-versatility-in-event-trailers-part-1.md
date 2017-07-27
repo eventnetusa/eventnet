@@ -123,13 +123,13 @@ content_section:
       * Samples were prepped inside Vlasic’s Pickle Bar. Tables and tents were
       utilized to create a larger event footprint and sampling space.
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/6.jpg
     double_image_block:
       image_1_path: /uploads/vlasic2.jpg
       image_2_path: /uploads/vlasic.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -158,7 +158,7 @@ content_section:
       image_2_path: /uploads/yoplait3.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -178,7 +178,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -210,7 +210,7 @@ content_section:
       image_2_path: /uploads/mcdonalds-style-bar2.png
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
