@@ -8,6 +8,12 @@ hero_image_path: /uploads/exploring-versatility-in-event-trailers-part-1.png
 thumbnail_image_path: /uploads/exploring-versatility-in-event-trailers-part-1-thumbnail.png
 content_section:
   - text_block_markdown: >-
+      June 27, 2017
+
+
+
+
+
       At EventNetUSA, we supply mobile marketing trailers to a variety of clients
       in a number of diverse industries. Whether you’re looking for a [53’
       trailer transformed into a pop-up
@@ -15,18 +21,6 @@ content_section:
       [iconic Airstream turned Mobile Tea
       Bar](https://www.eventnetusa.com/work/bigelow-tea/), we’ve got a mobile
       solution to take your brand on the road.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -41,31 +35,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       ### **FROM 18' CARGO TRAILER TO BRAND BAR**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -100,31 +70,7 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       &nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -141,18 +87,6 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ### **MAY 2012: MAYBELLINE: GREAT LASH MASCARA SAMPLING TOUR**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -187,18 +121,6 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       * From Last Bar to Farm Stand-Inspired Pickle Bar
 
       * Rustic design elements and props took pickle lovers from food festivals
@@ -223,18 +145,6 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ### **MARCH 2014: YOPLAIT YOGURT: MAKE YOUR LIDS COUNT TOUR**
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -289,18 +199,6 @@ content_section:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
       * From Salon Style Bar to Happy Meal Mobile
 
       * Using the iconic golden arches as inspiration, a custom header was
@@ -330,18 +228,6 @@ content_section:
       ### Stay tuned for Part 2 to learn about ways we've transformed our 53'
       Event Trailer for client's like Revlon, Maybelline, Owners.com and Garnier
       Fructis!
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
