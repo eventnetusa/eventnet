@@ -98,6 +98,48 @@ content_section:
       image_2_path: /uploads/maybelline-style-bar3.png
     video_block:
       video_id:
+  - text_block_markdown: >-
+      ### **2. VLASIC PICKLE’S – FARMER’S GARDEN SAMPLING TOUR**
+
+
+
+
+
+      * From trailer to farm-stand inspired Pickle Bar
+
+      * Rustic design elements and props took pickle lovers from food festivals
+      to country roads
+
+      * Samples were prepped inside Vlasic’s Pickle Bar. Tables and tents were
+      utilized to create a larger event footprint and sampling space.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/vlasic2.jpg
+      image_2_path: /uploads/vlasic.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      ### **3. YOPLAIT YOGURT: MAKE YOUR LIDS COUNT TOUR**
+
+
+
+
+
+      * From trailer to Campaign-Mobile
+
+      * Design was kept simple to ensure Yoplait’s important message was received
+      by consumers
+
+      * iPads mounted across bar invited consumers to take the pledge and join
+      Yoplait’s fight against breast cancer
+    single_image_block:
+      single_image_path: /uploads/yoplait.jpg
+    double_image_block:
+      image_1_path: /uploads/yoplait2.jpg
+      image_2_path: /uploads/yoplait3.jpg
+    video_block:
+      video_id:
 ---
 
 
