@@ -91,7 +91,8 @@ content_section:
       * Contemporary bistro lighting and bar stools polished off the upscale,
       minimalist design
 
-      * Bar used for Great Lash Mascara demonstrations
+      * Consumers sat at bar to receive Great Lash Mascara demonstrations and
+      product samples
     single_image_block:
       single_image_path: /uploads/maybelline-style-bar.jpg
     double_image_block:
