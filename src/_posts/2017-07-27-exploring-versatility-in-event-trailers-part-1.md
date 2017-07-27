@@ -80,7 +80,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### **1. MAYBELLINE: GREAT LASH MASCARA SAMPLING TOUR**
+      ### **MAY 2012: MAYBELLINE: GREAT LASH MASCARA SAMPLING TOUR**
 
 
 
@@ -109,13 +109,13 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### **2. VLASIC PICKLE’S: FARMER’S GARDEN SAMPLING TOUR**
+      ### **JUNE 2013: VLASIC PICKLE’S: FARMER’S GARDEN SAMPLING TOUR**
 
 
 
 
 
-      * From trailer to farm-stand inspired Pickle Bar
+      * From Last Bar to Farm Stand-Inspired Pickle Bar
 
       * Rustic design elements and props took pickle lovers from food festivals
       to country roads
@@ -138,13 +138,13 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### **3. YOPLAIT YOGURT: MAKE YOUR LIDS COUNT TOUR**
+      ### **MARCH 2014: YOPLAIT YOGURT: MAKE YOUR LIDS COUNT TOUR**
 
 
 
 
 
-      * From trailer to Campaign-Mobile
+      * From Pickle Bar to Campaign-Mobile
 
       * Design was kept simple to ensure Yoplait’s important message was received
       by consumers
@@ -167,9 +167,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      ### 4. GARNIER FRUCTIS: STYLE BAR TOUR
+      ### MAY 2015: GARNIER FRUCTIS: STYLE BAR TOUR
 
-      * From trailer to Salon Style Bar
+      * From Campaign-Mobile to Salon Style Bar
       * Front bar was transformed into salon styling stations complete with swivel seating, mirrors and product/styling tool holders
     single_image_block:
       single_image_path: /uploads/garnier-style-bar.jpg
@@ -187,13 +187,13 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### 5. MCDONALD'S: HAPPY MEAL SAMPLING TOUR
+      ### JUNE 2016. MCDONALD'S: HAPPY MEAL SAMPLING TOUR
 
 
 
 
 
-      * From trailer to Happy Meal Mobile
+      * From Salon Style Bar to Happy Meal Mobile
 
       * Using the iconic golden arches as inspiration, a custom header was
       produced to "top off" the Happy Meal
