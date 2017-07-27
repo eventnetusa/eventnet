@@ -3,7 +3,7 @@ client: Vlasic Pickles
 link_to_casestudy: true
 sort_number: 9
 headline: Pickle Stand Sampling Tour
-hover_text: Vlasic charmed pickle lovers around America with its mobile Pickle Sampling Stand
+hover_text: "Vlasic won the hearts and taste buds of consumers with its mobile Pickle Sampling Stand, introducing it's Farmer's Garden line to pickle lovers around America"
 hero_image_path: /uploads/eventnetusa-1.jpg
 thumbnail_image_path: /uploads/eventnetusa-1.jpg
 types:
@@ -24,9 +24,9 @@ content_section:
 
 
 
-      The artisanal twist on a summer favorite needed a one-of-a-kind activation
-      to win the hearts and taste buds of grocery shoppers, food bloggers, chef's
-      and pickle lovers alike.&nbsp;
+      The artisanal twist on a summer favorite required a one-of-a-kind
+      activation to win the hearts and taste buds of grocery shoppers, food
+      bloggers, chef's and pickle lovers alike.&nbsp;
 
 
 
