@@ -8,7 +8,7 @@ hero_image_path: /uploads/exploring-versatility-in-event-trailers-part-1.png
 thumbnail_image_path: /uploads/exploring-versatility-in-event-trailers-part-1-thumbnail.png
 content_section:
   - text_block_markdown: >-
-      June 27, 2017
+      June 27, 2017&nbsp;
 
 
 
