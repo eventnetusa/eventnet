@@ -70,7 +70,8 @@ content_section:
 
 
 
-      ### **1 BRAND BAR, 5 TOURS, INFINITE STYLE POSSIBILITIES &nbsp;&nbsp;**
+      ### **TAKE A LOOK AT 5 WAYS OUR BRAND BAR WAS TRANSFORMED FOR OUR
+      CLIENTS&nbsp;**
     single_image_block:
       single_image_path:
     double_image_block:
