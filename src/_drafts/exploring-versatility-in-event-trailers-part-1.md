@@ -79,7 +79,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### **1. MAYBELLINE – GREAT LASH MASCARA SAMPLING TOUR**
+      ### **1. MAYBELLINE: GREAT LASH MASCARA SAMPLING TOUR**
 
 
 
@@ -99,7 +99,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### **2. VLASIC PICKLE’S – FARMER’S GARDEN SAMPLING TOUR**
+      ### **2. VLASIC PICKLE’S: FARMER’S GARDEN SAMPLING TOUR**
 
 
 
@@ -138,6 +138,61 @@ content_section:
     double_image_block:
       image_1_path: /uploads/yoplait2.jpg
       image_2_path: /uploads/yoplait3.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: |-
+      ### 4. GARNIER FRUCTIS: STYLE BAR TOUR
+
+      * From trailer to Salon Style Bar
+      * Front bar was transformed into salon styling stations complete with swivel seating, mirrors and product/styling tool holders
+    single_image_block:
+      single_image_path: /uploads/garnier-style-bar.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      ### 5. MCDONALD'S: HAPPY MEAL SAMPLING TOUR
+
+
+
+
+
+      * From trailer to Happy Meal Mobile
+
+      * Using the iconic golden arches as inspiration, a custom header was
+      produced to "top off" the Happy Meal
+
+      * McDonald's healthy choice side were sampled to children and parents from
+      within trailer
+
+      * Tents, signage and social media staging area were utilized to expand the
+      event footprint
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/mcdonalds-style-bar.png
+      image_2_path: /uploads/mcdonalds-style-bar2.png
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      Stay tuned for Part 2 to learn about the ways we've transformed our 53'
+      Event Trailer for client's like Revlon, Maybelline, Owners.com and Garnier
+      Fructis!
+
+
+
+
+
+      Interested in using our Brand Bar for your next mobile tour? [Get in
+      touch](https://www.eventnetusa.com/contact/) today and we'll talk about
+      pricing and availability.&nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 ---
