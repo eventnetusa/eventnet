@@ -8,9 +8,9 @@ hero_image_path: /uploads/exploring-versatility-in-event-trailers-part-1.png
 thumbnail_image_path: /uploads/exploring-versatility-in-event-trailers-part-1-thumbnail.png
 content_section:
   - text_block_markdown: >-
-      At EventNetUSA, we supply mobile marketing trailers for a variety of
-      clients in a number of diverse industries. Whether you’re looking for
-      a [53’ trailer transformed into a pop-up
+      At EventNetUSA, we supply mobile marketing trailers to a variety of clients
+      in a number of diverse industries. Whether you’re looking for a [53’
+      trailer transformed into a pop-up
       shop](https://www.eventnetusa.com/work/revlon-love-is-on-tour/) or an
       [iconic Airstream turned Mobile Tea
       Bar](https://www.eventnetusa.com/work/bigelow-tea/), we’ve got a mobile
