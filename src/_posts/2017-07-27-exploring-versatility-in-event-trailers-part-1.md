@@ -21,9 +21,9 @@ content_section:
 
 
       Today, we’re taking a look at a modest event trailer with bold
-      opportunities. Built to spec based on our proprietary design, EventNetUSA’s
-      “brand bar” is functional, versatile and flexible to take on any brand's
-      personality and touring objectives.
+      opportunities. Built to spec, based on our proprietary design,
+      EventNetUSA’s “brand bar” is functional, versatile and flexible to take on
+      any brand's personality and touring objectives.
 
 
 
@@ -100,7 +100,7 @@ content_section:
       image_2_path: /uploads/maybelline-style-bar3.png
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: ________________________________________
     single_image_block:
       single_image_path:
     double_image_block:
