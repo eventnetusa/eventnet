@@ -177,17 +177,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Stay tuned for Part 2 to learn about the ways we've transformed our 53'
-      Event Trailer for client's like Revlon, Maybelline, Owners.com and Garnier
+      Stay tuned for Part 2 to learn about ways we've transformed our 53' Event
+      Trailer for client's like Revlon, Maybelline, Owners.com and Garnier
       Fructis!
 
 
 
 
 
-      Interested in using our Brand Bar for your next mobile tour? [Get in
-      touch](https://www.eventnetusa.com/contact/) today and we'll talk about
-      pricing and availability.&nbsp;
+      Interested in using our Brand Bar for your next mobile tour? [Let us
+      know!&nbsp;](https://www.eventnetusa.com/contact/)
     single_image_block:
       single_image_path:
     double_image_block:
