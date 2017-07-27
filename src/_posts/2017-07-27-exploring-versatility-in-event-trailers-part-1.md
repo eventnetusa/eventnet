@@ -29,7 +29,7 @@ content_section:
 
 
 
-      ### **CUSTOM DESIGNED 18’ CARGO TRAILER**
+      ### **FROM 18' CARGO TRAILER TO BRAND BAR**
 
 
 
@@ -227,8 +227,8 @@ content_section:
 
 
 
-      ### Interested in using our Brand Bar for your next mobile tour? [Let us
-      know!&nbsp;](https://www.eventnetusa.com/contact/)
+      ### How will we transform our Brand Bar for *your* next mobile tour?
+      [Let](https://www.eventnetusa.com/contact/)['s talk!](__notset__)
     single_image_block:
       single_image_path:
     double_image_block:
