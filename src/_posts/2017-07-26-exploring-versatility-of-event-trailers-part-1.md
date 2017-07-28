@@ -35,7 +35,7 @@ content_section:
 
 
 
-      ### **FROM 18' CARGO TRAILER TO BRAND BAR**
+      ### **BRAND BAR FEATURES**
 
 
 
