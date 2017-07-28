@@ -178,10 +178,10 @@ content_section:
       * From Campaign-Mobile to Salon Style Bar
       * Front bar was transformed into salon styling stations complete with swivel seating, mirrors and product/styling tool holders
     single_image_block:
-      single_image_path: /uploads/garnier-style-bar.jpg
+      single_image_path: /uploads/garnier-style-bar2.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/garnier-style-bar.jpg
+      image_2_path: /uploads/garnier-style-bar3.jpg
     video_block:
       video_id:
   - text_block_markdown: '---'
