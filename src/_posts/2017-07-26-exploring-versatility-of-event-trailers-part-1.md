@@ -27,9 +27,9 @@ content_section:
 
 
       Today, we’re taking a look at a modest event trailer with bold
-      opportunities. Built to spec, based on our proprietary design,
-      EventNetUSA’s “brand bar” is functional and versatile to take on any
-      brand's personality and touring objectives.
+      opportunities. Customized from an 18' cargo trailer, based on our
+      proprietary design, EventNetUSA’s “brand bar” is functional and versatile
+      to take on any brand's personality and touring objectives.
 
 
 
