@@ -193,7 +193,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### JUNE 2016. MCDONALD'S: HAPPY MEAL SAMPLING TOUR
+      ### JUNE 2016: MCDONALD'S: HAPPY MEAL SAMPLING TOUR
 
 
 
