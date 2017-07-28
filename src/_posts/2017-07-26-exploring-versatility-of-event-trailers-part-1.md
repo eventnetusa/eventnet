@@ -152,8 +152,8 @@ content_section:
 
       * From Pickle Bar to Campaign-Mobile
 
-      * Design was kept simple to ensure Yoplait’s important message was received
-      by consumers
+      * Design was kept simple to ensure Yoplait’s important message was conveyed
+      to consumers
 
       * iPads mounted across bar invited consumers to take the pledge and join
       Yoplait’s fight against breast cancer
