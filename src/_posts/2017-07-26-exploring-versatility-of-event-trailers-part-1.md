@@ -53,7 +53,7 @@ content_section:
       * Overhead canopy brings relief from sun and rain while also providing the
       look and feel of a permanent installation
 
-      * Header sign easily pops-up to for added height and visibility at crowded
+      * Header sign easily pops-up for added height and visibility at crowded
       events and festivals
 
       * Video monitors located on swing doors deliver client’s key brand
