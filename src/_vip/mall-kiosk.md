@@ -41,7 +41,7 @@ content_section:
       video_id:
   - text_block_markdown: |-
       * Branded kiosk
-      * 2 monitors
+      * Two monitors
       * Locking storage cabinet
       * Round 10" carpet
       * EventNetUSA will secure malls in your targeted zip codes.
@@ -60,7 +60,13 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: 'Premium package includes branded kiosk with 2 monitors, locking storage cabinet, round 10" carpet and table and chair set. EventNetUSA will secure malls in your targeted zip codes.'
+  - text_block_markdown: |-
+      * Branded kiosk
+      * Two monitors
+      * Locking storage cabinet
+      * 10x12 branded carpet
+      * Table and chair set.
+      * EventNetUSA will secure malls in your targeted zip codes.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -76,7 +82,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: 'Half kiosk package includes half branded kiosk with 1 monitors, and locking storage cabinet.. EventNetUSA will secure malls in your targeted zip codes. Half kiosk can be placed against a wall to be used for lead generation.'
+  - text_block_markdown: |-
+      * Half branded kiosk
+      * One monitor
+      * Locking storage cabinet
+      * EventNetUSA will secure malls in your targeted zip codes.
+      * Half kiosk can be placed against a wall to be used for lead generation.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -84,26 +95,21 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: "**MOBILE ENROLLMENT RV'S**"
+  - text_block_markdown: '**ADD-ONS AVAILABLE UPON REQUEST**'
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/rv10001-updated.png
-      image_2_path: /uploads/rv-agent-updated.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      In select markets, EventNetUSA will provide branded, leased RV with
-      a certified driver. RV size and dimension TBD based on availability in each
-      market.&nbsp;
+  - text_block_markdown: |-
+      * Brand Ambassador/Greeter
+      * Wi-Fi connection
+      * iPad w/ lead generation integration
+      * 10x12 branded carpet
 
-
-
-
-
-      **Note: EventNetUSA cannot guarantee that all client requests will be
-      fulfilled and ready to open by Medicare OEP due to availability of fleet
-      vehicles and mall displays as pictured above.**
+      **Note: EventNetUSA cannot guarantee that all client requests will be fulfilled and ready to open by Medicare OEP due to availability of mall displays as pictured above.**
     single_image_block:
       single_image_path:
     double_image_block:
