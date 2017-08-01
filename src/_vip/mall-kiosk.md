@@ -54,7 +54,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: 'Basic package includes branded kiosk with 2 monitors, locking storage cabinet, and round 10" carpet. EventNetUSA will secure malls in your targeted zip codes.'
+  - text_block_markdown: |-
+      * Branded kiosk
+      * 2 monitors
+      * Locking storage cabinet
+      * Round 10" carpet
+      * EventNetUSA will secure malls in your targeted zip codes.
     single_image_block:
       single_image_path:
     double_image_block:
