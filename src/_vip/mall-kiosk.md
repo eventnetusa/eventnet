@@ -1,7 +1,7 @@
 ---
 small_headline: MALL KIOSK PROGRAM
 large_headline: "IT'S NOT TOO LATE TO DISCUSS MALL KIOSKS OPTIONS FOR THIS YEAR'S OEP"
-hero_image_path: /uploads/picture6-updated-1.jpg
+hero_image_path: /uploads/picmonkey-collage.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -25,24 +25,18 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       2018 OEP is quickly approaching and EventNetUSA wants to help you reach
-      your engagement, activation and enrollment goals. Program opportunities
+      your engagement, activation and enrollment goals. Mall kiosk packages
       include:
 
 
 
+      * Basic Kiosk&nbsp;
 
+      * Premium Kiosk
 
+      * Half Kiosk
 
-
-
-
-      * Turnkey Mall Kiosks
-
-      * Mobile Assistance Centers
-
-      * Pop-Up Retail Stores
-
-      * Enrollment RVs
+      * Add-ons
     single_image_block:
       single_image_path:
     double_image_block:
@@ -50,7 +44,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**TURNKEY MALL KIOSK PROGRAM**'
+  - text_block_markdown: '**Kiosk Basic Package**'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -110,12 +104,6 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with
       a certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
-
-
-
-
-
-
 
 
 
