@@ -23,22 +23,7 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown: >-
-      2018 OEP is quickly approaching and EventNetUSA wants to help you reach
-      your engagement, activation and enrollment goals. Mall kiosk packages
-      include:
-
-
-
-
-
-      * Basic
-
-      * Premium&nbsp;
-
-      * Half Round
-
-      * Add-ons
+  - text_block_markdown: '2018 OEP is quickly approaching and EventNetUSA wants to help you reach your engagement, activation and enrollment goals. Mall kiosk packages include:'
     single_image_block:
       single_image_path:
     double_image_block:
