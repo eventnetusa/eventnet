@@ -31,7 +31,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**KIOSK BASIC PACKAGE**'
+  - text_block_markdown: |-
+      **KIOSK BASIC PACKAGE**
+
+      * Branded kiosk
+      * Two monitors
+      * Locking storage cabinet
+      * Round 10" carpet
+      * EventNetUSA will secure malls in your targeted zip codes.
     single_image_block:
       single_image_path:
     double_image_block:
