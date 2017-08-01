@@ -30,11 +30,13 @@ content_section:
 
 
 
-      * Basic Kiosk&nbsp;
 
-      * Premium Kiosk
 
-      * Half Kiosk
+      * Basic
+
+      * Premium&nbsp;
+
+      * Half Round
 
       * Add-ons
     single_image_block:
@@ -44,15 +46,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**Kiosk Basic Package**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/ins-kiosk-002.jpg
-      image_2_path: /uploads/ins-kiosk-003.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: '12x12" footprint includes branded kiosk with monitor, flooring and meeting table with chairs. EventNetUSA will secure malls in your targeted zip codes and provide trained staff/greeters upon request.'
+  - text_block_markdown: '**KIOSK BASIC PACKAGE**'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -60,15 +54,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**POP-UP RETAIL STORES**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/picture3-updated.jpg
-      image_2_path: /uploads/picture4-updated.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: EventNetUSA will secure mall space in your targeted zip code and build out temporary store. We can supply trained staff/greeters upon request.
+  - text_block_markdown: 'Basic package includes branded kiosk with 2 monitors, locking storage cabinet, and round 10" carpet. EventNetUSA will secure malls in your targeted zip codes.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -76,15 +62,31 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**MOBILE ASSISTANCE CENTER (MAC**)'
+  - text_block_markdown: '**KIOSK PREMIUM PACKAGE**'
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/hcsc-case-4-updated.jpg
-      image_2_path: /uploads/mac-outside-updated.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: 'Your Medicare mobile assistance center contains seating for 8, video screen, and generator to provide electricity. MAC can be used indoor or outdoor and can be easily pulled by a car or light truck trailer hitch. Set up time: 20 minutes. EventNetUSA can supply driver/greeter and manage set up upon request. We can also work with you on routing.'
+  - text_block_markdown: 'Premium package includes branded kiosk with 2 monitors, locking storage cabinet, round 10" carpet and table and chair set. EventNetUSA will secure malls in your targeted zip codes.'
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: '**HALF KIOSK**'
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: 'Half kiosk package includes half branded kiosk with 1 monitors, and locking storage cabinet.. EventNetUSA will secure malls in your targeted zip codes. Half kiosk can be placed against a wall to be used for lead generation.'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -104,6 +106,8 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with
       a certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
+
+
 
 
 
