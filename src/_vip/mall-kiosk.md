@@ -31,7 +31,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**KIOSK BASIC PACKAGE**'
+  - text_block_markdown: '**BASIC KIOSK PACKAGE**'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -52,7 +52,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**KIOSK PREMIUM PACKAGE**'
+  - text_block_markdown: '**PREMIUM KIOSK PACKAGE**'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -74,7 +74,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**HALF KIOSK**'
+  - text_block_markdown: '**HALF KIOSK PACKAGE**'
     single_image_block:
       single_image_path:
     double_image_block:
