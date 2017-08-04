@@ -1,19 +1,14 @@
 ---
 title: Work
 cta_text: Let's get started
-hero_image: /uploads/work-hero.jpg
+hero_image: /uploads/1-1.png
 ---
 
 <article class="cf">
   <div class="hero cover bg-center raleway" style="background-position: top;">
-    <img
-        class="js-img"
-        ix-path="{{page.hero_image | replace: '/uploads/', ''}}"
-        ix-params='{
+    <img class="js-img" ix-path="{{page.hero_image | replace: '/uploads/', ''}}" ix-params='{
           "auto": "compress"
-        }'
-        sizes="100vw"
-      >
+        }' sizes="100vw" />
     <div class="bg-black-30" style="height: 100%;">
       <div class="hero-wrapper tc near-white pt5-m pt6-l pb3-l">
         <h1 class="f3 f1-ns lh-headline mb0 editable">We&rsquo;re proud of our work&nbsp;</h1>
@@ -59,15 +54,10 @@ hero_image: /uploads/work-hero.jpg
             <div class="fl w-50 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                <a href="{{item.url}}" class="link dt hide-child">
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -79,14 +69,9 @@ hero_image: /uploads/work-hero.jpg
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link no-link">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -94,7 +79,7 @@ hero_image: /uploads/work-hero.jpg
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
                         <!-- htmlmin:ignore -->
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph3 ph4-ns pv2 pv3-ns mt3 mt4-ns dib white ttu tracked" href="#0">Tell me more</a>
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph3 ph4-ns pv2 pv3-ns mt3 mt4-ns dib white ttu tracked">Tell me more</a>
                         <!-- htmlmin:ignore -->
                       </div>
                     </div>
@@ -115,15 +100,10 @@ hero_image: /uploads/work-hero.jpg
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                <a href="{{item.url}}" class="link dt hide-child">
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -135,14 +115,9 @@ hero_image: /uploads/work-hero.jpg
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -150,7 +125,7 @@ hero_image: /uploads/work-hero.jpg
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
                         <!-- htmlmin:ignore -->
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked">Tell me more</a>
                         <!-- htmlmin:ignore -->
                       </div>
                     </div>
@@ -171,15 +146,10 @@ hero_image: /uploads/work-hero.jpg
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                <a href="{{item.url}}" class="link dt hide-child">
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -191,14 +161,9 @@ hero_image: /uploads/work-hero.jpg
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -206,7 +171,7 @@ hero_image: /uploads/work-hero.jpg
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
                         <!-- htmlmin:ignore -->
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked">Tell me more</a>
                         <!-- htmlmin:ignore -->
                       </div>
                     </div>
@@ -227,15 +192,10 @@ hero_image: /uploads/work-hero.jpg
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                <a href="{{item.url}}" class="link dt hide-child">
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -247,14 +207,9 @@ hero_image: /uploads/work-hero.jpg
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -262,7 +217,7 @@ hero_image: /uploads/work-hero.jpg
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
                         <!-- htmlmin:ignore -->
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked">Tell me more</a>
                         <!-- htmlmin:ignore -->
                       </div>
                     </div>
@@ -283,15 +238,10 @@ hero_image: /uploads/work-hero.jpg
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                <a href="{{item.url}}" class="link dt hide-child">
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -303,14 +253,9 @@ hero_image: /uploads/work-hero.jpg
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -318,7 +263,7 @@ hero_image: /uploads/work-hero.jpg
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
                         <!-- htmlmin:ignore -->
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked">Tell me more</a>
                         <!-- htmlmin:ignore -->
                       </div>
                     </div>
@@ -339,15 +284,10 @@ hero_image: /uploads/work-hero.jpg
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                <a href="{{item.url}}" class="link dt hide-child">
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -359,14 +299,9 @@ hero_image: /uploads/work-hero.jpg
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -374,7 +309,7 @@ hero_image: /uploads/work-hero.jpg
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
                         <!-- htmlmin:ignore -->
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked">Tell me more</a>
                         <!-- htmlmin:ignore -->
                       </div>
                     </div>
@@ -395,15 +330,10 @@ hero_image: /uploads/work-hero.jpg
             <div class="fl w-100 w-third-ns pa2">
               <div class="aspect-ratio aspect-ratio--7x5">
                 {% if item.link_to_casestudy == true %}
-                <a href="{{item.url}}" style="" class="link dt hide-child">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                <a href="{{item.url}}" class="link dt hide-child">
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -415,14 +345,9 @@ hero_image: /uploads/work-hero.jpg
                 </a>
                 {% else %}
                 <div class="dt hide-child no-link">
-                  <img
-                    class="db bg-center cover aspect-ratio--object"
-                    ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}"
-                    ix-params='{
+                  <img class="db bg-center cover aspect-ratio--object" ix-path="{{item.thumbnail_image_path | replace: '/uploads/', ''}}" ix-params='{
                       "auto": "compress"
-                    }'
-                    sizes="(max-width: 551px) 50vw, 25vw"
-                  >
+                    }' sizes="(max-width: 551px) 50vw, 25vw" />
                   <div class="white child aspect-ratio--object">
                     <div class="inner-child pa1 pa3-m pa4-l">
                       <p class="client f6 fw5 ttu tracked ma0 brand bg-white-90 dib" style="padding: 4px 4px 2px">{{item.client}}</p>
@@ -430,7 +355,7 @@ hero_image: /uploads/work-hero.jpg
                       <p class="f6 f5-l lh-copy hover-text">{{item.hover_text | truncatewords: 20}}</p>
                       <div class="tc more">
                         <!-- htmlmin:ignore -->
-                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked" href="#0">Tell me more</a>
+                        <a href="mailto:sales@eventnetusa.com?subject=re:%20{{item.headline}}" class="bg-navy center f6 fw4 grow no-underline ph4 pv3 mt4 dib white ttu tracked">Tell me more</a>
                         <!-- htmlmin:ignore -->
                       </div>
                     </div>
