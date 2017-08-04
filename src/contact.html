@@ -1,6 +1,8 @@
 ---
 title: Contact
 hero_image: /uploads/contact.jpg
+hero_headline: Make a splash with your next brand activation!
+hero_subheadline:
 ---
 
 <div class="hero cover bg-center raleway" style="background-image: url(/uploads/contact.jpg);">
@@ -12,11 +14,14 @@ hero_image: /uploads/contact.jpg
       }'
       sizes="100vw"
     >
+  {% if page.hero_headline %}
   <div class="bg-black-30" style="height: 100%;">
     <div class="hero-wrapper tc near-white pt5-m pt6-l pb3-l">
-      <h1 class="f3 f1-ns lh-headline mb0 editable">Make a splash with your next brand activation!</h1>
+      {% if page.hero_headline %}<h1 class="f3 f1-ns lh-headline mb0">{{page.hero_headline}}</h1>{% endif %}
+      {% if page.hero_subheadline %}<p class="f4 f2-ns fw5 lh-headline mt2">{{page.hero_subheadline}}</p>{% endif %}
     </div>
   </div>
+  {% endif %}m
 </div>
 
 <div class="cf">
