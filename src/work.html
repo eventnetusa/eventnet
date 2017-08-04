@@ -2,6 +2,8 @@
 title: Work
 cta_text: Let's get started
 hero_image: /uploads/work-hero.jpg
+hero_headline:
+hero_subheadline:
 ---
 
 <article class="cf">
@@ -14,12 +16,14 @@ hero_image: /uploads/work-hero.jpg
         }'
         sizes="100vw"
       >
+    {% if page.hero_headline %}
     <div class="bg-black-30" style="height: 100%;">
       <div class="hero-wrapper tc near-white pt5-m pt6-l pb3-l">
-        <h1 class="f3 f1-ns lh-headline mb0 editable">We&rsquo;re proud of our work&nbsp;</h1>
-        <p class="f4 f2-ns fw5 lh-headline mt2 editable">and excited to work with you!</p>
+        {% if page.hero_headline %}<h1 class="f3 f1-ns lh-headline mb0">{{page.hero_headline}}</h1>{% endif %}
+        {% if page.hero_subheadline %}<p class="f4 f2-ns fw5 lh-headline mt2">{{page.hero_subheadline}}</p>{% endif %}
       </div>
     </div>
+    {% endif %}
   </div>
 
   <div class="work-header-wrapper tc" style="background-color: #263d60">
