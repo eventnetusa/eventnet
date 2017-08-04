@@ -1,18 +1,16 @@
 ---
 title: Work
 cta_text: Let's get started
+hero_image: /uploads/work-hero.jpg
 ---
 
 <article class="cf">
   <div class="hero cover bg-center raleway" style="background-position: top;">
     <img
-      class="js-img"
-        ix-path="work-hero.jpg"
+        class="js-img"
+        ix-path="{{page.hero_image | replace: '/uploads/', ''}}"
         ix-params='{
-          "w": 400,
-          "h": 200,
-          "fit": "crop",
-          "crop": "center"
+          "auto": "compress"
         }'
         sizes="100vw"
       >

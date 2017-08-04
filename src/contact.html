@@ -1,8 +1,17 @@
 ---
 title: Contact
+hero_image: /uploads/contact.jpg
 ---
 
 <div class="hero cover bg-center raleway" style="background-image: url(/uploads/contact.jpg);">
+  <img
+      class="js-img"
+      ix-path="{{page.hero_image | replace: '/uploads/', ''}}"
+      ix-params='{
+        "auto": "compress"
+      }'
+      sizes="100vw"
+    >
   <div class="bg-black-30" style="height: 100%;">
     <div class="hero-wrapper tc near-white pt5-m pt6-l pb3-l">
       <h1 class="f3 f1-ns lh-headline mb0 editable">Make a splash with your next brand activation!</h1>

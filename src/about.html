@@ -1,12 +1,13 @@
 ---
 title: About Us
 cta: "Let's get started"
+hero_image: /uploads/agency-hero.jpg
 ---
 
 <div class="hero cover bg-center avenir">
   <img
       class="js-img"
-      ix-path="agency-hero.jpg"
+      ix-path="{{page.hero_image | replace: '/uploads/', ''}}"
       ix-params='{
         "auto": "compress"
       }'
