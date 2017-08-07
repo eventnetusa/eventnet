@@ -22,9 +22,9 @@ sidebar_text_markdown: |-
   * Permits
 content_section:
   - text_block_markdown: |-
-      **Agent staffing your mall booth? Perfect!**
+      #### **Agent staffing your mall booth? Perfect!**
 
-      **No agent available? No problem!**
+      #### **No agent a****vailable? No problem!**
 
       * 2 monitors continuously run Medicare infomercials
       * Take one holders for consumer Literature
@@ -34,8 +34,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/staffed.jpg
+      image_2_path: /uploads/unstaffed.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -98,9 +98,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **Note: EventNetUSA cannot guarantee that all client requests will be
+      Note: EventNetUSA cannot guarantee that all client requests will be
       fulfilled and ready to open by Medicare OEP due to availability of mall
-      displays as pictured above.**
+      displays as pictured above.
     single_image_block:
       single_image_path:
     double_image_block:
