@@ -10,18 +10,16 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: 'Ready to engage, activate and enroll for this year’s Medicare OEP?'
 cta_text: Let's Talk
 sidebar_text_markdown: |-
-  **Turnkey Service Offerings:**
+  **EventNetUSA Turnkey Service:**
 
-  * Ideation, Design & Brand Customization
-  * Graphic & Display Production
-  * Venue & Vehicle Procurement
-  * Routing & Logistics
-  * Staffing & Training
-  * Budget Forecasting and Management
-  * Liability Insurance & Risk Management
-  * Account Management & Reporting
-  * Social Media Integration
-  * Permitting & Legal
+  * Manufacture & lease kiosk
+  * Personalized branding
+  * Delivery
+  * Set-up/ tear-down
+  * Onsite training
+  * Off-season storage
+  * Book & contract mall space
+  * Permits
 content_section:
   - text_block_markdown: |-
       **Agent staffing your mall booth? Perfect!**
