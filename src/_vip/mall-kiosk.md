@@ -1,9 +1,9 @@
 ---
 small_headline: MALL KIOSK PROGRAM
 large_headline: >-
-  Multi-Versatile Mall AEP Sign-Up Center |Can Be Staffed or Unstaffed Daily
+  Multi-Versatile Mall AEP Sign-Up Center |  Can Be Staffed or Unstaffed Daily
   |               Turn-Key Branded Kiosk With Mall Lease.
-hero_image_path: /uploads/picmonkey-collage.jpg
+hero_image_path: /uploads/mall-walking-groups-in-the-uk.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
