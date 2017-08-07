@@ -4,13 +4,16 @@ date: 2017-08-07 00:00:00
 filter: press
 featured_post: true
 excerpt: >-
-  We are honored to named a Top Experiential Marketing Agency, "known for
-  producing the impossible," on EventMarketer's 2017 It List!
+  We are honored to be named a Top Experiential Marketing Agency, "known for
+  producing the impossible," on Event Marketer's 2017 It List!
 hero_image_path: >-
   /uploads/short-honored-to-be-named-a-top-100-event-marketing-agency-by-eventmarketer-1.png
 thumbnail_image_path: /uploads/1-2.png
 content_section:
   - text_block_markdown: >-
+      August 7, 2017
+
+
       **From Event Marketer [It List
       Overview](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/):**&nbsp;"Every
       year, we offer the industry’s most comprehensive listings to help event
@@ -69,6 +72,9 @@ content_section:
       Line to expand its reach in travel and hospitality. A Beauty + Swag truck
       for NYX makeup, with express lip touch-ups and social media staging,
       generated 8,579 one-on-one interactions."
+
+
+      *Ready to plan your next brand activation? We are!&nbsp;*
     single_image_block:
       single_image_path:
     double_image_block:
