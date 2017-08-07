@@ -28,9 +28,9 @@ content_section:
 
       * 2 monitors continuously run Medicare infomercials
 
-      * Take one holders for consumer Literature
+      * Take one holders for consumer literature
 
-      * Logo'd Carpet
+      * Logo'd carpet
 
       * Locking storage cabinet
 
