@@ -1,7 +1,7 @@
 ---
 small_headline: TURNKEY BRANDED KIOSK WITH MALL LEASE
 large_headline: Versatile AEP Mall Sign-Up Center |  Can Be Staffed or Unstaffed Daily
-hero_image_path: /uploads/rossevelt-field-mall-2-2.jpg
+hero_image_path: /uploads/rossevelt-field-mall-2-4.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
