@@ -74,7 +74,7 @@ content_section:
       generated 8,579 one-on-one interactions."
 
 
-      *Ready to plan your next brand activation? We are!&nbsp;*
+      *Ready to plan your next brand activation? [Let's do this!](/contact/)*
     single_image_block:
       single_image_path:
     double_image_block:
