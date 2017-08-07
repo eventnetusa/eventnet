@@ -1,5 +1,5 @@
 ---
-small_headline: TURNKEY BRANDED KIOSK W/ MALL LEASE
+small_headline: TURNKEY BRANDED KIOSK WITH MALL LEASE
 large_headline: Versatile Mall AEP Sign-Up Center |  Can Be Staffed or Unstaffed Daily
 hero_image_path:
 vip_project_type: B2B
