@@ -3,17 +3,19 @@ client: Owners.com
 link_to_casestudy: true
 sort_number: 8
 headline: Mobile Open House
-hover_text: 'Owners.com launched its online real estate tool for the modern home owner with a trailer transformed into a mobile open house, complete with a white picket fence.'
+hover_text: >-
+  Owners.com launched its online real estate tool for the modern home owner with
+  a trailer transformed into a mobile open house, complete with a white picket
+  fence.
 hero_image_path: /uploads/owners-house.jpg
 thumbnail_image_path: /uploads/owners-house.jpg
 types:
   - vehicle tour
   - pr event
 cta_text: Looking to drive consumer engagement with your next Mobile Vehicle Tour?
-cta: "Let's talk"
+cta: Let's talk
 sidebar_text_markdown: >-
   ### **QUICK STATS**
-
 
 
   * Drove **10,000+** miles over 4 months completing **20&nbsp;**event days
@@ -32,14 +34,12 @@ content_section:
   - text_block_markdown: >-
       Owners.com partnered with EventNetUSA to bring its online, self-directed
       approach to home buying/selling to life via a Mobile Open House Tour. Key
-      objectives of the Mobile Open House Tour were to attract consumer and media
-      attention and provide a platform to support brand awareness and education
-      of this new alternative to buying and selling a home.
-
+      objectives of the Mobile Open House Tour were to attract consumer and
+      media attention and provide a platform to support brand awareness and
+      education of this new alternative to buying and selling a home.
 
 
       ### A LOOK BEHIND THE SCENES
-
 
 
       * Transformed 53’ trailer into&nbsp; Mobile Open House providing consumers
@@ -55,8 +55,8 @@ content_section:
     single_image_block:
       single_image_path: /uploads/picture1.png
     double_image_block:
-      image_1_path: /uploads/picture4.jpg
-      image_2_path: /uploads/picture3.png
+      image_1_path: /uploads/owners-case-4.png
+      image_2_path: /uploads/owners-case-5.png
     video_block:
       video_id: p5QpmqFpp0Y
   - text_block_markdown:
@@ -76,7 +76,7 @@ related_client_logos:
   - logo_image_path: /uploads/fidelity-gray.png
     logo_image_height:
   - logo_image_path: /uploads/mcdonalds.png
-    logo_image_height: '50%'
+    logo_image_height: 50%
   - logo_image_path: /uploads/humana.png
     logo_image_height:
   - logo_image_path: /uploads/dee-rpark-gray.png
