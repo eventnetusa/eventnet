@@ -67,7 +67,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Note: EventNetUSA cannot guarantee that all client requests will be
+      ##### Note: EventNetUSA cannot guarantee that all client requests will be
       fulfilled and ready to open by Medicare OEP due to availability of mall
       displays as pictured above.
     single_image_block:
