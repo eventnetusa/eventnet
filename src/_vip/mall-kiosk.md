@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: 'Ready to engage, activate and enroll for this year’s Medicare OEP?'
 cta_text: Let's Talk
 sidebar_text_markdown: |-
-  ## ***Turnkey Service:***
+  ## ***Turnkey Services:***
 
   * **Manufacture & lease kiosk**
   * **Personalized branding**
