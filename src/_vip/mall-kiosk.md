@@ -21,15 +21,19 @@ sidebar_text_markdown: |-
   * Book & contract mall space
   * Permits
 content_section:
-  - text_block_markdown: |-
-      #### **Agent staffing your mall booth? Perfect!**
+  - text_block_markdown: >-
+      #### **Agent staffing your mall booth? Perfect! &nbsp;No agent available?
+      No problem!**
 
-      #### **No agent a****vailable? No problem!**
 
       * 2 monitors continuously run Medicare infomercials
+
       * Take one holders for consumer Literature
+
       * Logo'd Carpet
+
       * Locking storage cabinet
+
       * Optional iPad's for lead generation
     single_image_block:
       single_image_path:
