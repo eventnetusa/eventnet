@@ -1,5 +1,5 @@
 ---
-title: 2017 It List
+title: We're on the It List!
 date: 2017-08-07 00:00:00
 filter: press
 featured_post: true
