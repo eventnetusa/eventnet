@@ -28,7 +28,7 @@ content_section:
 
       * 2 monitors continuously run Medicare infomercials
 
-      * Take one holders for consumer literature
+      * Take-one holders for consumer literature
 
       * Logo'd carpet
 
@@ -78,7 +78,7 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ##### Note: EventNetUSA cannot guarantee that all client requests will be
-      fulfilled and ready to open by Medicare OEP due to availability of mall
+      fulfilled and ready to open by Medicare AEP due to availability of mall
       displays as pictured above.
     single_image_block:
       single_image_path:
