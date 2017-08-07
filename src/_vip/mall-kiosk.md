@@ -23,18 +23,16 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown: >-
-      2018 OEP is quickly approaching and EventNetUSA wants to help you reach
-      your engagement, activation and enrollment goals. Mall kiosk packages
-      include:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '**BASIC KIOSK PACKAGE**'
+  - text_block_markdown: |-
+      **Agent staffing your mall booth? Perfect!**
+
+      **No agent available? No problem!**
+
+      * 2 monitors continuously run Medicare infomercials
+      * Take one holders for consumer Literature
+      * Logo'd Carpet
+      * Locking storage cabinet
+      * Optional iPad's for lead generation
     single_image_block:
       single_image_path:
     double_image_block:
@@ -43,11 +41,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      * Branded kiosk
-      * Two monitors
-      * Locking storage cabinet
-      * Round 10" carpet
-      * EventNetUSA will secure malls in your targeted zip codes.
+      &nbsp;
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -55,7 +51,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**PREMIUM KIOSK PACKAGE**'
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -63,13 +59,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      * Branded kiosk
-      * Two monitors
-      * Locking storage cabinet
-      * 10x12 branded carpet
-      * Table and chair set.
-      * EventNetUSA will secure malls in your targeted zip codes.
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -77,7 +67,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**HALF KIOSK PACKAGE**'
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -85,12 +75,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      * Half branded kiosk
-      * One monitor
-      * Locking storage cabinet
-      * EventNetUSA will secure malls in your targeted zip codes.
-      * Half kiosk can be placed against a wall to be used for lead generation.
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -98,7 +83,15 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**ADD-ONS AVAILABLE UPON REQUEST**'
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -107,15 +100,6 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      * Brand Ambassador/Greeter
-
-      * Wi-Fi connection
-
-      * iPad w/ lead generation integration
-
-      * 10x12 branded carpet
-
-
       **Note: EventNetUSA cannot guarantee that all client requests will be
       fulfilled and ready to open by Medicare OEP due to availability of mall
       displays as pictured above.**
