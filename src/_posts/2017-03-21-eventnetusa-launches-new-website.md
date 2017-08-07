@@ -2,8 +2,11 @@
 title: EventNetUSA Launches New Website
 date: 2017-03-21 00:00:00
 filter: press
-featured_post: true
-excerpt: 'Kicking off Spring with something fresh, EventNetUSA’s newly redesigned website goes live today. The Fort Lauderdale-based experiential marketing agency announces www.eventnetusa.com’s new look is in full bloom.'
+featured_post: false
+excerpt: >-
+  Kicking off Spring with something fresh, EventNetUSA’s newly redesigned
+  website goes live today. The Fort Lauderdale-based experiential marketing
+  agency announces www.eventnetusa.com’s new look is in full bloom.
 hero_image_path: /uploads/press-release-hero-wide.png
 thumbnail_image_path: /uploads/press-release-hero.png
 content_section:
