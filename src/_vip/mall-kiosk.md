@@ -53,7 +53,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: |-
+      **YOUR COSTS**
+
+      1 month pilot:&nbsp;
+
+      Full Term AEP (Oct 15 - Dec 7) :
     single_image_block:
       single_image_path:
     double_image_block:
