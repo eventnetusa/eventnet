@@ -54,11 +54,21 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      ### **YOUR COSTS**
+      ### **PROGRAM COSTS**
 
-      1 month pilot:&nbsp;
+      1 month pilot: $33,000 - $38,000
 
-      Full Term AEP (Oct 15 - Dec 7) :
+      Full Term AEP (Oct 15 - Dec 7) : $44,000 - $49,000
+
+      &nbsp;
+
+      **Contact:**
+
+      Shelby Beaty
+
+      (954) 467-9898 (204)
+
+      shelbyb@eventnetusa.com
     single_image_block:
       single_image_path:
     double_image_block:
@@ -67,11 +77,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      <div
-      id="note-eventnetusa-cannot-guarantee-that-all-client-requests-will-be-fulfilled-and-ready-to-open-by-medicare-oep-due-to-availability-of-mall-displays-as-pictured-above">Note:
-      EventNetUSA cannot guarantee that all client requests will be fulfilled
-      and ready to open by Medicare OEP due to availability of mall displays as
-      pictured above.</div>
+      ##### Note: EventNetUSA cannot guarantee that all client requests will be
+      fulfilled and ready to open by Medicare OEP due to availability of mall
+      displays as pictured above.
     single_image_block:
       single_image_path:
     double_image_block:
