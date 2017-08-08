@@ -8,7 +8,7 @@ show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to make your next event your greatest?
-cta_text: "Let's Talk!"
+cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Turnkey Service Offerings Include
 
@@ -32,7 +32,6 @@ content_section:
       planning for leading brands and agencies.
 
 
-
       Our full service approach and team of industry experts ensure every brand
       idea comes to life with originality, quality, on time and on budget.
     single_image_block:
@@ -42,10 +41,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       ### MOBILE VEHICLE AND TRAILER TOURS
 
-      Create a unique consumer experience with a customized marketing vehicle built, routed and staffed to reach your target audience on the road.
+
+      Create a unique consumer experience with a customized marketing vehicle
+      built, routed and staffed to reach your target audience on the road.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -61,10 +62,55 @@ content_section:
       image_2_path: /uploads/nyx-case-4.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
+      ### PR EVENTS & STUNTS
+
+
+      Our clients have stories to tell and we help turn those stories into large
+      newsworthy events. We stage and manage the event so you can focus on media
+      opportunities, feeling confident that the behind-the-scenes is covered.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/slide-drink-up.jpg
+      image_2_path: /uploads/20170516-101234.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/fine-living-island-thumb.jpg
+      image_2_path: /uploads/jetblue-story-booth.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      ### POP-UP SHOPS
+
+
+      Make sales in unique environments that build buzz through consumer
+      exposure, while generating a feeling of relevance and interactivity.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/revlon-case-4.jpg
+      image_2_path: /uploads/maybelline-nyc-popup.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/39.jpg
+      image_2_path: /uploads/essie-thumb.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       ### INSURANCE ACTIVATIONS
 
-      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer engagement and activation programs.
+
+      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer
+      engagement and activation programs.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -83,48 +129,12 @@ content_section:
       image_2_path: /uploads/hcsc-rv.png
     video_block:
       video_id:
-  - text_block_markdown: |-
-      ### PR EVENTS & STUNTS
-
-      Our clients have stories to tell and we help turn those stories into large newsworthy events. We stage and manage the event so you can focus on media opportunities, feeling confident that the behind-the-scenes is covered.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/slide-drink-up.jpg
-      image_2_path: /uploads/20170516-101234.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/fine-living-island-thumb.jpg
-      image_2_path: /uploads/jetblue-story-booth.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: |-
-      ### POP-UP SHOPS
-
-      Make sales in unique environments that build buzz through consumer exposure, while generating a feeling of relevance and interactivity.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/revlon-case-4.jpg
-      image_2_path: /uploads/maybelline-nyc-popup.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/39.jpg
-      image_2_path: /uploads/essie-thumb.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       ### GRAND OPENINGS
 
-      We handle permitting, line management, hospitality and display production so that your first impression to your guests is your best!
+
+      We handle permitting, line management, hospitality and display production
+      so that your first impression to your guests is your best!
     single_image_block:
       single_image_path:
     double_image_block:
@@ -132,10 +142,13 @@ content_section:
       image_2_path: /uploads/7.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       ### SAMPLING & STREET TEAMS
 
-      Our expert routing and diverse network of brand ambassadors puts your brand in consumer's hands from grassroots level engagement to major events.
+
+      Our expert routing and diverse network of brand ambassadors puts your
+      brand in consumer's hands from grassroots level engagement to major
+      events.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -156,7 +169,9 @@ _comments:
   vip_project_type: B2C will not show header or footer
   cta_headline: Optional
   cta_text: the text for the CTA button
-  cta_link: "Does the CTA triggera link to another page, site, or email? (note: use 'mailto:info@eventnetusa.com' format for an email address)"
+  cta_link: >-
+    Does the CTA triggera link to another page, site, or email? (note: use
+    'mailto:info@eventnetusa.com' format for an email address)
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
