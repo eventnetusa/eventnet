@@ -56,9 +56,9 @@ content_section:
   - text_block_markdown: |-
       ### **PROGRAM COSTS**
 
-      1 month pilot: $33,000 - $38,000
+      1 month pilot: $33,500 - $38,500
 
-      Full Term AEP (Oct 15 - Dec 7) : $44,000 - $49,000
+      Full Term AEP (Oct 15 - Dec 7) : $44,500 - $49,500
 
       &nbsp;
 
