@@ -18,7 +18,7 @@ sidebar_text_markdown: |-
   * **Set-up/ tear-down**
   * **Onsite training**
   * **Off-season storage**
-  * **Book & contract mall space**
+  * **Mall space fee included**
   * **Permits**
 content_section:
   - text_block_markdown: >-
