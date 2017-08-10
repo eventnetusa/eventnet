@@ -27,21 +27,15 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       Founded in 1976, EventNetUSA is one of the oldest experiential marketing
-      agencies in the industry. We provide turn-key event production, that
-      includes brand positioning, targeted audience research and creative event
-      planning for leading brands and agencies.
+      agencies in the industry. Named a *Top Event Marketing Agency* for the
+      15th year on Event Marketer's [It
+      List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/),
+      and *known for producing the impossible*, we provide turn-key event
+      production and logistics to brands and agencies nationwide.&nbsp;
 
 
       Our full service approach and team of industry experts ensure every brand
       idea comes to life with originality, quality, on time and on budget.
-
-
-      On the road 365 days a year in every place imaginable.&nbsp;
-
-
-      *We are honored to be named a Top Experiential Marketing Agency, **“known
-      for producing the impossible,”**on [EventMarketer’s 2017 It
-      List](http://www.eventmarketer.com/it-list-2017/?mkt_tok=eyJpIjoiTkRjeFlXWTVabU0yTTJSaCIsInQiOiJtbStNTTRDYmM3M2tYUWd3WjhFaXFBeWVMZ0tiME1lYXNOc1prMVZKamcyait2MmZkYktaRzJRU2VaWEtWQWIzclRnaUZQNTlCSTVNZ29WOFYzSTJuZlh2czBrSlg2anlcL2JPelVhMThCQ3RxMDJ3TkdIbmlEVHF2aXphU09YRjAifQ%3D%3D)!*
     single_image_block:
       single_image_path:
     double_image_block:
@@ -170,6 +164,14 @@ content_section:
     double_image_block:
       image_1_path: /uploads/garnier-case-3.jpg
       image_2_path: /uploads/20170708_094506.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 _comments:
