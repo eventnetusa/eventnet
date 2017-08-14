@@ -111,7 +111,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/slide-drink-up.jpg
-      image_2_path: /uploads/20170515-104423.jpg
+      image_2_path: /uploads/thumbnail-image-1.png
     video_block:
       video_id:
   - text_block_markdown:
