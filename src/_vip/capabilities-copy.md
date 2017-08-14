@@ -94,6 +94,28 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      ### PR EVENTS & STUNTS
+
+
+      Our clients have stories to tell and we help turn those stories into large
+      newsworthy events. We stage and manage the event so you can focus on media
+      opportunities, feeling confident that the behind-the-scenes is covered.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/slide-drink-up.jpg
+      image_2_path: /uploads/20170515-104423.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: pr
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/fine-living-island-thumb.jpg
+      image_2_path: /uploads/jetblue-story-booth.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       ### MOBILE VEHICLE AND TRAILER TOURS
 
 
@@ -114,8 +136,7 @@ content_section:
       image_2_path: /uploads/nyx-case-4.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -123,30 +144,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ### PR EVENTS & STUNTS
-
-
-      Our clients have stories to tell and we help turn those stories into large
-      newsworthy events. We stage and manage the event so you can focus on media
-      opportunities, feeling confident that the behind-the-scenes is covered.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/slide-drink-up.jpg
-      image_2_path: /uploads/20170516-101234.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/fine-living-island-thumb.jpg
-      image_2_path: /uploads/jetblue-story-booth.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -175,8 +173,7 @@ content_section:
       image_2_path: /uploads/essie-thumb.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -208,8 +205,7 @@ content_section:
       image_2_path: /uploads/hcsc-rv.png
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -230,8 +226,7 @@ content_section:
       image_2_path: /uploads/7.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
