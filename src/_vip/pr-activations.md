@@ -107,49 +107,12 @@ content_section:
       image_2_path: /uploads/20170515-104423.jpg
     video_block:
       video_id:
-  - text_block_markdown: pr
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/fine-living-island-thumb.jpg
       image_2_path: /uploads/jetblue-story-booth.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### MOBILE VEHICLE AND TRAILER TOURS
-
-
-      Create a unique consumer experience with a customized marketing vehicle
-      built, routed and staffed to reach your target audience on the road.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/5-2.jpg
-      image_2_path: /uploads/20161001-125153.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/6.jpg
-      image_2_path: /uploads/nyx-case-4.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -173,46 +136,6 @@ content_section:
       image_2_path: /uploads/essie-thumb.jpg
     video_block:
       video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### INSURANCE ACTIVATIONS
-
-
-      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer
-      engagement and activation programs.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/case-hsbc.jpg
-      image_2_path: /uploads/double-expandable-truck.png
-    video_block:
-      video_id:
-  - text_block_markdown: |-
-      ### &nbsp;
-
-      &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/hcsc-case-3.jpg
-      image_2_path: /uploads/hcsc-rv.png
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
   - text_block_markdown: >-
       ### GRAND OPENINGS
 
@@ -226,12 +149,25 @@ content_section:
       image_2_path: /uploads/7.jpg
     video_block:
       video_id:
-  - text_block_markdown: '---'
+  - text_block_markdown: >-
+      ### MOBILE VEHICLE AND TRAILER TOURS
+
+
+      Create a unique consumer experience with a customized marketing vehicle
+      built, routed and staffed to reach your target audience on the road.
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/5-2.jpg
+      image_2_path: /uploads/20161001-125153.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/6.jpg
+      image_2_path: /uploads/nyx-case-4.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -254,6 +190,27 @@ content_section:
     double_image_block:
       image_1_path: /uploads/garnier-case-3.jpg
       image_2_path: /uploads/20170708_094506.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      ### INSURANCE ACTIVATIONS
+
+
+      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer
+      engagement and activation programs.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/case-hsbc.jpg
+      image_2_path: /uploads/double-expandable-truck.png
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/hcsc-case-3.jpg
+      image_2_path: /uploads/hcsc-rv.png
     video_block:
       video_id:
 _comments:
