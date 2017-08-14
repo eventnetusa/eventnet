@@ -76,7 +76,7 @@ sidebar_text_markdown: >-
   to debut its fantasy sports website
 content_section:
   - text_block_markdown: >-
-      You have the idea, we have the know-how!
+      **You have the idea, we have the know-how!**
 
 
       EventNetUSA has been taking the impossible and making it a reality for the
