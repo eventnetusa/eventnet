@@ -50,8 +50,8 @@ sidebar_text_markdown: >-
   * Built private tropical island in the Hudson River for one lucky family's
   Fine Living vacation
 
-  * Granted security clearance for producing high profile PR Events by both
-  United States Homeland Security and Secret Service
+  * Granted security clearance for producing high profile White House PR Events
+  by both United States Homeland Security and Secret Service
 
   * Managed over 1,500 event days over past 5 years. That's over 310 event day's
   per year
