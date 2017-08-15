@@ -1,6 +1,6 @@
 ---
-title: Owners.com
-date: 2017-03-16 00:00:00
+title: Owners.com Mobile Open House
+date: 2016-06-30 16:34:00
 filter: press
 featured_post: false
 excerpt: >-
@@ -56,7 +56,7 @@ content_section:
       And with housing costs reaching through the roof, plopping a house in the
       middle of the city is definitely one way to get a buyer’s attention.
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/owners-article-2.jpg
     double_image_block:
       image_1_path:
       image_2_path:
