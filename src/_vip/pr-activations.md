@@ -219,7 +219,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/hcsc-case-3.jpg
-      image_2_path: /uploads/hcsc-rv.png
+      image_2_path:
     video_block:
       video_id:
 _comments:
