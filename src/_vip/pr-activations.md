@@ -1,5 +1,5 @@
 ---
-small_headline: EventNetUSA Turnkey Brand Event Production and Management
+small_headline: AWARD WINNING TURNKEY EXPERIENTIAL BRAND MARKETING
 large_headline: WE MAKE PR AGENCY IDEAS HAPPEN
 hero_image_path: /uploads/pr-back-page-hero-2.jpg
 vip_project_type: B2B
