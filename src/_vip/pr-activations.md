@@ -233,18 +233,9 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      &nbsp;
-
-      &nbsp;
-
-      &nbsp;
-
-      &nbsp;
-
-      ### **PROUD TO HAVE PARTNERED WITH THESE LEADING PR AGENCIES!**
+  - text_block_markdown: '**PROUD TO HAVE PARTNERED WITH THESE LEADING PR AGENCIES!**'
     single_image_block:
-      single_image_path: /uploads/pr-agency-clients.png
+      single_image_path: /uploads/pr-agency-clients-2.png
     double_image_block:
       image_1_path:
       image_2_path:
