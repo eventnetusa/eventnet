@@ -109,8 +109,7 @@ content_section:
 
       PR agencies have brand stories to tell and we help turn those stories into
       large newsworthy events. We stage and manage the event so you can focus on
-      media opportunities, feeling confident that the behind-the-scenes is
-      covered.
+      media opportunities, feeling confident that behind-the-scenes is covered.
     single_image_block:
       single_image_path:
     double_image_block:
