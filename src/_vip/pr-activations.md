@@ -184,8 +184,8 @@ content_section:
 
 
       Our expert routing and diverse network of brand ambassadors puts your
-      brand in consumer's hands from grassroots level engagement to major
-      events.
+      clients brand in consumer's hands from grassroots level engagement to
+      major events.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -202,16 +202,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### INSURANCE ACTIVATIONS
+      ### INSURANCE ACTIVATION'S
 
 
-      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer
-      engagement and activation programs.
+      <div>EventnetUSA was honored by EventMarketer's 2017 It List as the top
+      expert in insurance activation's.</div>
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/case-hsbc.jpg
-      image_2_path:
+      image_2_path: /uploads/humana-rvs.png
     video_block:
       video_id:
   - text_block_markdown:
