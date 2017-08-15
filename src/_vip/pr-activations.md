@@ -7,7 +7,7 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to make your next event your greatest?
+cta_headline: Ready to make your next brand idea your greatest?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
   ### Turnkey Service Offerings Include
