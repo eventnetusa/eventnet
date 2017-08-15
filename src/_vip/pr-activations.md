@@ -242,7 +242,7 @@ content_section:
 
       &nbsp;
 
-      PROUD TO HAVE PARTNERED WITH THESE LEADING PR AGENCIES!
+      ### **PROUD TO HAVE PARTNERED WITH THESE LEADING PR AGENCIES!**
     single_image_block:
       single_image_path: /uploads/pr-agency-clients.png
     double_image_block:
