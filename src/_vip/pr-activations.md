@@ -209,7 +209,7 @@ content_section:
 
 
       <div>EventnetUSA was honored by EventMarketer's 2017 It List as the expert
-      in insurance activation's.</div>
+      in insurance consumer activation.</div>
     single_image_block:
       single_image_path:
     double_image_block:
