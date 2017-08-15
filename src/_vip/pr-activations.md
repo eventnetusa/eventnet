@@ -122,7 +122,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/fine-living-island-thumb.jpg
+      image_1_path: /uploads/19533599-123092514957223-6351086647332831232-n1.jpg
       image_2_path: /uploads/jetblue-story-booth.jpg
     video_block:
       video_id:
