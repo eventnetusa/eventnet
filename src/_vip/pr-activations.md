@@ -104,9 +104,10 @@ content_section:
       ### PR EVENTS & STUNTS
 
 
-      Our clients have stories to tell and we help turn those stories into large
-      newsworthy events. We stage and manage the event so you can focus on media
-      opportunities, feeling confident that the behind-the-scenes is covered.
+      PR agencies have brand stories to tell and we help turn those stories into
+      large newsworthy events. We stage and manage the event so you can focus on
+      media opportunities, feeling confident that the behind-the-scenes is
+      covered.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -123,11 +124,11 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### POP-UP SHOPS
+      ### POP-UP SHOPS/BRAND INFLUENCERS
 
 
-      Make sales in unique environments that build buzz through consumer
-      exposure, while generating a feeling of relevance and interactivity.
+      EventNetUSA creates the stage for your celebrity and brand influencers at
+      pop-up locations in unique environments.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -160,8 +161,9 @@ content_section:
       ### MOBILE VEHICLE AND TRAILER TOURS
 
 
-      Create a unique consumer experience with a customized marketing vehicle
-      built, routed and staffed to reach your target audience on the road.
+      <div>EventNetUSA owns its own fleet of mobile brand vehicles and event
+      trailers. This allows agency flexibility in vehicle selection and
+      customization for your client brands.</div>
     single_image_block:
       single_image_path:
     double_image_block:
@@ -209,7 +211,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/case-hsbc.jpg
-      image_2_path: /uploads/picture2.png
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
