@@ -225,7 +225,7 @@ content_section:
       image_2_path: /uploads/unnamed.jpg
     video_block:
       video_id:
-  - text_block_markdown: PROUD TO HAVE PARTNERED WITH THESE LEADING PR AGENCIES
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -233,7 +233,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: PROUD TO HAVE PARTNERED WITH THESE LEADING PR AGENCIES!
     single_image_block:
       single_image_path: /uploads/pr-agency-clients.png
     double_image_block:
