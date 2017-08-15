@@ -126,6 +126,14 @@ content_section:
       image_2_path: /uploads/jetblue-story-booth.jpg
     video_block:
       video_id:
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ### POP-UP SHOPS/BRAND INFLUENCERS
 
@@ -147,6 +155,14 @@ content_section:
       image_2_path: /uploads/essie-thumb.jpg
     video_block:
       video_id:
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ### GRAND OPENINGS
 
@@ -158,6 +174,14 @@ content_section:
     double_image_block:
       image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
       image_2_path: /uploads/7.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -182,12 +206,20 @@ content_section:
       image_2_path: /uploads/nyx-case-4.jpg
     video_block:
       video_id:
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ### SAMPLING & STREET TEAMS
 
 
       Our expert routing and diverse network of brand ambassadors puts your
-      clients brand in consumer's hands from grassroots level engagement to
+      client's brand in consumer's hands from grassroots level engagement to
       major events.
     single_image_block:
       single_image_path:
@@ -202,6 +234,14 @@ content_section:
     double_image_block:
       image_1_path: /uploads/garnier-case-3.jpg
       image_2_path: /uploads/20170708_094506.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -225,15 +265,7 @@ content_section:
       image_2_path: /uploads/unnamed.jpg
     video_block:
       video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
