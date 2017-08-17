@@ -1,5 +1,5 @@
 ---
-title: Exploring Versatility of Event Trailers Part 1
+title: Exploring Versatility of Event Trailers Part 2
 date: 2017-07-26 11:02:00
 filter: insights
 featured_post: false
@@ -14,9 +14,9 @@ content_section:
 
 
 
-      At EventNetUSA, we supply mobile marketing trailers to a variety of clients
-      in a number of diverse industries. Whether you’re looking for a [53’
-      trailer transformed into a pop-up
+      At EventNetUSA, we supply mobile marketing trailers to a variety of
+      clients in a number of diverse industries. Whether you’re looking for a
+      [53’ trailer transformed into a pop-up
       shop](https://www.eventnetusa.com/work/revlon-love-is-on-tour/) or an
       [iconic Airstream turned Mobile Tea
       Bar](https://www.eventnetusa.com/work/bigelow-tea/), we’ve got a mobile
@@ -59,8 +59,8 @@ content_section:
       * Video monitors located on swing doors deliver client’s key brand
       messaging anywhere, anytime
 
-      * Sound system catches the attention of consumers far away and creates
-      a defined event space up close
+      * Sound system catches the attention of consumers far away and creates a
+      defined event space up close
 
       * Hydraulic stabilizer legs for safety and leveling in place
 
@@ -152,8 +152,8 @@ content_section:
 
       * From Pickle Bar to Campaign-Mobile
 
-      * Design was kept simple to ensure Yoplait’s important message was conveyed
-      to consumers
+      * Design was kept simple to ensure Yoplait’s important message was
+      conveyed to consumers
 
       * iPads mounted across bar invited consumers to take the pledge and join
       Yoplait’s fight against breast cancer
@@ -172,11 +172,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       ### MAY 2015: GARNIER FRUCTIS: STYLE BAR TOUR
 
+
       * From Campaign-Mobile to Salon Style Bar
-      * Front bar was transformed into salon styling stations complete with swivel seating, mirrors and product/styling tool holders
+
+      * Front bar was transformed into salon styling stations complete with
+      swivel seating, mirrors and product/styling tool holders
     single_image_block:
       single_image_path: /uploads/garnier-style-bar2.jpg
     double_image_block:
