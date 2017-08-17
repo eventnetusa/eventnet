@@ -1,7 +1,7 @@
 ---
-title: Exploring Versatility
-date: 2017-03-16 00:00:00
-filter:
+title: Exploring Versatility of Event Trailers Part 2
+date: 2017-08-23 00:00:00
+filter: insights
 featured_post: false
 excerpt:
 hero_image_path:
@@ -16,6 +16,8 @@ content_section:
     video_block:
       video_id:
 ---
+
+
 DO NOT ADD POST CONTENT HERE!
 
 Add all content in Content Sections.
