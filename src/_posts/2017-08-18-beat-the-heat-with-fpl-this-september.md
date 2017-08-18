@@ -8,8 +8,11 @@ hero_image_path: /uploads/fpl-beat-the-heat-081417-cropped.jpg
 thumbnail_image_path: /uploads/fpl-beat-the-heat-081417-thumbnail.jpg
 content_section:
   - text_block_markdown: >-
-      [View the o](__notset__)[riginal press release on
+      View the o[riginal press release on
       FPLblog.com](http://www.fplblog.com/beat-the-heat-with-fpl-this-september/)
+
+
+      August 18, 2017
 
 
       FPL is hosting Cooling Stations to help you beat the heat and lower your
