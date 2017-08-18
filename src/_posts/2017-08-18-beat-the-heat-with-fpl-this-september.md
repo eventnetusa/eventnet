@@ -1,5 +1,5 @@
 ---
-title: FPL Beat the Heat
+title: Beat the Heat with FPL this September
 date: 2017-08-18 14:02:00
 filter: press
 featured_post: false
