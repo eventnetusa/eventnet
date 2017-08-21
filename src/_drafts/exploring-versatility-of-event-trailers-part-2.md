@@ -104,14 +104,14 @@ content_section:
       image_2_path: /uploads/dsc00454.jpg
     video_block:
       video_id:
-  - text_block_markdown: '### GARNIER: GREENER TOUR'
+  - text_block_markdown: '### GARNIER: PURE CLEAN TOUR'
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
-      video_id:
+      video_id: RSU1I0GjfJc
   - text_block_markdown: '### OWNERS.COM: OPEN HOUSE TOUR'
     single_image_block:
       single_image_path: /uploads/owners-1.jpg
