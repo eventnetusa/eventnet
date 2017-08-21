@@ -110,7 +110,13 @@ content_section:
       image_2_path: /uploads/kevin-danielle-jonas-revlon04.jpg
     video_block:
       video_id:
-  - text_block_markdown: '### MAY 2015: MAYBELLINE COLOUR SENSATIONAL TOUR'
+  - text_block_markdown: |-
+      ### MAY 2015: MAYBELLINE COLOUR SENSATIONAL TOUR
+
+      * Product demonstration stage
+      * Consumer lounge
+      * Professional grade beauty stations
+      * Interior outfitted for one-on-one beauty consultations
     single_image_block:
       single_image_path: /uploads/dsc00433.jpg
     double_image_block:
