@@ -92,7 +92,7 @@ content_section:
       ### SEPTEMBER 2015: REVLON LOVE IS ON TOUR
 
       * From Mobile Open House to Mobile Retail Store
-      * Floor to ceiling product displays
+      * Floor to ceiling product displays and demo stations
       * POS system for onsite purchases
       * Social media staging area
     single_image_block:
@@ -120,10 +120,10 @@ content_section:
       video_id:
   - text_block_markdown: '### MAY 2014: GARNIER PURE CLEAN TOUR'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/garnier-pure-clean-tour.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/garnier-pure-clean-tour-interior.jpg
+      image_2_path: /uploads/garnier-pure-clean-tour-interior2.png
     video_block:
       video_id: RSU1I0GjfJc
   - text_block_markdown: '### JUNE 2013: MAYBELLINE GREAT BEAUTY TOUR'
