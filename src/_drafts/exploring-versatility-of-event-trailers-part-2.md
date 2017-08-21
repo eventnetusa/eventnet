@@ -37,14 +37,25 @@ content_section:
       ### 53' EVENT TRAILER FEATURES
 
 
-      * Insert
+      * 350 sqft interior space to showcase products and services
 
-      * Insert
+      * 8'x20' drop down stage and hospitality area
 
-      * Insert
+      * Full interior and exterior graphic with coordinating skirt
+
+      * Three entry/exit points for controlled traffic flow
+
+      * Retractable 20'x45' canopy for optional covered event area
+
+      * Header sign easily pops-up for added height and visibility at crowded
+      events and festivals
+
+      * On board storage room and under body storage boxes&nbsp;
+
+      * Hydraulic stabilizer legs for safety and leveling in place
 
 
-      ### TAKE A LOOK AT 4 WAYS OUR 53' EVENT TRAILER WAS TRANSFORMED FOR OUR
+      ### TAKE A LOOK AT 5 WAYS OUR 53' EVENT TRAILER WAS TRANSFORMED FOR OUR
       CLIENTS
 
 
@@ -77,7 +88,7 @@ content_section:
       image_2_path: /uploads/kevin-danielle-jonas-revlon04.jpg
     video_block:
       video_id:
-  - text_block_markdown: '### MAYBELLINE: GREAT LASH TOUR'
+  - text_block_markdown: '### MAYBELLINE: GREAT BEAUTY TOUR'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -85,7 +96,15 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: '### MAYBELLINE: COLOUR SENSATIONAL TOUR'
+    single_image_block:
+      single_image_path: /uploads/dsc00433.jpg
+    double_image_block:
+      image_1_path: /uploads/dsc00488.jpg
+      image_2_path: /uploads/dsc00454.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: '### GARNIER: GREENER TOUR'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -93,6 +112,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: '### OWNERS.COM: OPEN HOUSE TOUR'
+    single_image_block:
+      single_image_path: /uploads/owners-1.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id: p5QpmqFpp0Y
 ---
 
 
