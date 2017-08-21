@@ -4,8 +4,8 @@ date: 2017-08-23 00:00:00
 filter: insights
 featured_post: false
 excerpt:
-hero_image_path:
-thumbnail_image_path:
+hero_image_path: /uploads/part-2-hero-image.png
+thumbnail_image_path: /uploads/exploring-versatility-in-event-trailers-part-1-thumbnail.png
 content_section:
   - text_block_markdown: >-
       At EventNetUSA, we supply mobile marketing trailers to a variety of
