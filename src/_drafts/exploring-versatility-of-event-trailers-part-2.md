@@ -2,8 +2,10 @@
 title: Exploring Versatility of Event Trailers Part 2
 date: 2017-08-23 00:00:00
 filter: insights
-featured_post: false
-excerpt:
+featured_post: true
+excerpt: >-
+  Today we’re taking a look at the largest member of EventNetUSA’s fleet, our
+  53” trailer.
 hero_image_path: /uploads/part-2-hero-image.png
 thumbnail_image_path: /uploads/exploring-versatility-in-event-trailers-part-1-thumbnail.png
 content_section:
@@ -41,7 +43,9 @@ content_section:
 
       * 8'x20' drop down stage and hospitality area
 
-      * Full interior and exterior graphic with coordinating skirt
+      * Full interior and exterior graphics with coordinating skirt
+
+      * Fully customizable interior buildout
 
       * Three entry/exit points for controlled traffic flow
 
@@ -67,8 +71,25 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: >-
+      ### JUNE 2016: OWNERS.COM OPEN HOUSE TOUR
+
+
+      * Custom buildout to represent open house
+
+      * Interactive digital stations educated consumers and agents on Owners.com
+      platform
+
+      * "Backyard" setup invited guests to stay awhile and enjoy the event
+    single_image_block:
+      single_image_path: /uploads/owners-1.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id: p5QpmqFpp0Y
   - text_block_markdown: |-
-      ### REVLON: LOVE IS ON TOUR
+      ### SEPTEMBER 2015: REVLON LOVE IS ON TOUR
 
       * Insert
       * Insert
@@ -88,15 +109,7 @@ content_section:
       image_2_path: /uploads/kevin-danielle-jonas-revlon04.jpg
     video_block:
       video_id:
-  - text_block_markdown: '### MAYBELLINE: GREAT BEAUTY TOUR'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '### MAYBELLINE: COLOUR SENSATIONAL TOUR'
+  - text_block_markdown: '### MAY 2015: MAYBELLINE COLOUR SENSATIONAL TOUR'
     single_image_block:
       single_image_path: /uploads/dsc00433.jpg
     double_image_block:
@@ -104,7 +117,7 @@ content_section:
       image_2_path: /uploads/dsc00454.jpg
     video_block:
       video_id:
-  - text_block_markdown: '### GARNIER: PURE CLEAN TOUR'
+  - text_block_markdown: '### MAY 2014: GARNIER PURE CLEAN TOUR'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -112,14 +125,14 @@ content_section:
       image_2_path:
     video_block:
       video_id: RSU1I0GjfJc
-  - text_block_markdown: '### OWNERS.COM: OPEN HOUSE TOUR'
+  - text_block_markdown: '### JUNE 2013: MAYBELLINE GREAT BEAUTY TOUR'
     single_image_block:
-      single_image_path: /uploads/owners-1.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
-      video_id: p5QpmqFpp0Y
+      video_id:
 ---
 
 
