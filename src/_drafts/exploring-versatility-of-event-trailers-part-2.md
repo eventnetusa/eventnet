@@ -128,10 +128,10 @@ content_section:
       video_id: RSU1I0GjfJc
   - text_block_markdown: '### JUNE 2013: MAYBELLINE GREAT BEAUTY TOUR'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/maybelline-great-beauty.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/maybelline-great-beauty-setup.jpg
+      image_2_path: /uploads/maybelline-great-beauty-interior.jpg
     video_block:
       video_id:
 ---
