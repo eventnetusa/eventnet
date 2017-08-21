@@ -91,9 +91,10 @@ content_section:
   - text_block_markdown: |-
       ### SEPTEMBER 2015: REVLON LOVE IS ON TOUR
 
-      * Insert
-      * Insert
-      * Insert
+      * From Mobile Open House to Mobile Retail Store
+      * Floor to ceiling product displays
+      * POS system for onsite purchases
+      * Social media staging area
     single_image_block:
       single_image_path: /uploads/revlon-case-6.jpg
     double_image_block:
