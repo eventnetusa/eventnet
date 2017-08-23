@@ -179,7 +179,18 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '### JUNE 2013: MAYBELLINE GREAT BEAUTY TOUR'
+  - text_block_markdown: >-
+      ### JUNE 2013: MAYBELLINE GREAT BEAUTY TOUR
+
+
+      * From Hair Care on a Mission to PopUp Beauty Salon
+
+      * Professional grade beauty stations inside trailer for product
+      demonstrations and makeovers
+
+      * Presentations and product demonstrations on stage
+
+      * Custom header for added height and visibility&nbsp;
     single_image_block:
       single_image_path: /uploads/maybelline-great-beauty.jpg
     double_image_block:
