@@ -1,6 +1,6 @@
 ---
 title: Exploring Versatility of Event Trailers Part 2
-date: 2017-08-23 00:00:00
+date: 2017-08-22 00:00:00
 filter: insights
 featured_post: true
 excerpt: >-
