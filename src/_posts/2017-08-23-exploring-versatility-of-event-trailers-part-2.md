@@ -51,6 +51,8 @@ content_section:
 
       * Fully customizable interior buildout
 
+      * Low-profile recessed and track lighting
+
       * Three entry/exit points for controlled traffic flow
 
       * Retractable 20'x45' canopy for optional covered event area
