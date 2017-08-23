@@ -108,7 +108,7 @@ content_section:
   - text_block_markdown: |-
       ### SEPTEMBER 2015: REVLON LOVE IS ON TOUR
 
-      * From Mobile Open House to Mobile Retail Store
+      * Mobile Retail Store
       * Floor to ceiling product displays and demo stations
       * POS system for onsite purchases
       * Social media staging area
@@ -139,7 +139,7 @@ content_section:
   - text_block_markdown: |-
       ### MAY 2015: MAYBELLINE COLOUR SENSATIONAL TOUR
 
-      * From Mobile Retail Store to PR Event Pop-Up Shop
+      * PR Event Pop-Up Shop
       * Product demonstration stage
       * Consumer lounge
       * Professional grade beauty stations
@@ -163,7 +163,7 @@ content_section:
       ### MAY 2014: GARNIER PURE CLEAN TOUR
 
 
-      * From PR Event Pop-Up Shop to Hair Care on a Mission
+      * Hair Care Pop-Up Shop on a Mission
 
       * Self-guided education stations inside trailer taught guests about the
       importance of sustainable beauty products
@@ -190,7 +190,7 @@ content_section:
       ### JUNE 2013: MAYBELLINE GREAT BEAUTY TOUR
 
 
-      * From Hair Care on a Mission to PopUp Beauty Salon
+      * Mobile Pop-Up Beauty Salon
 
       * Professional grade beauty stations inside trailer for product
       demonstrations and makeovers
