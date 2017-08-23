@@ -15,7 +15,7 @@ content_section:
       a&nbsp;[53’ trailer transformed into a pop-up
       shop](https://www.eventnetusa.com/work/revlon-love-is-on-tour/)&nbsp;or
       an&nbsp;[iconic Airstream turned Mobile Tea
-      Bar](https://www.eventnetusa.com/work/bigelow-tea/), we’ve got a mobile
+      Bar](https://www.eventnetusa.com/work/bigelow-tea/), we have a mobile
       solution to take your brand on the road.
 
 
