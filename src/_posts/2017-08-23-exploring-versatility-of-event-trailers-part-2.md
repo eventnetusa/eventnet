@@ -43,6 +43,8 @@ content_section:
 
       * 350 sqft interior space to showcase products and services
 
+      * Climate controlled
+
       * 8'x20' drop down stage and hospitality area
 
       * Full interior and exterior graphics with coordinating skirt
