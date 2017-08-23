@@ -27,7 +27,7 @@ content_section:
 
 
       Today we’re taking a look at the largest member of EventNetUSA’s fleet,
-      our 53” event trailer. Not your typical box on wheels, our 53’ event
+      our 53' event trailer. Not your typical box on wheels, our 53’ event
       trailer is equipped with all the bells and whistles to transform for any
       brand on the road.
     single_image_block:
