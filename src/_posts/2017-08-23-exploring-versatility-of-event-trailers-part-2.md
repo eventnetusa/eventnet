@@ -86,6 +86,8 @@ content_section:
       platform
 
       * "Backyard" setup invited guests to stay awhile and enjoy the event
+
+      * Read the full case study [here](/work/owners/).
     single_image_block:
       single_image_path: /uploads/owners-1.jpg
     double_image_block:
@@ -108,6 +110,7 @@ content_section:
       * Floor to ceiling product displays and demo stations
       * POS system for onsite purchases
       * Social media staging area
+      * Read the case study [here](/work/revlon-love-is-on-tour/).
     single_image_block:
       single_image_path: /uploads/revlon-case-6.jpg
     double_image_block:
