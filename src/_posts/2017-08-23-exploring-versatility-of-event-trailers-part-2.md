@@ -132,6 +132,7 @@ content_section:
   - text_block_markdown: |-
       ### MAY 2015: MAYBELLINE COLOUR SENSATIONAL TOUR
 
+      * From Mobile Retail Store to PR Event Pop-Up Shop
       * Product demonstration stage
       * Consumer lounge
       * Professional grade beauty stations
@@ -151,12 +152,23 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '### MAY 2014: GARNIER PURE CLEAN TOUR'
+  - text_block_markdown: >-
+      ### MAY 2014: GARNIER PURE CLEAN TOUR
+
+
+      * From PR Event Pop-Up Shop to Hair Care on a Mission
+
+      * Self-guided education stations inside trailer taught guests about the
+      importance of sustainable beauty products
+
+      * Product demonstrations inside and outside under canopy
+
+      * Social media staging and celebrity interview area
     single_image_block:
       single_image_path: /uploads/garnier-pure-clean-tour.jpg
     double_image_block:
-      image_1_path: /uploads/garnier-pure-clean-tour-interior.jpg
-      image_2_path: /uploads/garnier-pure-clean-tour-interior2.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id: RSU1I0GjfJc
   - text_block_markdown: '---'
