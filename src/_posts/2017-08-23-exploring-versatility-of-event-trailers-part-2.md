@@ -21,13 +21,15 @@ content_section:
 
       Last month, we explored the versatility of our custom designed brand bar
       and how it transformed for clients like Maybelline, Vlasic, Yoplait,
-      Garnier Fructis and McDonald’s. Check it out here if you missed it.
+      Garnier Fructis and McDonald’s. Click
+      [here](/blog/exploring-versatility-of-event-trailers-part-1/) if you
+      missed it.
 
 
       Today we’re taking a look at the largest member of EventNetUSA’s fleet,
-      our 53” trailer. Not your typical box on wheels, our 53’ event trailer is
-      equipped with all the bells and whistles to transform for any brand on the
-      road.
+      our 53” event trailer. Not your typical box on wheels, our 53’ event
+      trailer is equipped with all the bells and whistles to transform for any
+      brand on the road.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -75,7 +77,8 @@ content_section:
       ### JUNE 2016: OWNERS.COM OPEN HOUSE TOUR
 
 
-      * Custom buildout to represent open house
+      * Custom buildout to represent open house, complete with front porch and
+      pitched roof
 
       * Interactive digital stations educated consumers and agents on Owners.com
       platform
