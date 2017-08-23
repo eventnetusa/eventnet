@@ -91,7 +91,7 @@ content_section:
       image_2_path: /uploads/owners-case-5.png
     video_block:
       video_id: p5QpmqFpp0Y
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -121,7 +121,7 @@ content_section:
       image_2_path: /uploads/kevin-danielle-jonas-revlon04.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -143,7 +143,7 @@ content_section:
       image_2_path: /uploads/picture1-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -159,7 +159,7 @@ content_section:
       image_2_path: /uploads/garnier-pure-clean-tour-interior2.png
     video_block:
       video_id: RSU1I0GjfJc
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -173,6 +173,16 @@ content_section:
     double_image_block:
       image_1_path: /uploads/maybelline-great-beauty-setup.jpg
       image_2_path: /uploads/maybelline-great-beauty-interior.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      ### How will we transform the 53' event trailer for your next mobile tour?
+      [Let's talk!](/contact/)
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 ---
