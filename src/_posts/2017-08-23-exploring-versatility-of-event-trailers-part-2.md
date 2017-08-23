@@ -91,6 +91,14 @@ content_section:
       image_2_path: /uploads/owners-case-5.png
     video_block:
       video_id: p5QpmqFpp0Y
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: |-
       ### SEPTEMBER 2015: REVLON LOVE IS ON TOUR
 
@@ -113,6 +121,14 @@ content_section:
       image_2_path: /uploads/kevin-danielle-jonas-revlon04.jpg
     video_block:
       video_id:
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: |-
       ### MAY 2015: MAYBELLINE COLOUR SENSATIONAL TOUR
 
@@ -127,6 +143,14 @@ content_section:
       image_2_path: /uploads/picture1-1.jpg
     video_block:
       video_id:
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: '### MAY 2014: GARNIER PURE CLEAN TOUR'
     single_image_block:
       single_image_path: /uploads/garnier-pure-clean-tour.jpg
@@ -135,6 +159,14 @@ content_section:
       image_2_path: /uploads/garnier-pure-clean-tour-interior2.png
     video_block:
       video_id: RSU1I0GjfJc
+  - text_block_markdown: ________________________________________
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: '### JUNE 2013: MAYBELLINE GREAT BEAUTY TOUR'
     single_image_block:
       single_image_path: /uploads/maybelline-great-beauty.jpg
