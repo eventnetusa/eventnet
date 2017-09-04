@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
 large_headline: RACE TO THE CONSUMERS
-hero_image_path: /uploads/collage-for-8-reasons.png
+hero_image_path:
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
