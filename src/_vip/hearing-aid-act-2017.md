@@ -139,8 +139,20 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       <u><strong>LET'S TALK POP-UP</strong></u>
+
+
+      * We teamed up with [HCSC](https://www.eventnetusa.com/work/hcsc/) to
+      create a mall pop-up store within their demographic, complete with a
+      greeter capturing data and scheduling appointments, a General Manager to
+      over see day to day operations and one-on-one consultations with
+      agents.&nbsp;
+
+      * NYX Cosmetics pop-up
+
+      * Cetaphil or Aetna
+
 
       &nbsp;
     single_image_block:
