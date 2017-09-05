@@ -149,9 +149,9 @@ content_section:
       over see day to day operations and one-on-one consultations with
       agents.&nbsp;
 
-      * NYX Cosmetics pop-up
-
       * Cetaphil or Aetna
+
+      * NYX Cosmetics pop-up
 
 
       &nbsp;
