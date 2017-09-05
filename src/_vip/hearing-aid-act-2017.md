@@ -140,7 +140,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      <u><strong>LET'S TALK POP-UP</strong></u>
+      <u><strong>LET'S SURPRISE AND DELIGHT</strong></u>
 
 
       * We teamed up with [HCSC](https://www.eventnetusa.com/work/hcsc/) to
@@ -155,6 +155,44 @@ content_section:
 
 
       &nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: |-
+      <u><strong>LET'S MAKE AN IMPRESSION</strong></u>
+
+      * &nbsp;
+      * CBS Interactive/Mini Cooper
+      * FPL or Jet Blue story booth
+
+      &nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      <u><strong>LET'S TALK ONE-ON-ONE</strong></u>
+
+
+      * We educated consumers for Humana's National Seminar Tour which included
+      lunch, a presentation, free health screenings, Silver Sneakers fitness
+      classes and an exit survey.
+
+      * We brought Garnier Olia to Walgreens locations and offered customers
+      by-appointment consultations, coloring thousands of women’s hair and
+      offering personalized recommendations for Garnier Olia Style products
+
+      * We partnered with Revlon to produce the [LOVE IS ON
+      TOUR](https://www.eventnetusa.com/work/revlon-love-is-on-tour/) which
+      included a product sample bar, personal consultations with licensed
+      beauticians, and professional makeovers and manicures.
     single_image_block:
       single_image_path:
     double_image_block:
