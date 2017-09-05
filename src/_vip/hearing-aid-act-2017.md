@@ -187,7 +187,7 @@ content_section:
 
       * We brought Garnier Olia to Walgreens locations and offered customers
       by-appointment consultations, coloring thousands of women’s hair and
-      offering personalized recommendations for Garnier Olia Style products
+      offering personalized recommendations for style products.
 
       * We partnered with Revlon to produce the [LOVE IS ON
       TOUR](https://www.eventnetusa.com/work/revlon-love-is-on-tour/) which
