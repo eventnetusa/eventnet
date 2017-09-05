@@ -166,7 +166,7 @@ content_section:
       <u><strong>LET'S MAKE AN IMPRESSION</strong></u>
 
 
-      * &nbsp;
+      * Insurance stunt
 
       * We helped [Mini
       Cooper](https://www.eventnetusa.com/work/mini-in-a-stadium/)debut in the
