@@ -59,7 +59,7 @@ content_section:
 
       * Provide hearing tests to evaluate consumer needs
 
-      * Sample your hearing aids to find the one that is best for them
+      * Sample hearing aids to targeted consumers
 
       * Drive sales onsite, through retail integration, and by directing to
       website.
