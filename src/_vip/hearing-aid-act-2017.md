@@ -130,16 +130,16 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/16-1.png
-      image_2_path: /uploads/17-1.png
+      image_1_path: /uploads/18-2.jpg
+      image_2_path: /uploads/19-1.png
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/18-2.jpg
-      image_2_path: /uploads/19-1.png
+      image_1_path: /uploads/16-1.png
+      image_2_path: /uploads/17-1.png
     video_block:
       video_id:
   - text_block_markdown:
