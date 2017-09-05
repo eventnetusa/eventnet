@@ -7,7 +7,7 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to make your next event your greatest?
+cta_headline: Ready to lead the race in OTC Hearing Aid consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Brand Objectives
@@ -46,7 +46,7 @@ sidebar_text_markdown: |-
   * Risk Management
   * Reporting
 
-  ### **Where can we take your brand?**
+  ### &nbsp;
 
   ### &nbsp;
 content_section:
