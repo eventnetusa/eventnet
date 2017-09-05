@@ -65,7 +65,7 @@ content_section:
       website.
 
 
-      Take a look at some of the things we've done below.
+      **CREATING ONE-ON-ONE BRAND EXPERIENCES**
     single_image_block:
       single_image_path:
     double_image_block:
