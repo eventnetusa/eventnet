@@ -112,6 +112,33 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: >-
+      <u><strong>LET'S GO MOBILE</strong></u>
+
+
+      * &nbsp;We conceptualized, designed and executed
+      [Humana's](https://www.eventnetusa.com/work/humana-rvs/) national “Let’s
+      Talk” Campaign in partnership with Walmart reaching over 250,000 consumers
+      in the Year 1 of the program.
+
+      * Converted a 35’ RV into a mobile office inclusive of 2 private offices
+      for Blue Cross Blue Shield in partnership with Target.
+
+
+      * We researched, scheduled and executed three US tours for[ Bigelow
+      Tea](https://www.eventnetusa.com/work/bigelow-tea/)&nbsp;garnering over
+      175,000 one-on-one interactions and 10 million + over the road
+      impressions.
+
+
+      &nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type: B2C will not show header or footer
