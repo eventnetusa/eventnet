@@ -94,8 +94,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/1-1.jpg
+      image_2_path: /uploads/20.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -105,8 +105,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/3-1.jpg
+      image_2_path: /uploads/2-2.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -116,8 +116,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/4-1.JPG
+      image_2_path: /uploads/14.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
