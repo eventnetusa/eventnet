@@ -65,7 +65,7 @@ content_section:
       website.</div>
 
 
-      ### **CREATING ONE-ON-ONE BRAND EXPERIENCES**
+      ### &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -74,7 +74,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      &nbsp;
+      ## **CREATING ONE-ON-ONE BRAND EXPERIENCES**
 
       &nbsp;
     single_image_block:
