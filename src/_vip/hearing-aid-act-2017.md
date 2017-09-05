@@ -51,8 +51,7 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      We excel in live reach, education, screenings, product trial, and sales
-      activation.&nbsp;
+      We excel in sales activation's to your targeted consumers.&nbsp;
 
 
       * Educate consumers about OTC hearing aids
