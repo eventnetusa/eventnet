@@ -9,71 +9,46 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to make your next event your greatest?
 cta_text: Let's Talk!
-sidebar_text_markdown: >-
-  ### Turnkey Service Offerings Include
+sidebar_text_markdown: |-
+  ### Brand Objectives
 
+  * Education
+  * Demonstration
+  * "Hands On" Screening
+  * Consultation
+  * Lead Generation
+  * Retail Integration
 
-  * Ideation, Design & Brand Customization
+  ### Take Your Hearing Aids To
 
-  * Graphic & Display Production
-
-  * Venue & Vehicle Procurement
-
-  * Routing & Logistics
-
-  * Permitting & Legal
-
-  * Staff & Training
-
-  * Social Media Integration
-
-  * Budget Forecasting
-
-  * Account Management
-
-  * Liability Insurance
-
-  * Risk Management
-
-  * Reporting
-
+  * Malls/Retail Locations
+  * Special Events
+  * Sporting Events
+  * Trade Shows
+  * Universities
+  * Fairs & Festivals
+  * Socially Active Retirement Communities
 
   &nbsp;
 
+  ### Turnkey Service Offerings Include
 
-  ### Bragworthy Hightlights
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue & Vehicle Procurement
+  * Routing & Logistics
+  * Permitting & Legal
+  * Staff & Training
+  * Social Media Integration
+  * Budget Forecasting
+  * Account Management
+  * Liability Insurance
+  * Risk Management
+  * Reporting
 
+  ### **Where can we take your brand?**
 
-  * Named Top Event Marketing Agency for 15th year on Event Marketer's [It
-  List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/)
-
-  * Built private tropical island in the Hudson River for one lucky family's
-  Fine Living vacation
-
-  * Granted security clearance for producing high profile PR Events by both
-  United States Homeland Security and Secret Service
-
-  * Managed over 1,500 event days over past 5 years. That's over 310 event day's
-  per year
-
-  * Managed over 140 different Mobile Marketing Vehicle Tours over past 10 years
-
-  * Produced consumer events for major sports organizations including NBA, NFL,
-  MLB and PGA
-
-  * Delivered major client brand exposure at some of the world's largest events
-  including the ESPY Awards, NBA All-Star Game, Grammy's, Emmy's, New York
-  Fashion Week, US Women's Open Ski Tournament and Super Bowl XLIV
-
-  * Agency of record for Mini Cooper's US launch
-
-  * Introduced Affordable Care Act to thousands of consumers for one of the
-  country's top Health Insurance Providers
-
-  * Only agency It List agency named for Health Insurance Activations
-
-  * Led digital fantasy sports phenomenon by taking CBS Interactive on the road
-  to debut its fantasy sports website
+  ### &nbsp;
 content_section:
   - text_block_markdown: >-
       We excel in live reach, education, screenings, product trial, and sales
@@ -191,8 +166,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/24.png
+      image_2_path: /uploads/25.jpg
     video_block:
       video_id:
 _comments:
