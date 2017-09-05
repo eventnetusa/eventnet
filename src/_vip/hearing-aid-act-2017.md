@@ -61,11 +61,11 @@ content_section:
 
       * Sample hearing aids to targeted consumers
 
-      * Drive sales onsite, through retail integration, and by directing to
-      website.
+      * <div>Drive sales onsite, through retail integration, and by directing to
+      website.</div>
 
 
-      **CREATING ONE-ON-ONE BRAND EXPERIENCES**
+      ### **CREATING ONE-ON-ONE BRAND EXPERIENCES**
     single_image_block:
       single_image_path:
     double_image_block:
