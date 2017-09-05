@@ -75,7 +75,36 @@ sidebar_text_markdown: >-
   * Led digital fantasy sports phenomenon by taking CBS Interactive on the road
   to debut its fantasy sports website
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      The OTC Hearing Aid Act of 2017 has been passed and now the race to
+      consumers has begun! For the past 41 years EventNetUSA has been bringing
+      exciting and innovative consumer brand experiences to every market and
+      demographic in a timely fashion.&nbsp;
+
+
+      EventMarketer's 2017 It List says that "We can do the impossible" and we
+      do not disappoint.
+
+
+      EventNetUSA excels in live reach, education, screenings, product trial,
+      and sales activation. Let us help you:
+
+
+      * Educate consumers about the OTC hearing aids with pop-up kiosks that can
+      also provide hearing tests.
+
+      * Educate, sample and sell your new OTC hearing aids at pop-up stores
+
+      * We can even take your products on the road with a mobile tour educating
+      consumers in heavily trafficked areas across the country.
+
+
+      Our clients include top consumer brands from fashion, health/wellness,
+      food, beverage, and sports. Take a look at some of the things we've done
+      below.
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
