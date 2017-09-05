@@ -76,33 +76,30 @@ sidebar_text_markdown: >-
   to debut its fantasy sports website
 content_section:
   - text_block_markdown: >-
-      The OTC Hearing Aid Act of 2017 has been passed and now the race to
-      consumers has begun! For the past 41 years EventNetUSA has been bringing
-      exciting and innovative consumer brand experiences to every market and
-      demographic in a timely fashion.&nbsp;
+      We excel in live reach, education, screenings, product trial, and sales
+      activation. Let us help you:
 
 
-      EventMarketer's 2017 It List says that "We can do the impossible" and we
-      do not disappoint.
+      * Educate consumers about OTC hearing aids
+
+      * Provide hearing tests to evaluate consumer needs
+
+      * Sample your hearing aids to find the one that is best for them
+
+      * Drive sales onsite, through retail integration, and by directing to
+      website.
 
 
-      EventNetUSA excels in live reach, education, screenings, product trial,
-      and sales activation. Let us help you:
-
-
-      * Educate consumers about the OTC hearing aids with pop-up kiosks that can
-      also provide hearing tests.
-
-      * Educate, sample and sell your new OTC hearing aids at pop-up stores
-
-      * We can even take your products on the road with a mobile tour educating
-      consumers in heavily trafficked areas across the country.
-
-
-      Our clients include top consumer brands from fashion, health/wellness,
-      food, beverage, and sports. Take a look at some of the things we've done
-      below.
-
+      Take a look at some of the things we've done below.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: |-
+      &nbsp;
 
       &nbsp;
     single_image_block:
@@ -112,24 +109,8 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      <u><strong>LET'S GO MOBILE</strong></u>
-
-
-      * &nbsp;We conceptualized, designed and executed
-      [Humana's](https://www.eventnetusa.com/work/humana-rvs/) national “Let’s
-      Talk” Campaign in partnership with Walmart reaching over 250,000 consumers
-      in the Year 1 of the program.
-
-      * Converted a 35’ RV into a mobile office inclusive of 2 private offices
-      for Blue Cross Blue Shield in partnership with Target.
-
-
-      * We researched, scheduled and executed three US tours for[ Bigelow
-      Tea](https://www.eventnetusa.com/work/bigelow-tea/)&nbsp;garnering over
-      175,000 one-on-one interactions and 10 million + over the road
-      impressions.
-
+  - text_block_markdown: |-
+      &nbsp;
 
       &nbsp;
     single_image_block:
@@ -139,20 +120,8 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      <u><strong>LET'S SURPRISE AND DELIGHT</strong></u>
-
-
-      * We teamed up with [HCSC](https://www.eventnetusa.com/work/hcsc/) to
-      create a mall pop-up store within their demographic, complete with a
-      greeter capturing data and scheduling appointments, a General Manager to
-      over see day to day operations and one-on-one consultations with
-      agents.&nbsp;
-
-      * Cetaphil or Aetna
-
-      * NYX Cosmetics pop-up
-
+  - text_block_markdown: |-
+      &nbsp;
 
       &nbsp;
     single_image_block:
@@ -162,45 +131,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      <u><strong>LET'S MAKE AN IMPRESSION</strong></u>
-
-
-      * Insurance stunt
-
-      * We helped [Mini
-      Cooper](https://www.eventnetusa.com/work/mini-in-a-stadium/)debut in the
-      U.S. by placing the never-before-seen car in the stands of the New Orleans
-      Saints Super Dome during a Monday Night Football Game.CBS Interactive/Mini
-      Cooper
-
-      * FPL or Jet Blue story booth
-
-
-      &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      <u><strong>LET'S TALK ONE-ON-ONE</strong></u>
-
-
-      * We educated consumers for Humana's National Seminar Tour which included
-      lunch, a presentation, free health screenings, Silver Sneakers fitness
-      classes and an exit survey.
-
-      * We brought Garnier Olia to Walgreens locations and offered customers
-      by-appointment consultations, coloring thousands of women’s hair and
-      offering personalized recommendations for style products.
-
-      * We partnered with Revlon to produce the [LOVE IS ON
-      TOUR](https://www.eventnetusa.com/work/revlon-love-is-on-tour/) which
-      included a product sample bar, personal consultations with licensed
-      beauticians, and professional makeovers and manicures.
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
