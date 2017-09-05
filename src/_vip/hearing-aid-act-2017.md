@@ -74,7 +74,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      ## **CREATING UNIQUE ONE-ON-ONE BRAND EXPERIENCES**
+      # **CREATING UNIQUE ONE-ON-ONE BRAND EXPERIENCES**
 
       &nbsp;
     single_image_block:
