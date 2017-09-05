@@ -51,7 +51,8 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      We excel in sales activation's to your targeted consumers.&nbsp;
+      ### We excel in activation's that promote sales, education and brand reach
+      for your targeted consumers.
 
 
       * Educate consumers about OTC hearing aids
@@ -64,7 +65,7 @@ content_section:
       website.</div>
 
 
-      # **CREATING UNIQUE ONE-ON-ONE BRAND EXPERIENCES**
+      ### **VIEW HOW WE CREATE UNIQUE ONE-ON-ONE BRAND EXPERIENCES**
     single_image_block:
       single_image_path:
     double_image_block:
