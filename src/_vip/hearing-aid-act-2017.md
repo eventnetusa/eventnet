@@ -162,12 +162,20 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       <u><strong>LET'S MAKE AN IMPRESSION</strong></u>
 
+
       * &nbsp;
-      * CBS Interactive/Mini Cooper
+
+      * We helped [Mini
+      Cooper](https://www.eventnetusa.com/work/mini-in-a-stadium/)debut in the
+      U.S. by placing the never-before-seen car in the stands of the New Orleans
+      Saints Super Dome during a Monday Night Football Game.CBS Interactive/Mini
+      Cooper
+
       * FPL or Jet Blue story booth
+
 
       &nbsp;
     single_image_block:
