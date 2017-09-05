@@ -51,7 +51,7 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### We excel in activation's that promote sales, education and brand reach
+      ### We excel in activations that promote sales, education and brand reach
       for your targeted consumers.
 
 
@@ -159,7 +159,7 @@ content_section:
       image_2_path: /uploads/25-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: '## Contact us today!'
+  - text_block_markdown: '## [Contact us today!](https://www.eventnetusa.com/contact/)'
     single_image_block:
       single_image_path:
     double_image_block:
