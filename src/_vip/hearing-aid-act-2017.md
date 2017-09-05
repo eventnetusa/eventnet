@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: RACE TO THE CONSUMERS
-hero_image_path:
+large_headline: LET US HELP YOU GAME-CHANGERS IN OTC HEARING AIDS CONSUMER MARKETING
+hero_image_path: /uploads/hearing-aid-collage.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
@@ -70,7 +70,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/1-2.jpg
-      image_2_path: /uploads/2-3.jpg
+      image_2_path: /uploads/2a.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -167,7 +167,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/24-1.png
-      image_2_path: /uploads/25.jpg
+      image_2_path: /uploads/25-1.jpg
     video_block:
       video_id:
   - text_block_markdown: '## Contact us today!'
