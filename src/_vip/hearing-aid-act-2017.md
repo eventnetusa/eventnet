@@ -69,8 +69,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/1-1.jpg
-      image_2_path: /uploads/20.jpg
+      image_1_path: /uploads/1-2.jpg
+      image_2_path: /uploads/2-3.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -80,8 +80,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/3-1.jpg
-      image_2_path: /uploads/2-2.jpg
+      image_1_path: /uploads/3-2.jpg
+      image_2_path: /uploads/4-1.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -91,8 +91,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/4-1.JPG
-      image_2_path: /uploads/14.jpg
+      image_1_path: /uploads/5.JPG
+      image_2_path: /uploads/6.png
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -102,31 +102,31 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/7a.jpg
-      image_2_path: /uploads/8a.jpg
+      image_1_path: /uploads/7-1.jpg
+      image_2_path: /uploads/8-1.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/10.jpg
-      image_2_path: /uploads/9-2.jpg
+      image_1_path: /uploads/9-3.jpg
+      image_2_path: /uploads/10-1.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/12.jpg
-      image_2_path: /uploads/14-1.jpg
+      image_1_path: /uploads/12-1.jpg
+      image_2_path: /uploads/13.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/14a.jpg
+      image_1_path: /uploads/14-2.jpg
       image_2_path: /uploads/15a.jpg
     video_block:
       video_id:
@@ -134,24 +134,24 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/16.png
-      image_2_path: /uploads/17.png
+      image_1_path: /uploads/16-1.png
+      image_2_path: /uploads/17-1.png
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/18-1.jpg
-      image_2_path: /uploads/19.png
+      image_1_path: /uploads/18-2.jpg
+      image_2_path: /uploads/19-1.png
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/20-1.jpg
-      image_2_path: /uploads/21.jpg
+      image_1_path: /uploads/20-2.jpg
+      image_2_path: /uploads/21-1.jpg
     video_block:
       video_id:
   - text_block_markdown:
@@ -166,7 +166,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/24.png
+      image_1_path: /uploads/24-1.png
       image_2_path: /uploads/25.jpg
     video_block:
       video_id:
