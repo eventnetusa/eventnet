@@ -1,6 +1,6 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: LET US HELP YOU BE GAME-CHANGERS IN OTC HEARING AIDS CONSUMER MARKETING
+large_headline: BE GAME-CHANGERS IN OTC HEARING AID CONSUMER MARKETING
 hero_image_path: /uploads/hearing-aid-collage-2.jpg
 vip_project_type: B2B
 hide_social_links: false
