@@ -122,7 +122,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/14-2.jpg
-      image_2_path: /uploads/15a.jpg
+      image_2_path: /uploads/mets-game-august-20-2005-016-2.jpg
     video_block:
       video_id:
   - text_block_markdown:
