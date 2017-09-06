@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to lead the race in OTC Hearing Aid consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Brand Objectives
+  ### Generate Consumer Sales Through
 
   * Education
   * Demonstration
