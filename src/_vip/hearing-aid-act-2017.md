@@ -50,7 +50,7 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       ### We excel in activations that promote sales, education and brand reach
-      for your targeted consumers.
+      to targeted consumers.
 
 
       * Educate consumers about OTC hearing aids
@@ -59,7 +59,7 @@ content_section:
 
       * Sample hearing aids to targeted consumers
 
-      * <div>Drive sales onsite, through retail integration, and by directing to
+      * <div>Drive sales onsite, through retail integration, and directing to
       website.</div>
 
 
