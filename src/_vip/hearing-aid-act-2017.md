@@ -19,7 +19,7 @@ sidebar_text_markdown: |-
   * Lead Generation
   * Retail Integration
 
-  ### Take Your Hearing Aids To
+  ### Deliver Your Message At
 
   * Malls/Retail Locations
   * Special Events
@@ -29,9 +29,7 @@ sidebar_text_markdown: |-
   * Fairs & Festivals
   * Socially Active Retirement Communities
 
-  &nbsp;
-
-  ### Turnkey Service Offerings Include
+  ### Turnkey Services &nbsp;Include
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
