@@ -49,8 +49,8 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### We excel in activations that promote sales, education and brand reach
-      to targeted consumers.
+      ### You can introduce your new OTC hearing aid through activations that
+      promote sales, education and brand reach to targeted consumers.
 
 
       * Educate consumers about OTC hearing aids
@@ -63,7 +63,10 @@ content_section:
       website.</div>
 
 
-      #### **VIEW HOW WE CREATE UNIQUE ONE-ON-ONE BRAND EXPERIENCES BELOW**
+      #### **Experience our unique activations below**
+
+
+      <u><strong>POP-UP SHOP</strong></u>
     single_image_block:
       single_image_path:
     double_image_block:
@@ -71,7 +74,7 @@ content_section:
       image_2_path: /uploads/2-4.jpg
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: <u><strong>MOBILE TRAILER</strong></u>
     single_image_block:
       single_image_path:
     double_image_block:
@@ -80,7 +83,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      BCBS KIOSK
+      <u><b>POP-UP KIOSK</b></u>
 
       &nbsp;
     single_image_block:
@@ -90,7 +93,7 @@ content_section:
       image_2_path: /uploads/16-2.png
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: '**<u>53'' EVENT TRAILER &amp; POP-UP STORE</u>**'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -98,7 +101,7 @@ content_section:
       image_2_path: /uploads/dsc00488.jpg
     video_block:
       video_id:
-  - text_block_markdown: RV Trailer
+  - text_block_markdown: '**<u>RV TRAILER</u>**'
     single_image_block:
       single_image_path:
     double_image_block:
