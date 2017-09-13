@@ -67,85 +67,26 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/1-2.jpg
+      image_1_path:
       image_2_path: /uploads/2-4.jpg
     video_block:
       video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/3-2.jpg
-      image_2_path: /uploads/4-1.jpg
-    video_block:
-      video_id:
   - text_block_markdown: |-
-      &nbsp;
+      BCBS KIOSK
 
       &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/16230986-1080890878689361-8655644439122804736-n-1.jpg
-      image_2_path: /uploads/6.png
+      image_1_path:
+      image_2_path: /uploads/16-2.png
     video_block:
       video_id:
-  - text_block_markdown: |-
-      &nbsp;
-
-      &nbsp;
+  - text_block_markdown: RV Trailer
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/4-3.JPG
-      image_2_path: /uploads/8-1.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/7-2.jpg
-      image_2_path: /uploads/18950417-347504298998880-5183928571680260096-n.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/15-1.jpg
-      image_2_path: /uploads/13.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/14-2.jpg
-      image_2_path: /uploads/mets-game-august-20-2005-016-2.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/18-2.jpg
-      image_2_path: /uploads/19-1.png
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/16-1.png
-      image_2_path: /uploads/17-1.png
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/22.png
+      image_1_path:
       image_2_path: /uploads/23.jpg
     video_block:
       video_id:
@@ -153,8 +94,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/24-1.png
-      image_2_path: /uploads/25-1.jpg
+      image_1_path:
+      image_2_path: /uploads/dsc00488.jpg
     video_block:
       video_id:
   - text_block_markdown: '## [Contact us today!](https://www.eventnetusa.com/contact/)'
@@ -163,6 +104,22 @@ content_section:
     double_image_block:
       image_1_path:
       image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path: /uploads/revlon-case-5.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path: /uploads/case-garnier.jpg
     video_block:
       video_id:
 _comments:
