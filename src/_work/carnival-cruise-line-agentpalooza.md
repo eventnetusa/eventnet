@@ -3,13 +3,15 @@ client: Carnival Cruise Line
 link_to_casestudy: true
 sort_number: 1
 headline: 2017 AGENTPALOOZA CAMPAIGN TOUR
-hover_text: 'Carnival Cruise Line retained EventNetUSA to produce and operate the 2017 AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.'
+hover_text: >-
+  Carnival Cruise Line retained EventNetUSA to produce and operate the 2017
+  AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.
 hero_image_path: /uploads/carnival-hero-image-2.jpg
 thumbnail_image_path: /uploads/thumbnail-image.png
 types:
   - pr event
   - vehicle tour
-cta_text: 'Let’s take your brand on a tour fit for a rock star!'
+cta_text: Let’s take your brand on a tour fit for a rock star!
 cta:
 sidebar_text_markdown: |-
   ### **QUICK STATS**
@@ -26,46 +28,31 @@ content_section:
       AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.
 
 
-
-
-
       Hosted by Carnival’s Executive Sales Team, AgentPalooza celebrated travel
       agents and the rock stars they are through exclusive, invite-only events.
-
-
-
 
 
       AgentPalooza cranked up the volume to create a true rock star experience.
       Travel agents arrived via limo entrance with paparazzi and fans crowding
       the red carpet, begging for autographs and photos. Stylists and makeup
-      teams brought out the inner-rocker in every agent for concert stage photos.
-      VIP swag bags and must-have giveaways topped every event, sending agents
-      home ready to rock for Carnival.&nbsp;
+      teams brought out the inner-rocker in every agent for concert stage
+      photos. VIP swag bags and must-have giveaways topped every event, sending
+      agents home ready to rock for Carnival.&nbsp;
 
 
-
-
-
-      Adolfo Perez, Vice President of Sales & Trade Marketing, even got a *Travel
-      Agents Rock* tattoo on stage to show his love for Carnival travel
+      Adolfo Perez, Vice President of Sales & Trade Marketing, even got a
+      *Travel Agents Rock* tattoo on stage to show his love for Carnival travel
       agents!&nbsp;
-
-
-
 
 
       **MARKETS:**
 
 
-
-
-
       * Houston, TX - Minute Maid Park - May 11<sup>th</sup>
 
       * New Orleans, LA - Mardi Gras World - May 12<sup>th</sup> &nbsp;…and
-      13<sup>th</sup>&nbsp;(We can’t control the weather but we can react quickly
-      to reschedule events when rain just won’t cooperate.)
+      13<sup>th</sup>&nbsp;(We can’t control the weather but we can react
+      quickly to reschedule events when rain just won’t cooperate.)
 
       * Charleston, SC - Patriot's Point Park - May 15<sup>th</sup>
 
@@ -76,13 +63,7 @@ content_section:
       * Orlando, FL Kissimmee "Park" - May 18<sup>th</sup>
 
 
-
-
-
       **EVENTS INCLUDED:**
-
-
-
 
 
       * AgentPalooza tour bus
@@ -104,13 +85,7 @@ content_section:
       * Prize and premium giveaways
 
 
-
-
-
       ### **HOW WE DID IT:**
-
-
-
 
 
       * Venue acquisition including defined venue criteria, comprehensive market
@@ -120,8 +95,8 @@ content_section:
       Carnival team, tour staff and event display materials from
       market-to-market
 
-      * Planned and managed tour routing, scheduling and logistics to comply with
-      DOT regulations and meet strict campaign timeline
+      * Planned and managed tour routing, scheduling and logistics to comply
+      with DOT regulations and meet strict campaign timeline
 
       * Designed and produced event set including branded tents, signage,
       banners, tables, chairs, rock star photo activation, stage and games
@@ -157,7 +132,7 @@ content_section:
       image_1_path: /uploads/jenga.png
       image_2_path:
     video_block:
-      video_id:
+      video_id: watch?v=98dgYMBBp2A&t=18s
 project_logos:
   - logo_image_path: /uploads/carnival-cruise-line.png
     logo_image_height:
