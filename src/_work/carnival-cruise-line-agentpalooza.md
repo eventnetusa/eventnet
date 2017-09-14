@@ -132,7 +132,7 @@ content_section:
       image_1_path: /uploads/jenga.png
       image_2_path:
     video_block:
-      video_id:
+      video_id: 98dgYMBBp2A
 project_logos:
   - logo_image_path: /uploads/carnival-cruise-line.png
     logo_image_height:
