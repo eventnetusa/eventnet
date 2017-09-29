@@ -114,6 +114,16 @@ content_section:
       image_2_path: /uploads/princepasta3.jpg
     video_block:
       video_id:
+  - text_block_markdown: >-
+      **How will we transform our 53’ event trailer for your next mobile
+      tour?&nbsp;[Let’s talk!](/contact/)**
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 ---
 
 
