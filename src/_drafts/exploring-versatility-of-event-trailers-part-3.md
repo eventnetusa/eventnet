@@ -64,14 +64,14 @@ content_section:
       **NYX Professional Makeup: Beauty + Swag Truck**
 
 
-      * **Converted food truck into custom Beauty + Swag Truck**
+      * Converted food truck into custom Beauty + Swag Truck
 
-      * **3 Makeup stations with vanities for product display and express lip
-      touch-ups**
+      * 3 Makeup stations with vanities for product display and express lip
+      touch-ups
 
-      * **Social media staging area**
+      * Social media staging area
 
-      * **Integrated AV monitor**
+      * Integrated AV monitor
     single_image_block:
       single_image_path: /uploads/20-1.jpg
     double_image_block:
@@ -82,10 +82,10 @@ content_section:
   - text_block_markdown: |-
       **Martinson Coffee: GREATER NORTHEAST SAMPLING**
 
-      * **Customized food truck including interior/exterior graphics**
-      * **Coffee brewing stations**
-      * **Sampling window**
-      * **Social media staging for #YouCantFakeReal contest**
+      * Customized food truck including interior/exterior graphics
+      * Coffee brewing stations
+      * Sampling window
+      * Social media staging for #YouCantFakeReal contest
     single_image_block:
       single_image_path: /uploads/martinson-coffee.jpg
     double_image_block:
@@ -110,8 +110,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/prince-pasta6.jpg
+      image_2_path: /uploads/princepasta3.jpg
     video_block:
       video_id:
 ---
