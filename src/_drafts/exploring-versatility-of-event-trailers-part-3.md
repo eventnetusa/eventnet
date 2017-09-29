@@ -83,7 +83,6 @@ content_section:
       **Martinson Coffee: GREATER NORTHEAST SAMPLING**
 
       * **Customized food truck including interior/exterior graphics**
-      * &nbsp;
       * **Coffee brewing stations**
       * **Sampling window**
       * **Social media staging for #YouCantFakeReal contest**
