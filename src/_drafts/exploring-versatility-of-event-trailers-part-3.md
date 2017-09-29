@@ -93,10 +93,20 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       **PRINCE PASTA: 100<sup>TH</sup> ANNIVERSARY SAMPLING TOUR**
 
-      * &nbsp;
+
+      * Customized kitchen equipment for cooking pasta recipes fresh on-the-go
+
+      * Food and health safety compliant
+
+      * Interior and exterior graphics
+
+      * Ordering/serving window
+
+      * Exterior audio and visual systems for entertaining patrons while waiting
+      to be served
     single_image_block:
       single_image_path:
     double_image_block:
