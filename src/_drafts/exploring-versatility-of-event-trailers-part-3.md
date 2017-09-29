@@ -60,16 +60,20 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      **October 2016: NYX: BEAUTY + SWAG TRUCK**
+  - text_block_markdown: >-
+      **NYX Professional Makeup: Beauty + Swag Truck**
 
-      * **Converted a food truck into a Beauty + Swag Truck**
-      * **3 makeup stations for product display**
-      * **Vanity for product demonstration**
+
+      * **Converted food truck into custom Beauty + Swag Truck**
+
+      * **3 Makeup stations with vanities for product display and express lip
+      touch-ups**
+
       * **Social media staging area**
+
       * **Integrated AV monitor**
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/20-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
