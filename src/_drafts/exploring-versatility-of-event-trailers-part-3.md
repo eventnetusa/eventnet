@@ -80,12 +80,15 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      **MARTINSON: GREATER NORTHEAST SAMPLING**
+      **Martinson Coffee: GREATER NORTHEAST SAMPLING**
 
-      * **Customized food truck including graphics**
-      * **Brewing capabilities**
+      * **Customized food truck including interior/exterior graphics**
+      * &nbsp;
+      * **Coffee brewing stations**
+      * **Sampling window**
+      * **Social media staging for #YouCantFakeReal contest**
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/martinson-coffee.jpg
     double_image_block:
       image_1_path:
       image_2_path:
