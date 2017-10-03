@@ -110,10 +110,10 @@ content_section:
       * Exterior audio and visual systems for entertaining patrons while waiting
       to be served
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/prince-mayor-boston-eventnetusa.jpg
     double_image_block:
-      image_1_path: /uploads/prince-pasta6.jpg
-      image_2_path: /uploads/princepasta3.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
