@@ -115,7 +115,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **How will we transform our 53’ event trailer for your next mobile
+      **How will we transform our food truck for your next mobile
       tour?&nbsp;[Let’s talk!](/contact/)**
     single_image_block:
       single_image_path:
