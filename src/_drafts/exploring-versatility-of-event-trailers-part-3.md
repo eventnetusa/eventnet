@@ -99,6 +99,8 @@ content_section:
 
       * Customized kitchen equipment for cooking pasta recipes fresh on-the-go
 
+      * Refrigeration system for perishables
+
       * Food and health safety compliant
 
       * Interior and exterior graphics
