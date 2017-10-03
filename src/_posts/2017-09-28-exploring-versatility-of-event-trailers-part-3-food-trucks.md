@@ -89,13 +89,15 @@ content_section:
     single_image_block:
       single_image_path: /uploads/martinson-coffee.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/37.jpg
+      image_2_path: /uploads/38.png
     video_block:
       video_id:
   - text_block_markdown: >-
       **PRINCE PASTA: 100<sup>TH</sup> ANNIVERSARY SAMPLING TOUR**
 
+
+      * PR/media staging
 
       * Customized kitchen equipment for cooking pasta recipes fresh on-the-go
 
