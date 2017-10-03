@@ -87,7 +87,7 @@ content_section:
       * Sampling window
       * Social media staging for #YouCantFakeReal contest
     single_image_block:
-      single_image_path: /uploads/martinson-coffee.jpg
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/37.jpg
       image_2_path: /uploads/38.png
@@ -112,10 +112,10 @@ content_section:
       * Exterior audio and visual systems for entertaining patrons while waiting
       to be served
     single_image_block:
-      single_image_path: /uploads/prince-mayor-boston-eventnetusa.jpg
+      single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/2-5.jpg
+      image_2_path: /uploads/prince-mayor-boston-eventnetusa-1.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
