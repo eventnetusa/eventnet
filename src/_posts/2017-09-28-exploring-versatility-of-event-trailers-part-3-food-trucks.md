@@ -61,7 +61,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **NYX Professional Makeup: Beauty + Swag Truck**
+      **NYX PROFESSIONAL MAKEUP: BEAUTY + SWAG TRUCK**
 
 
       * Converted food truck into custom Beauty + Swag Truck
@@ -80,7 +80,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      **Martinson Coffee: GREATER NORTHEAST SAMPLING**
+      **MARTINSON COFFEE: GREATER NORTHEAST SAMPLING**
 
       * Customized food truck including interior/exterior graphics
       * Coffee brewing stations
