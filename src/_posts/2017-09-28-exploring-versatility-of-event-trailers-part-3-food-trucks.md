@@ -73,7 +73,7 @@ content_section:
 
       * Integrated AV monitor
     single_image_block:
-      single_image_path: /uploads/picture3---copy-1.jpg
+      single_image_path: /uploads/20-1.jpg
     double_image_block:
       image_1_path: /uploads/picture4---copy.jpg
       image_2_path: /uploads/picture5-1.jpg
