@@ -68,7 +68,7 @@ content_section:
       video_id:
 project_logos:
   - logo_image_path: /uploads/celsius-logo.jpg
-    logo_image_height:
+    logo_image_height: 50%
 related_client_logos:
   - logo_image_path:
     logo_image_height:
