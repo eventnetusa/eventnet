@@ -22,6 +22,13 @@ sidebar_text_markdown: |-
   * Delivered over 300,000 active and passive impressions
 content_section:
   - text_block_markdown: >-
+      CELSIUS, fitness drink manufacturer and one of the world's fastest growing
+      beverage brands, turned to EventNetUSA to execute a can-in-hand guerrilla
+      sampling program. The program's main objective was to increase brand
+      awareness and educate consumers on the proven performance CELSIUS
+      delivers.&nbsp;
+
+
       ### A LOOK BEHIND THE SCENES
 
 
