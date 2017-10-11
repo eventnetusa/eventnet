@@ -10,7 +10,7 @@ hero_image_path: /uploads/celsius-hero-image.jpg
 thumbnail_image_path: /uploads/celsius-thumbnail-image.jpg
 types:
   - street team
-cta_text: What are you waiting for?
+cta_text: Thinking about a sampling program? What are you waiting for?
 cta: Start sampling today!
 sidebar_text_markdown: |-
   ### QUICK STATS
