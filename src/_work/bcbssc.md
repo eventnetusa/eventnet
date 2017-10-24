@@ -8,7 +8,7 @@ hover_text: >-
   customers by sharing important information about Medicare, answering questions
   and screening a free movie to show their appreciation
 hero_image_path: /uploads/hero-image.jpg
-thumbnail_image_path: /uploads/thumbnail.jpg
+thumbnail_image_path: /uploads/thumbnail2.jpg
 types:
   - insurance activation
 cta_text:
