@@ -7,9 +7,10 @@ hover_text: >-
   BCBSSC wanted to add value for existing Medicare customers and attract new
   customers by sharing important information about Medicare, answering questions
   and screening a free movie to show their appreciation
-hero_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
-thumbnail_image_path: /uploads/2013-mini-cooper-hatchback-taillight2.jpg
+hero_image_path: /uploads/hero-image.jpg
+thumbnail_image_path: /uploads/thumbnail.jpg
 types:
+  - insurance activation
 cta_text:
 cta:
 sidebar_text_markdown:
