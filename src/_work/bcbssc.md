@@ -4,7 +4,7 @@ link_to_casestudy: false
 sort_number: 4
 headline: Medicare Consumer Engagement and Consultation Event
 hover_text: >-
-  BCBSSC wanted to add value for existing Medicare customers and attract new
+  Our client wanted to add value for existing Medicare customers and attract new
   customers by sharing important information about Medicare, answering questions
   and screening a free movie to show their appreciation
 hero_image_path: /uploads/hero-image.jpg
