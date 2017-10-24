@@ -1,5 +1,5 @@
 ---
-client: Blue Cross and Blue Shield of South Carolina
+client: Health Insurance Provider
 link_to_casestudy: false
 sort_number: 4
 headline: Medicare Consumer Engagement and Consultation Event
