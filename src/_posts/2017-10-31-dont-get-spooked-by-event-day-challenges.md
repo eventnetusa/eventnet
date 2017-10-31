@@ -61,7 +61,7 @@ content_section:
       * **The Outcome** – Being flexible with the client allowed us to maintain
       a positive working relationship creating the opportunity for more events.
     single_image_block:
-      single_image_path: /uploads/img-2392.JPG
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/fullsizerender-1.jpg
       image_2_path: /uploads/img-9694-1.JPG
