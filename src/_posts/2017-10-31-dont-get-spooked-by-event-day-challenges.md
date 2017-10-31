@@ -8,7 +8,8 @@ hero_image_path: /uploads/part-3-hero-image.png
 thumbnail_image_path: /uploads/exploring-versatility-of-event-trailers-part-3-food-trucks.jpg
 content_section:
   - text_block_markdown: >-
-      Urban Legend: Every event goes smoothly without any unexpected challenges.
+      **Urban Legend: Every event goes smoothly without any unexpected
+      challenges.**
 
 
       At EventNetUSA we pride ourselves on our professionalism, ingenuity and
@@ -71,10 +72,9 @@ content_section:
 
 
       * **The Activation** - EventNetUSA partnered with Carnival Cruise Line to
-      produce and operate the&nbsp; <u><a
-      href="https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/">2017&nbsp;</a><a
-      href="https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/">Agentpalooza</a></u>[<u>&nbsp;Campaign
-      Tour</u>](__notset__) in 6 markets.&nbsp;&nbsp;
+      produce and operate the&nbsp; [2017
+      Agentpalooza](https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/)[&nbsp;Campaign
+      Tour](__notset__) in 6 markets.&nbsp;&nbsp;
 
       * **The Challenge** – The New Orleans event was hit with a severe
       thunderstorm tearing down tents and flooding the venue.
@@ -151,14 +151,14 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      As you can see, No matter how well planned your event is, there will
-      always be surprise elements that are out of your hands. To best prepare
-      have a thorough plan of action, be flexible in your scheduling, and
-      properly train your team to take action.
+      **No matter how well planned your event is, there will always be surprise
+      elements that are out of your hands. To best prepare have a thorough plan
+      of action, be flexible in your scheduling, and properly train your team to
+      take action.**
 
 
-      Have a big idea? [Contact us](https://www.eventnetusa.com/contact/) today
-      and we will help bring your big idea to life!
+      ### Have a big idea? [Contact us](https://www.eventnetusa.com/contact/)
+      today and we will help bring your big idea to life!
     single_image_block:
       single_image_path:
     double_image_block:
