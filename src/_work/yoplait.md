@@ -20,7 +20,7 @@ sidebar_text_markdown: |-
 
   * Sampled Yoplait products
   * Featured on E! News and The View
-  * Make personal pledges
+  * Make personal pledges via online portal
   * Celebrity appearances by cancer survivor Giuliana Rancic and Sherri Shepherd
 content_section:
   - text_block_markdown: >-
