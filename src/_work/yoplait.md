@@ -59,7 +59,7 @@ content_section:
       image_1_path:
       image_2_path:
     video_block:
-      video_id: uxasxT1pnD4
+      video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/picture5-2.jpg
