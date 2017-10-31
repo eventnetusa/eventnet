@@ -1,55 +1,34 @@
 ---
-title: 'Exploring Versatility of Event Trailers Part 3: Food Trucks'
-date: 2017-09-28 14:14:00
+title: Don't Get Spooked by Event Day Challenges
+date: 2017-10-31 14:14:00
 filter: insights
 featured_post: true
-excerpt: 'Exploring Versatility of Event Trailers Part 3: Food Trucks'
+excerpt: Don't Get Spooked by Event Day Challenges
 hero_image_path: /uploads/part-3-hero-image.png
 thumbnail_image_path: /uploads/exploring-versatility-of-event-trailers-part-3-food-trucks.jpg
 content_section:
   - text_block_markdown: >-
-      At EventNetUSA, we supply mobile marketing trailers to a variety of
-      clients in a number of diverse industries. Whether you’re looking for
-      a&nbsp;[53’ trailer transformed into a pop-up
-      shop](https://www.eventnetusa.com/work/revlon-love-is-on-tour/)&nbsp;or
-      an&nbsp;[iconic Airstream turned Mobile Tea
-      Bar](https://www.eventnetusa.com/work/bigelow-tea/), we have a mobile
-      solution to take your brand on the road
+      Urban Legend: Every event goes smoothly without any unexpected challenges.
 
 
-      Last month, we explored the versatility of our custom designed 53’ Event
-      Trailer and how it transformed for clients like Owners.com, Revlon,
-      Maybelline and Garnier Fructis.
-      Click&nbsp;[here](https://www.eventnetusa.com/blog/exploring-versatility-of-event-trailers-part-2/)&nbsp;if
-      you missed it.
+      At EventNetUSA we pride ourselves on our professionalism, ingenuity and
+      expert planning to prepare for any hurdles that may come our way.&nbsp;
+      Even with the best laid plans some obstacles are out of your control and
+      having a security plan or a written plan of action is the best way to
+      navigate those bumps smoothly.
 
 
-      Today we’re taking a look at a smaller member of EventNetUSA’s fleet, our
-      Food Trucks. Not your average mobile grub hub, our customizable food
-      trucks can be transformed for everything from sampling coffee to
-      cosmetics.
+      From severe weather and medical emergencies to PR catastrophes, a crisis
+      protocol protects the client, the staff and the consumers. We train our
+      staff to take action, be flexible and follow standard operating procedures
+      with our rule of thumb being to “act as any reasonable persons would under
+      the same or similar circumstances”. Every event is armed with on-site
+      medical support (defibrillator, stop the bleed kit, etc.) and staff is
+      aware of evacuation routes.
 
 
-      FOOD TRUCK FEATURES
-
-
-      * 80 sqft interior space to showcase products and services
-
-      * Climate controlled
-
-      * Full interior and exterior graphics with coordinating skirt
-
-      * Fully customizable interior buildout
-
-      * Large window for sampling and serving
-
-      * Back entrance door opens for product demonstrations
-
-      * Video monitors deliver client’s key brand messaging
-
-      * Sound system catches the attention of consumers far away
-
-      * Social media staging
+      As prepared as we are, we have had our fair share of event day challenges.
+      Here are some of the obstacles we’ve faced and how we have overcome them.
 
 
       **TAKE A LOOK AT 3 WAYS OUR FOOD TRUCK WAS TRANSFORMED FOR OUR CLIENTS**
