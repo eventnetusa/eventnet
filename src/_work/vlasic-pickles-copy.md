@@ -8,7 +8,7 @@ hover_text: >-
   Circle to educate consumers on SLSL and its pledge to Susan G. Komen
   Foundation.
 hero_image_path: /uploads/picture1-2.jpg
-thumbnail_image_path: /uploads/picture11.jpg
+thumbnail_image_path: /uploads/pledge-your-part-3-700x466.jpg
 types:
   - vehicle tour
   - pr event
