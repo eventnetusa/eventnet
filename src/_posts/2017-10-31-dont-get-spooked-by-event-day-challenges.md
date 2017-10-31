@@ -14,21 +14,22 @@ content_section:
 
       At EventNetUSA we pride ourselves on our professionalism, ingenuity and
       expert planning to prepare for any hurdles that may come our way.&nbsp;
-      Even with the best laid plans some obstacles are out of your control and
-      having a security plan or a written plan of action is the best way to
-      navigate those bumps smoothly.
+      Even with the best laid plans, some obstacles are simply out of your
+      control. Having a contingency strategy or a written plan of action is the
+      best way to navigate those bumps smoothly.
 
 
       From severe weather and medical emergencies to PR catastrophes, a crisis
       protocol protects the client, the staff and the consumers. We train our
       staff to take action, be flexible and follow standard operating procedures
-      with our rule of thumb being to “act as any reasonable persons would under
+      with our rule of thumb being to “act as any reasonable person would under
       the same or similar circumstances”. Every event is armed with on-site
       medical support (defibrillator, stop the bleed kit, etc.) and staff is
       aware of evacuation routes.
 
 
-      **Here are some of the obstacles we’ve faced and our solutions.**
+      **Here are some of the obstacles we’ve faced and the solutions we quickly
+      implemented.**
 
 
       &nbsp;
@@ -46,20 +47,24 @@ content_section:
       **FPL Beat The Heat Cooling Station**
 
 
-      * **The Activation** - We partnered with FPL and rbb Communications to
-      construct an ice cube cooling station that helped guest “chill” out
-      through a fun, interactive experience at 4 major outdoor family locations
-      in South Florida.
+      * **The Activation** - We partnered with Florida Power & Light and their
+      agency rbb Communications to construct an ice cube cooling station that
+      helped guests “beat the heat” through a fun, interactive experience. Beat
+      the Heat activations were schedule for 4 major outdoor locations in South
+      Florida.
 
       * **The Challenge** - &nbsp;Hurricane Irma came sweeping through South
       Florida before the second event and FPL needed to divert their time and
       resources to restoring power and helping their consumers.
 
-      * **The Solution** - Collectively we decide to postpone the events until
-      the following year.
+      * **The Solution** - Collectively we decided to postpone the events until
+      the following year and exercise creative accounting to avoid a major loss
+      to the client.
 
       * **The Outcome** – Being flexible with the client allowed us to maintain
-      a positive working relationship creating the opportunity for more events.
+      a positive working partnership, creating the opportunity to deliver a
+      successful program that will answer against the client's objectives and
+      avoid serious financial hardship.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -68,7 +73,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **Carnival’s 2017 Agentpalooza&nbsp; – New Orleans**
+      **Carnival’s 2017 Agentpalooza&nbsp; – New Orleans Event**
 
 
       * **The Activation** - EventNetUSA partnered with Carnival Cruise Line to
@@ -80,11 +85,11 @@ content_section:
       thunderstorm tearing down tents and flooding the venue.
 
       * **The Solution** – EventNetUSA quickly rescheduled the event to take
-      place the following day, including venue coordination, rerouting and
-      travel logistics, rescheduled vendors, notifyed attendees etc.
+      place the following day, including venue coordination, rerouting, travel
+      logistics, rescheduling vendors, and notifying attendees, etc.
 
       * **The Outcome** – The rescheduled event went off without a hitch and
-      created a memorable experiences for the client and guests.
+      created a memorable experience for the client and guests.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -99,23 +104,24 @@ content_section:
       **Michelle Obama's "Drink Up" Campaign Launch**
 
 
-      * **The Activation&nbsp;**– We partnered with Y&R and Healthier America to
-      design and produce former First Lady Michelle Obama’s&nbsp;[Drink Up
+      * **The Activation&nbsp;**– We partnered with Y&R and Partnership for a
+      Healthier America to design and produce former First Lady Michelle
+      Obama’s&nbsp;[Drink Up
       Campaign](https://www.eventnetusa.com/work/white-house-drink-up/) launch.
 
-      * **The Challenge** – Due to high level security, EventNet had to be
+      * **The Challenge** – Due to high level security, EventNetUSA had to be
       thoroughly vetted by the Secret Service including permits and security
-      procedures. Furthermore, we were only given details of the venue and
-      location 3 weeks prior to the event making routing and logistics
-      challenging.
+      procedures. Furthermore, we were only provided the details of venue and
+      location 3 weeks prior to the event, making lead-time and logistics a
+      challenge.
 
-      * **The Solution** – We created a very detailed plan of action that every
-      department of the campaign stuck to. Venue operators sent photos and
+      * **The Solution** – We created detailed plan of action that every
+      department of the campaign adhered to. Venue operators sent photos and
       dimensions allowing us to create a floor plan without knowing the details
       of the venue.
 
-      * **The Outcome** – With everyone sticking to the written plan of action,
-      the event was executed seamlessly.
+      * **The Outcome** – By getting resourceful and everyone sticking to the
+      written plan of action, the event was executed seamlessly.
     single_image_block:
       single_image_path:
     double_image_block:
