@@ -43,7 +43,7 @@ content_section:
       ### **<u>WEATHER</u>**
 
 
-      FPL - Beat The Heat Cooling Station
+      **FPL - Beat The Heat Cooling Station**
 
 
       * **The Activation** - We partnered with FPL and rbb Communications to
@@ -68,7 +68,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Carnival’s Agentpalooza 2017 – New Orleans
+      **Carnival’s Agentpalooza 2017 – New Orleans**
 
 
       * **The Activation** - EventNetUSA partnered with Carnival Cruise Line to
@@ -92,29 +92,29 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      SECURITY
+      ### <u><strong>SECURITY</strong></u>
 
 
-      Drink up Campaign
+      **Michelle Obama's "Drink Up" Campaign Launch**
 
 
-      * The Activation – We partnered with Y&R and Healthier America to design
-      and produce former First Lady Michelle Obama’s national Drink Up Campaign
-      launch.
+      * **The Activation**– We partnered with Y&R and Healthier America to
+      design and produce former First Lady Michelle Obama’s national Drink Up
+      Campaign launch.
 
-      * The Challenge – Due to high level security, EventNet had to be
+      * **The Challenge** – Due to high level security, EventNet had to be
       thoroughly vetted by the Secret Service including permits and security
       procedures. Furthermore, we were only given details of the venue and
       location 3 weeks prior to the event making routing and logistics
       challenging.
 
-      * The Solution – We created a very detailed task list that every
+      * **The Solution** – We created a very detailed plan of action that every
       department of the event stuck to. Venue operators sent photos and
       dimensions allowing us to create a floor plan without knowing the details
       of the venue.
 
-      * The Outcome – With everyone sticking to the written plan of action, the
-      event was executed seamlessly.
+      * **The Outcome** – With everyone sticking to the written plan of action,
+      the event was executed seamlessly.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -123,29 +123,25 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **PR Crisis/Social Events**
+      ### <u><strong>PR CRISIS</strong></u>
 
 
-      &nbsp;
+      Dress To Di For Tour
 
 
-      * Princess Diana
+      * **The Activation** – Our SVP, at a previous company, was involved with
+      the famous Dress to Di for Tour featuring one of Princess Diana’s gala
+      gowns at malls in multiple markets.
 
+      * **The Challenge** – Princess Diana tragically passed away the night
+      before one of the events. The event was going to feature media coverage.
 
-      The Activation – Our SVP, at a previous company, was involved with the
-      famous Dress to Di for Tour featuring one of Princess Diana’s gala gowns
-      at malls in multiple markets.
+      * **The Solution** – The team went into the venue overnight and dismantled
+      the entire activation not leaving a trace behind. They canceled all
+      remaining events as well as took down any marketing/promotion materials.
 
-
-      * The Challenge – Princess Diana tragically passed away the night before
-      one of the events. The event was going to feature media coverage.
-
-      * The Solution – The team went into the venue overnight and dismantled the
-      entire activation not leaving a trace behind. They canceled all remaining
-      events as well as took down any marketing/promotion materials.
-
-      * The Outcome – They were able to provide respect to the royal family as
-      well as avoid a PR crisis for the client.
+      * **The Outcome**– They were able to provide respect to the royal family
+      as well as avoid a PR crisis for the client.
     single_image_block:
       single_image_path:
     double_image_block:
