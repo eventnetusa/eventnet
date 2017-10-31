@@ -7,7 +7,7 @@ hover_text: >-
   Yoplait along with Guiliana Rancic and Sherri Shepherd  took over Columbus
   Circle to educate consumers on SLSL and its pledge to Susan G. Komen
   Foundation.
-hero_image_path: /uploads/picture4-1.jpg
+hero_image_path: /uploads/picture43.jpg
 thumbnail_image_path: /uploads/pledge-your-part-3-700x466.jpg
 types:
   - vehicle tour
