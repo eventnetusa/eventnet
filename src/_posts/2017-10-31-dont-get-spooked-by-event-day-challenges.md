@@ -31,7 +31,7 @@ content_section:
       Here are some of the obstacles we’ve faced and how we have overcome them.
 
 
-      **TAKE A LOOK AT 3 WAYS OUR FOOD TRUCK WAS TRANSFORMED FOR OUR CLIENTS**
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -40,17 +40,26 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **NYX PROFESSIONAL MAKEUP: BEAUTY + SWAG TRUCK**
+      ### **<u>WEATHER</u>**
 
 
-      * Converted food truck into custom Beauty + Swag Truck
+      FPL - Beat The Heat Cooling Station
 
-      * 3 Makeup stations with vanities for product display and express lip
-      touch-ups
 
-      * Social media staging area
+      * **The Activation** - We partnered with FPL and rbb Communications to
+      construct an ice cube cooling station that helped guest “chill” out
+      through a fun, interactive experience at 4 major outdoor family locations
+      in South Florida.
 
-      * Integrated AV monitor
+      * **The Challenge** - &nbsp;Hurricane Irma came sweeping through South
+      Florida before the second event and FPL needed to divert their time and
+      resources to restoring power and helping their consumers.
+
+      * **The Solution** - Collectively we decide to postpone the events until
+      the following year.
+
+      * **The Outcome** – Being flexible with the client allowed us to maintain
+      a positive working relationship creating the opportunity for more events.
     single_image_block:
       single_image_path: /uploads/20-1.jpg
     double_image_block:
@@ -58,13 +67,23 @@ content_section:
       image_2_path: /uploads/picture5-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
-      **MARTINSON COFFEE: GREATER NORTHEAST SAMPLING**
+  - text_block_markdown: >-
+      Carnival’s Agentpalooza 2017 – New Orleans
 
-      * Customized food truck including interior/exterior graphics
-      * Coffee brewing stations
-      * Sampling window
-      * Social media staging for #YouCantFakeReal contest
+
+      * **The Activation** - EventNetUSA partnered with Carnival Cruise Line to
+      produce and operate the&nbsp; Agentpalooza 2017 Campaign tour in 6
+      markets.&nbsp;&nbsp;
+
+      * **The Challenge** – The New Orleans event was hit with a severe
+      thunderstorm tearing down tents and flooding the venue.
+
+      * **The Solution** – EventNetUSA quickly rescheduled the event to take
+      place the following day, including venue coordination, rerouting and
+      travel logistics, rescheduled vendors, notifyed attendees etc.
+
+      * **The Outcome** – The rescheduled event went off without a hitch and
+      created a memorable experiences for the client and guests.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -73,23 +92,29 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **PRINCE PASTA: 100<sup>TH</sup> ANNIVERSARY SAMPLING TOUR**
+      SECURITY
 
 
-      * PR/media staging
+      Drink up Campaign
 
-      * Customized kitchen equipment for cooking pasta recipes fresh on-the-go
 
-      * Refrigeration system for perishables
+      * The Activation – We partnered with Y&R and Healthier America to design
+      and produce former First Lady Michelle Obama’s national Drink Up Campaign
+      launch.
 
-      * Food and health safety compliant
+      * The Challenge – Due to high level security, EventNet had to be
+      thoroughly vetted by the Secret Service including permits and security
+      procedures. Furthermore, we were only given details of the venue and
+      location 3 weeks prior to the event making routing and logistics
+      challenging.
 
-      * Interior and exterior graphics
+      * The Solution – We created a very detailed task list that every
+      department of the event stuck to. Venue operators sent photos and
+      dimensions allowing us to create a floor plan without knowing the details
+      of the venue.
 
-      * Ordering/serving window
-
-      * Exterior audio and visual systems for entertaining patrons while waiting
-      to be served
+      * The Outcome – With everyone sticking to the written plan of action, the
+      event was executed seamlessly.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -98,8 +123,29 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **How will we transform our food truck for your next mobile
-      tour?&nbsp;[Let’s talk!](/contact/)**
+      **PR Crisis/Social Events**
+
+
+      &nbsp;
+
+
+      * Princess Diana
+
+
+      The Activation – Our SVP, at a previous company, was involved with the
+      famous Dress to Di for Tour featuring one of Princess Diana’s gala gowns
+      at malls in multiple markets.
+
+
+      * The Challenge – Princess Diana tragically passed away the night before
+      one of the events. The event was going to feature media coverage.
+
+      * The Solution – The team went into the venue overnight and dismantled the
+      entire activation not leaving a trace behind. They canceled all remaining
+      events as well as took down any marketing/promotion materials.
+
+      * The Outcome – They were able to provide respect to the royal family as
+      well as avoid a PR crisis for the client.
     single_image_block:
       single_image_path:
     double_image_block:
