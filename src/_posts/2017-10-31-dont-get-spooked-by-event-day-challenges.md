@@ -109,7 +109,7 @@ content_section:
       challenging.
 
       * **The Solution** – We created a very detailed plan of action that every
-      department of the event stuck to. Venue operators sent photos and
+      department of the campaign stuck to. Venue operators sent photos and
       dimensions allowing us to create a floor plan without knowing the details
       of the venue.
 
@@ -126,7 +126,7 @@ content_section:
       ### <u><strong>PR CRISIS</strong></u>
 
 
-      Dress To Di For Tour
+      **Dress To Di For Tour**
 
 
       * **The Activation** – Our SVP, at a previous company, was involved with
