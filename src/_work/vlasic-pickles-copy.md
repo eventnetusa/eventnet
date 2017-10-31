@@ -16,6 +16,8 @@ types:
 cta_text: Looking for a unique way to launch your next campaign?
 cta: Let's talk
 sidebar_text_markdown: |-
+  **HIGHLIGHTS**
+
   * Sampled Yoplait products
   * Featured on E! News and The View
   * Make personal pledges
@@ -67,7 +69,9 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/picture2-2.png
+  - logo_image_path: /uploads/yoplait-logo.png
+    logo_image_height:
+  - logo_image_path: /uploads/cone-csr-survey-2013.png
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/prince.png
