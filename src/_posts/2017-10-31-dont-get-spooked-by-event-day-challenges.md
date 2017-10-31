@@ -27,8 +27,7 @@ content_section:
       aware of evacuation routes.
 
 
-      As prepared as we are, we have had our fair share of event day challenges.
-      Here are some of the obstacles we’ve faced and how we have overcome them.
+      **Here are some of the obstacles we’ve faced and our solutions.**
 
 
       &nbsp;
@@ -68,12 +67,13 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **Carnival’s Agentpalooza 2017 – New Orleans**
+      **Carnival’s 2017 Agentpalooza&nbsp; – New Orleans**
 
 
       * **The Activation** - EventNetUSA partnered with Carnival Cruise Line to
-      produce and operate the&nbsp; Agentpalooza 2017 Campaign tour in 6
-      markets.&nbsp;&nbsp;
+      produce and operate the&nbsp; <u><a href="__notset__">2017&nbsp;</a><a
+      href="https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/">Agentpalooza</a>&nbsp;Campaign
+      Tour</u> in 6 markets.&nbsp;&nbsp;
 
       * **The Challenge** – The New Orleans event was hit with a severe
       thunderstorm tearing down tents and flooding the venue.
@@ -99,8 +99,8 @@ content_section:
 
 
       * **The Activation**– We partnered with Y&R and Healthier America to
-      design and produce former First Lady Michelle Obama’s national Drink Up
-      Campaign launch.
+      design and produce former First Lady Michelle Obama’s&nbsp;[Drink Up
+      Campaign](https://www.eventnetusa.com/work/white-house-drink-up/) launch.
 
       * **The Challenge** – Due to high level security, EventNet had to be
       thoroughly vetted by the Secret Service including permits and security
@@ -142,6 +142,22 @@ content_section:
 
       * **The Outcome**– They were able to provide respect to the royal family
       as well as avoid a PR crisis for the client.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      As you can see, No matter how well planned your event is, there will
+      always be surprise elements that are out of your hands. To best prepare
+      have a thorough plan of action, be flexible in your scheduling, and
+      properly train your team to take action.
+
+
+      Have a big idea? Contact us today and we will help bring your big idea to
+      life!
     single_image_block:
       single_image_path:
     double_image_block:
