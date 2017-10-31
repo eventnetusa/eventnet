@@ -15,17 +15,12 @@ types:
   - street team
 cta_text: Looking for a unique way to launch your next campaign?
 cta: Let's talk
-sidebar_text_markdown: >-
-  * Over 152,000 pickles sampled (65% above goal)
+sidebar_text_markdown: |-
+  &nbsp;
 
-  * 308M impressions generated (301% above goal)
-
-  * Featured on Today, Every Day with Rachel Ray and Hungry Girl
-
-  * Traveled to 5 major markets across America
-
-  * VIP tasting, pairing and chef pickling demonstration with Chef David Burke
-  in New York City, hosting the nation’s most influential food bloggers
+  * Featured on E! News and The View
+  * Pledge your Part online integrATION
+  * Celebrity appearances by cancer survivor Giuliana Rancic and Sherri Shepherd
 content_section:
   - text_block_markdown: >-
       EventNetUSA partnered with Cone Communications, Sunflower Agency, and
