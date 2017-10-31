@@ -61,7 +61,7 @@ content_section:
       video_id: uxasxT1pnD4
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/6.jpg
+      single_image_path: /uploads/picture5-2.jpg
     double_image_block:
       image_1_path: /uploads/giuliana-rancic-100213v2.jpg
       image_2_path: /uploads/picture9.jpg
