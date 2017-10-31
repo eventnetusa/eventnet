@@ -118,8 +118,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/6-1.jpg
-      image_2_path: /uploads/prince-mayor-boston-eventnetusa-1.jpg
+      image_1_path: /uploads/drink-up-michelle-obama.jpg
+      image_2_path: /uploads/drinkup-case-3.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
