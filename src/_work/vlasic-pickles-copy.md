@@ -38,10 +38,12 @@ content_section:
       ### A LOOK BEHIND THE SCENES
 
 
-      * Transformed event trailer into mobile pledge center and sampling bar
+      * Transformed event trailer into mobile "Pledge Your Part" bar
+
+      * Set up sampling stations with lid collection bins
 
       * Equipped event trailer and brand ambassadors with iPad's to submit lid
-      codes and record consumer zip codes.
+      codes and record consumer zip codes
 
       * Managed permitting and venue coordination with the Master’s Association,
       City of New York and Department of Transportation
@@ -49,7 +51,7 @@ content_section:
       * Recruited, hired, trained and managed team including Event Manager,
       Assistant Manager and Brand Ambassadors
 
-      * Integrated Facebook with social media staging area and photo activation
+      * "Step and Repeat" photo activation on pink carpet with custom props
     single_image_block:
       single_image_path:
     double_image_block:
@@ -61,8 +63,8 @@ content_section:
     single_image_block:
       single_image_path: /uploads/6.jpg
     double_image_block:
-      image_1_path: /uploads/vlasic-sampling2.jpg
-      image_2_path: /uploads/vlasic-sampling.png
+      image_1_path: /uploads/giuliana-rancic-100213v2.jpg
+      image_2_path: /uploads/picture9.jpg
     video_block:
       video_id:
 project_logos:
