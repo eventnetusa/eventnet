@@ -16,7 +16,7 @@ types:
 cta_text: Looking for a unique way to launch your next campaign?
 cta: Let's talk
 sidebar_text_markdown: |-
-  **HIGHLIGHTS**
+  ### **HIGHLIGHTS**
 
   * Sampled Yoplait products
   * Featured on E! News and The View
