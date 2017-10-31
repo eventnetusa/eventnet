@@ -71,9 +71,10 @@ content_section:
 
 
       * **The Activation** - EventNetUSA partnered with Carnival Cruise Line to
-      produce and operate the&nbsp; <u><a href="__notset__">2017&nbsp;</a><a
-      href="https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/">Agentpalooza</a>&nbsp;Campaign
-      Tour</u> in 6 markets.&nbsp;&nbsp;
+      produce and operate the&nbsp; <u><a
+      href="https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/">2017&nbsp;</a><a
+      href="https://www.eventnetusa.com/work/carnival-cruise-line-agentpalooza/">Agentpalooza</a></u>[<u>&nbsp;Campaign
+      Tour</u>](__notset__) in 6 markets.&nbsp;&nbsp;
 
       * **The Challenge** – The New Orleans event was hit with a severe
       thunderstorm tearing down tents and flooding the venue.
@@ -156,8 +157,8 @@ content_section:
       properly train your team to take action.
 
 
-      Have a big idea? Contact us today and we will help bring your big idea to
-      life!
+      Have a big idea? [Contact us](https://www.eventnetusa.com/contact/) today
+      and we will help bring your big idea to life!
     single_image_block:
       single_image_path:
     double_image_block:
