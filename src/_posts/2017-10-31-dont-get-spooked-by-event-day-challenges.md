@@ -43,7 +43,7 @@ content_section:
       ### **<u>WEATHER</u>**
 
 
-      **FPL - Beat The Heat Cooling Station**
+      **FPL Beat The Heat Cooling Station**
 
 
       * **The Activation** - We partnered with FPL and rbb Communications to
@@ -99,7 +99,7 @@ content_section:
       **Michelle Obama's "Drink Up" Campaign Launch**
 
 
-      * **The Activation**– We partnered with Y&R and Healthier America to
+      * **The Activation&nbsp;**– We partnered with Y&R and Healthier America to
       design and produce former First Lady Michelle Obama’s&nbsp;[Drink Up
       Campaign](https://www.eventnetusa.com/work/white-house-drink-up/) launch.
 
@@ -141,8 +141,8 @@ content_section:
       the entire activation not leaving a trace behind. They canceled all
       remaining events as well as took down any marketing/promotion materials.
 
-      * **The Outcome**– They were able to provide respect to the royal family
-      as well as avoid a PR crisis for the client.
+      * **The Outcome&nbsp;**– They were able to provide respect to the royal
+      family as well as avoid a PR crisis for the client.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -151,7 +151,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **No matter how well planned your event is, there will always be surprise
+      **No matter how well planned your event is there will always be surprise
       elements that are out of your hands. To best prepare have a thorough plan
       of action, be flexible in your scheduling, and properly train your team to
       take action.**
