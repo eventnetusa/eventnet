@@ -16,10 +16,9 @@ types:
 cta_text: Looking for a unique way to launch your next campaign?
 cta: Let's talk
 sidebar_text_markdown: |-
-  &nbsp;
-
+  * Sampled Yoplait products
   * Featured on E! News and The View
-  * Pledge your Part online integrATION
+  * Make personal pledges
   * Celebrity appearances by cancer survivor Giuliana Rancic and Sherri Shepherd
 content_section:
   - text_block_markdown: >-
