@@ -68,7 +68,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/vlasic.png
+  - logo_image_path: /uploads/picture2-2.png
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/prince.png
