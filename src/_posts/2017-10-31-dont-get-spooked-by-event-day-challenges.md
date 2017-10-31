@@ -87,8 +87,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/37.jpg
-      image_2_path: /uploads/38.png
+      image_1_path: /uploads/20170513-152157.jpg
+      image_2_path: /uploads/20170513-132731.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
