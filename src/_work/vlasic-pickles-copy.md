@@ -73,7 +73,7 @@ project_logos:
 related_client_logos:
   - logo_image_path: /uploads/prince.png
     logo_image_height:
-  - logo_image_path: /uploads/yoplait.jpg
+  - logo_image_path: /uploads/vlasic2.jpg
     logo_image_height:
   - logo_image_path: /uploads/ronzoni.png
     logo_image_height:
