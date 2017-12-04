@@ -7,7 +7,7 @@ excerpt: >-
   We are honored to be named a "Winning Agency" on Chief Marketer's Top
   Experiential Marketing Agencies of 2018!
 hero_image_path: /uploads/cm-hero.png
-thumbnail_image_path: /uploads/cm.png
+thumbnail_image_path: /uploads/cm-1.png
 content_section:
   - text_block_markdown: >-
       December 4, 2017
