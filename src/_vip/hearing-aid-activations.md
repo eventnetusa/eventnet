@@ -69,7 +69,7 @@ content_section:
       image_2_path: /uploads/2-4.jpg
     video_block:
       video_id:
-  - text_block_markdown: '**<u>SCREENING &amp; TRIAL MOBILES</u>**'
+  - text_block_markdown: '**<u>SCREENING &amp; TRIAL VEHICLES</u>**'
     single_image_block:
       single_image_path:
     double_image_block:
