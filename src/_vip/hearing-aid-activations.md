@@ -49,29 +49,32 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### With the passing of the OTC Hearing Aid Act, hearing health and
-      accessibility has become a demand among consumers.
+      ### With passing of the OTC Hearing Aid Act, hearing health and
+      accessibility to testing and trial has become a demand among consumers.
 
 
-      ### Our unique testing booths allows you to:
+      ### Our unique testing approach to consumers includes:
 
 
-      * Make testing easy and accessible
+      * High traffic targeted venues
 
-      * Sample products
+      * Assisted and/or self testing capabilities
 
-      * <div>Drive sales onsite, through retail integration</div>
+      * Lead generation or onsite sales
 
 
       #### See examples of our unique displays below
+
+
+      **<u>POP-UP STORES</u>**
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/hcsc-case-9.jpg
+      image_1_path: /uploads/19-1.png
       image_2_path: /uploads/2-4.jpg
     video_block:
       video_id:
-  - text_block_markdown: <u><strong>MOBILE TRAILER</strong></u>
+  - text_block_markdown: <u><strong>MOBILE MARKETING</strong></u>
     single_image_block:
       single_image_path:
     double_image_block:
