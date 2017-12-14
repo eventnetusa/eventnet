@@ -22,23 +22,24 @@ sidebar_text_markdown: |-
   ### Deliver Your Message At
 
   * Malls/Retail Locations
-  * Special Events
+  * Fairs & Festivals
   * Sporting Events
+  * Concerts
   * Trade Shows
   * Universities
-  * Fairs & Festivals
-  * Socially Active Retirement Communities
+  * Socially Retirement Communities
 
   ### Turnkey Services &nbsp;Include
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
-  * Venue & Vehicle Procurement
-  * Routing & Logistics
-  * Permitting & Legal
+  * Venue Procurement
+  * Vehicle Procurement
   * Staff & Training
-  * Social Media Integration
+  * Routing & Logistics
+  * Legal & Permitting
   * Account Management
+  * Social Media Integration
   * Liability Insurance
 
   ### &nbsp;
