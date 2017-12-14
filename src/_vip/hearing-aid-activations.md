@@ -13,6 +13,11 @@ sidebar_text_markdown: |-
   ### Generate &nbsp;Sales Through
 
   * Consumer Education
+  * Demonstration
+  * "Hands On" Screening
+  * Product Trial
+  * Lead Generation
+  * Retail Integration
 
   ### Deliver Your Message At
 
@@ -33,11 +38,8 @@ sidebar_text_markdown: |-
   * Permitting & Legal
   * Staff & Training
   * Social Media Integration
-  * Budget Forecasting
   * Account Management
   * Liability Insurance
-  * Risk Management
-  * Reporting
 
   ### &nbsp;
 
