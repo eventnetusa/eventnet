@@ -79,7 +79,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/hearing-test-trailer-003.jpg
-      image_2_path: /uploads/1-4.jpg
+      image_2_path: /uploads/mobile-assistance-center.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
