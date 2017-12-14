@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
 large_headline: 'EDUCATE, SAMPLE & SELL WITH UNIQUE ONE-ON-ONE EXPERIENCES'
-hero_image_path: /uploads/hearing-aid-collage-2.jpg
+hero_image_path: /uploads/hearing-aid-hero.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
