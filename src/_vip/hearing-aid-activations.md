@@ -47,11 +47,11 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### Hearing health and accessibility to testing and trial has become a
+      ### Hearing health and accessibility to testing and trial is a growing
       demand among consumers.
 
 
-      ### Our unique testing approach to consumers includes:
+      ### Our testing approach to consumers includes:
 
 
       * High traffic targeted venues
