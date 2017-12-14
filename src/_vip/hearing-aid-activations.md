@@ -49,24 +49,24 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### You can introduce your new OTC hearing aid through activations that
-      promote sales, education and brand reach to targeted consumers.
+      ### With the passing of the OTC Hearing Aid Act, hearing health and
+      accessibility has become a demand among consumers.
 
 
-      * Educate consumers about OTC hearing aids
-
-      * Provide hearing tests to evaluate consumer needs
-
-      * Sample hearing aids to targeted consumers
-
-      * <div>Drive sales onsite, through retail integration, and directing to
-      website.</div>
+      &nbsp;
 
 
-      #### **Experience our unique activations below**
+      ### Our unique testing booths allows you to:
 
 
-      <u><strong>POP-UP SHOP</strong></u>
+      * Make testing easy and accessible
+
+      * Sample products
+
+      * <div>Drive sales onsite, through retail integration</div>
+
+
+      #### See examples of our unique displays below
     single_image_block:
       single_image_path:
     double_image_block:
