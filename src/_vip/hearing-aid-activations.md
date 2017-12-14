@@ -53,9 +53,6 @@ content_section:
       accessibility has become a demand among consumers.
 
 
-      &nbsp;
-
-
       ### Our unique testing booths allows you to:
 
 
