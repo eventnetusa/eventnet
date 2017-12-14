@@ -46,8 +46,8 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### With passing of the OTC Hearing Aid Act, hearing health and
-      accessibility to testing and trial has become a demand among consumers.
+      ### Hearing health and accessibility to testing and trial has become a
+      demand among consumers.
 
 
       ### Our unique testing approach to consumers includes:
@@ -55,7 +55,7 @@ content_section:
 
       * High traffic targeted venues
 
-      * Assisted and/or self testing capabilities
+      * Assisted and/or self screening capabilities
 
       * Lead generation or onsite sales
 
