@@ -54,7 +54,7 @@ content_section:
       ### Our testing approach to consumers includes:
 
 
-      * High traffic targeted venues
+      * Interface at high traffic targeted venues
 
       * Assisted and/or self screening capabilities
 
