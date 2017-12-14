@@ -1,6 +1,6 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: 'EDUCATE, SAMPLE & SELL WITH UNIQUE ONE-ON-ONE EXPERIENCES'
+large_headline: Consumer Brand Engagement At High Traffic Venues
 hero_image_path: /uploads/hearing-aid-hero-2.jpg
 vip_project_type: B2B
 hide_social_links: false
@@ -12,12 +12,7 @@ cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Generate &nbsp;Sales Through
 
-  * Education
-  * Demonstration
-  * "Hands On" Screening
-  * Consultation
-  * Lead Generation
-  * Retail Integration
+  * Consumer Education
 
   ### Deliver Your Message At
 
