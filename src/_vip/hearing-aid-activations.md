@@ -56,12 +56,12 @@ content_section:
 
       * Interface at high traffic targeted venues
 
-      * Assisted and/or self screening capabilities
+      * Assisted or self screening capabilities
 
-      * Lead generation or onsite sales
+      * Lead generation & onsite sales
 
 
-      #### See examples of our unique displays below
+      #### See activation examples below
 
 
       **<u>RETAIL STORES</u>**
