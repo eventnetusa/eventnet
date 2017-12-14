@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to try a live approach to consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Generate &nbsp;Sales Through
+  ### Generate Sales Through
 
   * Consumer Education
   * Demonstration
