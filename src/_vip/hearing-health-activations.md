@@ -80,7 +80,7 @@ content_section:
       image_2_path: /uploads/app-cloudcannon.jpg
     video_block:
       video_id:
-  - text_block_markdown: <u><b>POP-UP KIOSK</b></u>
+  - text_block_markdown: <u><b>POP-UP KIOSKS</b></u>
     single_image_block:
       single_image_path:
     double_image_block:
