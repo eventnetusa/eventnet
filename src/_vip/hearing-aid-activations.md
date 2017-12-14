@@ -1,13 +1,13 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
 large_headline: 'EDUCATE, SAMPLE & SELL WITH UNIQUE ONE-ON-ONE EXPERIENCES'
-hero_image_path: /uploads/hearing-aid-hero.jpg
+hero_image_path: /uploads/hearing-aid-hero-2.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to lead the race in OTC Hearing Aid consumer marketing?
+cta_headline: Ready to try a live approach to consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Generate &nbsp;Sales Through
