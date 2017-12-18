@@ -1,9 +1,9 @@
 ---
 title: '2017: A Year in Review'
-date: 2017-12-20 12:00:00
-filter: insights
+date: 2017-12-20 00:00:00
+filter: press
 featured_post: true
-excerpt:
+excerpt: As the year draws to a close we hope it was one of joy and growth for you.
 hero_image_path:
 thumbnail_image_path:
 content_section:
