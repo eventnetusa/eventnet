@@ -1,13 +1,18 @@
 ---
 title: '2017: A Year in Review'
-date: 2017-03-16 00:00:00
-filter:
+date: 2017-12-20 12:00:00
+filter: insights
 featured_post: false
 excerpt:
 hero_image_path:
 thumbnail_image_path:
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      Another year is drawing to a close; &nbsp;and we once again find ourselves
+      planning for the future but also reflecting on the events of 2017. We hope
+      this year was one of joy and growth for you, both personally and
+      professionally. EventNetUSA has continued to be blessed with new
+      opportunities and accolades thanks to a dedicated team.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -16,6 +21,8 @@ content_section:
     video_block:
       video_id:
 ---
+
+
 DO NOT ADD POST CONTENT HERE!
 
 Add all content in Content Sections.
