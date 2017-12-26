@@ -13,7 +13,7 @@ content_section:
       accolades thanks to a dedicated team.
 
 
-      Highlights include:
+      ### **Highlights include:**
 
 
       * EventMarketer’s 2017 IT List being “Known for producing the impossible”
