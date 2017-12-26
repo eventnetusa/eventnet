@@ -54,7 +54,7 @@ content_section:
       image_1_path:
       image_2_path:
     video_block:
-      video_id:
+      video_id: Year in Review
 ---
 
 
