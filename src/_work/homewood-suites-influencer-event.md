@@ -24,13 +24,12 @@ sidebar_text_markdown: |-
   &nbsp;
 content_section:
   - text_block_markdown: >-
-      EventNetUSA &nbsp;partnered &nbsp;with&nbsp;rbb Communications
-      toproducea&nbsp; interactiveexperience to engagemedia guest and their
-      families during a two hour Holiday Photo Influencer event for Homewood
-      Suites. The "Winter Wonderland" themed event's interactive elements
-      included a staged photo area with onsite printing and digital delivery
-      capabilities and a fun DIY activity to "channel your creativity with
-      Homewood Suites".
+      EventNetUSA &nbsp;partnered &nbsp;with rbb Communications to produce
+      a&nbsp; interactive experience to engage media guest and their families
+      during a two hour Holiday Photo Influencer event for Homewood Suites. The
+      "Winter Wonderland" themed event's interactive elements included a staged
+      photo area with onsite printing and digital delivery capabilities and a
+      fun DIY activity to "channel your creativity with Homewood Suites".
 
 
       &nbsp;
