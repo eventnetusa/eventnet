@@ -66,8 +66,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/picture6.jpg
+      image_2_path: /uploads/picture7-1.jpg
     video_block:
       video_id: _Inxrfom_hU
   - text_block_markdown:
