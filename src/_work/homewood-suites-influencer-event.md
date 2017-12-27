@@ -81,7 +81,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/homewoodsuites.jpg
+  - logo_image_path: /uploads/homewood-suites-by-hilton.png
     logo_image_height:
   - logo_image_path: /uploads/rbblogo.jpg
     logo_image_height:
