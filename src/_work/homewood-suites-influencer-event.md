@@ -74,8 +74,8 @@ content_section:
     single_image_block:
       single_image_path: /uploads/picture13.png
     double_image_block:
-      image_1_path: /uploads/case-drinkup.jpg
-      image_2_path: /uploads/drink-up-michelle-obama.jpg
+      image_1_path: /uploads/img-8449-preview.jpg
+      image_2_path: /uploads/picture23-1.jpg
     video_block:
       video_id:
 project_logos:
