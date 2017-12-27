@@ -72,7 +72,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture13.png
+      single_image_path: /uploads/ed1213154625-preview.jpg
     double_image_block:
       image_1_path: /uploads/img-8449-preview.jpg
       image_2_path: /uploads/picture23-1.jpg
