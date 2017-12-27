@@ -7,7 +7,7 @@ hover_text: >-
   rbb Communications retained EventNetUSA to produce a interactive experience to
   engage media guest and their families during a two hour Holiday Photo
   Influencer event for Homewood Suites
-hero_image_path: /uploads/picture4-2.jpg
+hero_image_path: /uploads/picture11-1.jpg
 thumbnail_image_path: /uploads/picture4-3.jpg
 types:
   - pr event
