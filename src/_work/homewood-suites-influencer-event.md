@@ -33,13 +33,7 @@ content_section:
       &nbsp;
 
 
-      <div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in;
-      text-align: left;"><span style="language:en-US"><span
-      style="unicode-bidi:embed"><span style="vertical-align:baseline"><span
-      style="word-break:normal"><span style="punctuation-wrap:hanging"><span
-      style="font-size:14.0pt"><span style="font-family:Arial"><span
-      style="color:black"><span style="language:en-US">A LOOK BEHIND THE
-      SCENES</span></span></span></span></span></span></span></span></span></div>
+      **A LOOK BEHIND THE SCENES**
 
 
       * Successfully executed winter wonderland media event and influencer
@@ -57,7 +51,7 @@ content_section:
       to climb into the globe and play around in "snow"
 
 
-      * Inspired creativity with DIY Ornament station that included over-sized
+      * Inspired creativity with DIY ornament station that included over-sized
       ornaments and decorating materials along with a take home box
 
 
