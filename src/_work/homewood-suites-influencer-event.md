@@ -1,15 +1,18 @@
 ---
-client: 'The White House & Partnership for a Healthier America'
+client: rbb Communications and Homewood Suites
 link_to_casestudy: true
 sort_number: 3
-headline: "Michelle Obama's \"Drink Up\" Campaign Launch"
-hover_text: 'First Lady Michelle Obama  and the Partnership for a Healthier America made a big splash in Watertown, WI to promote the importance of drinking water.'
-hero_image_path: /uploads/slide-drink-up.jpg
-thumbnail_image_path: /uploads/slide-drink-up.jpg
+headline: Homewood Suites Holiday Grin Media Influencer Event
+hover_text: >-
+  rbb Communications retained EventNetUSA to produce a interactive experience to
+  engage media guest and their families during a two hour Holiday Photo
+  Influencer event for Homewood Suites
+hero_image_path: /uploads/picture4-2.jpg
+thumbnail_image_path: /uploads/picture4-3.jpg
 types:
   - pr event
 cta_text: Need a turnkey event solution?
-cta: "Let's talk"
+cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 
@@ -20,8 +23,8 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       The White House, through the Partnership for a Healthier America and Young
-      & Rubican, approached EventNetUSA to design and produce First Lady Michelle
-      Obama's national Drink Up Campaign launch.
+      & Rubican, approached EventNetUSA to design and produce First Lady
+      Michelle Obama's national Drink Up Campaign launch.
 
       The water themed carnival, held in the Watertown High School gymnasium,
       featured Dunk the Principal, water relay races, water ring toss and Ride
@@ -32,8 +35,8 @@ content_section:
 
       ### A LOOK BEHIND THE SCENES
 
-      * Successfully executed water carnival and media presentation under a tight
-      3 week timeline with limited information due to White House security
+      * Successfully executed water carnival and media presentation under a
+      tight 3 week timeline with limited information due to White House security
       restrictions.
 
       * Conceptualized and produced carnival water themed games to engage and
@@ -60,19 +63,19 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/whitehouse.png
+  - logo_image_path: /uploads/homewoodsuites.jpg
     logo_image_height:
-  - logo_image_path: /uploads/phalogo.png
+  - logo_image_path: /uploads/rbblogo.jpg
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/cbs.png
     logo_image_height:
   - logo_image_path: /uploads/yoplait.png
-    logo_image_height: '40%'
+    logo_image_height: 40%
   - logo_image_path: /uploads/lacroix.png
-    logo_image_height: '40%'
+    logo_image_height: 40%
   - logo_image_path: /uploads/nba.png
-    logo_image_height: '60%'
+    logo_image_height: 60%
   - logo_image_path: /uploads/garnier.png
     logo_image_height:
 ---
