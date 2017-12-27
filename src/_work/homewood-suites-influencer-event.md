@@ -69,10 +69,10 @@ content_section:
       image_1_path: /uploads/picture6.jpg
       image_2_path: /uploads/picture7-1.jpg
     video_block:
-      video_id: _Inxrfom_hU
+      video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture13.png
     double_image_block:
       image_1_path: /uploads/case-drinkup.jpg
       image_2_path: /uploads/drink-up-michelle-obama.jpg
