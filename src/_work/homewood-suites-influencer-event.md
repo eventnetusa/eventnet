@@ -84,14 +84,14 @@ project_logos:
   - logo_image_path: /uploads/rbblogo.jpg
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/cbs.png
+  - logo_image_path: /uploads/hilton-hhonors-logo.jpg
     logo_image_height:
-  - logo_image_path: /uploads/yoplait.png
+  - logo_image_path: /uploads/jetblue-1.png
     logo_image_height: 40%
-  - logo_image_path: /uploads/lacroix.png
+  - logo_image_path:
     logo_image_height: 40%
-  - logo_image_path: /uploads/nba.png
+  - logo_image_path: /uploads/fineliving-1.png
     logo_image_height: 60%
-  - logo_image_path: /uploads/garnier.png
+  - logo_image_path: /uploads/mini-1.png
     logo_image_height:
 ---
