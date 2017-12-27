@@ -33,32 +33,35 @@ content_section:
       &nbsp;
 
 
-      A LOOK BEHIND THE SCENES
+      <div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in;
+      text-align: left;"><span style="language:en-US"><span
+      style="unicode-bidi:embed"><span style="vertical-align:baseline"><span
+      style="word-break:normal"><span style="punctuation-wrap:hanging"><span
+      style="font-size:14.0pt"><span style="font-family:Arial"><span
+      style="color:black"><span style="language:en-US">A LOOK BEHIND THE
+      SCENES</span></span></span></span></span></span></span></span></span></div>
 
 
-      * Successfully executed winter wonderland&nbsp; media event and influencer
+      * Successfully executed winter wonderland media event and influencer
       presentation under a tight 3 week timeline.
 
-      * <font color="#000000" face="Arial"><span style="font-size:
-      18.6667px;">Transformed the indoor dining area and outdoor patio of
-      Homewood Suites Times Square into a white winter scene.</span></font>
 
-      * <font color="#000000" face="Arial"><span style="font-size:
-      18.6667px;">Engaged guests with a over-sized snow globe photo activation
-      allowing them to climb into the snow globe and play around in
-      "snow"</span></font>
+      * Transformed the indoor dining area and outdoor patio of Homewood Suites
+      Times Square into a white winter scene.
 
-      * <font color="#000000" face="Arial"><span style="font-size:
-      18.6667px;">Inspired creativity with DIY Ornament station that included
-      over-sized ornaments and decorating materials along with a take home
-      box.</span></font>
 
-      * <font color="#000000" face="Arial"><span style="font-size:
-      18.6667px;">Holiday inspired catering</span></font>
+      * Vetted and managed holiday inspired catering
 
-      * <font color="#000000" face="Arial"><span style="font-size:
-      18.6667px;">AV for influencer presentation on tips for
-      traveling</span></font>
+
+      * Engaged guests with over-sized snow globe photo activation allowing them
+      to climb into the globe and play around in "snow"
+
+
+      * Inspired creativity with DIY Ornament station that included over-sized
+      ornaments and decorating materials along with a take home box
+
+
+      * Managed AV set up for influencer presentation
 
 
       <br>&nbsp;
