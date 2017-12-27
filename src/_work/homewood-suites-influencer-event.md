@@ -27,7 +27,44 @@ content_section:
       hour Holiday Photo Influencer event for Homewood Suites. The "Winter
       Wonderland" themed event's interactive elements included a staged photo
       area with onsite printing and digital delivery capabilities and a fun DIY
-      activity to "channel your creativity with Homewood Suites".<br>&nbsp;
+      activity to "channel your creativity with Homewood Suites".
+
+
+      &nbsp;
+
+
+      A LOOK BEHIND THE SCENES
+
+
+      * Successfully executed winter wonderland&nbsp; media event and influencer
+      presentation under a tight 3 week timeline.
+
+      * <font color="#000000" face="Arial"><span style="font-size:
+      18.6667px;">Transformed the indoor dining area and outdoor patio of
+      Homewood Suites Times Square into a white winter scene.</span></font>
+
+      * <font color="#000000" face="Arial"><span style="font-size:
+      18.6667px;">Engaged guests with a over-sized snow globe photo activation
+      allowing them to climb into the snow globe and play around in
+      "snow"</span></font>
+
+      * <font color="#000000" face="Arial"><span style="font-size:
+      18.6667px;">Inspired creativity with DIY Ornament station that included
+      over-sized ornaments and decorating materials along with a take home
+      box.</span></font>
+
+      * <font color="#000000" face="Arial"><span style="font-size:
+      18.6667px;">Holiday inspired catering</span></font>
+
+      * <font color="#000000" face="Arial"><span style="font-size:
+      18.6667px;">AV for influencer presentation on tips for
+      traveling</span></font>
+
+
+      <br>&nbsp;
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
