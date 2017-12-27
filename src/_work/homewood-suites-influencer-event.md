@@ -84,11 +84,11 @@ project_logos:
   - logo_image_path: /uploads/rbblogo.jpg
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/hilton-hhonors-logo.jpg
+  - logo_image_path: /uploads/2hilton-hhonors-logo.jpg
     logo_image_height:
   - logo_image_path: /uploads/jetblue-1.png
     logo_image_height: 40%
-  - logo_image_path:
+  - logo_image_path: /uploads/2carnival-cruise-line-logo-svg.png
     logo_image_height: 40%
   - logo_image_path: /uploads/fineliving-1.png
     logo_image_height: 60%
