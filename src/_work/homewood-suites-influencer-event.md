@@ -22,31 +22,12 @@ sidebar_text_markdown: |-
   * Produced event with **3 week lead time**
 content_section:
   - text_block_markdown: >-
-      The White House, through the Partnership for a Healthier America and Young
-      & Rubican, approached EventNetUSA to design and produce First Lady
-      Michelle Obama's national Drink Up Campaign launch.
-
-      The water themed carnival, held in the Watertown High School gymnasium,
-      featured Dunk the Principal, water relay races, water ring toss and Ride
-      the Surf.
-
-      Actress Eva Longoria, local distributors Wis-Park Inc., 7UP Bottling, and
-      a dozen other water groups also attended the Watertown, WI event.
-
-      ### A LOOK BEHIND THE SCENES
-
-      * Successfully executed water carnival and media presentation under a
-      tight 3 week timeline with limited information due to White House security
-      restrictions.
-
-      * Conceptualized and produced carnival water themed games to engage and
-      educate students.
-
-      * Managed PR event setup and operations including press requirements for
-      Michelle Obama and Eva Longoria
-
-      * Vetted by United States Secret Service including permits and security
-      procedures
+      EventNetUSApartneredwithrbb Communications toproducea&nbsp;
+      interactiveexperience to engagemedia guest and their families during a two
+      hour Holiday Photo Influencer event for Homewood Suites. The "Winter
+      Wonderland" themed event's interactive elements included a staged photo
+      area with onsite printing and digital delivery capabilities and a fun DIY
+      activity to "channel your creativity with Homewood Suites".<br>&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
