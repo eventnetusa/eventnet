@@ -8,7 +8,7 @@ hover_text: >-
   engage media guest and their families during a two hour Holiday Photo
   Influencer event for Homewood Suites
 hero_image_path: /uploads/2img-8429-preview.jpg
-thumbnail_image_path: /uploads/picture4-3.jpg
+thumbnail_image_path: /uploads/picture11-2.jpg
 types:
   - pr event
 cta_text: Need a turnkey event solution?
