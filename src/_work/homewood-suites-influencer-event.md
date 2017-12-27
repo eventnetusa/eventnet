@@ -16,10 +16,12 @@ cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 
-  * Over **3,000&nbsp;**students and parents
-  * **75&nbsp;**members of worldwide media&nbsp;
-  * **12** major water brands
-  * Produced event with **3 week lead time**
+  * Private Media and Influencer Event
+  * Winter Wonderland theme
+  * Invite-only, 50 guests
+  * Photo activation, DIY station and light hospitality
+
+  &nbsp;
 content_section:
   - text_block_markdown: >-
       EventNetUSA &nbsp;partnered &nbsp;with&nbsp;rbb Communications
