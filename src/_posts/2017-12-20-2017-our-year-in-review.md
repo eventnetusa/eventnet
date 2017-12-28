@@ -52,7 +52,7 @@ content_section:
       work in making this year great!
 
 
-      Wishing you all the best in 2018!&nbsp;
+      ***Wishing you all the best in 2018!&nbsp;***
     single_image_block:
       single_image_path:
     double_image_block:
