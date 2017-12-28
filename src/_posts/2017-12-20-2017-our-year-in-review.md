@@ -17,33 +17,35 @@ content_section:
 
 
       * Winning Agency! *“Known for producing the impossible*" on
-      EventMarketer’s 2017 It List
+      **EventMarketer’s 2017 It List**
 
-      * Winning Agency! Chief Marketer’s Top 200 List, impressed with our
+      * Winning Agency! **Chief Marketer’s Top 200 List**, impressed with our
       *“mind-boggling schedule of mobile tours, pop-up stores, grand openings
       and events for a wide variety of clients”*
 
-      * Created a true Rockstar experience for Carnivalby implementing their
-      *AgentPalooza 2017* roadshow and tradeshow booths at CLIA and CruiseWorld.
-      The tattoo parlor was a huge hit!
+      * Created a true rockstar experience for **Carnival**by implementing their
+      *AgentPalooza 2017* roadshow and tradeshow booths at **CLIA** and
+      **CruiseWorld**. The tattoo parlor was a huge hit!
 
-      * We *Beat the Heat* with FPL and rbb Communications by blasting consumers
-      with Cryo Cannon’s in “cooling stations” (to be continued next year….)
+      * We *Beat the Heat* with **FPL**and **rbb Communications** by blasting
+      consumers with Cryo Cannon’s in “cooling stations” (to be continued next
+      year….)
 
-      * Partnered with CELSIUS to introduce the hottest new fitness drink to
+      * Partnered with **CELSIUS**to introduce the hottest new fitness drink to
       consumers with a *National Summer Sampling Program*
 
-      * Produced on-going health insurance activations for Humana and BCBS
+      * Produced on-going health insurance activations for **Humana**and
+      **BCBS**
 
-      * Launched brick and mortars for NYX Professional Makeup executing store
-      grand opening events
+      * Launched brick and mortars for **NYX Professional Makeup** executing
+      store grand opening events
 
-      * Celebrated the holidays with rbb Communications and Homewood Suites with
-      a *Thanksgiving Day Parade* photo activation and *“Winter Wonderland”
-      Influencer Media Event*
+      * Celebrated the holidays with **rbb Communications** and **Homewood
+      Suites** with a *Thanksgiving Day Parade* photo activation and *“Winter
+      Wonderland” Influencer Media Event*
 
-      * Activated ongoing sampling programs for Revlon, Purdue, T-Mobile, Subway
-      and moreat events and festivals around the country
+      * Activated ongoing sampling programs for **Revlon, Purdue, T-Mobile,
+      Subway** **and more** at events and festivals around the country
 
       * Executed over **1,200** event days. Thank you to our thousands of brand
       ambassadors, tour managers, truck drivers and local laborers for your hard
