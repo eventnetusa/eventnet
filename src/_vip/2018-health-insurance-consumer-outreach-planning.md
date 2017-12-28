@@ -53,16 +53,19 @@ content_section:
       to targeted consumers.&nbsp;
 
 
-      What program opportunities fit your needs?
+      #### What program opportunities fit your needs?
 
 
-      * #### Member Engagement
+      * Member Engagement
 
-      * #### **Gap Closing/Screening**
 
-      * #### **Lead Generation**
+      * Gap Closing/Screening
 
-      * **Enrollment**
+
+      * Lead Generation
+
+
+      * Enrollment
     single_image_block:
       single_image_path:
     double_image_block:
