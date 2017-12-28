@@ -33,7 +33,7 @@ content_section:
       * Partnered with CELSIUS to introduce the hottest new fitness drink to
       consumers with a *National Summer Sampling Program*
 
-      * Produced on-going health insurance activations for Humanaand BCBS
+      * Produced on-going health insurance activations for Humana and BCBS
 
       * Launched brick and mortars for NYX Professional Makeup executing store
       grand opening events
