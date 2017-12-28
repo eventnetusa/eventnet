@@ -49,8 +49,10 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### We excel in activations that promote sales, education and brand reach
-      to targeted consumers.&nbsp;
+      ### Recently named as the only Experiential Marketing agency in the Health
+      Insurance Category on EventMarketer's 2017 IT List. We excel in
+      activations that promote sales, education and brand reach to targeted
+      consumers.&nbsp;
 
 
       #### &nbsp;
@@ -69,7 +71,9 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '## [Contact us today!](https://www.eventnetusa.com/contact/)'
+  - text_block_markdown: >-
+      ## Check out our latest work with
+      [Humana](https://www.eventnetusa.com/work/humana-rvs/)!
     single_image_block:
       single_image_path:
     double_image_block:
