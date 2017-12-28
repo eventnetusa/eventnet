@@ -56,7 +56,7 @@ content_section:
       image_1_path: /uploads/img-3268.mp4
       image_2_path:
     video_block:
-      video_id: mXaIgBgmX4A
+      video_id: MuNHbz3jH04
 ---
 
 
