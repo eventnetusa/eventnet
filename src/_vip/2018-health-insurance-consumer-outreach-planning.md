@@ -57,6 +57,12 @@ content_section:
 
 
       #### &nbsp;
+
+
+      #### &nbsp;
+
+
+      #### What program opportunities fit your needs?
     single_image_block:
       single_image_path:
     double_image_block:
@@ -72,8 +78,6 @@ content_section:
       ### &nbsp;
 
       ### &nbsp;
-
-      ### What program opportunities fit your needs?
     single_image_block:
       single_image_path: /uploads/ins-planning-calendar1-1.png
     double_image_block:
