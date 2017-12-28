@@ -13,43 +13,44 @@ content_section:
       accolades thanks to a dedicated team.
 
 
-      ### **Highlights include:**
+      **Highlights include:**
 
 
-      * Winning Agency! “Known for producing the impossible" on EventMarketer’s
-      2017 It List
+      * Winning Agency! *“Known for producing the impossible*" on
+      EventMarketer’s 2017 It List
 
       * Winning Agency! Chief Marketer’s Top 200 List, impressed with our
-      “mind-boggling schedule of mobile tours, pop-up stores, grand openings and
-      events for a wide variety of clients”
+      *“mind-boggling schedule of mobile tours, pop-up stores, grand openings
+      and events for a wide variety of clients”*
 
-      * Helping Carnival celebrate travel agents with their Agent Palooza 2017
-      roadshow and tradeshow booths at CLIA and CruiseWorld 2017. The tattoo
-      parlor was a huge hit!
+      * Created a true Rockstar experience for Carnivalby implementing their
+      *AgentPalooza 2017* roadshow and tradeshow booths at CLIA and CruiseWorld.
+      The tattoo parlor was a huge hit!
 
-      * We Beat the Heat with FPL and rbb Communications by blasting consumers
+      * We *Beat the Heat* with FPL and rbb Communications by blasting consumers
       with Cryo Cannon’s in “cooling stations” (to be continued next year….)
 
-      * Worked with CELSIUS to introduce the hottest new fitness drink to
-      consumers with a National Summer Sampling Program
+      * Partnered with CELSIUS to introduce the hottest new fitness drink to
+      consumers with a *National Summer Sampling Program*
 
-      * Continued health insurance activations for Humana and BCBS
+      * Produced on-going health insurance activations for Humanaand BCBS
 
-      * Brought back brick and mortars for NYX Professional Makeup with store
+      * Launched brick and mortars for NYX Professional Makeup executing store
       grand opening events
 
       * Celebrated the holidays with rbb Communications and Homewood Suites with
-      a Thanksgiving Day Parade photo activation and “Winter Wonderland”
-      Influencer Media Event
+      a *Thanksgiving Day Parade* photo activation and *“Winter Wonderland”
+      Influencer Media Event*
 
-      * Sampled again for Revlon, and Purdue at events and festivals around the
-      country
+      * Activated ongoing sampling programs for Revlon, Purdue, T-Mobile, Subway
+      and moreat events and festivals around the country
 
-      * Conducted over 1,200 brand ambassador working days for FPL, T-Mobile,
-      Subway, Homewood Suites, Hilton Honors and Om Shanti
+      * Executed over **1,200** event days. Thank you to our thousands of brand
+      ambassadors, tour managers, truck drivers and local laborers for your hard
+      work in making this year great!
 
 
-      Wow, what a year! Wishing you all the best in 2018!&nbsp;
+      Wishing you all the best in 2018!&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
