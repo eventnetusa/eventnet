@@ -50,8 +50,9 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       ### Recently named as the only Experiential Marketing agency in the Health
-      Insurance Category on EventMarketer's 2017 IT List. We excel in
-      activations that promote sales, education and brand reach to targeted
+      Insurance Category on *[EventMarketer's 2017 IT
+      List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)*. We excel
+      in activations that promote sales, education and brand reach to targeted
       consumers.&nbsp;
 
 
