@@ -1,6 +1,6 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: 2018 HEALTH INSURANCE CONSUMER PLANNING
+large_headline: 2018 HEALTH INSURANCE CONSUMER ACTIVATION PLANNING
 hero_image_path: /uploads/hearing-aid-collage-2.jpg
 vip_project_type: B2B
 hide_social_links: false
@@ -50,20 +50,57 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       ### We excel in activations that promote sales, education and brand reach
-      to targeted consumers.
+      to targeted consumers.&nbsp;
 
 
-      * Educate consumers about OTC hearing aids
-
-      * Provide hearing tests to evaluate consumer needs
-
-      * Sample hearing aids to targeted consumers
-
-      * <div>Drive sales onsite, through retail integration, and directing to
-      website.</div>
+      What program opportunities fit your needs?
 
 
-      #### **VIEW HOW WE CREATE UNIQUE ONE-ON-ONE BRAND EXPERIENCES BELOW**
+      #### MEMBER ENGAGEMENT
+
+
+      * SARC (Socially Active Retirement Communities)
+
+      * Recurring Mall Events / Mall Walking
+
+      * Mall Kiosks
+
+      * Community Events / Sponsorship's
+
+
+      **GAP CLOSING / SCREENING**
+
+
+      * Pop-Up Screening Events in Select Venues (Including Retail Partners)
+
+      * Screening RV or Event Vehicle
+
+      * Mall In-Line Stores
+
+
+      **LEAD GENERATION**
+
+
+      * SARC (Socially Active Retirement Communities)
+
+      * MAC (Mobile Assistance Center)
+
+      * Mall Kiosks
+
+      * Pop-Up Events
+
+
+      **ENROLLMENT**
+
+
+      * RV or Event Vehicle
+
+      * Mall In-Line Stores
+
+      * Pop-Up Enrollment Events
+
+
+      **2019 PLANNING**
     single_image_block:
       single_image_path:
     double_image_block:
