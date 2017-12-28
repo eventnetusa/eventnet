@@ -63,7 +63,16 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '### What program opportunities fit your needs?'
+  - text_block_markdown: |-
+      ### &nbsp;
+
+      ### &nbsp;
+
+      ### &nbsp;
+
+      ### &nbsp;
+
+      ### What program opportunities fit your needs?
     single_image_block:
       single_image_path: /uploads/ins-planning-calendar1.png
     double_image_block:
