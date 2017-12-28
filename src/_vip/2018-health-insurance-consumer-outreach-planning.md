@@ -123,8 +123,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/16230986-1080890878689361-8655644439122804736-n-1.jpg
-      image_2_path: /uploads/6.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: |-
