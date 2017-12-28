@@ -23,18 +23,18 @@ content_section:
       *“mind-boggling schedule of mobile tours, pop-up stores, grand openings
       and events for a wide variety of clients”*
 
-      * Created a true rockstar experience for **Carnival**by implementing their
-      *AgentPalooza 2017* roadshow and tradeshow booths at **CLIA** and
+      * Created a true rockstar experience for **Carnival&nbsp;**by implementing
+      their *AgentPalooza 2017* roadshow and tradeshow booths at **CLIA** and
       **CruiseWorld**. The tattoo parlor was a huge hit!
 
-      * We *Beat the Heat* with **FPL**and **rbb Communications** by blasting
-      consumers with Cryo Cannon’s in “cooling stations” (to be continued next
-      year….)
+      * We *Beat the Heat* with **FPL&nbsp;**and **rbb Communications** by
+      blasting consumers with Cryo Cannon’s in “cooling stations” (to be
+      continued next year….)
 
-      * Partnered with **CELSIUS**to introduce the hottest new fitness drink to
-      consumers with a *National Summer Sampling Program*
+      * Partnered with **CELSIUS&nbsp;**to introduce the hottest new fitness
+      drink to consumers with a *National Summer Sampling Program*
 
-      * Produced on-going health insurance activations for **Humana**and
+      * Produced on-going health insurance activations for **Humana&nbsp;**and
       **BCBS**
 
       * Launched brick and mortars for **NYX Professional Makeup** executing
