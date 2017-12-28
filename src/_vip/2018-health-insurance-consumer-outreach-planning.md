@@ -56,51 +56,13 @@ content_section:
       What program opportunities fit your needs?
 
 
-      #### MEMBER ENGAGEMENT
+      * #### Member Engagement
 
+      * #### **Gap Closing/Screening**
 
-      * SARC (Socially Active Retirement Communities)
+      * #### **Lead Generation**
 
-      * Recurring Mall Events / Mall Walking
-
-      * Mall Kiosks
-
-      * Community Events / Sponsorship's
-
-
-      **GAP CLOSING / SCREENING**
-
-
-      * Pop-Up Screening Events in Select Venues (Including Retail Partners)
-
-      * Screening RV or Event Vehicle
-
-      * Mall In-Line Stores
-
-
-      **LEAD GENERATION**
-
-
-      * SARC (Socially Active Retirement Communities)
-
-      * MAC (Mobile Assistance Center)
-
-      * Mall Kiosks
-
-      * Pop-Up Events
-
-
-      **ENROLLMENT**
-
-
-      * RV or Event Vehicle
-
-      * Mall In-Line Stores
-
-      * Pop-Up Enrollment Events
-
-
-      **2019 PLANNING**
+      * **Enrollment**
     single_image_block:
       single_image_path:
     double_image_block:
