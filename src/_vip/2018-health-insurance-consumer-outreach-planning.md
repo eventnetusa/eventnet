@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to reach the next tier in health insurance consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Generate &nbsp;Sales Through
+  ### Increase 2018 Medicare Sales Through
 
   * Education
   * Demonstration
@@ -19,17 +19,17 @@ sidebar_text_markdown: |-
   * Lead Generation
   * Retail Integration
 
-  ### Deliver Your Message At
+  ### Reach Consumers At
 
+  * Socially Active Retirement Communities
   * Malls/ Shopping Centers
   * Big Box Retailers
   * Special Events
   * Sporting Events
   * Trade Shows
   * Fairs & Festivals
-  * Socially Active Retirement Communities
 
-  ### Turnkey Services &nbsp;Include
+  ### Turnkey Management Include
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
