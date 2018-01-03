@@ -95,7 +95,7 @@ content_section:
       ### &nbsp;
 
 
-      NOTICE: This page contains confidential information belonging to
+      ##### NOTICE: This page contains confidential information belonging to
       EventNetUSA which is legally privileged. The information is intended only
       for the use of the recipient. If you are not the intended recipient, you
       are hereby notified that any disclosure, copying, distribution or the
