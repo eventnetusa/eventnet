@@ -124,13 +124,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ##### NOTICE: This page contains confidential information belonging to
-      EventNetUSA which is legally privileged. The information is intended only
-      for the use of the recipient. If you are not the intended recipient, you
-      are hereby notified that any disclosure, copying, distribution or the
-      taking of any action in reliance on or regarding the contents of this
-      information is strictly prohibited.
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
