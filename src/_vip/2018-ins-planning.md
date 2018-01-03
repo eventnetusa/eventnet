@@ -88,19 +88,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### See why we're #1 in[ Medicare
-      Marketing](https://www.eventnetusa.com/work/)!
+      ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;See
+      why we're #1 in[ Medicare Marketing](https://www.eventnetusa.com/work/)!
 
 
       ### &nbsp;
 
 
-      ##### NOTICE: This page contains confidential information belonging to
-      EventNetUSA which is legally privileged. The information is intended only
-      for the use of the recipient. If you are not the intended recipient, you
-      are hereby notified that any disclosure, copying, distribution or the
-      taking of any action in reliance on or regarding the contents of this
-      information is strictly prohibited.
+      ##### &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -122,7 +119,7 @@ content_section:
 
       {: .xl65} |
 
-      | Contact us to start planning 2018 activations
+      | &nbsp;
 
       {: .xl67} | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 
@@ -132,20 +129,9 @@ content_section:
 
       {: .xl65} |
 
-      | Shelby Beaty
+      | &nbsp;
 
-      {: .xl67} | &nbsp; | Lauren Matthews | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-      &nbsp; | &nbsp;
-
-      {: .xl65} | &nbsp;
-
-      {: .xl65} | &nbsp;
-
-      {: .xl65} |
-
-      | Business Development
-
-      {: .xl67} | Business Development | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+      {: .xl67} | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
       &nbsp;
 
       {: .xl65} | &nbsp;
@@ -154,9 +140,19 @@ content_section:
 
       {: .xl65} |
 
-      | [shelbyb@eventnetusa.com](mailto:shelbyb@eventnetusa.com)
+      | &nbsp;
 
-      {: .xl68} | [laurenm@eventnetusa.com](mailto:laurenm@eventnetusa.com)
+      {: .xl67} | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} |
+
+      | &nbsp;
+
+      {: .xl68} | &nbsp;
 
       {: .xl66} | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
 
@@ -166,9 +162,9 @@ content_section:
 
       {: .xl65} |
 
-      | O: (954) 467-9898 ext. 204
+      | &nbsp;
 
-      {: .xl67} | O: (954) 467-9898 ext. 212 | &nbsp; | &nbsp;
+      {: .xl67} | &nbsp; | &nbsp; | &nbsp;
 
       {: .xl66} | &nbsp; | &nbsp; | &nbsp;
 
