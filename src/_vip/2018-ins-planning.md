@@ -108,7 +108,84 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      <colgroup><col width="67" span="9" style="width:51pt" /><col width="64"
+      style="width:48pt" /><col width="120" span="3" style="width:90pt"
+      /></colgroup>
+
+      | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+      &nbsp; | &nbsp; | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} |
+
+      | Contact us to start planning 2018 activations
+
+      {: .xl67} | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} |
+
+      | Shelby Beaty
+
+      {: .xl67} | &nbsp; | Lauren Matthews | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+      &nbsp; | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} |
+
+      | Business Development
+
+      {: .xl67} | Business Development | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+      &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} |
+
+      | [shelbyb@eventnetusa.com](mailto:shelbyb@eventnetusa.com)
+
+      {: .xl68} | [laurenm@eventnetusa.com](mailto:laurenm@eventnetusa.com)
+
+      {: .xl66} | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} |
+
+      | O: (954) 467-9898 ext. 204
+
+      {: .xl67} | O: (954) 467-9898 ext. 212 | &nbsp; | &nbsp;
+
+      {: .xl66} | &nbsp; | &nbsp; | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl69} |
+
+      | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+      &nbsp; | &nbsp; | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} | &nbsp;
+
+      {: .xl65} |
     single_image_block:
       single_image_path:
     double_image_block:
@@ -116,7 +193,13 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      NOTICE: This page contains confidential information belonging to
+      EventNetUSA which is legally privileged. The information is intended only
+      for the use of the recipient. If you are not the intended recipient, you
+      are hereby notified that any disclosure, copying, distribution or the
+      taking of any action in reliance on or regarding the contents of this
+      information is strictly prohibited.
     single_image_block:
       single_image_path:
     double_image_block:
