@@ -81,7 +81,7 @@ content_section:
 
       ### &nbsp;
     single_image_block:
-      single_image_path: /uploads/capture.PNG
+      single_image_path: /uploads/capture-2.png
     double_image_block:
       image_1_path:
       image_2_path:
