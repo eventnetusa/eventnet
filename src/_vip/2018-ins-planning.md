@@ -88,10 +88,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;See
-      why we're #1 in[ Medicare Marketing](https://www.eventnetusa.com/work/)!
+      ### See why we're #1 in[ Medicare
+      Marketing](https://www.eventnetusa.com/work/)!
 
 
       ### &nbsp;
