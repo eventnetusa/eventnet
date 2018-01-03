@@ -88,22 +88,6 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### See why we're #1 in[ Medicare
-      Marketing](https://www.eventnetusa.com/work/)!
-
-
-      ### &nbsp;
-
-
-      ##### &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     single_image_block:
       single_image_path:
@@ -119,6 +103,16 @@ content_section:
       are hereby notified that any disclosure, copying, distribution or the
       taking of any action in reliance on or regarding the contents of this
       information is strictly prohibited.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      See why we're #1 in [Medicare
+      Marketing](https://www.eventnetusa.com/work/)!
     single_image_block:
       single_image_path:
     double_image_block:
