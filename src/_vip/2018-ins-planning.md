@@ -29,7 +29,7 @@ sidebar_text_markdown: |-
   * Trade Shows
   * Fairs & Festivals
 
-  ### Turnkey Management Include
+  ### Turnkey Management Includes
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
