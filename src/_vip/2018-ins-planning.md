@@ -49,8 +49,8 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      #### Recently named as the only Experiential Marketing agency in the
-      Health Insurance Category on *[EventMarketer's 2017 IT
+      #### Recognized as the leading Experiential Marketing agency servicing the
+      Health Insurance Industry on *[EventMarketer's 2017 IT
       List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)*.
 
 
@@ -61,10 +61,7 @@ content_section:
       #### &nbsp;
 
 
-      #### &nbsp;
-
-
-      #### What program opportunities fit your needs?
+      #### What 2018 program opportunities fit your needs?
     single_image_block:
       single_image_path:
     double_image_block:
