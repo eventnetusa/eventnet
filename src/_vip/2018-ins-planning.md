@@ -1,5 +1,5 @@
 ---
-small_headline: EventNetUSA Turnkey Brand Event Production and Management
+small_headline: Turnkey Brand Event Production and Management
 large_headline: 2018 HEALTH INSURANCE CONSUMER ACTIVATION PLANNING
 hero_image_path: /uploads/2018-ins-hero.jpg
 vip_project_type: B2B
