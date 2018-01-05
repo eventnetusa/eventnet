@@ -25,7 +25,7 @@ sidebar_text_markdown: |-
   * Malls/Retail Locations
   * Fairs & Festivals
   * Sporting Events
-  * Socially Retirement Communities
+  * Socially Active Retirement Communities
 
   ### Turnkey Services &nbsp;Include
 
