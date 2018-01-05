@@ -65,8 +65,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/19-1.png
-      image_2_path: /uploads/2-4.jpg
+      image_1_path: /uploads/1-5.jpg
+      image_2_path: /uploads/lilac-festival-seniors-2018.jpg
     video_block:
       video_id:
 _comments:
