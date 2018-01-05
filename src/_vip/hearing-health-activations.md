@@ -21,12 +21,10 @@ sidebar_text_markdown: |-
 
   ### Deliver Your Message At
 
+  * Concerts/ Playhouses
   * Malls/Retail Locations
   * Fairs & Festivals
   * Sporting Events
-  * Concerts
-  * Trade Shows
-  * Universities
   * Socially Retirement Communities
 
   ### Turnkey Services &nbsp;Include
