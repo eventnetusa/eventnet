@@ -47,7 +47,7 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### Take your PSAP to the consumer on their turf creating a real world
+      ### Take your PSAP to the consumer on their turf creating a real hearing
       experience.
 
 
