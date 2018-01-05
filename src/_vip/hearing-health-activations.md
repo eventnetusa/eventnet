@@ -1,5 +1,5 @@
 ---
-small_headline: EventNetUSA Turnkey Brand Event Production and Management
+small_headline: Turnkey Brand Event Production and Management
 large_headline: PSAP Try-Ons Lead to Consumer Brand Purchase
 hero_image_path: /uploads/hearing-aid-hero-2.jpg
 vip_project_type: B2B
