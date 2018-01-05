@@ -47,45 +47,26 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### Hearing health and accessibility to testing and trial is a growing
-      demand among consumers.
+      ### We take your PSAP to the consumer on their turf creating a real world
+      experience.
 
 
-      ### Our testing approach to consumers includes:
+      Opportunities Include:
 
 
-      * Interface at high traffic targeted venues
+      * Lead generation and sales
 
-      * Assisted or self screening capabilities
+      * Changing the vanity factor
 
-      * Lead generation & onsite sales
-
-
-      #### See activation examples below
+      * Trials in situational settings
 
 
-      **<u>RETAIL STORES</u>**
+      #### &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/19-1.png
       image_2_path: /uploads/2-4.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: '**<u>SCREENING &amp; TRIAL VEHICLES</u>**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/hearing-test-trailer-001-2.jpg
-      image_2_path: /uploads/app-cloudcannon.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: <u><b>POP-UP KIOSKS</b></u>
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/ins-kiosk-001.jpg
-      image_2_path: /uploads/16-2.png
     video_block:
       video_id:
 _comments:
