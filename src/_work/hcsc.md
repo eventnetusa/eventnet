@@ -7,7 +7,7 @@ hover_text: >-
   See how Health Care Service Corporation educated consumers when the Affordable
   Care Act launched
 hero_image_path: /uploads/picture3-2.png
-thumbnail_image_path: /uploads/hcsc-thumb.jpg
+thumbnail_image_path: /uploads/picture3-3.png
 types:
   - insurance activation
   - popup shop
@@ -48,13 +48,6 @@ content_section:
       eligible consumers into the government’s new ACA Plans.
 
 
-
-
-
-
-
-
-
       To ensure reach and depth of knowledge about HCSC’s ACA offerings,
       EventNetUSA executed a three pronged approach using Mobile Assistance
       Centers (MAC), Pop-Up Retail Stores and a Mobile Enrollment RV in the
@@ -63,33 +56,11 @@ content_section:
       engaging through relevant content and enrolling new members on-site.
 
 
-
-
-
-
-
-
-
       ### A LOOK BEHIND THE SCENES
 
 
-
-
-
-
-
-
-
-      Mobile Assistance Center (MAC)
-
-      <br>Outdoor and Indoor Health Insurance Activations
-
-
-
-
-
-
-
+      Mobile Assistance Center (MAC)<br>Outdoor and Indoor Health Insurance
+      Activations
 
 
       * Produced multiple 8’x8’ self-contained event trailers equipped with 9
@@ -114,23 +85,7 @@ content_section:
       &nbsp;
 
 
-
-
-
-
-
-
-
-      POP-UP RETAIL STORES
-
-      <br>Indoor Activations
-
-
-
-
-
-
-
+      POP-UP RETAIL STORES<br>Indoor Activations
 
 
       * Analyzed and selected mall properties based on HCSC target zip codes,
@@ -149,7 +104,7 @@ content_section:
 
       * Free blood pressure screening available to all consumers
     single_image_block:
-      image_path: /uploads/hcsc-case-5.jpg
+      image_path:
     double_image_block:
       image_1_path: /uploads/hcsc-case-8.jpg
       image_2_path: /uploads/hcsc-case-6.jpg
@@ -157,7 +112,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/hcsc-case-5.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -167,21 +122,7 @@ content_section:
       &nbsp;
 
 
-
-
-
-
-
-
-
       MOBILE ENROLLMENT RV
-
-
-
-
-
-
-
 
 
       * Produced custom RV utilized for relevant retail stops across market
@@ -193,7 +134,7 @@ content_section:
 
       * Supplied CDL-B driver to transport and set-up RV
     single_image_block:
-      single_image_path: /uploads/hcsc-rv.png
+      single_image_path: /uploads/picture6.png
     double_image_block:
       image_1_path:
       image_2_path:
