@@ -54,9 +54,9 @@ content_section:
       #### Opportunities Include:
 
 
-      * Lead generation and activation
-
       * Onsite and/or Online Purchases
+
+      * Lead generation and activation
 
       * Changing the vanity factor
 
