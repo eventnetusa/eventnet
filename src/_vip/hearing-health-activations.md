@@ -82,7 +82,7 @@ content_section:
       single_image_path: /uploads/health-fair-central-mall.jpg
     double_image_block:
       image_1_path: /uploads/document.jpg
-      image_2_path:
+      image_2_path: /uploads/lobby.jpg
     video_block:
       video_id:
 _comments:
