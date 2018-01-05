@@ -47,11 +47,11 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      ### We take your PSAP to the consumer on their turf creating a real world
+      ### Take your PSAP to the consumer on their turf creating a real world
       experience.
 
 
-      Opportunities Include:
+      #### Opportunities Include:
 
 
       * Lead generation and sales
