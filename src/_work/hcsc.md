@@ -41,19 +41,18 @@ sidebar_text_markdown: |-
   * Average **24&nbsp;**enrollment applications initiated per day
 content_section:
   - text_block_markdown: >-
-      Health Care Service Corporation (HCSC) is one of the largest licensees of
-      BlueCross BlueShield, operating in 5 states. When Affordable Care Act
-      (ACA) launched in 2013, HCSC teamed with EventNetUSA to expand its brand
-      reach, increase key retail partner relationships and find and enroll
-      eligible consumers into the government’s new ACA Plans.
+      When Affordable Care Act (ACA) launched in 2013, HCSC teamed with
+      EventNetUSA to expand its brand reach, increase key retail partner
+      relationships and find and enroll eligible consumers into the government’s
+      new ACA Plans.
 
 
       To ensure reach and depth of knowledge about HCSC’s ACA offerings,
       EventNetUSA executed a three pronged approach using Mobile Assistance
-      Centers (MAC), Pop-Up Retail Stores and a Mobile Enrollment RV in the
-      Texas, Illinois and Oklahoma markets. Each channel played an integral role
-      in educating consumers on the Healthcare Reform and how ACA works,
-      engaging through relevant content and enrolling new members on-site.
+      Centers (MAC), Pop-Up Retail Stores and a Mobile Enrollment RV. Each
+      channel played an integral role in educating consumers on the Healthcare
+      Reform and how ACA works, engaging through relevant content and enrolling
+      new members on-site.
 
 
       ### A LOOK BEHIND THE SCENES
