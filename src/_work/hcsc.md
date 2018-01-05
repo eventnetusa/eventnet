@@ -3,15 +3,19 @@ client: Health Care Service Corporation
 link_to_casestudy: true
 sort_number: 11
 headline: Cross-Channel Community Outreach Program
-hover_text: See how Health Care Service Corporation educated consumers when the Affordable Care Act launched
-hero_image_path: /uploads/hcsc-case-9.jpg
+hover_text: >-
+  See how Health Care Service Corporation educated consumers when the Affordable
+  Care Act launched
+hero_image_path: /uploads/picture3-2.png
 thumbnail_image_path: /uploads/hcsc-thumb.jpg
 types:
   - insurance activation
   - popup shop
   - vehicle tour
-cta_text: 'Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment Programs?'
-cta: "Let's talk"
+cta_text: >-
+  Interested in Community Outreach, Closing Gaps of Care or Mobile Enrollment
+  Programs?
+cta: Let's talk
 sidebar_text_markdown: |-
   ### QUICK STATS
 
@@ -38,10 +42,10 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       Health Care Service Corporation (HCSC) is one of the largest licensees of
-      BlueCross BlueShield, operating in 5 states. When Affordable Care Act (ACA)
-      launched in 2013, HCSC teamed with EventNetUSA to expand its brand reach,
-      increase key retail partner relationships and find and enroll eligible
-      consumers into the government’s new ACA Plans.
+      BlueCross BlueShield, operating in 5 states. When Affordable Care Act
+      (ACA) launched in 2013, HCSC teamed with EventNetUSA to expand its brand
+      reach, increase key retail partner relationships and find and enroll
+      eligible consumers into the government’s new ACA Plans.
 
 
 
@@ -55,8 +59,8 @@ content_section:
       EventNetUSA executed a three pronged approach using Mobile Assistance
       Centers (MAC), Pop-Up Retail Stores and a Mobile Enrollment RV in the
       Texas, Illinois and Oklahoma markets. Each channel played an integral role
-      in educating consumers on the Healthcare Reform and how ACA works, engaging
-      through relevant content and enrolling new members on-site.
+      in educating consumers on the Healthcare Reform and how ACA works,
+      engaging through relevant content and enrolling new members on-site.
 
 
 
@@ -88,15 +92,15 @@ content_section:
 
 
 
-      * Produced multiple 8’x8’ self-contained event trailers equipped with
-      9 stools for seating, 6 iPads, 2 flat screen monitors with DVD players,
+      * Produced multiple 8’x8’ self-contained event trailers equipped with 9
+      stools for seating, 6 iPads, 2 flat screen monitors with DVD players,
       built-in WiFi, 2 portable laptops and an onboard generator
 
       * Analyzed, selected and secured retail locations and lifestyle events for
       MAC outreach, managing all routing and logistics
 
-      * Consumers engaged with Greeter or Agent then entered their information on
-      iPads for additional follow-up, appointment or enrollment
+      * Consumers engaged with Greeter or Agent then entered their information
+      on iPads for additional follow-up, appointment or enrollment
 
       * Supplied Greeters/Brand Ambassadors and drivers
     single_image_block:
@@ -204,7 +208,7 @@ related_client_logos:
   - logo_image_path: /uploads/CHIP-2.png
     logo_image_height:
   - logo_image_path: /uploads/aetna-02.jpg
-    logo_image_height: '70%'
+    logo_image_height: 70%
   - logo_image_path: /uploads/aarp.png
     logo_image_height:
   - logo_image_path: /uploads/amh-logo-hdr.gif
