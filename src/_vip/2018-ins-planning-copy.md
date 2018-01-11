@@ -1,31 +1,31 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: 2018 HEALTH INSURANCE CONSUMER ACTIVATION PLANNING
-hero_image_path: /uploads/2018-ins-hero.jpg
+large_headline: 2018  CONSUMER ACTIVATION PLANNING
+hero_image_path: /uploads/pr-back-page-hero-2.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to reach the next tier in health insurance consumer marketing?
+cta_headline: Ready to add live consumer experience to your 2018 marketing plan?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Increase 2018 Medicare Sales Through
+  ### Increase 2018 Product Sales Through
 
   * Education
   * Demonstration
-  * "Hands On" Screening
+  * "Hands On"
   * Consultation
   * Lead Generation
   * Retail Integration
 
   ### Reach Consumers At
 
-  * Socially Active Retirement Communities
   * Malls/ Shopping Centers
   * Big Box Retailers
   * Special Events
   * Sporting Events
+  * Universities
   * Trade Shows
   * Fairs & Festivals
 
