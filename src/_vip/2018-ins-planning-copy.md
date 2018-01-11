@@ -49,16 +49,13 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      #### Recognized as the leading Experiential Marketing agency servicing the
-      Health Insurance Industry on *[EventMarketer's 2017 IT
+      #### Recognized as the leading Experiential Marketing agency known for
+      "producing the impossible" on *[EventMarketer's 2017 IT
       List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)*.
 
 
-      #### We excel in activations that promote sales, education and brand reach
-      to targeted consumers.&nbsp;
-
-
-      #### &nbsp;
+      #### Our full service approach and team of industry experts ensure every
+      brand idea comes to life with originality, quality, on time and on budget.
 
 
       #### What 2018 program opportunities fit your needs?
