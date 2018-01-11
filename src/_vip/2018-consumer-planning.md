@@ -81,19 +81,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      See why we're #1 in
-      [Consumer](__notset__)[&nbsp;Marketing](https://www.eventnetusa.com/work/)!
-
+  - text_block_markdown: |-
+      See why we're #1 in Consumer Marketing!
 
       Shelby Beaty
 
-
       Business Development
 
-
       (954) 467-9898 (Ext. 204)
-
 
       shelbyb@eventnetusa.com
     single_image_block:
