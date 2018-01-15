@@ -49,7 +49,7 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      #### Recognized as the leading Experiential Marketing agency known for
+      #### Recognized as a leading Experiential Marketing agency known for
       "producing the impossible" on *[EventMarketer's 2017 IT
       List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)*.
 
