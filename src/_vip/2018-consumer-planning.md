@@ -1,7 +1,7 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
 large_headline: 2018  CONSUMER ACTIVATION PLANNING
-hero_image_path: /uploads/pr-back-page-hero-2.jpg
+hero_image_path: /uploads/2018-ins-hero-1.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
