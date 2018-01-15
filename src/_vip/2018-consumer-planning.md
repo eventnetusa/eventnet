@@ -10,6 +10,18 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to add live consumer experience to your 2018 marketing plan?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
+  ### Program Opportunities Include:
+
+  * Custom Vehicle / Trailer Tours
+  * Experiential Events
+  * Pop-Up Shops
+  * High Volume & Targeted Sampling
+  * Mall Events
+  * Events & Sponsorships
+  * PR Stunts & Events
+  * Retail & Partner Integration
+  * Street Teams / Guerilla
+
   ### Increase 2018 Product Sales Through
 
   * Education
