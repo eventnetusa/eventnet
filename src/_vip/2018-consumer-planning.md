@@ -70,7 +70,7 @@ content_section:
       brand idea comes to life with originality, quality, on time and on budget.
 
 
-      #### What 2018 program opportunities fit your needs?
+      #### Which 2018 program opportunities fit your needs?
     single_image_block:
       single_image_path:
     double_image_block:
