@@ -1,9 +1,9 @@
 ---
-title: 'Exploring Versatility of Event Trailers Part 3: Food Trucks'
-date: 2017-09-28 14:14:00
+title: NEW YEAR NEW EXPERIENCES
+date: 2018-01-31 14:14:00
 filter: insights
 featured_post: true
-excerpt: 'Exploring Versatility of Event Trailers Part 3: Food Trucks'
+excerpt: NEW YEAR NEW EXPERIENCES
 hero_image_path: /uploads/part-3-hero-image.png
 thumbnail_image_path: /uploads/exploring-versatility-of-event-trailers-part-3-food-trucks.jpg
 content_section:
