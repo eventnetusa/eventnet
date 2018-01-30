@@ -146,18 +146,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      **NYX PROFESSIONAL MAKEUP: BEAUTY + SWAG TRUCK**
-
-
-      * Converted food truck into custom Beauty + Swag Truck
-
-      * 3 Makeup stations with vanities for product display and express lip
-      touch-ups
-
-      * Social media staging area
-
-      * Integrated AV monitor
+  - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/20-1.jpg
     double_image_block:
@@ -165,13 +154,7 @@ content_section:
       image_2_path: /uploads/picture5-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
-      **MARTINSON COFFEE: GREATER NORTHEAST SAMPLING**
-
-      * Customized food truck including interior/exterior graphics
-      * Coffee brewing stations
-      * Sampling window
-      * Social media staging for #YouCantFakeReal contest
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -179,34 +162,15 @@ content_section:
       image_2_path: /uploads/38.png
     video_block:
       video_id:
-  - text_block_markdown: >-
-      **PRINCE PASTA: 100<sup>TH</sup> ANNIVERSARY SAMPLING TOUR**
-
-
-      * PR/media staging
-
-      * Customized kitchen equipment for cooking pasta recipes fresh on-the-go
-
-      * Refrigeration system for perishables
-
-      * Food and health safety compliant
-
-      * Interior and exterior graphics
-
-      * Ordering/serving window
-
-      * Exterior audio and visual systems for entertaining patrons while waiting
-      to be served
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/6-1.jpg
-      image_2_path: /uploads/prince-mayor-boston-eventnetusa-1.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      **How will we transform our food truck for your next mobile
-      tour?&nbsp;[Let’s talk!](/contact/)**
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
