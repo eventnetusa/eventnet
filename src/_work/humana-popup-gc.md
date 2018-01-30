@@ -7,7 +7,7 @@ hover_text: >-
   To close gaps in care and raise awareness of Humana's Guidance Centers, Humana
   Medicare Members enjoy free wellness and health screening events across
   multiple markets.
-hero_image_path: /uploads/hero-image.png
+hero_image_path:
 thumbnail_image_path: /uploads/img-20170607-110338.jpg
 types:
   - insurance activation
