@@ -3,15 +3,41 @@ client: Humana
 link_to_casestudy: false
 sort_number: 9
 headline: Pop-Up Guidance Centers
-hover_text: "To close gaps in care and raise awareness of Humana's Guidance Centers, Humana Medicare Members enjoy free wellness and health screening events across multiple markets."
+hover_text: >-
+  To close gaps in care and raise awareness of Humana's Guidance Centers, Humana
+  Medicare Members enjoy free wellness and health screening events across
+  multiple markets.
 hero_image_path: /uploads/hero-image.png
 thumbnail_image_path: /uploads/img-20170607-110338.jpg
 types:
   - insurance activation
   - vehicle tour
 cta_text:
-cta: "Let's talk"
-sidebar_text_markdown:
+cta: Let's talk
+sidebar_text_markdown: |-
+  **EventNetUSA’s turnkey services include:**
+
+  • Program conceptualization
+
+  • Budget management
+
+  • Marketing material inventory control
+
+  • Market research and analysis
+
+  • Venue selection and negotiation
+
+  • Hire and train Market Managers and teams of rotational Brand Ambassadors
+
+  • Comprehensive training manuals and conduct classes for team
+
+  • Hire and train local labor for event load-in/out
+
+  • Display design and production
+
+  • Routing and logistics
+
+  • Wrap-up and executive reporting
 content_section:
   - text_block_markdown:
     single_image_block:
