@@ -38,7 +38,7 @@ content_section:
       campaigns and media placements.
 
 
-      **RETAIL INTEGRATION – LIVE EXPERIENCES**
+      **RETAIL INTEGRATION&nbsp;**
 
 
       Brands are turning to experiential marketing to entice consumers to shop
@@ -137,7 +137,7 @@ content_section:
       &nbsp;
 
 
-      2018 is a new year with new challenges. We’ll help you navigate these
+      ### 2018 is a new year with new challenges. We’ll help you navigate these
       changes and apply these trends to your event marketing plans.
       Let’s&nbsp;[get a conversation going](http://derse.com/contact/)&nbsp;in
       the new year.
