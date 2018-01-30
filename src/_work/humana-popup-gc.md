@@ -39,12 +39,91 @@ sidebar_text_markdown: |-
 
   • Wrap-up and executive reporting
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      Humana, a leading U.S. health insurance provider, partnered with
+      EventNetUSA to produce and operate a multi-market *Pop-Up Guidance Center
+      Program* for activating Medicare-eligible Seniors.
+
+
+      &nbsp;
+
+
+      Humana’s Pop-Up Guidance Center events take place in shopping malls, where
+      Seniors come to participate in free health education seminars, fitness
+      classes, one-on-one consultations and biometric screenings.
+
+
+      &nbsp;
+
+
+      **Now operating in its second year, program objectives include:**
+
+
+      * Reinforce “Humana is here for you” message to improve member
+      satisfaction and retention
+
+      * Increase awareness of Humana Medicare resources like Go365 and
+      SilverSneakers Fitness Classes
+
+      * Close gaps of care for eligible Humana Medicare members by providing
+      biometric health screenings and take-home test kits
+
+      * Generate new Medicare enrollment leads and increase brand awareness
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/mini-cooper-stadium-new-orleans-back-view.JPG
       image_2_path: /uploads/mini-cooper-stadium-new-orleans-set-up.JPG
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      **A LOOK BEHIND THE SCENES**
+
+
+      &nbsp;
+
+
+      Event Set-Up and Operations:
+
+
+      * Events operate weekly and bi-weekly in select shopping malls year-round
+
+      * Daily set-up/tear-down of branded modular displays, furniture and
+      fixtures
+
+      * HIPAA compliant private consultation and screening rooms &nbsp;
+
+      * Promotional and directional signage throughout venues
+
+      * Field teams include Event Manager and Brand Ambassadors
+
+
+      &nbsp;
+
+
+      Activities Include:
+
+
+      * On-Site Health Screenings
+
+      * SilverSneakers Fitness Classes
+
+      * Health and Nutrition Seminars
+
+      * Cooking Demonstrations
+
+      * Identity Fraud Protection Education
+
+      * Arts and Crafts
+
+      * Thank You Letters to Military
+
+      * Guest Speakers
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 project_logos:
