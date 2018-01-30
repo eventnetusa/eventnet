@@ -165,9 +165,7 @@ content_section:
       video_id:
   - text_block_markdown: >-
       2018 is a new year with new challenges. We’ll help you navigate these
-      changes and apply these trends to your event marketing plans.
-      Let’s&nbsp;[get a conversation going](http://derse.com/contact/)&nbsp;in
-      the new year.
+      changes and apply these trends to your event marketing plans.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
