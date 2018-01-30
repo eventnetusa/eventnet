@@ -164,7 +164,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      2018 is a new year with new challenges. We’ll help you navigate these
+      ### 2018 is a new year with new challenges. We’ll help you navigate these
       changes and apply these trends to your event marketing plans.&nbsp;
     single_image_block:
       single_image_path:
