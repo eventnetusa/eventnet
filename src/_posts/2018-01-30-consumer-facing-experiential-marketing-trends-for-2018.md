@@ -36,8 +36,14 @@ content_section:
       independently is the most authentic and low-cost way to reach beyond the
       brand’s immediate audience. It can also be repurposed for other marketing
       campaigns and media placements.
-
-
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       **RETAIL INTEGRATION&nbsp;**
 
 
@@ -75,8 +81,14 @@ content_section:
 
 
       &nbsp;
-
-
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       **OUT OF VENUE VENUES**
 
 
@@ -99,8 +111,14 @@ content_section:
 
 
       &nbsp;
-
-
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       **AR, VR AND DRONES**
 
 
@@ -137,42 +155,19 @@ content_section:
       &nbsp;
 
 
-      ### 2018 is a new year with new challenges. We’ll help you navigate these
+      ### &nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      2018 is a new year with new challenges. We’ll help you navigate these
       changes and apply these trends to your event marketing plans.
       Let’s&nbsp;[get a conversation going](http://derse.com/contact/)&nbsp;in
       the new year.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
