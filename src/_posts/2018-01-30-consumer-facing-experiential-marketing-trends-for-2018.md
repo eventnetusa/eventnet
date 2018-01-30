@@ -11,10 +11,12 @@ content_section:
       It’s no surprise that experiential marketing over traditional marketing is
       on the rise. Consumers want a personal, hands-on experience and
       experiential provides a uniquely fast and effective way to build brand
-      awareness through one-on-one connections with consumers.Many industry
-      insiders have predicted that experiential marketing will become a tactic
-      that marketers cannot avoid in 2018. We’ve gathered some of the top trends
-      you will see in 2018.
+      awareness through one-on-one connections. Many industry insiders have
+      predicted that experiential marketing will become a tactic that marketers
+      cannot avoid in 2018.
+
+
+      We’ve gathered some of the top trends you will see in 2018.
 
 
       **LIVE STREAMING**
