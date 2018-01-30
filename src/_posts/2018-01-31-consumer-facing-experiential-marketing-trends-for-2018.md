@@ -148,18 +148,18 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/20-1.jpg
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture4---copy.jpg
-      image_2_path: /uploads/picture5-1.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/37.jpg
-      image_2_path: /uploads/38.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
