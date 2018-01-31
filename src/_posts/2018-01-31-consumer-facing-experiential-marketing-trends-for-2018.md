@@ -4,8 +4,8 @@ date: 2018-01-31 14:14:00
 filter: insights
 featured_post: true
 excerpt: Consumer Facing Experiential Marketing Trends for 2018
-hero_image_path: /uploads/part-3-hero-image.png
-thumbnail_image_path: /uploads/exploring-versatility-of-event-trailers-part-3-food-trucks.jpg
+hero_image_path: /uploads/jan-blog-collage-2.jpg
+thumbnail_image_path: /uploads/jan-blog-thumbnail.jpg
 content_section:
   - text_block_markdown: >-
       It’s no surprise that experiential marketing over traditional marketing is
