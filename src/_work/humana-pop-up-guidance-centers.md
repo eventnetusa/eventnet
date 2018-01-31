@@ -148,9 +148,9 @@ project_logos:
 related_client_logos:
   - logo_image_path: /uploads/advil.png
     logo_image_height:
-  - logo_image_path: /uploads/chevy.png
+  - logo_image_path: /uploads/aetna-1.png
     logo_image_height:
-  - logo_image_path: /uploads/jetblue.png
+  - logo_image_path: /uploads/aetna-2.png
     logo_image_height:
   - logo_image_path: /uploads/mm.png
     logo_image_height:
