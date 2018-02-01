@@ -1,6 +1,6 @@
 ---
 client: Humana
-link_to_casestudy: true
+link_to_casestudy: false
 sort_number: 9
 headline: Pop-Up Guidance Centers
 hover_text: >-
