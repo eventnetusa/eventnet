@@ -97,7 +97,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/463926458-1.jpg
-      image_2_path: /uploads/giuliana-rancic-100213v2-1.jpg
+      image_2_path: /uploads/picture14.jpg
     video_block:
       video_id:
   - text_block_markdown:
