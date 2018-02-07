@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
 large_headline: Summer Sampling at Outdoor Consumer Events
-hero_image_path: /uploads/taste-of-chicago-2016-600x257.jpg
+hero_image_path: /uploads/picture1-3.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
