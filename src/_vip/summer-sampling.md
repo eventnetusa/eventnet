@@ -9,7 +9,36 @@ cta_link: true
 cta_link_url: info@eventnetusa.com
 cta_headline: Ready to your brand in the consumers hand?
 cta_text: Let's Talk
-sidebar_text_markdown:
+sidebar_text_markdown: |-
+  ### Generate Sales Through
+
+  * Consumer Education
+  * Demonstration
+  * "Hands On" Screening
+  * Product Trial
+  * Lead Generation
+  * Retail Integration
+
+  ### Deliver Your Message At
+
+  * Concerts/ Playhouses
+  * Malls/Retail Locations
+  * Fairs & Festivals
+  * Sporting Events
+  * Socially Active Retirement Communities
+
+  ### Turnkey Services &nbsp;Include
+
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue Procurement
+  * Vehicle Procurement
+  * Staff & Training
+  * Routing & Logistics
+  * Legal & Permitting
+  * Account Management
+  * Social Media Integration
+  * Liability Insurance
 content_section:
   - text_block_markdown: >-
       As a sampling industry leader, Let EventNetUSA take your brand to millions
