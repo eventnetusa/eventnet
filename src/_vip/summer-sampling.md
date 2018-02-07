@@ -54,7 +54,7 @@ content_section:
 
       * Mobile Vehicle Tours
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/20170709-084622.jpg
     double_image_block:
       image_1_path: /uploads/lacroix-mini-and-scooters.jpg
       image_2_path: /uploads/silk-sampling.png
@@ -62,18 +62,18 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture2-2.jpg
     double_image_block:
-      image_1_path: /uploads/1617296-659415080789414-1359184714-o.jpg
-      image_2_path: /uploads/1-1.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture5-4.jpg
     double_image_block:
-      image_1_path: /uploads/pledge-your-part-3-700x466-1.jpg
-      image_2_path: /uploads/463926458.jpg
+      image_1_path: /uploads/1617296-659415080789414-1359184714-o.jpg
+      image_2_path: /uploads/1-1.jpg
     video_block:
       video_id:
   - text_block_markdown:
