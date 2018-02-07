@@ -70,7 +70,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture5-4.jpg
+      single_image_path: /uploads/silk-sampling-2.png
     double_image_block:
       image_1_path: /uploads/1617296-659415080789414-1359184714-o.jpg
       image_2_path: /uploads/1-1.jpg
