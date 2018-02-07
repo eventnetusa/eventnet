@@ -11,7 +11,21 @@ cta_headline: Ready to your brand in the consumers hand?
 cta_text: Let's Talk
 sidebar_text_markdown:
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      As a sampling industry leader, Let EventNetUSA take your brand to millions
+      of consumers at the nation's largest events.
+
+
+      We deliver your brand messaging and product trial through:
+
+
+      * Guerilla Sampling
+
+      * Pr Stunts/Events
+
+      * Sponsorship Activations
+
+      * Mobile Vehicle Tours
     single_image_block:
       single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
