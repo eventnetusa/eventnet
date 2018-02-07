@@ -39,9 +39,9 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      As a sampling industry leader, Let EventNetUSA take your brand to millions
-      of consumers at the nation's largest events. We deliver your brand
-      messaging and product trial through Guerrilla Sampling, Sponsorship
+      **As a sampling industry leader**, Let EventNetUSA take your brand to
+      millions of consumers at the nation's largest events. We deliver your
+      brand messaging and product trial through Guerrilla Sampling, Sponsorship
       Activations, PR Events & Pop-ups, Mobile Vehicle Tours and more.
 
 
