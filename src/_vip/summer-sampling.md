@@ -19,7 +19,7 @@ content_section:
       We deliver your brand messaging and product trial through:
 
 
-      * Guerilla Sampling
+      * Guerrilla Sampling
 
       * Pr Stunts/Events
 
