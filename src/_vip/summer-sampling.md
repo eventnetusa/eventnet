@@ -14,18 +14,16 @@ sidebar_text_markdown: |-
 
   * Consumer Education
   * Demonstration
-  * "Hands On" Screening
   * Product Trial
-  * Lead Generation
   * Retail Integration
 
   ### Deliver Your Message At
 
-  * Concerts/ Playhouses
-  * Malls/Retail Locations
-  * Fairs & Festivals
-  * Sporting Events
-  * Socially Active Retirement Communities
+  * State Fairs
+  * Lifestyle & Music Festivals
+  * Food & Wine Festivals
+  * Fitness & Sporting Events
+  * Holiday Weekend Activities
 
   ### Turnkey Services &nbsp;Include
 
