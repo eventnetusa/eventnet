@@ -4,7 +4,7 @@ large_headline: Summer Sampling at Outdoor Consumer Events
 hero_image_path: /uploads/picture1-3.png
 vip_project_type: B2B
 hide_social_links: false
-show_cta_at_bottom: true
+show_cta_at_bottom: false
 cta_link: true
 cta_link_url: info@eventnetusa.com
 cta_headline: Ready to go places?
@@ -39,24 +39,18 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      ### As a sampling industry leader, Let EventNetUSA take your brand to
-      millions of consumers at the nation's largest events. We deliver your
-      brand messaging and product trial through Guerrilla Sampling, Sponsorship
+      As a sampling industry leader, Let EventNetUSA take your brand to millions
+      of consumers at the nation's largest events. We deliver your brand
+      messaging and product trial through Guerrilla Sampling, Sponsorship
       Activations, PR Events & Pop-ups, Mobile Vehicle Tours and more.
 
 
-      ### In 2017, over 20 Million people attended top U.S. food & wine
-      festivals, fairs and outdoor music events.
+      In 2017, over 20 Million people attended top U.S. food & wine festivals,
+      fairs and outdoor music events. The way we see it, that’s 20 Million
+      reasons to sample your product this summer.
 
 
-      ### The way we see it, that’s 20 Million reasons to sample your product
-      this summer.
-
-
-      ### &nbsp;
-
-
-      ## That’s a lot of napkins!
+      #### That’s a lot of napkins!
     single_image_block:
       single_image_path: /uploads/20170709-084622.jpg
     double_image_block:
