@@ -4,11 +4,11 @@ large_headline:
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2C
 hide_social_links: false
-show_cta_at_bottom: false
-cta_link: false
+show_cta_at_bottom: true
+cta_link: true
 cta_link_url:
-cta_headline:
-cta_text:
+cta_headline: I'm ready to discuss.
+cta_text: Get in touch
 sidebar_text_markdown:
 content_section:
   - text_block_markdown:
