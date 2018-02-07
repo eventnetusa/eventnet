@@ -7,7 +7,7 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: info@eventnetusa.com
-cta_headline: Ready to your brand in the consumers hand?
+cta_headline: Ready to put your brand in the consumers hand?
 cta_text: Let's Talk
 sidebar_text_markdown: |-
   ### Generate Sales Through
