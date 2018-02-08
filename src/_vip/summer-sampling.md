@@ -42,8 +42,8 @@ content_section:
       **As a sampling industry leader**, Let EventNetUSA deliver your brand to
       thousands of consumers at your choice of the nation's most popular
       consumer events. We deliver brand messaging and product trial through
-      Guerrilla Sampling, Sponsorship Activations, PR Events & Pop-ups, Mobile
-      Vehicle Tours and more.
+      Guerrilla Sampling, Sponsorship Activations, Pop-ups, Mobile Vehicles and
+      more.
 
 
       In 2018, over 20 Million people are expected to attend top U.S. food &
