@@ -46,7 +46,7 @@ content_section:
       image_2_path: /uploads/1-6.jpg
     video_block:
       video_id:
-  - text_block_markdown: '**Corporate Insurance&nbsp;**'
+  - text_block_markdown: '# **Corporate Insurance&nbsp;**'
     single_image_block:
       single_image_path: /uploads/picture10-1.png
     double_image_block:
@@ -54,7 +54,7 @@ content_section:
       image_2_path: /uploads/picture8-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: '**Product Showcase**'
+  - text_block_markdown: '## **Product Showcase**'
     single_image_block:
       single_image_path: /uploads/trane-2-1.jpg
     double_image_block:
