@@ -31,13 +31,13 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      EventNetUSA’s custom designed mobile showrooms and training centers
+      **EventNetUSA’s custom designed** mobile showrooms and training centers
       enables buyers to get a hands on experience of your products and services.
       From product demos to in depth training, we can outfit any vehicle to fit
       your B2B marketing objectives.
 
 
-      We still have vehicles available for 2018, contact us now!
+      **We still have vehicles available for 2018, contact us now!**
     single_image_block:
       single_image_path:
     double_image_block:
