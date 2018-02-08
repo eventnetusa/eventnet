@@ -1,7 +1,7 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
 large_headline: B2B MOBILE TOURS
-hero_image_path: /uploads/private-placeholder.jpg
+hero_image_path: /uploads/picture6-1.png
 vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: true
@@ -9,7 +9,26 @@ cta_link: true
 cta_link_url: contact@eventnetusa.com
 cta_headline: Ready to get going?
 cta_text: Let's Talk
-sidebar_text_markdown:
+sidebar_text_markdown: |-
+  ### Generate Sales Through
+
+  * &nbsp;Education
+  * Demonstration
+  * Product Trial
+  * Retail Integration
+
+  ### Turnkey Services &nbsp;Include
+
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue Procurement
+  * Vehicle Procurement
+  * Staff & Training
+  * Routing & Logistics
+  * Legal & Permitting
+  * Account Management
+  * Social Media Integration
+  * Liability Insurance
 content_section:
   - text_block_markdown:
     single_image_block:
