@@ -1,14 +1,14 @@
 ---
-small_headline:
-large_headline:
+small_headline: Turnkey Brand Event Production and Management
+large_headline: B2B MOBILE TOURS
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
-cta_link_url:
-cta_headline: I'm ready to discuss.
-cta_text: Get in touch
+cta_link_url: contact@eventnetusa.com
+cta_headline: Ready to get going?
+cta_text: Let's Talk
 sidebar_text_markdown:
 content_section:
   - text_block_markdown:
