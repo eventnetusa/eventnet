@@ -38,7 +38,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**Medical Device**'
+  - text_block_markdown: '# **Medical Device**'
     single_image_block:
       single_image_path: /uploads/med-5.jpeg
     double_image_block:
