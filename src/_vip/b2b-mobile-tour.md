@@ -46,6 +46,14 @@ content_section:
       image_2_path: /uploads/1-6.jpg
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/picture10.png
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: Mobile Product Showroom
     single_image_block:
       single_image_path:
@@ -58,8 +66,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/img-2052-002.jpg
+      image_2_path: /uploads/img-2044.JPG
     video_block:
       video_id:
 _comments:
