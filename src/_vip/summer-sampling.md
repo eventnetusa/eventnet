@@ -61,7 +61,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture4-1.png
+      single_image_path: /uploads/20170517-120920.jpg
     double_image_block:
       image_1_path:
       image_2_path:
@@ -69,18 +69,18 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/silk-sampling-2.png
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/1617296-659415080789414-1359184714-o.jpg
-      image_2_path: /uploads/1-1.jpg
+      image_1_path: /uploads/463926458-1.jpg
+      image_2_path: /uploads/picture2-3.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture4-1.png
     double_image_block:
-      image_1_path: /uploads/463926458-1.jpg
-      image_2_path: /uploads/picture5-5.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
@@ -94,14 +94,6 @@ content_section:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/vlasic-farmers-garden-serving-1.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/20170517-120920.jpg
     double_image_block:
       image_1_path:
       image_2_path:
