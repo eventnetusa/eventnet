@@ -56,23 +56,15 @@ content_section:
       video_id:
   - text_block_markdown: '**Mobile Product Showroom**'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/trane-2-1.jpg
     double_image_block:
-      image_1_path: /uploads/trane-2.jpg
+      image_1_path: /uploads/trane-1.jpg
       image_2_path: /uploads/trane.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/img-2052-002.jpg
-      image_2_path: /uploads/img-2044.JPG
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
+      single_image_path: /uploads/eaton.jpg
     double_image_block:
       image_1_path:
       image_2_path:
