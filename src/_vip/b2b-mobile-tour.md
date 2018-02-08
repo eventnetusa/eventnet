@@ -40,9 +40,9 @@ content_section:
       video_id:
   - text_block_markdown: '**Medical Device & Corporate Insurance Showroom**'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/med-5.jpeg
     double_image_block:
-      image_1_path: /uploads/med.jpg
+      image_1_path: /uploads/med-3.jpeg
       image_2_path: /uploads/1-6.jpg
     video_block:
       video_id:
