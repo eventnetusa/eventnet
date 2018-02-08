@@ -12,7 +12,7 @@ cta_text: Let's Talk
 sidebar_text_markdown: |-
   ### Generate Sales Through
 
-  * &nbsp;Education
+  * Education
   * Demonstration
   * Product Trial
   * Retail Integration
@@ -31,10 +31,10 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      **EventNetUSA’s custom designed** mobile showrooms and training centers
-      enables buyers to get a hands on experience of your products and services.
-      From product demos to in depth training, we can outfit any vehicle to fit
-      your B2B marketing objectives.
+      **EventNetUSA’s custom designed, interactive&nbsp;**mobile showrooms and
+      training centers enables buyers to get a hands on experience of your
+      products and services. From large equipment demos to in depth software
+      training, we can outfit any vehicle to fit your B2B marketing objectives.
 
 
       **We still have vehicles available for 2018, contact us now!**
