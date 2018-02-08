@@ -48,9 +48,9 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture10-1.png
     double_image_block:
-      image_1_path: /uploads/picture10.png
+      image_1_path: /uploads/picture11.png
       image_2_path: /uploads/picture8-1.jpg
     video_block:
       video_id:
