@@ -39,15 +39,16 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      **As a sampling industry leader**, Let EventNetUSA take your brand to
-      millions of consumers at the nation's largest events. We deliver your
-      brand messaging and product trial through Guerrilla Sampling, Sponsorship
-      Activations, PR Events & Pop-ups, Mobile Vehicle Tours and more.
+      **As a sampling industry leader**, Let EventNetUSA deliver your brand to
+      thousands of consumers at your choice of the nation's most popular
+      consumer events. We deliver brand messaging and product trial through
+      Guerrilla Sampling, Sponsorship Activations, PR Events & Pop-ups, Mobile
+      Vehicle Tours and more.
 
 
-      In 2017, over 20 Million people attended top U.S. food & wine festivals,
-      fairs and outdoor music events. The way we see it, that’s 20 Million
-      reasons to sample your product this summer.
+      In 2018, over 20 Million people are expected to attend top U.S. food &
+      wine festivals, fairs and outdoor music events. The way we see it, that’s
+      20 Million reasons for sampling your product this summer.
 
 
       #### That’s a lot of napkins!
