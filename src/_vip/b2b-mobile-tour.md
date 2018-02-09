@@ -1,6 +1,6 @@
 ---
-small_headline: Turnkey Brand Event Production and Management
-large_headline: B2B MOBILE TOURS
+small_headline: 'Turnkey Brand Event Production, Staffing and Road Management'
+large_headline: B2B MOBILE SHOWROOMS
 hero_image_path: /uploads/picture6-1.png
 vip_project_type: B2C
 hide_social_links: false
