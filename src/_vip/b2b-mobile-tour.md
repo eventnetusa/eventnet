@@ -32,12 +32,13 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       **EventNetUSA’s custom designed, interactive&nbsp;**mobile showrooms and
-      training centers enables buyers to get a hands on experience of your
+      training centers enable buyers to get hands on experience with your
       products and services. From large equipment demos to in depth software
-      training, we can outfit any vehicle to fit your B2B marketing objectives.
+      training, we outfit each vehicle to fit your B2B marketing objectives.
 
 
-      **We still have vehicles available for 2018, contact us now!**
+      **We have vehicles and showroom trailers available for 2018, contact us
+      now!**
     single_image_block:
       single_image_path:
     double_image_block:
@@ -45,7 +46,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '## **Medical Device**'
+  - text_block_markdown: '## **Medical Devices**'
     single_image_block:
       single_image_path: /uploads/med-5.jpeg
     double_image_block:
@@ -53,7 +54,7 @@ content_section:
       image_2_path: /uploads/1-6.jpg
     video_block:
       video_id:
-  - text_block_markdown: '## **Corporate Insurance&nbsp;**'
+  - text_block_markdown: '## **Corporate Insurance Sales & Training**'
     single_image_block:
       single_image_path: /uploads/picture10-1.png
     double_image_block:
@@ -61,7 +62,7 @@ content_section:
       image_2_path: /uploads/picture8-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: '## **Product Showcase**'
+  - text_block_markdown: '## **Product Sales Center**'
     single_image_block:
       single_image_path: /uploads/trane-2-1.jpg
     double_image_block:
