@@ -47,12 +47,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**TURNKEY MALL KIOSK PROGRAM**'
+  - text_block_markdown: '**TURNKEY MALL POP-UP PROGRAM**'
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/ins-kiosk-002.jpg
-      image_2_path: /uploads/ins-kiosk-003.jpg
+      image_1_path: /uploads/img-1053.JPG
+      image_2_path: /uploads/img-1042.JPG
     video_block:
       video_id:
   - text_block_markdown: >-
