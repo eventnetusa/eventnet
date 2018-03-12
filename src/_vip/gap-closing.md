@@ -56,8 +56,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      &nbsp;EventNetUSA will secure malls in your targeted zip codes and provide
-      trained staff/greeters upon request.
+      &nbsp;EventNetUSA will secure malls in your targeted zip codes, produce
+      and set up branded event elements and provide trained staff/greeters upon
+      request.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -112,7 +113,11 @@ content_section:
       image_2_path: /uploads/the-villages-auditorium.jpg
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      Reach your demographic where they spend the most time in 55 + socially
+      active retirement centers (SARC'S).Our network expands nationwide with
+      over 250 communities that have committed space and promotional partnership
+      opportunities to EventNetUSA clients.
     single_image_block:
       single_image_path:
     double_image_block:
