@@ -125,6 +125,25 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: >-
+      Let's close gaps in care an implement quality improvement measures
+      today!&nbsp; Contact:
+
+
+      Shelby Beaty
+
+
+      (954)467-9898 ext. 204
+
+
+      shelbyb@eventnetusa.com
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/chief-marketer-200-winners-badge.jpg
+      image_2_path: /uploads/2017-it-list-logo-final-300x281.jpg
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type: B2C will not show header or footer
