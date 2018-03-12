@@ -126,17 +126,17 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Let's close gaps in care an implement quality improvement measures
-      today!&nbsp; Contact:
+      #### **Let's close gaps in care an implement quality improvement measures
+      today!&nbsp; Contact:**
 
 
-      Shelby Beaty
+      ### **Shelby Beaty**
 
 
-      (954)467-9898 ext. 204
+      ### **(954)467-9898 ext. 204**
 
 
-      shelbyb@eventnetusa.com
+      ### **shelbyb@eventnetusa.com**
     single_image_block:
       single_image_path:
     double_image_block:
@@ -155,3 +155,4 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
+
