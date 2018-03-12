@@ -1,13 +1,13 @@
 ---
 small_headline: GAP  CLOSING AND QUALITY IMPROVEMENT
 large_headline: 'HEALTH SCREENINGS, EDUCATION & ENROLLMENT'
-hero_image_path: /uploads/picture6-updated-1.jpg
+hero_image_path: /uploads/2018-ins-planning-hero-1.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: 'Ready to engage, activate and enroll for this year’s Medicare OEP?'
+cta_headline: 'Ready to engage, activate and enroll?'
 cta_text: Let's Talk
 sidebar_text_markdown: |-
   **Turnkey Service Offerings:**
