@@ -23,7 +23,23 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      As the leading agency in *Health Insurance Activation* ([EventMarketer's
+      It List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)) we know
+      how to engage your targeted demographics to close gaps of care, increase
+      HEDIS rating and increase brand exposure.
+
+
+      Our turn-key proven programs include:
+
+
+      * Recurring Pop-Up Events
+
+      * Mobile Screening & Activation Centers
+
+      * Retail Partner Events
+
+      * Community Event Sponsorships
     single_image_block:
       single_image_path:
     double_image_block:
@@ -82,30 +98,6 @@ content_section:
       outdoor and can be easily pulled by a car or light truck trailer hitch.
       Set up time: 20 minutes. EventNetUSA can supply driver/greeter and manage
       set up upon request. We can also work with you on routing.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '**MOBILE ENROLLMENT RV''S**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/rv10001-updated.png
-      image_2_path: /uploads/rv-agent-updated.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      In select markets, EventNetUSA will provide branded, leased RV with a
-      certified driver. RV size and dimension TBD based on availability in each
-      market.&nbsp;
-
-
-      **Note: EventNetUSA cannot guarantee that all client requests will be
-      fulfilled and ready to open by Medicare OEP due to availability of fleet
-      vehicles and mall displays as pictured above.**
     single_image_block:
       single_image_path:
     double_image_block:
