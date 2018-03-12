@@ -56,9 +56,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      12x12" footprint includes branded kiosk with monitor, flooring and meeting
-      table with chairs. EventNetUSA will secure malls in your targeted zip
-      codes and provide trained staff/greeters upon request.
+      &nbsp;EventNetUSA will secure malls in your targeted zip codes and provide
+      trained staff/greeters upon request.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -98,6 +97,22 @@ content_section:
       outdoor and can be easily pulled by a car or light truck trailer hitch.
       Set up time: 20 minutes. EventNetUSA can supply driver/greeter and manage
       set up upon request. We can also work with you on routing.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: '**SARC NETWORK**'
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/14uswomensqrainierss.jpg
+      image_2_path: /uploads/the-villages-auditorium.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
