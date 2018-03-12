@@ -114,8 +114,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Reach your demographic where they spend the most time in 55 + socially
-      active retirement centers (SARC'S).Our network expands nationwide with
+      Reach your demographic where they spend the most time in 55 + Socially
+      Active Retirement Centers (SARC'S). Our network expands nationwide with
       over 250 communities that have committed space and promotional partnership
       opportunities to EventNetUSA clients.
     single_image_block:
@@ -126,7 +126,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      #### **Let's close gaps in care an implement quality improvement measures
+      #### **Let's close gaps and implement quality improvement measures
       today!&nbsp; Contact:**
 
 
