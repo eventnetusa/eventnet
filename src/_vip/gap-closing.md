@@ -52,7 +52,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/img-1053.JPG
-      image_2_path: /uploads/img-1042.JPG
+      image_2_path: /uploads/photo-mar-01-11-53-47-am.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -110,7 +110,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/14uswomensqrainierss.jpg
-      image_2_path: /uploads/the-villages-auditorium.jpg
+      image_2_path: /uploads/img-2544-4.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
