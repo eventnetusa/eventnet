@@ -23,22 +23,7 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown: >-
-      2018 OEP is quickly approaching and EventNetUSA wants to help you reach
-      your engagement, activation and enrollment goals. Program opportunities
-      include:
-
-
-
-
-
-      * Turnkey Mall Kiosks
-
-      * Mobile Assistance Centers
-
-      * Pop-Up Retail Stores
-
-      * Enrollment RVs
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -116,9 +101,6 @@ content_section:
       In select markets, EventNetUSA will provide branded, leased RV with a
       certified driver. RV size and dimension TBD based on availability in each
       market.&nbsp;
-
-
-
 
 
       **Note: EventNetUSA cannot guarantee that all client requests will be
