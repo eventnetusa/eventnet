@@ -141,8 +141,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/chief-marketer-200-winners-badge.jpg
-      image_2_path: /uploads/2017-it-list-logo-final-300x281.jpg
+      image_1_path: /uploads/2017-it-list-logo-final-300x281-1.jpg
+      image_2_path: /uploads/cm-top-200.jpg
     video_block:
       video_id:
 _comments:
