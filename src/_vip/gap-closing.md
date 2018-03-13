@@ -141,7 +141,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/2017-it-list-logo-final-300x281-1.jpg
+      image_1_path: /uploads/it-list-slider-4-1280x886.jpg
       image_2_path: /uploads/cm-top-200.jpg
     video_block:
       video_id:
