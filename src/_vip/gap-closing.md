@@ -24,8 +24,9 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      As the leading agency in *Health Insurance Activation* ([EventMarketer's
-      It List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)) we know
+      Named the leading agency in *Health Insurance Activation*
+      ([EventMarketer's It
+      List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)) we know
       how to engage your targeted demographic to close gaps in care, increase
       HEDIS rating and maximize brand exposure.
 
