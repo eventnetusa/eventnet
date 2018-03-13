@@ -139,7 +139,7 @@ content_section:
 
       ### **shelbyb@eventnetusa.com**
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/awards.jpg
     double_image_block:
       image_1_path: /uploads/it-list-slider-4-1280x886.jpg
       image_2_path: /uploads/cm-200.jpg
