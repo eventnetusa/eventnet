@@ -131,13 +131,13 @@ content_section:
       today!&nbsp; Contact:**
 
 
-      ### **Shelby Beaty**
+      #### **Shelby Beaty**
 
 
-      ### **(954)467-9898 ext. 204**
+      #### **(954)467-9898 ext. 204**
 
 
-      ### **shelbyb@eventnetusa.com**
+      #### **shelbyb@eventnetusa.com**
     single_image_block:
       single_image_path: /uploads/awards-jpg-2-1.jpg
     double_image_block:
