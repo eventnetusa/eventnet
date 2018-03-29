@@ -12,7 +12,7 @@ thumbnail_image_path: /uploads/img-20170607-110338.jpg
 types:
   - insurance activation
   - vehicle tour
-cta_text: Looking to activate
+cta_text: Looking to activate medicare consumers?
 cta: Let's talk
 sidebar_text_markdown: |-
   **EventNetUSA’s Turnkey Services Include:**
@@ -82,9 +82,6 @@ content_section:
       **A LOOK BEHIND THE SCENES**
 
 
-      &nbsp;
-
-
       Event Set-Up and Operations:
 
 
@@ -101,26 +98,6 @@ content_section:
 
 
       &nbsp;
-
-
-      Activities Include:
-
-
-      * On-Site Health Screenings
-
-      * SilverSneakers Fitness Classes
-
-      * Health and Nutrition Seminars
-
-      * Cooking Demonstrations
-
-      * Identity Fraud Protection Education
-
-      * Arts and Crafts
-
-      * Thank You Letters to Military
-
-      * Guest Speakers
     single_image_block:
       single_image_path:
     double_image_block:
