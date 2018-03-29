@@ -12,10 +12,10 @@ thumbnail_image_path: /uploads/img-20170607-110338.jpg
 types:
   - insurance activation
   - vehicle tour
-cta_text:
+cta_text: Looking to activate
 cta: Let's talk
 sidebar_text_markdown: |-
-  **EventNetUSA’s turnkey services include:**
+  **EventNetUSA’s Turnkey Services Include:**
 
   • Program conceptualization
 
@@ -38,6 +38,8 @@ sidebar_text_markdown: |-
   • Routing and logistics
 
   • Wrap-up and executive reporting
+
+  &nbsp;
 content_section:
   - text_block_markdown: >-
       Humana, a leading U.S. health insurance provider, partnered with
