@@ -2,7 +2,7 @@
 client: Humana
 link_to_casestudy: true
 sort_number: 9
-headline: Pop-Up Guidance Centers
+headline: Pop-Up Guidance Center Program
 hover_text: >-
   To close gaps in care and raise awareness of Humana's Guidance Centers, Humana
   Medicare Members enjoy free wellness and health screening events across
@@ -39,7 +39,16 @@ sidebar_text_markdown: |-
 
   • Wrap-up and executive reporting
 
-  &nbsp;
+  **Wellness Activities Include:**
+
+  * On-Site Health Screenings
+  * SilverSneakers Fitness Classes
+  * Health and Nutrition Seminars
+  * Cooking Demonstrations
+  * Identity Fraud Protection Education
+  * Arts and Crafts
+  * Thank You Letters to Military
+  * Guest Speakers
 content_section:
   - text_block_markdown: >-
       Humana, a leading U.S. health insurance provider, partnered with
@@ -125,15 +134,15 @@ project_logos:
   - logo_image_path: /uploads/humana-logo.png
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/advil.png
+  - logo_image_path: /uploads/hcsc-group-company-logo.jpg
     logo_image_height:
   - logo_image_path: /uploads/aetna-1.png
     logo_image_height:
-  - logo_image_path: /uploads/aetna-2.png
+  - logo_image_path: /uploads/humana-2.png
     logo_image_height:
-  - logo_image_path: /uploads/mm.png
+  - logo_image_path: /uploads/2carnival-cruise-line-logo-svg-1.png
     logo_image_height:
-  - logo_image_path: /uploads/fineliving.png
+  - logo_image_path: /uploads/slimfast-bw.png
     logo_image_height:
 ---
 
