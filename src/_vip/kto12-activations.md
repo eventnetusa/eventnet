@@ -59,7 +59,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### Want to learn more about activating at College campuses?
+      #### Want to learn more about activating at school campuses?
 
       #### Contact:
 
