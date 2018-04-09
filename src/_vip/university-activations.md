@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
 large_headline: Turnkey Activation's at Universities Across the Nation
-hero_image_path:
+hero_image_path: /uploads/hero-image-1.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
@@ -55,8 +55,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/picture1-3.jpg
+      image_2_path: /uploads/picture2-4.jpg
     video_block:
       video_id:
   - text_block_markdown:
