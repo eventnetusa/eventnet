@@ -1,6 +1,6 @@
 ---
 small_headline: AWARD WINNING TURNKEY EXPERIENTIAL BRAND MARKETING
-large_headline: WE MAKE PR AGENCY IDEAS HAPPEN
+large_headline: Turnkey Summer Holiday Activations
 hero_image_path: /uploads/pr-back-page-hero-2.jpg
 vip_project_type: B2B
 hide_social_links: false
@@ -107,10 +107,8 @@ content_section:
       ### PR EVENTS & STUNTS
 
 
-      PR agencies have brand stories to tell and we help turn those stories into
-      large newsworthy events. We stage and manage your event so you can focus
-      on media opportunities, feeling confident that everything happening
-      behind-the-scenes is covered.
+      We stage and manage your event so you can focus on media opportunities,
+      feeling confident that everything happening behind-the-scenes is covered.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -126,7 +124,7 @@ content_section:
       image_2_path: /uploads/jetblue-story-booth.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -155,7 +153,7 @@ content_section:
       image_2_path: /uploads/essie-thumb.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -176,7 +174,7 @@ content_section:
       image_2_path: /uploads/7.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -189,8 +187,8 @@ content_section:
 
 
       <div>EventNetUSA owns its own fleet of mobile brand vehicles and event
-      trailers. This allows agency flexibility in vehicle selection and
-      customization for your client brands.</div>
+      trailers. This allows flexibility in vehicle selection and
+      customization.</div>
     single_image_block:
       single_image_path:
     double_image_block:
@@ -206,7 +204,7 @@ content_section:
       image_2_path: /uploads/nyx-case-4.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -219,8 +217,8 @@ content_section:
 
 
       Our expert routing and diverse network of brand ambassadors puts your
-      client's brand in consumer's hands from grassroots level engagement to
-      major events.
+      brand in consumer's hands from grassroots level engagement to major
+      events.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -236,46 +234,9 @@ content_section:
       image_2_path: /uploads/20170708_094506.jpg
     video_block:
       video_id:
-  - text_block_markdown: ________________________________________
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### INSURANCE ACTIVATION'S
-
-
-      <div>EventnetUSA was honored by EventMarketer's 2017 It List as the expert
-      in insurance consumer activation.</div>
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/case-hsbc.jpg
-      image_2_path: /uploads/humana-rvs.png
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/hcsc-case-3.jpg
-      image_2_path: /uploads/unnamed.jpg
-    video_block:
-      video_id:
   - text_block_markdown: '---'
     single_image_block:
       single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '**PROUD TO HAVE PARTNERED WITH THESE LEADING PR AGENCIES!**'
-    single_image_block:
-      single_image_path: /uploads/pr-agency-clients-2.png
     double_image_block:
       image_1_path:
       image_2_path:
