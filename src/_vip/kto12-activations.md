@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Turnkey Activation's at Universities Across the Nation
-hero_image_path: /uploads/hero-image-1.jpg
+large_headline: 'Back to School Turnkey Activations: K through 12'
+hero_image_path:
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
