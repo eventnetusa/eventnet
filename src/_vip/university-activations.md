@@ -59,7 +59,18 @@ content_section:
       image_2_path: /uploads/picture2-4.jpg
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: |-
+      #### Want to learn more about activating at College campuses?
+
+      #### Contact:
+
+      #### Shelby Beaty
+
+      #### shelbyb@eventnetusa.com
+
+      #### 954.467.9898 Ext. 204
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
