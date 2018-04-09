@@ -50,12 +50,12 @@ content_section:
       image_2_path: /uploads/picture11-3.jpg
     video_block:
       video_id:
-  - text_block_markdown: '**Essie Manicure Suite: College Tour**'
+  - text_block_markdown: '**McDonald''s Sampling Tour**'
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture1-3.jpg
-      image_2_path: /uploads/picture2-4.jpg
+      image_1_path: /uploads/picture9.png
+      image_2_path: /uploads/picture8.png
     video_block:
       video_id:
   - text_block_markdown: |-
