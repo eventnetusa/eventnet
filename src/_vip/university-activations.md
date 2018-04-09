@@ -51,7 +51,7 @@ content_section:
       image_2_path: /uploads/4-2.jpg
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: 'Essie Manicure Suite: College Tour'
     single_image_block:
       single_image_path:
     double_image_block:
