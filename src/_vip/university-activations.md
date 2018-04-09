@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Summer Sampling at Outdoor Consumer Events
-hero_image_path: /uploads/picture1-3.png
+large_headline: Turnkey Activation's at Universities Across the Nation
+hero_image_path:
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
@@ -17,14 +17,6 @@ sidebar_text_markdown: |-
   * Product Trial
   * Retail Integration
 
-  ### Deliver Your Message At
-
-  * State Fairs
-  * Lifestyle & Music Festivals
-  * Food & Wine Festivals
-  * Fitness & Sporting Events
-  * Holiday Weekend Activities
-
   ### Turnkey Services &nbsp;Include
 
   * Ideation, Design & Brand Customization
@@ -39,21 +31,12 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      **As a sampling industry leader**, Let EventNetUSA deliver your brand to
-      thousands of consumers at your choice of the nation's most popular
-      consumer events. We deliver brand messaging and product trial through
-      Guerrilla Sampling, Sponsorship Activations, Pop-ups, Mobile Vehicles and
-      more.
-
-
-      In 2018, over 20 Million people are expected to attend top U.S. food &
-      wine festivals, fairs and outdoor music events. The way we see it, that’s
-      20 Million reasons for sampling your product this summer.
-
-
-      #### That’s a lot of napkins!
+      **EventNetUSA delivers your brand** to thousands of consumers at your
+      choice of the nation's most popular consumer events. We deliver brand
+      messaging and product trial through Guerrilla Sampling, Sponsorship
+      Activations, Pop-ups, Mobile Vehicles and more.
     single_image_block:
-      single_image_path: /uploads/20170709-084622.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -61,7 +44,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/20170517-120920.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -69,7 +52,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/ilk4.png
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
