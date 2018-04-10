@@ -71,6 +71,14 @@ content_section:
       image_2_path: /uploads/123.PNG
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/picture11-4.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       **McDonald's Sampling Tour**
 
