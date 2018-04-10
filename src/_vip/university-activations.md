@@ -1,6 +1,6 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Turnkey Activation's at Universities Across the Nation
+large_headline: 'Back to School Sampling and Brand Activations: Universities'
 hero_image_path: /uploads/hero-image-1.jpg
 vip_project_type: B2B
 hide_social_links: false
@@ -84,7 +84,7 @@ content_section:
       video_id:
   - text_block_markdown: '**Sample Routing Calendar**'
     single_image_block:
-      single_image_path: /uploads/capture-5.PNG
+      single_image_path: /uploads/capture-8.PNG
     double_image_block:
       image_1_path:
       image_2_path:
