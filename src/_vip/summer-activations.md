@@ -226,7 +226,14 @@ content_section:
       image_2_path: /uploads/silk-thumb.jpg
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: |-
+      #### Want to learn more about activating at school campuses?
+
+      #### Contact:
+
+      #### Shelby Beaty
+
+      #### shelbyb@eventnetusa.com
     single_image_block:
       single_image_path:
     double_image_block:
