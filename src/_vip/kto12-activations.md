@@ -54,6 +54,21 @@ content_section:
       reach a concentrated number of the targeted demographic including top
       rated schools, PTA meetings, specialty gyms, youth sporting events, fall
       festivals, & more
+
+
+      Quick Stats
+
+
+      QUICK STATS
+
+
+      * Delivered over 231,705 impressions
+
+      * Interacted with over 115,557consumers
+
+      * Reached Moms and PTA groups at 1,680 schools
+
+      * Sampled 86,400 cans of LaCroix over 48 sampling days
     single_image_block:
       single_image_path:
     double_image_block:
