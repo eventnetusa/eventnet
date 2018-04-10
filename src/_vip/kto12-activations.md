@@ -59,9 +59,7 @@ content_section:
       **Quick Stats**
 
 
-      * Delivered over 231,705 impressions
-
-      * Interacted with over 115,557consumers
+      * Created 115,557 + direct consumer impressions
 
       * Reached Moms and PTA groups at 1,680 schools
 
