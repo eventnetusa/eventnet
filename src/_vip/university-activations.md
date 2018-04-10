@@ -16,6 +16,16 @@ sidebar_text_markdown: |-
   * Demonstration
   * Product Trial
   * Retail Integration
+  * Lead Generation
+  * Enrollments
+
+  ### Program Opportunities
+
+  * Guerrilla Sampling
+  * Sponsorship Activations
+  * Pop-ups
+  * Mobile Vehicle Tour
+  * PR Stunts & Events
 
   ### Turnkey Services &nbsp;Include
 
