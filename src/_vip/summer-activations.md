@@ -1,6 +1,6 @@
 ---
 small_headline: AWARD WINNING TURNKEY EXPERIENTIAL BRAND MARKETING
-large_headline: Turnkey Summer Holiday Activations
+large_headline: Summer Holiday Activations
 hero_image_path: /uploads/pr-back-page-hero-2.jpg
 vip_project_type: B2B
 hide_social_links: false
