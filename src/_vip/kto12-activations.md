@@ -56,10 +56,7 @@ content_section:
       festivals, & more
 
 
-      Quick Stats
-
-
-      QUICK STATS
+      **Quick Stats**
 
 
       * Delivered over 231,705 impressions
