@@ -234,10 +234,7 @@ content_section:
       image_2_path: /uploads/20170708_094506.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
-      ### Sample Routing Calendar
-
-      ---
+  - text_block_markdown: '### Sample Routing Calendar'
     single_image_block:
       single_image_path: /uploads/capture-2.PNG
     double_image_block:
