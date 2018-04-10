@@ -41,7 +41,7 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      **La Croix Guerilla Sampling: Reaching Moms in Carpool Lanes**
+      **La Croix Guerrilla Sampling: Reaching Moms in Carpool Lanes**
 
 
       * Executed 2 week sampling program taking place simultaneously in Austin,
