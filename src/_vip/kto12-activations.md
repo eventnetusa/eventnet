@@ -71,7 +71,28 @@ content_section:
       image_2_path: /uploads/picture11-3.jpg
     video_block:
       video_id:
-  - text_block_markdown: '**McDonald''s Sampling Tour**'
+  - text_block_markdown: >-
+      **McDonald's Sampling Tour**
+
+
+      * Designed and produced Happy Meal inspired sampling vehicle to visit
+      events and destinations throughout New England
+
+      * Staffed and trained tour managers and local brand ambassadors for 15
+      week tour
+
+      * Facilitated social media photo activation including Smile Sticks
+      giveaways and appearances with Ronald McDonald
+
+
+      **Quick Stats**
+
+
+      * Sampled 50,000+ McDonald’s snacks to moms and children
+
+      * Delivered 1.5 million + over-the-road impressions
+
+      * Activated 21 events and guerrilla locations
     single_image_block:
       single_image_path:
     double_image_block:
