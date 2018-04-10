@@ -82,7 +82,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**Sampling Routing Calendar**'
+  - text_block_markdown: '**Sample Routing Calendar**'
     single_image_block:
       single_image_path: /uploads/capture-5.PNG
     double_image_block:
