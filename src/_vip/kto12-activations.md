@@ -41,7 +41,7 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      **La Croix Guerrilla Sampling: Reaching Moms in Carpool Lanes**
+      ### **La Croix Guerrilla Sampling: Reaching Moms in Carpool Lanes**
 
 
       * Executed 2 week sampling program taking place simultaneously in Austin,
@@ -80,7 +80,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **McDonald's Sampling Tour**
+      ### **McDonald's Sampling Tour**
 
 
       * Designed and produced Happy Meal inspired sampling vehicle to visit
@@ -108,7 +108,7 @@ content_section:
       image_2_path: /uploads/picture8.png
     video_block:
       video_id:
-  - text_block_markdown: '**Sample Routing Calendar**'
+  - text_block_markdown: '### **Sample Routing Calendar**'
     single_image_block:
       single_image_path: /uploads/capture-7.PNG
     double_image_block:
