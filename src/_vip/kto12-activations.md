@@ -40,7 +40,20 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Liability Insurance
 content_section:
-  - text_block_markdown: '**La Croix Guerilla Sampling: Reaching Moms in Carpool Lanes**'
+  - text_block_markdown: >-
+      **La Croix Guerilla Sampling: Reaching Moms in Carpool Lanes**
+
+
+      * Executed 2 week sampling program taking place simultaneously in Austin,
+      Chicago, Ft. Lauderdale, Los Angeles, Seattle and San Francisco
+
+      * Contracted, trained, and managed 6 teams of demographically targeted
+      brand ambassadors and tour managers in selected markets
+
+      * Identified key locations within predetermined markets that allowed us to
+      reach a concentrated number of the targeted demographic including top
+      rated schools, PTA meetings, specialty gyms, youth sporting events, fall
+      festivals, & more
     single_image_block:
       single_image_path:
     double_image_block:
