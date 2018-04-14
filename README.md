@@ -2,7 +2,7 @@
 
 ```sh
 $ echo '.gems' > .rbenv-gemsets
-$ bundle instsll
+$ bundle install
 $ yarn install
 ```
 
@@ -25,6 +25,3 @@ Public folder: dist/
 JEKYLL_ENV: production
 ```
 
-## To DO
-
-- don't build assets on Netlify, only locally
