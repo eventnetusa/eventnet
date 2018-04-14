@@ -7,7 +7,7 @@ hide_social_links: false
 show_cta_at_bottom: false
 cta_link: true
 cta_link_url: contact@eventnetusa.com
-cta_headline: Ready to go places?
+cta_headline: Are you ready to go places?
 cta_text: Let's Talk
 sidebar_text_markdown: |-
   ### Generate Sales Through
