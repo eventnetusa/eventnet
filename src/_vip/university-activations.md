@@ -62,6 +62,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      &nbsp;
+
+
       **Essie Manicure Suite: College Tour**
 
 
