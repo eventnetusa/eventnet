@@ -251,7 +251,7 @@ content_section:
       video_id:
   - text_block_markdown: '### SAMPLE ROUTING CALENDAR'
     single_image_block:
-      single_image_path: /uploads/capture-6.PNG
+      single_image_path: /uploads/capture-12.PNG
     double_image_block:
       image_1_path:
       image_2_path:
