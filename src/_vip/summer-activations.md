@@ -230,8 +230,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/garnier-case-3.jpg
-      image_2_path: /uploads/20170708_094506.jpg
+      image_1_path: /uploads/picture3-2.jpg
+      image_2_path: /uploads/20170709-084622-1.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
