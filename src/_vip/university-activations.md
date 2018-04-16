@@ -51,9 +51,9 @@ content_section:
       brand ambassadors and tour managers in selected markets
 
       * Identified key locations within assigned markets that allowed us to
-      reach a concentrated number of the targeted demographic including gyms and
-      specialty fitness facilities, active lifestyle locations and
-      fitness/sports events
+      reach a concentrated number of the targeted demographic including
+      universities, gyms and specialty fitness facilities, active lifestyle
+      locations and fitness/sports events
     single_image_block:
       single_image_path:
     double_image_block:
