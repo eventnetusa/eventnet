@@ -121,7 +121,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/19533599-123092514957223-6351086647332831232-n1.jpg
-      image_2_path: /uploads/jetblue-story-booth.jpg
+      image_2_path: /uploads/img-2392-1.JPG
     video_block:
       video_id:
   - text_block_markdown: '---'
