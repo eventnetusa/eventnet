@@ -40,7 +40,20 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Liability Insurance
 content_section:
-  - text_block_markdown: '**CELSIUS**'
+  - text_block_markdown: >-
+      **CELSIUS**
+
+
+      * Completed 62 sampling days over 10 weeks in 6 markets: Miami, Austin,
+      Los Angeles, Minneapolis, Boston, Charlotte
+
+      * Contracted, trained, and managed 6 teams of demographically targeted
+      brand ambassadors and tour managers in selected markets
+
+      * Identified key locations within assigned markets that allowed us to
+      reach a concentrated number of the targeted demographic including gyms and
+      specialty fitness facilities, active lifestyle locations and
+      fitness/sports events
     single_image_block:
       single_image_path:
     double_image_block:
@@ -48,12 +61,22 @@ content_section:
       image_2_path: /uploads/4-2.jpg
     video_block:
       video_id:
-  - text_block_markdown: '**Essie Manicure Suite: College Tour**'
+  - text_block_markdown: >-
+      **Essie Manicure Suite: College Tour**
+
+
+      * Arranged branded shuttles to pick up and drop off college students at
+      HEB for complimentary manicures.
+
+      * EventNet secured the bus, arranged for the wrap and sourced the shuttle
+      pick/up drop off locations:
+        * Austin: Sororities on sorority row
+        * San Antonio: student housing complex
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture1-3.jpg
-      image_2_path: /uploads/picture2-4.jpg
+      image_1_path: /uploads/8-2.jpg
+      image_2_path: /uploads/9-4.jpg
     video_block:
       video_id:
   - text_block_markdown:
