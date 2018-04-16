@@ -40,25 +40,7 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Liability Insurance
 content_section:
-  - text_block_markdown: >-
-      **Bigelow Mobile Tea Bar: College Tour**
-
-
-      * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar
-      complete with tasting bar, brewers, compliant food service areas, and
-      historical lounge
-
-      * Recruited, trained and staffed Tour Managers and in-field staff to serve
-      as Tea Ambassadors
-
-      * Integrated social media photo activation including development and
-      execution of “Biggie” the mascot
-
-
-      **Quick Stats**
-
-
-      &nbsp;
+  - text_block_markdown: '**CELSIUS**'
     single_image_block:
       single_image_path:
     double_image_block:
