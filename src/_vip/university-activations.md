@@ -57,8 +57,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/3-3.jpg
-      image_2_path: /uploads/4-2.jpg
+      image_1_path: /uploads/10-2.jpg
+      image_2_path: /uploads/11.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
