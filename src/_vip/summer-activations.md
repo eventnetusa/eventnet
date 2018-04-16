@@ -150,7 +150,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/63227317-img-0529.jpg
-      image_2_path: /uploads/img-8449-preview-1.jpg
+      image_2_path: /uploads/tough-mudder-miami-saturday-2018-logo-143.jpg
     video_block:
       video_id:
   - text_block_markdown: '---'
