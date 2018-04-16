@@ -41,7 +41,7 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      **CELSIUS**
+      ### **CELSIUS: GUERRILLA SAMPLING PROGRAM**
 
 
       * Completed 62 sampling days over 10 weeks in 6 markets: Miami, Austin,
@@ -62,10 +62,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      &nbsp;
-
-
-      **Essie Manicure Suite: College Tour**
+      ### **Essie Manicure Suite: College Tour**
 
 
       * Arranged branded shuttles to pick up and drop off college students at
