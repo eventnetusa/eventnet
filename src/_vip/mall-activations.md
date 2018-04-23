@@ -20,7 +20,60 @@ sidebar_text_markdown: |-
   * **Off-season storage**
   * **Mall space rental fees&nbsp;**
   * **Permits**
+
+  &nbsp;
+
+  #### **Increase 2018 Medicare Sales Through**
+
+  * Education
+  * Demonstration
+  * “Hands On” Screening
+  * Consultation
+  * Lead Generation
+  * Retail Integration
+
+  #### **Reach Consumers At**
+
+  * Socially Active Retirement Communities
+  * Malls/ Shopping Centers
+  * Big Box Retailers
+  * Special Events
+  * Sporting Events
+  * Trade Shows
+  * Fairs & Festivals
+
+  #### **Turnkey Management Includes**
+
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue & Vehicle Procurement
+  * Routing & Logistics
+  * Permitting & Legal
+  * Staff & Training
+  * Social Media Integration
+  * Budget Forecasting
+  * Account Management
+  * Liability Insurance
+  * Risk Management
+  * Reporting
 content_section:
+  - text_block_markdown: |-
+      CENTER COURT POP-UP GUIDANCE CENTERS
+
+      * Branded Modular Display
+      * HIPPA Compliant Private Screening Rooms
+      * Directional Signage
+      * Health Screening Capabilities
+      * Engaging Activities
+
+      &nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/photo-feb-01-12-15-18-am.jpg
+      image_2_path: /uploads/photo-feb-01-12-10-51-am.jpg
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ### **Agent staffing your mall booth? Perfect! &nbsp;No agent available?
       No problem!**
@@ -40,17 +93,6 @@ content_section:
     double_image_block:
       image_1_path: /uploads/ins-kiosk-002b-1.jpg
       image_2_path: /uploads/unstaffed.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: |-
-      &nbsp;
-
-      &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: |-
