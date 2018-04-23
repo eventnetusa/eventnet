@@ -79,7 +79,7 @@ content_section:
       * IT Integration & Security
       * Recruit & Manage Staff For Day-To-Day Operations
     single_image_block:
-      single_image_path: /uploads/3-4.jpg
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/3-5.jpg
       image_2_path: /uploads/2a-1.jpg
