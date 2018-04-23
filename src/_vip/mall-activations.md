@@ -74,7 +74,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **CENTER COURT POP-UP GUIDANCE CENTERS**
+      #### **Takeover high traffic mall center courts**
 
       * Branded Modular Display
       * HIPPA Compliant Private Screening Rooms
