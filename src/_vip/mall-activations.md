@@ -58,12 +58,13 @@ sidebar_text_markdown: |-
   * Reporting
 content_section:
   - text_block_markdown: |-
-      POP-UP MALL STORE
+      #### **POP-UP MALL STORE**
 
       * Design, Build, Graphic & Install&nbsp;
       * IT Integration & Security
-      * Senior Activities Center
+      * Activities Center
       * HIPPA Compliant Screening Rooms
+      * Recruit & Manage Staff For Day-To-Day Operations
     single_image_block:
       single_image_path:
     double_image_block:
@@ -72,7 +73,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      CENTER COURT POP-UP GUIDANCE CENTERS
+      #### **CENTER COURT POP-UP GUIDANCE CENTERS**
 
       * Branded Modular Display
       * HIPPA Compliant Private Screening Rooms
@@ -87,19 +88,13 @@ content_section:
       image_2_path: /uploads/photo-feb-01-12-10-51-am.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ### **Agent staffing your mall booth? Perfect! &nbsp;No agent available?
-      No problem!**
-
+  - text_block_markdown: |-
+      #### **Staffed/Unstaffed Mall Kiosk**
 
       * 2 monitors continuously run Medicare infomercials
-
       * Take-one holders for consumer literature
-
       * Logo'd carpet
-
       * Locking storage cabinet
-
       * Optional iPad's for lead generation
     single_image_block:
       single_image_path:
