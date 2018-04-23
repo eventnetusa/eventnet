@@ -81,8 +81,16 @@ content_section:
     single_image_block:
       single_image_path: /uploads/3-4.jpg
     double_image_block:
-      image_1_path: /uploads/4-2.jpg
-      image_2_path: /uploads/2-7.jpg
+      image_1_path: /uploads/3-5.jpg
+      image_2_path: /uploads/7-3.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: Mall Store
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/6-2.jpg
+      image_2_path: /uploads/4-3.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -95,8 +103,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path: /uploads/photo-feb-01-12-10-51-am.jpg
+      image_1_path: /uploads/humana-1.jpg
+      image_2_path: /uploads/humana-2.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -118,14 +126,6 @@ content_section:
       ##### Note: EventNetUSA cannot guarantee that all client requests will be
       fulfilled and ready to open by Medicare AEP due to availability of mall
       displays as pictured above.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
