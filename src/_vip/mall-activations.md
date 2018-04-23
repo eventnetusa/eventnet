@@ -95,7 +95,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/photo-feb-01-12-15-18-am.jpg
+      image_1_path:
       image_2_path: /uploads/photo-feb-01-12-10-51-am.jpg
     video_block:
       video_id:
