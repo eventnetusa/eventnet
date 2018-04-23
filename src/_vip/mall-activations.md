@@ -73,13 +73,23 @@ content_section:
       image_2_path: /uploads/2-6.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       #### **Take Over High Traffic Mall Center Courts**
 
-      * Branded Modular Display
+
+      * 365 Day Signage
+
+      * Designated # of days each month to set up displays for Medicare and
+      Medicaid enrollments
+
+      * Great for Gap Closing Programs
+
       * HIPPA Compliant Private Screening Rooms
-      * Directional Signage
-      * Engaging Activities
+
+      * Optional mall walking tie-ins
+
+      * Great Social Gathering Place for Your Brand
+
 
       &nbsp;
     single_image_block:
