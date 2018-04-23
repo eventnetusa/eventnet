@@ -1,6 +1,6 @@
 ---
 small_headline: TURNKEY POP-UP MALL PROGRAMS
-large_headline: 'Engage, Activate, and Enroll Consumers with Mall Activities & Screening Center'
+large_headline: 'Engage, Activate, Screen and Enroll'
 hero_image_path: /uploads/rossevelt-field-mall-2-4.jpg
 vip_project_type: B2B
 hide_social_links: true
