@@ -58,12 +58,25 @@ sidebar_text_markdown: |-
   * Reporting
 content_section:
   - text_block_markdown: |-
+      POP-UP MALL STORE
+
+      * Design, Build, Graphic & Install&nbsp;
+      * IT Integration & Security
+      * Senior Activities Center
+      * HIPPA Compliant Screening Rooms
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/picture3-4.png
+      image_2_path: /uploads/2-6.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: |-
       CENTER COURT POP-UP GUIDANCE CENTERS
 
       * Branded Modular Display
       * HIPPA Compliant Private Screening Rooms
       * Directional Signage
-      * Health Screening Capabilities
       * Engaging Activities
 
       &nbsp;
@@ -122,14 +135,6 @@ content_section:
       ##### Note: EventNetUSA cannot guarantee that all client requests will be
       fulfilled and ready to open by Medicare AEP due to availability of mall
       displays as pictured above.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
