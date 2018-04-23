@@ -1,28 +1,15 @@
 ---
-small_headline: TURNKEY POP-UP MALL PROGRAM
-large_headline: Versatile AEP Mall Sign-Up Center |  Can Be Staffed or Unstaffed Daily
+small_headline: TURNKEY POP-UP MALL PROGRAMS
+large_headline: 'Engage, Activate, and Enroll Consumers with Mall Activities & Screening Center'
 hero_image_path: /uploads/rossevelt-field-mall-2-4.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: 'Ready to engage, activate and enroll for this year’s Medicare AEP?'
+cta_headline: 'Ready to engage, activate and enroll consumers this year?'
 cta_text: Let's Talk
 sidebar_text_markdown: |-
-  ## ***Turnkey Services:***
-
-  * **Manufacture & lease kiosk**
-  * **Personalized branding**
-  * **Delivery**
-  * **Set-up/ tear-down**
-  * **Onsite training**
-  * **Off-season storage**
-  * **Mall space rental fees&nbsp;**
-  * **Permits**
-
-  &nbsp;
-
   #### **Increase 2018 Medicare Sales Through**
 
   * Education
@@ -32,15 +19,17 @@ sidebar_text_markdown: |-
   * Lead Generation
   * Retail Integration
 
-  #### **Reach Consumers At**
+  #### **Engage Consumers With**
 
-  * Socially Active Retirement Communities
-  * Malls/ Shopping Centers
-  * Big Box Retailers
-  * Special Events
-  * Sporting Events
-  * Trade Shows
-  * Fairs & Festivals
+  * Silver Sneakers
+  * Cooking Demonstrations
+  * Health & Wellness Classes
+  * Identity Fraud Protection
+  * Charitable Craft Tie-In
+  * Thank You Letters to Military
+  * Guest Speakers
+  * Bingo
+  * Computer Classes
 
   #### **Turnkey Management Includes**
 
