@@ -74,7 +74,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **Takeover high traffic mall center courts**
+      #### **Take Over High Traffic Mall Center Courts**
 
       * Branded Modular Display
       * HIPPA Compliant Private Screening Rooms
