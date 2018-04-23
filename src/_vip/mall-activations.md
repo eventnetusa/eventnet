@@ -82,10 +82,10 @@ content_section:
       single_image_path: /uploads/3-4.jpg
     double_image_block:
       image_1_path: /uploads/3-5.jpg
-      image_2_path: /uploads/7-3.jpg
+      image_2_path: /uploads/2a-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: Mall Store
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
