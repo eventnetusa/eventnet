@@ -47,10 +47,24 @@ sidebar_text_markdown: |-
   * Reporting
 content_section:
   - text_block_markdown: >-
-      **Introducing the one-stop-shop** for engaging and enrolling consumers for
-      2018. Our Mall Programs provide lead generation, HIPPA compliant screening
-      rooms, Senior activities and more. Programs below starting as low as
-      $25,000.
+      I**ntroducing the one-stop-shop** for engaging and enrolling consumers for
+      2018. Our Mall Programs provide:&nbsp;
+
+
+      * Lead generation
+
+      * HIPPA compliant screening rooms
+
+      * Senior activities&nbsp;
+
+      * Gap closing program opportunity
+
+      * Optional mall walking tie-In
+
+      * Great social gathering place for your brand
+
+
+      Programs below starting as low as $25,000!
     single_image_block:
       single_image_path:
     double_image_block:
@@ -63,33 +77,19 @@ content_section:
 
       * Design, Build, Graphic & Install&nbsp;
       * IT Integration & Security
-      * Activities Center
-      * HIPPA Compliant Screening Rooms
       * Recruit & Manage Staff For Day-To-Day Operations
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/3-4.jpg
     double_image_block:
-      image_1_path: /uploads/picture3-4.png
-      image_2_path: /uploads/2-6.jpg
+      image_1_path: /uploads/4-2.jpg
+      image_2_path: /uploads/2-7.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
+  - text_block_markdown: |-
       #### **Take Over High Traffic Mall Center Courts**
 
-
       * 365 Day Signage
-
-      * Designated # of days each month to set up displays for Medicare and
-      Medicaid enrollments
-
-      * Great for Gap Closing Programs
-
-      * HIPPA Compliant Private Screening Rooms
-
-      * Optional mall walking tie-ins
-
-      * Great Social Gathering Place for Your Brand
-
+      * Designated # of event days each month for Medicare and Medicaid
 
       &nbsp;
     single_image_block:
@@ -112,29 +112,6 @@ content_section:
     double_image_block:
       image_1_path: /uploads/ins-kiosk-002b-1.jpg
       image_2_path: /uploads/unstaffed.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: |-
-      ### **PROGRAM COSTS**
-
-      1 month pilot: $33,500 - $38,500
-
-      Full Term AEP (Oct 15 - Dec 7) : $44,500 - $49,500
-
-      &nbsp;
-
-      **Contact:**
-
-      Shelby Beaty
-
-      (954) 467-9898 (204)
-
-      shelbyb@eventnetusa.com
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
