@@ -124,10 +124,10 @@ content_section:
       * Locking storage cabinet
       * Optional iPad's for lead generation
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/6-1.png
     double_image_block:
-      image_1_path: /uploads/ins-kiosk-002b-1.jpg
-      image_2_path: /uploads/unstaffed.jpg
+      image_1_path: /uploads/appna-2.jpg
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
