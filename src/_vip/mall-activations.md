@@ -47,8 +47,11 @@ sidebar_text_markdown: |-
   * Reporting
 content_section:
   - text_block_markdown: >-
-      **Introducing the one-stop-shop** for engaging and enrolling consumers for
-      2018. Mall Programs start**&nbsp;as low as $25,000!**
+      Top level one-on-one&nbsp; outreach increasing brand opinion and purchase
+      intent to Medicare eligible consumers. &nbsp;
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
