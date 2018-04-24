@@ -104,7 +104,7 @@ content_section:
       image_2_path: /uploads/humana-4.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: ________________________________________
       # &nbsp;
 
       &nbsp;
