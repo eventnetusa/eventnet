@@ -1,5 +1,5 @@
 ---
-small_headline: TURNKEY POP-UP MALL PROGRAMS
+small_headline: TURNKEY POP-UP MALL PROGRAMS WITH E.A.S.E
 large_headline: 'Engage, Activate, Screen and Enroll'
 hero_image_path: /uploads/rossevelt-field-mall-2-4.jpg
 vip_project_type: B2B
@@ -61,7 +61,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **POP-UP MALL STORE**
+      #### **OPTION 1: POP-UP MALL STORE**
 
       * Inline Mall Location
       * Fully maintained with optional staffing
