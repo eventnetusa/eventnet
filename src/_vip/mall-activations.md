@@ -47,8 +47,9 @@ sidebar_text_markdown: |-
   * Reporting
 content_section:
   - text_block_markdown: >-
-      Top level one-on-one&nbsp; outreach increasing brand opinion and purchase
-      intent to Medicare eligible consumers. &nbsp;
+      **Top level one-on-one&nbsp;**outreach increasing brand opinion and
+      purchase intent to Medicare eligible consumers. **Mall Programs starting
+      at $25,000.**
 
 
       &nbsp;
