@@ -48,23 +48,7 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       **Introducing the one-stop-shop** for engaging and enrolling consumers for
-      2018. Our Mall Programs provide:&nbsp;
-
-
-      * Lead generation
-
-      * HIPPA compliant screening rooms
-
-      * Senior activities&nbsp;
-
-      * Gap closing program opportunity
-
-      * Optional mall walking tie-In
-
-      * Great social gathering place for your brand
-
-
-      **Programs below starting as low as $25,000!**
+      2018. Mall Programs start**&nbsp;as low as $25,000!**
     single_image_block:
       single_image_path:
     double_image_block:
@@ -164,3 +148,4 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
+
