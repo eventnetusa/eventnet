@@ -48,8 +48,8 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       **Top level one-on-one&nbsp;**outreach increasing brand opinion and
-      purchase intent to Medicare eligible consumers. **Mall Programs starting
-      at $25,000.**
+      purchase intent to Medicare eligible consumers. **Programs start at
+      $25,000 monthly.**
 
 
       &nbsp;
@@ -63,9 +63,9 @@ content_section:
   - text_block_markdown: |-
       #### **POP-UP MALL STORE**
 
-      * Design, Build, Graphic & Install&nbsp;
-      * IT Integration & Security
-      * Recruit & Manage Staff For Day-To-Day Operations
+      * Inline Mall Location
+      * Fully maintained with optional staffing
+      * Multi-functional for walk-ins, appointments and classes
     single_image_block:
       single_image_path:
     double_image_block:
@@ -84,8 +84,9 @@ content_section:
   - text_block_markdown: |-
       #### **Take Over High Traffic Mall Center Courts**
 
-      * 365 Day Signage
-      * Designated # of event days each month for Medicare and Medicaid
+      * 365 days of signage & branding
+      * Designated # of event days each month
+      * Opportunities for activities, screenings and engagements
 
       &nbsp;
     single_image_block:
@@ -116,13 +117,11 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **Staffed/Unstaffed Mall Kiosk**
+      #### **Interactive Mall Kiosk**
 
-      * 2 monitors continuously run Medicare infomercials
-      * Take-one holders for consumer literature
-      * Logo'd carpet
-      * Locking storage cabinet
-      * Optional iPad's for lead generation
+      * Staffed full time, part time or self-contained
+      * TV monitors with take-home literature holders
+      * Optional iPad’s for lead generation
     single_image_block:
       single_image_path:
     double_image_block:
