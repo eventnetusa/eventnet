@@ -63,7 +63,7 @@ content_section:
   - text_block_markdown: |-
       #### **OPTION 1: POP-UP MALL STORE**
 
-      * Inline Mall Location
+      * Inline mall location
       * Fully maintained with optional staffing
       * Multi-functional for walk-ins, appointments and classes
     single_image_block:
@@ -82,7 +82,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **Take Over High Traffic Mall Center Courts**
+      #### **OPTION 2: Take Over High Traffic Mall Center Courts**
 
       * 365 days of signage & branding
       * Designated # of event days each month
@@ -117,7 +117,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **Interactive Mall Kiosk**
+      #### **OPTION 3: Interactive Mall Kiosk**
 
       * Staffed full time, part time or self-contained
       * TV monitors with take-home literature holders
