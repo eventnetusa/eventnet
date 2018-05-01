@@ -140,7 +140,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: 
       #### Want to learn more about activating at school campuses?
 
       #### Contact:
