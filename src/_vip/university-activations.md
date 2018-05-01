@@ -61,6 +61,14 @@ content_section:
       image_2_path: /uploads/10-3.jpg
     video_block:
       video_id:
+  - text_block_markdown: \_\_\_\_
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ### **Essie Manicure Suite: College Tour**
 
@@ -95,6 +103,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: |-
       #### Want to learn more about activating at College campuses?
 
@@ -107,14 +123,6 @@ content_section:
       #### 954.467.9898 Ext. 204
 
       &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
