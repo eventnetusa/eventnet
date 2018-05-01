@@ -79,7 +79,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: Line
+  - text_block_markdown: ________________________________________
     single_image_block:
       single_image_path:
     double_image_block:
@@ -116,7 +116,7 @@ content_section:
       image_2_path: /uploads/picture8.png
     video_block:
       video_id:
-  - text_block_markdown: Line
+  - text_block_markdown: ________________________________________
     single_image_block:
       single_image_path:
     double_image_block:
@@ -132,7 +132,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: Line
+ - text_block_markdown: ________________________________________
     single_image_block:
       single_image_path:
     double_image_block:
