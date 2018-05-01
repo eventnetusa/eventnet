@@ -61,7 +61,7 @@ content_section:
       image_2_path: /uploads/10-3.jpg
     video_block:
       video_id:
-  - text_block_markdown: \_\_\_\_
+  - text_block_markdown: ________________________________________
     single_image_block:
       single_image_path:
     double_image_block:
