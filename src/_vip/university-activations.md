@@ -87,7 +87,7 @@ content_section:
       image_2_path: /uploads/essieheb-061.jpg
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: ________________________________________
     single_image_block:
       single_image_path:
     double_image_block:
@@ -103,7 +103,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: ________________________________________
     single_image_block:
       single_image_path:
     double_image_block:
