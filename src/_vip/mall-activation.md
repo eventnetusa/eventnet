@@ -69,36 +69,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **OPTION 1: POP-UP MALL STORE**
-
-      * Inline mall location
-      * Fully maintained with optional staffing
-      * Multi-functional for walk-ins, appointments and classes
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/3-5.jpg
-      image_2_path: /uploads/2a-1.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/6-2.jpg
-      image_2_path: /uploads/4-3.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: |-
-      #### **OPTION 2: TAKE OVER HIGH TRAFFIC MALL CENTER COURTS**
+      #### **OPTION 1: TAKE OVER HIGH TRAFFIC MALL CENTER COURTS**
 
       * 365 days of signage & branding
       * Designated # of event days each month
@@ -129,7 +100,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### **OPTION 3: INTERACTIVE MALL KIOSK**
+      #### **OPTION 2: INTERACTIVE MALL KIOSK**
 
       * Staffed full time, part time or self-contained
       * TV monitors with take-home literature holders
