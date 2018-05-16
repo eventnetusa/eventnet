@@ -1,6 +1,6 @@
 ---
 small_headline: 'WE ARE 10,000 STRONG'
-large_headline: 'DEPENDABLE, PROFESSIONAL, QUALITY BRAND REPRESENTATIVES'
+large_headline: 'DEPENDABLE, PROFESSIONAL, QUALITY'
 hero_image_path: /uploads/picture1-4.png
 vip_project_type: B2B
 hide_social_links: false
