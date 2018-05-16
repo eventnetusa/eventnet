@@ -78,8 +78,11 @@ content_section:
   - text_block_markdown: >-
       **Our Brand Team Network is 10,000 + Strong! Delivering brand messages,
       products and services on point to your targeted demographic.**
+
+
+      &nbsp;
     single_image_block:
-      single_image_path: /uploads/enetmap-3.png
+      single_image_path: /uploads/enetmap-3-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -173,7 +176,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      #### Want to learn more about accessing our brand ambassador network?
+      #### Let's discuss putting our team to work for your brand.
 
       #### Contact:
 
