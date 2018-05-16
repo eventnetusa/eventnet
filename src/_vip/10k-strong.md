@@ -86,11 +86,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### PR EVENTS & STUNTS
+      ### Quality Talent
 
 
-      We stage and manage your event so you can focus on media opportunities,
-      feeling confident that everything happening behind-the-scenes is covered.
+      EventNetUSA Network includes quality brand ambassadors, tour managers,
+      production specialists, CDL Drivers, beauty/nail professionals, dancers
+      and more
     single_image_block:
       single_image_path:
     double_image_block:
@@ -98,14 +99,6 @@ content_section:
       image_2_path: /uploads/thumbnail-image-1.png
     video_block:
       video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/19533599-123092514957223-6351086647332831232-n1.jpg
-      image_2_path: /uploads/img-2392-1.JPG
-    video_block:
-      video_id:
   - text_block_markdown: '---'
     single_image_block:
       single_image_path:
@@ -115,11 +108,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### POP-UP SHOPS/BRAND INFLUENCERS
+      ### 360&deg; Training
 
 
-      EventNetUSA creates the stage for your celebrity and brand influencers at
-      pop-up locations in unique environments.&nbsp;
+      Each team member partakes in a fully immersive training/on-boarding
+      process which includes a guide book, training manual and brand immersion
+      sessions
     single_image_block:
       single_image_path:
     double_image_block:
@@ -127,14 +121,6 @@ content_section:
       image_2_path: /uploads/maybelline-nyc-popup.jpg
     video_block:
       video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/63227317-img-0529.jpg
-      image_2_path: /uploads/tough-mudder-miami-saturday-2018-logo-143.jpg
-    video_block:
-      video_id:
   - text_block_markdown: '---'
     single_image_block:
       single_image_path:
@@ -144,11 +130,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### GRAND OPENINGS
+      ### Tracking and Management
 
 
-      We handle permitting, line management, hospitality and display production
-      so that your first impression to your guests is your best!
+      Ongoing management of brand representatives include coordinating local
+      events/appearances, scheduling daily/weekly communications, web training,
+      etc and retaining/sharing staff and user generated photos.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -165,25 +152,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### MOBILE VEHICLE AND TRAILER TOURS
+      ### Reporting and Measurement
 
 
-      <div>EventNetUSA owns its own fleet of mobile brand vehicles and event
-      trailers. This allows flexibility in vehicle selection and
-      customization.</div>
+      Provide brand team with bi-weekly reporting and measurements to review and
+      enhance.
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/5-2.jpg
       image_2_path: /uploads/20161001-125153.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/6.jpg
-      image_2_path: /uploads/nyx-case-4.jpg
     video_block:
       video_id:
   - text_block_markdown: '---'
@@ -194,30 +172,8 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ### SAMPLING & STREET TEAMS
-
-
-      Our expert routing and diverse network of brand ambassadors puts your
-      brand in consumer's hands from grassroots level engagement to major
-      events.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/lacroix-superbowl.JPG
-      image_2_path: /uploads/silk-thumb.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/picture3-2.jpg
-      image_2_path: /uploads/20170709-084622-1.jpg
-    video_block:
-      video_id:
   - text_block_markdown: |-
-      #### Want to learn more about activating at school campuses?
+      #### Want to learn more about accessing our brand ambassador network?
 
       #### Contact:
 
