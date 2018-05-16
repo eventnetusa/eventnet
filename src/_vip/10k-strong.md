@@ -79,7 +79,7 @@ content_section:
       **Our Brand Team Network is 10,000 + Strong! Delivering brand messages,
       products and services on point to your targeted demographic.**
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/enetmap-3.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -91,12 +91,12 @@ content_section:
 
       EventNetUSA Network includes quality brand ambassadors, tour managers,
       production specialists, CDL Drivers, beauty/nail professionals, dancers
-      and more
+      and more!
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/slide-drink-up.jpg
-      image_2_path: /uploads/thumbnail-image-1.png
+      image_1_path: /uploads/talent-1.jpg
+      image_2_path: /uploads/talent-9.png
     video_block:
       video_id:
   - text_block_markdown: '---'
@@ -113,11 +113,11 @@ content_section:
 
       Each team member partakes in a fully immersive training/on-boarding
       process which includes a guide book, training manual and brand immersion
-      sessions
+      sessions.
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/talent-3-2.jpg
     double_image_block:
-      image_1_path: /uploads/revlon-case-4.jpg
+      image_1_path: /uploads/talent-3-1.jpg
       image_2_path: /uploads/maybelline-nyc-popup.jpg
     video_block:
       video_id:
@@ -139,8 +139,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
-      image_2_path: /uploads/7.jpg
+      image_1_path: /uploads/talent-4.jpg
+      image_2_path: /uploads/training-2.png
     video_block:
       video_id:
   - text_block_markdown: '---'
@@ -158,7 +158,7 @@ content_section:
       Provide brand team with bi-weekly reporting and measurements to review and
       enhance.
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/talent-2.jpg
     double_image_block:
       image_1_path: /uploads/5-2.jpg
       image_2_path: /uploads/20161001-125153.jpg
