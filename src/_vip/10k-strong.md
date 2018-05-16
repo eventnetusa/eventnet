@@ -1,5 +1,5 @@
 ---
-small_headline: EVENTNETUSA TURNKEY BRAND EVENT PRODUCTION AND MANAGEMENT
+small_headline: TURNKEY BRAND EVENT PRODUCTION AND MANAGEMENT
 large_headline: 'WE ARE 10,000 STRONG'
 hero_image_path: /uploads/picture1-4.png
 vip_project_type: B2B
