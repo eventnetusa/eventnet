@@ -1,13 +1,13 @@
 ---
-small_headline: AWARD WINNING TURNKEY EXPERIENTIAL BRAND MARKETING
-large_headline: Summer Holiday Activations
-hero_image_path: /uploads/pr-back-page-hero-2.jpg
+small_headline: 'WE ARE 10,000 STRONG'
+large_headline: 'DEPENDABLE, PROFESSIONAL, QUALITY BRAND REPRESENTATIVES'
+hero_image_path: /uploads/picture1-4.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to make your next idea your greatest?
+cta_headline: Ready to take your brand coast to coast?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
   ### Turnkey Service Offerings Include
