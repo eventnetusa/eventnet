@@ -76,26 +76,8 @@ sidebar_text_markdown: >-
   to debut its fantasy sports website
 content_section:
   - text_block_markdown: >-
-      ### &nbsp;
-
-
-      ### **YOU HAVE THE IDEA, WE HAVE THE KNOW-HOW!**
-
-
-      EventNetUSA has been taking the impossible and making it a reality for the
-      past 41 years. Our full service approach and team of industry experts
-      ensure every brand idea comes to life with originality, quality, on time
-      and on budget.
-
-
-      Named a *Top Event Marketing Agency* for the 15th year on Event Marketer's
-      [It
-      List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/),
-      we provide turn-key event production and logistics to brands and agencies
-      nationwide.&nbsp;
-
-
-      &nbsp;
+      **Our Brand Team Network is 10,000 + Strong! Delivering brand messages,
+      products and services on point to your targeted demographic.**
     single_image_block:
       single_image_path:
     double_image_block:
