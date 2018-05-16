@@ -96,7 +96,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/talent-1.jpg
-      image_2_path: /uploads/talent-9.png
+      image_2_path: /uploads/talent-5.jpg
     video_block:
       video_id:
   - text_block_markdown: '---'
@@ -160,8 +160,8 @@ content_section:
     single_image_block:
       single_image_path: /uploads/talent-2.jpg
     double_image_block:
-      image_1_path: /uploads/5-2.jpg
-      image_2_path: /uploads/20161001-125153.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: '---'
