@@ -156,7 +156,7 @@ content_section:
       Provide brand team with bi-weekly reporting and measurements to review and
       enhance program.
     single_image_block:
-      single_image_path: /uploads/talent-2-1.jpg
+      single_image_path: /uploads/6-3.jpg
     double_image_block:
       image_1_path:
       image_2_path:
