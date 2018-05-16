@@ -1,6 +1,6 @@
 ---
-small_headline: WE ARE TEN THOUSAND STRONG
-large_headline: 'DEPENDABLE, PROFESSIONAL, QUALITY AMBASSADOR NETWORK'
+small_headline: EVENTNETUSA TURNKEY BRAND EVENT PRODUCTION AND MANAGEMENT
+large_headline: 'WE ARE 10,000 STRONG'
 hero_image_path: /uploads/picture1-4.png
 vip_project_type: B2B
 hide_social_links: false
