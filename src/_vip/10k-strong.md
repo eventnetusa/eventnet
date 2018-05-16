@@ -156,9 +156,9 @@ content_section:
 
 
       Provide brand team with bi-weekly reporting and measurements to review and
-      enhance.
+      enhance program.
     single_image_block:
-      single_image_path: /uploads/20161001-125153-1.jpg
+      single_image_path: /uploads/talent-2-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
@@ -182,14 +182,6 @@ content_section:
       #### shelbyb@eventnetusa.com
     single_image_block:
       single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '### SAMPLE ROUTING CALENDAR'
-    single_image_block:
-      single_image_path: /uploads/capture-12.PNG
     double_image_block:
       image_1_path:
       image_2_path:
