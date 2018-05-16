@@ -75,12 +75,7 @@ sidebar_text_markdown: >-
   * Led digital fantasy sports phenomenon by taking CBS Interactive on the road
   to debut its fantasy sports website
 content_section:
-  - text_block_markdown: >-
-      **Our Brand Team Network is 10,000 + Strong! Delivering brand messages,
-      products and services on point to your targeted demographic.**
-
-
-      &nbsp;
+  - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/enetmap-3-1.png
     double_image_block:
