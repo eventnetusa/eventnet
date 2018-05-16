@@ -1,6 +1,6 @@
 ---
 small_headline: TURNKEY BRAND EVENT PRODUCTION AND MANAGEMENT
-large_headline: 'WE ARE 10,000 STRONG'
+large_headline: 'We Are 10,000 Strong'
 hero_image_path: /uploads/picture1-4.png
 vip_project_type: B2B
 hide_social_links: false
@@ -198,3 +198,4 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
+
