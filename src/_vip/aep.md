@@ -1,6 +1,6 @@
 ---
-small_headline: GAP  CLOSING AND QUALITY IMPROVEMENT
-large_headline: 'HEALTH SCREENINGS, EDUCATION & ENROLLMENT'
+small_headline: TURNKEY MEDICARE ACTIVATIONS
+large_headline: GENERATE LEADS FOR AEP
 hero_image_path: /uploads/2018-ins-planning-hero-1.jpg
 vip_project_type: B2B
 hide_social_links: true
@@ -27,20 +27,20 @@ content_section:
       Named the leading agency in *Health Insurance Activation*
       ([EventMarketer's It
       List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)) we know
-      how to engage your targeted demographic to close gaps in care, increase
-      HEDIS rating and maximize brand exposure.
+      how to engage your targeted demographic to generate leads and maximize
+      brand exposure.
 
 
       Our turn-key proven programs include:
 
 
-      * Recurring Pop-Up Events
+      * Events and Seminars at Retirement Communities
 
-      * Mobile Screening & Activation Centers
+      * Mall Kiosks, Stores and Center Court Events
 
-      * Retail Partner Events
+      * Vehicles and Mobile Pop-Ups
 
-      * Community Event Sponsorships
+      * Retail and Grocery Partner Integration
     single_image_block:
       single_image_path:
     double_image_block:
@@ -126,16 +126,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      #### **Let's close gaps and implement quality improvement measures
-      today!&nbsp; Contact:**
-
+  - text_block_markdown: |-
+      #### **Let's generate leads for your sales agents today!&nbsp; Contact:**
 
       #### **Shelby Beaty**
 
-
       #### **(954)467-9898 ext. 204**
-
 
       #### **shelbyb@eventnetusa.com**
     single_image_block:
