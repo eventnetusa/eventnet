@@ -1,7 +1,7 @@
 ---
 small_headline: TURNKEY MEDICARE ACTIVATIONS
 large_headline: GENERATE LEADS FOR AEP
-hero_image_path: /uploads/health-insurance-backpage-hero-image.jpg
+hero_image_path: /uploads/health-insurance-backpage-hero-image-white-boarder.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
