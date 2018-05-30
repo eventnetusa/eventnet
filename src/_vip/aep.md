@@ -52,7 +52,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/img-1053.JPG
+      image_1_path: /uploads/picture2-3.png
       image_2_path: /uploads/picture1-5.png
     video_block:
       video_id:
