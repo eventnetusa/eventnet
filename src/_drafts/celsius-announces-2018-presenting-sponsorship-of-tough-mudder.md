@@ -4,8 +4,8 @@ date: 2017-03-16 00:00:00
 filter:
 featured_post: false
 excerpt:
-hero_image_path:
-thumbnail_image_path:
+hero_image_path: /uploads/celsius-tm-press-hero-image.png
+thumbnail_image_path: /uploads/celsius-tm-press-thumbnail.png
 content_section:
   - text_block_markdown:
     single_image_block:
@@ -16,6 +16,7 @@ content_section:
     video_block:
       video_id:
 ---
+
 DO NOT ADD POST CONTENT HERE!
 
 Add all content in Content Sections.
