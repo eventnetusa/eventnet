@@ -79,7 +79,7 @@ content_section:
       details surrounding Carnival’s “Agentpalooza” bus tour, travel agents may
       visit GoCCL.com.
     single_image_block:
-      single_image_path: /uploads/agentpalooza-2018-bus-300x225.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
