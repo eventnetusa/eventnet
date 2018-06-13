@@ -4,8 +4,8 @@ date: 2018-04-11 00:01:00
 filter: press
 featured_post: true
 excerpt: Carnival Cruise Line Hits the Road Again with Agentpalooza 2018!
-hero_image_path: /uploads/agentpalooza-v3.jpg
-thumbnail_image_path: /uploads/agentpalooza-v3.jpg
+hero_image_path: /uploads/agentpalooza-logo-fn-one-color-blog-hero-image.jpg
+thumbnail_image_path: /uploads/agentpalooza-2018-thumbnail.png
 content_section:
   - text_block_markdown: >-
       Original content can be seen on
