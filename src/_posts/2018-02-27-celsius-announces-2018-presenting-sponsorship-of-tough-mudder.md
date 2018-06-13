@@ -2,7 +2,7 @@
 title: CELSIUS Announces 2018 Presenting Sponsorship of Tough Mudder
 date: 2018-02-27 00:01:00
 filter: press
-featured_post: false
+featured_post: true
 excerpt: >-
   CELSIUS Brand Fitness Drink Announces 2018 Presenting Sponsorship of Tough
   Mudder's North America Challenge Series
