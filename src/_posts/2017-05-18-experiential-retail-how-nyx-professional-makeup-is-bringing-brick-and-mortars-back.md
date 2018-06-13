@@ -1,17 +1,24 @@
 ---
-title: 'Experiential Retail: How NYX Professional Makeup Is Bringing Brick and Mortars Back'
+title: >-
+  Experiential Retail: How NYX Professional Makeup Is Bringing Brick and Mortars
+  Back
 date: 2017-05-18 10:30:00
 filter: insights
-featured_post: true
-excerpt: 'In today’s digitally driven world, e-commerce is dominating, retailers are becoming defined by their social media presence, and one-click purchases are the expectation. Heritage brands are seeking creative ways to grow with consumer lifestyles while new brands are challenged to cut through the clutter of the internet.'
+featured_post: false
+excerpt: >-
+  In today’s digitally driven world, e-commerce is dominating, retailers are
+  becoming defined by their social media presence, and one-click purchases are
+  the expectation. Heritage brands are seeking creative ways to grow with
+  consumer lifestyles while new brands are challenged to cut through the clutter
+  of the internet.
 hero_image_path: /uploads/nyx-collage.png
 thumbnail_image_path: /uploads/nyx-collage.png
 content_section:
   - text_block_markdown: >-
       In today’s digitally driven world, e-commerce is dominating, retailers are
       becoming defined by their social media presence, and one-click purchases
-      are the expectation. Heritage brands are seeking creative ways to grow with
-      consumer lifestyles and new brands are challenged to cut through the
+      are the expectation. Heritage brands are seeking creative ways to grow
+      with consumer lifestyles and new brands are challenged to cut through the
       clutter of the internet.
 
       **With fewer opportunities for consumer-facing interaction, brands must
@@ -22,7 +29,8 @@ content_section:
       It’s no secret that consumers are more likely to purchase products they’ve
       tried. This is the foundation of the booming experiential marketing
       industry. According to the Association of National Advertisers, annual
-      brand activation spending was over $560 million in 2015 and is expected to reach $740 billion by 2020.
+      brand activation spending was over $560 million in 2015 and is expected to
+      reach $740 billion by 2020.
 
 
       Unfortunately, while in-field activations excel in driving awareness and
@@ -37,8 +45,8 @@ content_section:
       era?**
 
 
-      Taking cues from some of the brightest minds in event marketing, brands are
-      transforming spaces into experiential havens that seamlessly blend the
+      Taking cues from some of the brightest minds in event marketing, brands
+      are transforming spaces into experiential havens that seamlessly blend the
       worlds of digital and physical.
 
 
@@ -67,12 +75,13 @@ content_section:
       shoppers with inspiration and direction.
 
       * Interactive discovery stations (touch screens built into product
-      displays) encourage consumers to scan or search products to yield Instagram
-      photos of other NYX consumers wearing the selected product/shade.
+      displays) encourage consumers to scan or search products to yield
+      Instagram photos of other NYX consumers wearing the selected
+      product/shade.
 
       * Further embracing its cult-like Instagram following, NYX holds exclusive
-      in-store Meet & Greets with its most popular brand influencers to create an
-      immersive social media experience in the retail environment.
+      in-store Meet & Greets with its most popular brand influencers to create
+      an immersive social media experience in the retail environment.
 
 
       NYX Professional Makeup’s answer to this challenge plaguing all retailers
@@ -100,7 +109,6 @@ content_section:
     video_block:
       video_id:
 ---
-
 
 DO NOT ADD POST CONTENT HERE!
 
