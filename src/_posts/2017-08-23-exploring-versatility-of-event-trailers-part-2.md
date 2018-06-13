@@ -2,7 +2,7 @@
 title: Exploring Versatility of Event Trailers Part 2
 date: 2017-08-23 01:00:00
 filter: insights
-featured_post: true
+featured_post: false
 excerpt: >-
   Today we’re taking a look at the largest member of EventNetUSA’s fleet, our
   53” trailer.
@@ -216,7 +216,6 @@ content_section:
     video_block:
       video_id:
 ---
-
 
 DO NOT ADD POST CONTENT HERE!
 
