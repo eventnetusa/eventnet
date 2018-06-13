@@ -2,7 +2,7 @@
 title: EventNetUSA named a Top Event Marketing Agency
 date: 2017-08-07 00:00:00
 filter: press
-featured_post: true
+featured_post: false
 excerpt: >-
   We are honored to be named a Top Event Marketing Agency, "known for producing
   the impossible," on Event Marketer's 2017 It List!
@@ -83,7 +83,6 @@ content_section:
     video_block:
       video_id:
 ---
-
 
 DO NOT ADD POST CONTENT HERE!
 
