@@ -2,7 +2,7 @@
 title: Consumer Facing Experiential Marketing Trends for 2018
 date: 2018-01-31 14:14:00
 filter: insights
-featured_post: true
+featured_post: false
 excerpt: Consumer Facing Experiential Marketing Trends for 2018
 hero_image_path: /uploads/jan-blog-collage-2.jpg
 thumbnail_image_path: /uploads/jan-blog-thumbnail.jpg
@@ -182,7 +182,6 @@ content_section:
     video_block:
       video_id:
 ---
-
 
 DO NOT ADD POST CONTENT HERE!
 
