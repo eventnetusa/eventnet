@@ -8,6 +8,11 @@ hero_image_path: /uploads/agentpalooza-v3.jpg
 thumbnail_image_path: /uploads/agentpalooza-v3.jpg
 content_section:
   - text_block_markdown: >-
+      Original content can be seen on
+      [Carnival-news.com](https://carnival-news.com/2018/04/11/carnival-cruise-line-takes-to-the-road-with-agentpalooza-2018-bus-tour-for-travel-agents/){:
+      target="_blank"}.
+
+
       Carnival Cruise Line will visit agents on its popular festival- inspired
       “Agentpalooza” bus tour from June 11-14 with stops throughout Southern
       California. &nbsp;Hosted by Carnival’s Senior Vice President of Sales &
