@@ -24,7 +24,28 @@ sidebar_text_markdown: >-
 
   * Distributed 328,000 manufacturer's coupons&nbsp;
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      Ghirardelli enlisted the help of EventNetUSA to create a memorable
+      sampling program full of holiday cheer to showcase the very special
+      Limited Edition Peppermint Bark chocolate!&nbsp;
+
+
+      Through its extensive network of nationwide mall partnerships, EventNetUSA
+      secured exclusive Ghirardelli sampling contracts with Santa Holiday Photo
+      Events in 27 malls across 17 states.
+
+
+      Just picture Santa giving 695,000 eager children a sweet piece of
+      Ghirardelli chocolate as a thank you for sharing their holiday wishes.
+      What's more magical than that?
+
+
+      As an additional drive-to-retail initiative, Santa's helpers distributed
+      over 325,000 Ghiradelli coupons to parents waiting in line for Santa
+      photos.&nbsp;
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
