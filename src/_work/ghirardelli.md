@@ -1,6 +1,6 @@
 ---
-client: Ghiradelli
-link_to_casestudy: false
+client: Ghirardelli
+link_to_casestudy: true
 sort_number: 30
 headline: Sampling with Santa
 hover_text: >-
@@ -11,7 +11,7 @@ thumbnail_image_path: /uploads/ghiradelli.png
 types:
   - street team
   - retail
-cta_text: Need a little holiday help?
+cta_text: Looking for a little holiday help?
 cta: Let's talk
 sidebar_text_markdown: >-
   ### QUICK STATS
