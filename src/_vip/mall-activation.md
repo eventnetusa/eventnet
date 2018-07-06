@@ -89,8 +89,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/photo-apr-03-12-16-58-pm.jpg
-      image_2_path: /uploads/photo-jan-09-9-58-40-am---copy.jpg
+      image_1_path: /uploads/photo-jan-09-9-58-40-am---copy-1.jpg
+      image_2_path: /uploads/photo-apr-03-12-16-58-pm-1.jpg
     video_block:
       video_id:
 _comments:
