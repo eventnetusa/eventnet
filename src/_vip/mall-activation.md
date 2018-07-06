@@ -82,14 +82,14 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/photo-apr-03-10-05-16-am.jpg
-      image_2_path: /uploads/photo-jan-09-12-27-56-pm---copy.jpg
+      image_2_path: /uploads/photo-feb-06-9-10-37-am.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/photo-jan-09-9-58-40-am---copy-1.jpg
+      image_1_path:
       image_2_path: /uploads/photo-apr-03-12-16-58-pm-1.jpg
     video_block:
       video_id:
