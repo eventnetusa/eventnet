@@ -1,25 +1,23 @@
 ---
-small_headline: TURNKEY POP-UP MALL PROGRAMS WITH E.A.S.E
-large_headline: 'Engage, Activate, Screen and Enroll'
+small_headline: HUMANA POP-UP MALL PROGRAM
+large_headline: HOLIDAY WELLNESS EVENTS
 hero_image_path: /uploads/rossevelt-field-mall-2-4.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: 'Ready to engage, activate and enroll consumers this year?'
+cta_headline: Have space available?
 cta_text: Let's Talk
 sidebar_text_markdown: |-
-  #### **Increase 2018 Medicare Sales Through**
+  #### **Wellness Event Includes**
 
   * Education
   * Demonstration
-  * “Hands On” Screening
-  * Consultation
-  * Lead Generation
-  * Retail Integration
+  * Health Screenings
+  * Wellness Activities
 
-  #### **Engage Consumers With**
+  #### **Activities Include**
 
   * Silver Sneakers
   * Cooking Demonstrations
@@ -31,20 +29,7 @@ sidebar_text_markdown: |-
   * Bingo
   * Computer Classes
 
-  #### **Turnkey Management Includes**
-
-  * Ideation, Design & Brand Customization
-  * Graphic & Display Production
-  * Venue & Vehicle Procurement
-  * Routing & Logistics
-  * Permitting & Legal
-  * Staff & Training
-  * Social Media Integration
-  * Budget Forecasting
-  * Account Management
-  * Liability Insurance
-  * Risk Management
-  * Reporting
+  #### &nbsp;
 content_section:
   - text_block_markdown: >-
       **Top level one-on-one&nbsp;**outreach increasing brand opinion and
@@ -114,7 +99,7 @@ content_section:
       video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
