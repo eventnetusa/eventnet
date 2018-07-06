@@ -1,6 +1,6 @@
 ---
-small_headline: HUMANA POP-UP MALL PROGRAM
-large_headline: HOLIDAY WELLNESS EVENTS
+small_headline: POP-UP MALL PROGRAM
+large_headline: HUMANA WELLNESS EVENTS
 hero_image_path: /uploads/img-0895-1.JPG
 vip_project_type: B2B
 hide_social_links: true
@@ -90,7 +90,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/photo-apr-03-12-16-58-pm.jpg
-      image_2_path:
+      image_2_path: /uploads/photo-jan-09-9-58-40-am---copy.jpg
     video_block:
       video_id:
 _comments:
