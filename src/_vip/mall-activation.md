@@ -32,12 +32,12 @@ sidebar_text_markdown: |-
   #### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **Top level one-on-one&nbsp;**outreach increasing brand opinion and
-      purchase intent to Medicare eligible consumers. **Programs start at
-      $25,000 monthly.**
+      For the past two years, Humana's Pop-Up Mall Program has been success in
+      the Chicago and Tampa locations. Now we are expanding and would like to
+      partner with your mall!
 
 
-      &nbsp;
+      See examples of our mall programs below.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -53,14 +53,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      #### **OPTION 1: TAKE OVER HIGH TRAFFIC MALL CENTER COURTS**
-
-      * 365 days of signage & branding
-      * Designated # of event days each month
-      * Opportunities for activities, screenings and engagements
-
-      &nbsp;
+  - text_block_markdown: '#### **YORKTOWN MALL, LOMBARD, IL**'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -84,12 +77,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      #### **OPTION 2: INTERACTIVE MALL KIOSK**
-
-      * Staffed full time, part time or self-contained
-      * TV monitors with take-home literature holders
-      * Optional iPad’s for lead generation
+  - text_block_markdown: '#### **TYRONE SQUARE MALL, TAMPA, FL**'
     single_image_block:
       single_image_path:
     double_image_block:
