@@ -81,8 +81,16 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/6-3.png
-      image_2_path: /uploads/appna-2-1.jpg
+      image_1_path: /uploads/photo-apr-03-10-05-16-am.jpg
+      image_2_path: /uploads/photo-apr-03-10-45-22-am.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 _comments:
