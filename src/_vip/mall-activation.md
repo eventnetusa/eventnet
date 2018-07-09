@@ -32,12 +32,12 @@ sidebar_text_markdown: |-
   #### &nbsp;
 content_section:
   - text_block_markdown: >-
-      For the past two years, Humana's Pop-Up Mall Program has been success in
-      the Chicago and Tampa locations. Now we are expanding and would like to
+      EventNetUSA's Humana Pop-Up Mall Program has been such a success in the
+      Chicago and Tampa locations that we are expanding and would like to
       partner with your mall!
 
 
-      See examples of our mall programs below.
+      See examples of our mall program below.
     single_image_block:
       single_image_path:
     double_image_block:
