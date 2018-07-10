@@ -5,10 +5,6 @@ hero_image_path: /uploads/img-0895-1.JPG
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
-cta_link: true
-cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Have space available?
-cta_text: Let's Talk
 sidebar_text_markdown: |-
   #### **Wellness Event Includes**
 
