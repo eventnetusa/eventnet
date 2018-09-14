@@ -1,47 +1,22 @@
 ---
-small_headline: Turnkey Brand Event Production and Management
-large_headline: 2018  CONSUMER ACTIVATION PLANNING
+small_headline: 'Over 3,500 Walmart Stores to Choose From!!'
+large_headline: 2019 Walmart Parking Lot Activation Tours
 hero_image_path: /uploads/2018-ins-hero-1.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to add live consumer experiences to your 2018 marketing plan?
+cta_headline: Ready to reach Walmart shoppers?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Program Opportunities Include:
 
   * Custom Vehicle / Trailer Tours
-  * Experiential Events
-  * Pop-Up Shops
-  * High Volume & Targeted Sampling
-  * Mall Events
-  * Events & Sponsorships
-  * PR Stunts & Events
-  * Retail & Partner Integration
-  * Street Teams / Guerilla
+  * Seasonal Events and Tours
+  * Pop-Up Sidewalk Sampling
 
-  ### Increase 2018 Product Sales Through
-
-  * Education
-  * Demonstration
-  * "Hands On"
-  * Consultation
-  * Lead Generation
-  * Retail Integration
-
-  ### Reach Consumers At
-
-  * Malls/ Shopping Centers
-  * Big Box Retailers
-  * Special Events
-  * Sporting Events
-  * Universities
-  * Trade Shows
-  * Fairs & Festivals
-
-  ### Turnkey Management Includes
+  ### Turn-key Management Includes
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
@@ -49,28 +24,18 @@ sidebar_text_markdown: |-
   * Routing & Logistics
   * Permitting & Legal
   * Staff & Training
-  * Social Media Integration
   * Budget Forecasting
   * Account Management
   * Liability Insurance
   * Risk Management
   * Reporting
-
-  ### &nbsp;
-
-  ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      #### Recognized as a leading Experiential Marketing agency known for
-      "producing the impossible" on *[EventMarketer's 2017 IT
-      List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)*.
+      #### EventNetUSA is a recognized Walmart experiential marketing company
+      with access to over 3,500 stores across the country.
 
 
-      #### Our full service approach and team of industry experts ensure every
-      brand idea comes to life with originality, quality, on time and on budget.
-
-
-      #### Which 2018 program opportunities fit your needs?
+      #### Which stores will your brand clients activate in 2019?
     single_image_block:
       single_image_path:
     double_image_block:
@@ -143,7 +108,7 @@ content_section:
       video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
