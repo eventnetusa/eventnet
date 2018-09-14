@@ -52,7 +52,7 @@ content_section:
 
       ### &nbsp;
     single_image_block:
-      single_image_path: /uploads/capture-2-1.PNG
+      single_image_path: /uploads/garnier-mg-1064-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
