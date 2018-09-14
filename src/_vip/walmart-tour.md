@@ -43,12 +43,21 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      ### &nbsp;
+  - text_block_markdown: >-
+      #### Offer your brand clients the unique and highly sought after
+      opportunity to activate steps away from the world's largest big box
+      retailer.&nbsp;
+
+
+      Reach consumers where they shop by setting up in Walmart parking lots and
+      storefront sidewalks.&nbsp;
+
 
       ### &nbsp;
 
+
       ### &nbsp;
+
 
       ### &nbsp;
     single_image_block:
