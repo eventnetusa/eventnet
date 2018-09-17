@@ -126,6 +126,10 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      Participation in 2019 Walmart Tours is subject to final approval by
+      Walmart Corporation.
+
+
       NOTICE: This page contains confidential information belonging to
       EventNetUSA which is legally privileged. The information is intended only
       for the use of the recipient. If you are not the intended recipient, you
