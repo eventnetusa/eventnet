@@ -1,7 +1,7 @@
 ---
 small_headline:
 large_headline: Now Scheduling Markets & Dates
-hero_image_path: /uploads/walmart-tour-backpage-header-image3.png
+hero_image_path: /uploads/walmart-tour-backpage-header-image4.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
