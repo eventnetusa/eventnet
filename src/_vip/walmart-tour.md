@@ -53,9 +53,11 @@ content_section:
 
       * Objectives & Budget
 
-      * Creative & Deliverables
+      * Creative & Specialty Production
 
       * Select Stores by State, Region or Nationwide
+
+      * Deliverables & Approvals
 
       * 10 Week Lead Time&nbsp;
 
