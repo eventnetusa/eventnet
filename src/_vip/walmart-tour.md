@@ -33,7 +33,7 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       #### EventNetUSA is a recognized Walmart experiential marketing company
-      ready to activate over 3,500 stores across the country.
+      ready to activate at over 3,500 stores across the country.
 
 
       #### Offer brand clients valuable opportunaties to reach consumers where
