@@ -37,7 +37,7 @@ content_section:
 
 
       #### Offer clients a valuable opportunity to reach consumers where they
-      shop, in parking lots and storefront of the world's largest
+      shop, in parking lots and storefronts of the world's largest
       retailer.&nbsp;
 
 
