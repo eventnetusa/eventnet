@@ -36,9 +36,9 @@ content_section:
       ready to activate over 3,500 stores across the country.
 
 
-      #### Offer brand clients the unique and highly sought after opportunity to
-      reach consumers where they shop, in parking lots and storefront sidewalks
-      of the world's largest big box retailer.&nbsp;
+      #### Offer brand clients valuable opportunaties to reach consumers where
+      they shop, in parking lots and storefront sidewalks of the world's largest
+      retailer.&nbsp;
 
 
       #### Which stores will your brand clients activate in 2019?
