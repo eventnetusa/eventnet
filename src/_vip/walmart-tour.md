@@ -36,12 +36,8 @@ content_section:
 
 
       #### Offer your brand clients the unique and highly sought after
-      opportunity to activate steps away from the world's largest big box
-      retailer.&nbsp;
-
-
-      #### Reach consumers where they shop by setting up in Walmart parking lots
-      and storefront sidewalks.&nbsp;
+      opportunity to reach consumers where they shop in the parking lots and
+      storefront sidewalks of the world's largest big box retailer.&nbsp;
 
 
       #### Which stores will your brand clients activate in 2019?
