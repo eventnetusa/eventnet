@@ -41,23 +41,22 @@ content_section:
 
 
       #### Which stores will your brand clients activate in 2019?
+
+
+      ### &nbsp;
+
+
+      ### &nbsp;
     single_image_block:
-      single_image_path: /uploads/picture2-5.jpg
+      single_image_path: /uploads/garnier-mg-1064-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      #### &nbsp;
-
-      ### &nbsp;
-
-      ### &nbsp;
-
-      ### &nbsp;
+  - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/garnier-mg-1064-1.jpg
+      single_image_path: /uploads/picture2-5.jpg
     double_image_block:
       image_1_path:
       image_2_path:
