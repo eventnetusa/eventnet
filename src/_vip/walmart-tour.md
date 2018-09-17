@@ -51,7 +51,7 @@ content_section:
 
       * Preliminary Qualification Call&nbsp;
 
-      * Budget
+      * Objectives & Budget
 
       * Creative & Deliverables
 
