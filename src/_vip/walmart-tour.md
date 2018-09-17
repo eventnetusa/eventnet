@@ -14,7 +14,7 @@ sidebar_text_markdown: |-
 
   * Brand Influencer Events
   * Custom Vehicle / Trailer Tours
-  * Seasonal Events and Tours
+  * Seasonal/Holiday Campaigns
   * Pop-Up Sidewalk Sampling & Demonstrations
 
   ### Turn-key Management Includes
