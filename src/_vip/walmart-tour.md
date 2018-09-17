@@ -1,5 +1,5 @@
 ---
-small_headline: 'Over 3,500 Walmart Stores to Choose From!'
+small_headline:
 large_headline: Now Scheduling
 hero_image_path: /uploads/2018-ins-hero-1.jpg
 vip_project_type: B2B
