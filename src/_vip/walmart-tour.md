@@ -58,9 +58,7 @@ content_section:
       * Select Stores by State, Region or Nationwide
 
       * Deliverables & Approvals
-
-      * 10 Week Lead Time&nbsp;
-
+        * 10 Week Lead Time from Approvals
 
       &nbsp;
 
