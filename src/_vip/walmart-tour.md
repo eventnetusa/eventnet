@@ -35,9 +35,9 @@ content_section:
       ready to activate over 3,500 stores across the country.
 
 
-      #### Offer your brand clients the unique and highly sought after
-      opportunity to reach consumers where they shop, in parking lots and
-      storefront sidewalks of the world's largest big box retailer.&nbsp;
+      #### Offer brand clients the unique and highly sought after opportunity to
+      reach consumers where they shop, in parking lots and storefront sidewalks
+      of the world's largest big box retailer.&nbsp;
 
 
       #### Which stores will your brand clients activate in 2019?
@@ -51,11 +51,13 @@ content_section:
 
       * Preliminary Qualification Call&nbsp;
 
-      * 10 Week Lead Time&nbsp;
+      * Budget
 
-      * Creative & Budget
+      * Creative & Deliverables
 
       * Select Stores by State, Region or Nationwide
+
+      * 10 Week Lead Time&nbsp;
 
 
       &nbsp;
