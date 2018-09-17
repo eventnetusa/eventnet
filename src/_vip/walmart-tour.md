@@ -13,7 +13,7 @@ sidebar_text_markdown: |-
   ### Program Opportunities Include:
 
   * Brand Influencer Events
-  * Custom Vehicle / Trailer Tours
+  * Custom Vehicle/Trailer Tours
   * Seasonal/Holiday Campaigns
   * Pop-Up Sidewalk Sampling & Demonstrations
 
@@ -36,29 +36,29 @@ content_section:
       ready to activate at over 3,500 stores across the country.
 
 
-      #### Offer brand clients valuable opportunaties to reach consumers where
-      they shop, in parking lots and storefront sidewalks of the world's largest
+      #### Offer clients a valuable opportunity to reach consumers where they
+      shop, in parking lots and storefront of the world's largest
       retailer.&nbsp;
 
 
-      #### Which stores will your brand clients activate in 2019?
+      #### Which Walmarts will your brands choose for 2019?
 
 
       &nbsp;
 
 
-      How to Participate:
+      Contact us to discuss:
 
 
-      * Preliminary Qualification Call&nbsp;
+      * Preliminary Qualifications
 
       * Objectives & Budget
 
       * Creative & Specialty Production
 
-      * Select Stores by State, Region or Nationwide
+      * Store Selection by State, Region or Nationwide
 
-      * Deliverables & Approvals
+      * Deliverables & Approval Process
         * 10 Week Lead Time from Approvals
 
       &nbsp;
