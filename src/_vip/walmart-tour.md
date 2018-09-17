@@ -12,9 +12,10 @@ cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Program Opportunities Include:
 
+  * Brand Influencer Events
   * Custom Vehicle / Trailer Tours
   * Seasonal Events and Tours
-  * Pop-Up Sidewalk Sampling
+  * Pop-Up Sidewalk Sampling & Demonstrations
 
   ### Turn-key Management Includes
 
