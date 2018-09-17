@@ -126,7 +126,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Participation in 2019 Walmart Tours is subject to final approval by
+      Participation in Walmart activations is subject to final approval by
       Walmart Corporation.
 
 
