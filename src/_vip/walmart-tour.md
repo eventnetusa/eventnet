@@ -43,6 +43,24 @@ content_section:
       #### Which stores will your brand clients activate in 2019?
 
 
+      &nbsp;
+
+
+      How to Participate:
+
+
+      * Preliminary Qualification Call&nbsp;
+
+      * 10 Week Lead Time&nbsp;
+
+      * Creative & Budget
+
+      * Select Stores by State, Region or Nationwide
+
+
+      &nbsp;
+
+
       ### &nbsp;
 
 
