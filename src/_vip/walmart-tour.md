@@ -36,7 +36,7 @@ content_section:
 
 
       #### Offer your brand clients the unique and highly sought after
-      opportunity to reach consumers where they shop in the parking lots and
+      opportunity to reach consumers where they shop, in parking lots and
       storefront sidewalks of the world's largest big box retailer.&nbsp;
 
 
