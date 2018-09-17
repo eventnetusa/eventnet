@@ -91,6 +91,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/almay-at-walmart.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       See why we're #1 in [Consumer
       Marketing](https://www.eventnetusa.com/work/)!
@@ -108,14 +116,6 @@ content_section:
       shelbyb@eventnetusa.com
     single_image_block:
       single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/almay-at-walmart.jpg
     double_image_block:
       image_1_path:
       image_2_path:
