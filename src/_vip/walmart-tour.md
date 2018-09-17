@@ -77,7 +77,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/wal-mart706zephyrhills-fl-1-11-tr-7a-003-002.jpg
+      single_image_path: /uploads/wal-mart706zephyrhills-fl-1-11-tr-7a-003-0032.jpg
     double_image_block:
       image_1_path:
       image_2_path:
