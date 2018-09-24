@@ -36,12 +36,12 @@ content_section:
       ready to activate at over 3,500 stores across the country.
 
 
-      #### Offer clients a valuable opportunity to reach consumers where they
-      shop, in parking lots and storefronts of the world's largest
+      #### Offering your brand a valuable opportunity to reach consumers where
+      they shop, in parking lots and storefronts of the world's largest
       retailer.&nbsp;
 
 
-      #### Which Walmarts will your brands choose for 2019?
+      #### Which Walmarts will you choose for 2019?
 
 
       &nbsp;
