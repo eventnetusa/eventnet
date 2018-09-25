@@ -36,8 +36,8 @@ content_section:
       ready to activate at over 3,500 stores across the country.
 
 
-      #### Offering your brand a valuable opportunity to reach consumers where
-      they shop, in parking lots and storefronts of the world's largest
+      #### Offering brands a valuable opportunity to reach consumers where they
+      shop, in parking lots and storefronts of the world's largest
       retailer.&nbsp;
 
 
