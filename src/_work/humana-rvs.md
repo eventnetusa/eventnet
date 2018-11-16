@@ -1,9 +1,11 @@
 ---
-client: Humana
+client: Humana at Walmart
 link_to_casestudy: true
 sort_number: 4
-headline: "\"Let's Talk\" Medicare National RV Tour"
-hover_text: "10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare spending at targeted Walmart's..."
+headline: '"Let''s Talk" Medicare National RV Tour'
+hover_text: >-
+  10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare
+  spending at targeted Walmart's...
 hero_image_path: /uploads/rv-hero-image-fixed.jpg
 thumbnail_image_path: /uploads/humana-rvs.png
 types:
@@ -11,7 +13,7 @@ types:
   - popup shop
   - vehicle tour
 cta_text: Ready to educate and engage with consumers on the road?
-cta: "Let's Talk!"
+cta: Let's Talk!
 sidebar_text_markdown: |-
   ### QUICK STATS
 
@@ -36,8 +38,8 @@ content_section:
 
       Leveraging Humana's partnership with Walmart, we conceptualized, designed
       and executed the national "Let's Talk" Campaign. The tour was designed to
-      educate Walmart's Senior shoppers and to help beneficiaries learn about new
-      plan and prescription drug coverage options.
+      educate Walmart's Senior shoppers and to help beneficiaries learn about
+      new plan and prescription drug coverage options.
 
 
 
@@ -45,16 +47,16 @@ content_section:
 
       We built a fleet of ten RVs and recruited and trained 20 Medicare Advisors
       who would travel the country, visiting with seniors at senior centers,
-      medical centers, senior expos in addition to Walmart Supercenters and Sam's
-      Club stores.
+      medical centers, senior expos in addition to Walmart Supercenters and
+      Sam's Club stores.
 
 
 
 
 
       Onsite, Humana Medicare Advisors offered RV guests guidance as to which
-      type of plan may be best suited based on their health, lifestyle and income
-      criteria.
+      type of plan may be best suited based on their health, lifestyle and
+      income criteria.
 
 
 
@@ -86,8 +88,8 @@ content_section:
 
       * Customized 10 Humana "Let's Talk" RV's&nbsp;
 
-      * Recruited, hired and trained 20 Medicare Advisors/Tour Managers (retained
-      for 3 years)
+      * Recruited, hired and trained 20 Medicare Advisors/Tour Managers
+      (retained for 3 years)
 
       * Leveraged Humana's partnership with Walmart, conducting 1,650 Walmart
       Supercenter and Sam's Club appearances
@@ -129,7 +131,7 @@ related_client_logos:
   - logo_image_path: /uploads/aarp-with-no-tag.jpg
     logo_image_height:
   - logo_image_path: /uploads/bcbs.png
-    logo_image_height: '50%'
+    logo_image_height: 50%
   - logo_image_path: /uploads/CHIP-2.png
     logo_image_height:
 ---
