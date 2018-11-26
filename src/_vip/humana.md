@@ -52,8 +52,8 @@ content_section:
     single_image_block:
       single_image_path: /uploads/mac-branded-2.png
     double_image_block:
-      image_1_path: /uploads/hcsc-case-4-updated.jpg
-      image_2_path: /uploads/mac-outside-updated.jpg
+      image_1_path: /uploads/mac-travelling.png
+      image_2_path: /uploads/mac-night.png
     video_block:
       video_id:
   - text_block_markdown: >-
