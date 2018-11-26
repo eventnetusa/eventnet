@@ -1,7 +1,7 @@
 ---
-small_headline: TURNKEY MOBILE MARKETING SOLUTIONS
-large_headline: ACTIVATE MEDICARE MEMBERS ON-THE-GO
-hero_image_path: /uploads/health-insurance-backpage-hero-image-1.jpg
+small_headline: TURNKEY INSURANCE MARKETING SOLUTIONS
+large_headline: 'ENGAGE, ACTIVATE AND ENROLL MEDICARE MEMBERS'
+hero_image_path: /uploads/hero-image-1.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
