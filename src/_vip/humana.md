@@ -48,7 +48,10 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**MOBILE ASSISTANCE CENTER (MAC**)'
+  - text_block_markdown: >-
+      **MOBILE ASSISTANCE CENTER (MAC**)<br>One of our most versatile marketing
+      trailers, MACs are self-contained units offering maximum flexibility for
+      activations on the go.&nbsp;
     single_image_block:
       single_image_path: /uploads/mac-branded-2.png
     double_image_block:
