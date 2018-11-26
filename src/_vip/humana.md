@@ -111,6 +111,14 @@ content_section:
       image_2_path: /uploads/rv-3.png
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/interior-rv-2-1.png
+      image_2_path: /uploads/bcbstx-rv-1.png
+    video_block:
+      video_id:
   - text_block_markdown: >-
       * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
       and onboard power.
@@ -123,8 +131,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/interior-rv-2-1.png
-      image_2_path: /uploads/bcbstx-rv-1.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
