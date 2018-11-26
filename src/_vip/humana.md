@@ -24,11 +24,9 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      Named the leading agency in *Health Insurance Activation*
-      ([EventMarketer's It
-      List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)) we know
-      how to engage your targeted demographic to generate leads and maximize
-      brand exposure.
+      Named the leading agency in *Health Insurance Activation* by Event
+      Marketer Magazine, we understand how to reach and engage your target
+      demographic to generate leads and maximize brand exposure.
 
 
       Our turnkey field marketing programs include:
