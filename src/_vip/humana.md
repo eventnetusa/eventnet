@@ -98,6 +98,9 @@ content_section:
 
       * Additional features may include wheel chair lift, retractable awing and
       gray water collection, etc. Contact us to discuss options.
+
+
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     single_image_block:
       single_image_path:
     double_image_block:
