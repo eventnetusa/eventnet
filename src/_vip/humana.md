@@ -86,6 +86,19 @@ content_section:
       functionality. Offer Medicare customers private consultations, gap closing
       services and enrollement events on-board your Humana RV.
     single_image_block:
+      single_image_path: /uploads/picture2-7.jpg
+    double_image_block:
+      image_1_path: /uploads/picture4-4.jpg
+      image_2_path: /uploads/picture3-3.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
+      and onboard power.
+
+      * Additional features may include wheel chair lift, retractable awing and
+      gray water collection, etc. Contact us to discuss options.
+    single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
