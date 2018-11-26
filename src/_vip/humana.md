@@ -105,6 +105,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/humana-mamogram-rv.jpg
+      image_2_path: /uploads/interior-rv-2.png
+    video_block:
+      video_id:
   - text_block_markdown: >-
       **For details contact**<br>Allison House<br>(954)467-9898 ext.
       203<br>allisonh@eventnetusa.com
