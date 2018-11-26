@@ -1,6 +1,6 @@
 ---
-small_headline: TURNKEY MEDICARE ACTIVATIONS
-large_headline: GENERATE LEADS FOR AEP
+small_headline: TURNKEY MOBILE MARKETING SOLUTIONS
+large_headline: ACTIVATE MEDICARE MEMBERS ON-THE-GO
 hero_image_path: /uploads/health-insurance-backpage-hero-image-1.jpg
 vip_project_type: B2B
 hide_social_links: true
@@ -143,7 +143,7 @@ content_section:
       video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
