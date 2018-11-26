@@ -24,7 +24,7 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      Named the leading agency in *Health Insurance Activation* by Event
+      Named the leading agency in *Health Insurance Activations* by Event
       Marketer Magazine, we understand how to reach and engage your target
       demographic to generate leads and maximize brand exposure.
 
