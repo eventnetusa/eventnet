@@ -57,9 +57,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Your Medicare Mobile Assistance Center contains seating for 9, video
-      monitor, tablet mounts and onboard generator. MACs are easily towed by
-      car, van or truck and install in 20 minutes indoor or outdoor.<br>&nbsp;
+      * Features seating for nine, sunbright video monitor with computer
+      connectivity, tablet mounts and onboard generator.
+
+      * Quickly install inside or outside to reach consumers year-round.&nbsp;
+
+      * Carry 10x10 privacy tent in support vehicle for on-demand HIPAA
+      compliance and privacy.&nbsp;
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
