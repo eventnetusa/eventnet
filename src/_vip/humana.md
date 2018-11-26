@@ -92,15 +92,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
-      and onboard power.
-
-      * Additional features may include wheel chair lift, retractable awing and
-      gray water collection, etc. Contact us to discuss options.
-
-
-      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -116,7 +108,15 @@ content_section:
       image_2_path: /uploads/rv-3.png
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
+      and onboard power.
+
+      * Additional features may include wheel chair lift, retractable awing and
+      gray water collection, etc. Contact us to discuss options.
+
+
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     single_image_block:
       single_image_path:
     double_image_block:
