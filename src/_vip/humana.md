@@ -31,14 +31,14 @@ content_section:
       brand exposure.
 
 
-      Our turn-key proven programs include:
+      Our turnkey field marketing programs include:
 
 
-      * Events and Seminars at Retirement Communities
+      * Vehicles and Mobile Pop-Up Offices
 
       * Mall Kiosks, Stores and Center Court Events
 
-      * Vehicles and Mobile Pop-Ups
+      * Events and Seminars at Retirement Communities
 
       * Retail and Grocery Partner Integration
     single_image_block:
@@ -48,94 +48,30 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**TURN-KEY MALL POP-UP PROGRAM**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/picture2-3.png
-      image_2_path: /uploads/picture1-6.png
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      &nbsp;EventNetUSA will secure malls in your targeted zip codes, produce
-      and set up branded event elements and provide trained staff/greeters upon
-      request.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '**POP-UP RETAIL STORES**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/picture3-updated.jpg
-      image_2_path: /uploads/picture4-updated.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      EventNetUSA will secure mall space in your targeted zip code and build out
-      temporary store. We can supply trained staff/greeters upon request.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
   - text_block_markdown: '**MOBILE ASSISTANCE CENTER (MAC**)'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/mac-branded-2.png
     double_image_block:
       image_1_path: /uploads/hcsc-case-4-updated.jpg
       image_2_path: /uploads/mac-outside-updated.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
-      Your Medicare mobile assistance center contains seating for 8, video
-      screen, and generator to provide electricity. MAC can be used indoor or
-      outdoor and can be easily pulled by a car or light truck trailer hitch.
-      Set up time: 20 minutes. EventNetUSA can supply driver/greeter and manage
-      set up upon request. We can also work with you on routing.
+      Your Medicare Mobile Assistance Center contains seating for 9, video
+      monitor, tablet mounts and onboard generator. MACs are easily towed by
+      car, van or truck and install in 20 minutes indoor or outdoor.<br>&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '**SARC NETWORK**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/14uswomensqrainierss-1.jpg
-      image_2_path: /uploads/q121212.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
-      Reach your demographic where they spend the most time in 55 + Socially
-      Active Retirement Centers (SARC'S). Our network expands nationwide with
-      over 250 communities that have committed space and promotional partnership
-      opportunities to EventNetUSA clients.
+      **For details contact**<br>Allison House<br>(954)467-9898 ext.
+      203<br>allisonh@eventnetusa.com
     single_image_block:
       single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: |-
-      #### **Let's generate leads for your sales agents today!&nbsp; Contact:**
-
-      #### **Shelby Beaty**
-
-      #### **(954)467-9898 ext. 204**
-
-      #### **shelbyb@eventnetusa.com**
-    single_image_block:
-      single_image_path: /uploads/awards-3-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
