@@ -82,6 +82,17 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      **ALL PURPOSE RV**<br>RVs offer park-and-play mobility with all-purpose
+      functionality. Offer Medicare customers private consultations, gap closing
+      services and enrollement events on-board your Humana RV.
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       **For details contact**<br>Allison House<br>(954)467-9898 ext.
       203<br>allisonh@eventnetusa.com
     single_image_block:
