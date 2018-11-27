@@ -113,14 +113,10 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **53' EVENT TRAILER**<br>Drive home "here for you" messaging with the
-      Humana Medicare Roadshow.
-
-
-      The largest unit in EventNetUSA's fleet, our 53' event trailer transforms
-      into a multi-function space for hosting education seminars, gap closing
-      events, enrollments and social events like SilverSneakers classes and
-      health fairs.
+      **53' ROADSHOW TRAILER**<br>The largest unit in EventNetUSA's fleet, our
+      53' event trailer transforms into a multi-function space for hosting
+      education seminars, gap closing events, enrollments and social events like
+      SilverSneakers classes and health fairs.
     single_image_block:
       single_image_path:
     double_image_block:
