@@ -24,15 +24,9 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      (INSERT INTRO)
-
-
-      &nbsp;
-
-
       **MOBILE ASSISTANCE CENTER (MAC**)<br>One of our most versatile marketing
       trailers, MACs are self-contained units offering maximum flexibility for
-      activations on the go.&nbsp;
+      activations on-the-go.&nbsp;
     single_image_block:
       single_image_path: /uploads/humana-mac.png
     double_image_block:
