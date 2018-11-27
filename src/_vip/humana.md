@@ -27,14 +27,14 @@ content_section:
       **EventNetUSA's experiential vehicles and trailers are ready to be
       customized for your brand needs. Units are available for purchase or
       lease.&nbsp;**
-
-
-      &nbsp;
-
-
-      &nbsp;
-
-
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       **MOBILE ASSISTANCE CENTER (MAC**)<br>One of our most versatile marketing
       trailers, MACs are self-contained units offering maximum flexibility for
       activations on-the-go.&nbsp;
