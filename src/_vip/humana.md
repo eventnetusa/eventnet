@@ -34,7 +34,7 @@ content_section:
       trailers, MACs are self-contained units offering maximum flexibility for
       activations on the go.&nbsp;
     single_image_block:
-      single_image_path: /uploads/mac-branded-2.png
+      single_image_path: /uploads/humana-mac.png
     double_image_block:
       image_1_path: /uploads/mac-travelling2.png
       image_2_path: /uploads/mac-night.png
