@@ -24,35 +24,12 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      Named the leading agency in *Health Insurance Activations* by Event
-      Marketer Magazine, we understand how to reach and engage your target
-      demographic to generate leads and maximize brand exposure.
-
-
-      Our turnkey field marketing programs include:
-
-
-      * Vehicles and Mobile Pop-Up Offices
-
-      * Mall Kiosks, Stores and Center Court Events
-
-      * Medicare Seminars at Retirement Communities
-
-      * Retail and Grocery Partner Integration
-
-
-      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+      (INSERT INTRO)
 
 
       &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
+
+
       **MOBILE ASSISTANCE CENTER (MAC**)<br>One of our most versatile marketing
       trailers, MACs are self-contained units offering maximum flexibility for
       activations on the go.&nbsp;
