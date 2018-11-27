@@ -160,7 +160,7 @@ content_section:
       video_id:
   - text_block_markdown: >-
       * Travels as compact trailer and easily unfolds onsite into 20'x20' pop-up
-      store.
+      store
 
       * Onboard power, climate control and handicap access
 
