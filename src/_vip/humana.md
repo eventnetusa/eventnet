@@ -1,6 +1,6 @@
 ---
 small_headline: TURNKEY INSURANCE MARKETING SOLUTIONS
-large_headline: 'ENGAGE, ACTIVATE AND ENROLL MEDICARE MEMBERS'
+large_headline: 'ENGAGE, ACTIVATE & ENROLL ON-THE-GO'
 hero_image_path: /uploads/hero-image-1.png
 vip_project_type: B2B
 hide_social_links: true
