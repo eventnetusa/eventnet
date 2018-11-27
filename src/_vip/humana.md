@@ -66,7 +66,7 @@ content_section:
       functionality. Offer Medicare customers private consultations, gap closing
       services and enrollment events on-board your Humana RV.
     single_image_block:
-      single_image_path: /uploads/humana-rv-2.png
+      single_image_path: /uploads/humana-rv-3.png
     double_image_block:
       image_1_path:
       image_2_path:
