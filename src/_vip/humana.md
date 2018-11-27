@@ -25,7 +25,7 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       **EventNetUSA's experiential vehicles and trailers are ready to be
-      customized for your brand needs. Units are available for purchase or
+      customized and branded for your needs. Units are available for purchase or
       lease.&nbsp;**
     single_image_block:
       single_image_path:
