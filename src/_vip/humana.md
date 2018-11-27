@@ -56,9 +56,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **ALL PURPOSE RV**<br>RVs offer park-and-play mobility with all-purpose
+      **ALL PURPOSE RV**<br>RV's offer park-and-play mobility with all-purpose
       functionality. Offer Medicare customers private consultations, gap closing
-      services and enrollment events on-board your Humana RV.
+      services and enrollment events onboard your Humana RV.
     single_image_block:
       single_image_path: /uploads/humana-rv-3.png
     double_image_block:
@@ -95,7 +95,7 @@ content_section:
       and onboard power
 
       * Additional features may include wheel chair lift, retractable awing and
-      gray water collection, etc. Contact us to discuss options
+      gray water collection, etc.&nbsp;
 
 
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -107,9 +107,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **53' ROADSHOW TRAILER**<br>The largest unit in EventNetUSA's fleet, our
-      53' event trailer transforms into a multi-function space for hosting
-      education seminars, gap closing events, enrollments and social events like
+      **53' ROADSHOW TRAILER**<br>The largest unit in our fleet, the 53' event
+      trailer transforms into a multi-function space for hosting education
+      seminars, gap closing events, enrollments and social events like
       SilverSneakers classes and health fairs.
     single_image_block:
       single_image_path:
