@@ -136,7 +136,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **53' EVENT TRAILER**<br>Drive home "here for you"messaging with the
+      **53' EVENT TRAILER**<br>Drive home "here for you" messaging with the
       Humana Medicare Roadshow.
 
 
