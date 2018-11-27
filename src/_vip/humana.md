@@ -36,12 +36,12 @@ content_section:
       video_id:
   - text_block_markdown: >-
       * Features seating for nine, sunbright video monitor with computer
-      connectivity, tablet mounts and onboard generator.
+      connectivity, tablet mounts and onboard generator
 
-      * Quickly install inside or outside to reach consumers year-round.&nbsp;
+      * Quickly install inside or outside to reach consumers year-round
 
       * Carry 10x10 privacy tent in support vehicle for on-demand HIPAA
-      compliance and privacy.&nbsp;
+      compliance and privacy
 
 
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -92,10 +92,10 @@ content_section:
       video_id:
   - text_block_markdown: >-
       * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
-      and onboard power.
+      and onboard power
 
       * Additional features may include wheel chair lift, retractable awing and
-      gray water collection, etc. Contact us to discuss options.
+      gray water collection, etc. Contact us to discuss options
 
 
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -128,7 +128,7 @@ content_section:
       video_id:
   - text_block_markdown: >-
       * Features large dropdown stage and retractable awning to create events up
-      to 1750 sqft.
+      to 1750 sqft
 
       * Onboard power, climate control and underbody storage&nbsp;
 
