@@ -127,8 +127,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      * Features large dropdown stage and retractable awning to create events up
-      to 1750 sqft
+      * Features large dropdown stage and 53'x15' retractable awning to create
+      events up to 1250 sqft
 
       * Onboard power, climate control and underbody storage&nbsp;
 
