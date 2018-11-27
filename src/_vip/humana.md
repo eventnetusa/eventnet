@@ -160,6 +160,21 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      * Features large dropdown stage and retractable awning to create events up
+      to 1750 sqft.
+
+      * Onboard power, climate control and underbody storage&nbsp;
+
+
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       **For details contact**<br>Allison House<br>(954)467-9898 ext.
       203<br>allisonh@eventnetusa.com
     single_image_block:
