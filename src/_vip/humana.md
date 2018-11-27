@@ -36,7 +36,7 @@ content_section:
 
       * Mall Kiosks, Stores and Center Court Events
 
-      * Events and Seminars at Retirement Communities
+      * Medicare Seminars at Retirement Communities
 
       * Retail and Grocery Partner Integration
 
