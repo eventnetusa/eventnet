@@ -179,7 +179,7 @@ content_section:
       brick-and-mortar feel with trailer mobility. Take your Humana Guidance
       Center anywhere, anytime.&nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture2-4.png
     double_image_block:
       image_1_path:
       image_2_path:
