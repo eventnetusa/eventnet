@@ -32,6 +32,9 @@ content_section:
       &nbsp;
 
 
+      &nbsp;
+
+
       **MOBILE ASSISTANCE CENTER (MAC**)<br>One of our most versatile marketing
       trailers, MACs are self-contained units offering maximum flexibility for
       activations on-the-go.&nbsp;
