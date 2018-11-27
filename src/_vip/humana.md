@@ -186,6 +186,23 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      * Travels as compact trailer and easily unfolds onsite into 20'x20' pop-up
+      store.
+
+      * Onboard power, climate control and handicap access
+
+      * Customize layout with different wall styles and orientations
+
+
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       **For details contact**<br>Allison House<br>(954)467-9898 ext.
       203<br>allisonh@eventnetusa.com
     single_image_block:
