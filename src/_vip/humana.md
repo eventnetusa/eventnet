@@ -24,9 +24,9 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      EventNetUSA's fleet of experiential vehicles and trailers is ready to be
+      **EventNetUSA's fleet of experiential vehicles and trailers is ready to be
       customized for your brand needs. Units are available for purchase or
-      lease.&nbsp;
+      lease.&nbsp;**
 
 
       &nbsp;
