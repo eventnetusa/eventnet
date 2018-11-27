@@ -147,8 +147,16 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/garnier-pure-clean-tour.png
+      image_1_path: /uploads/garnier-pure-clean-tour-2.png
       image_2_path: /uploads/maybelline-great-beauty-tour.png
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/maybelline-color-sensational-tour.png
+      image_2_path: /uploads/revlon-love-is-on.png
     video_block:
       video_id:
   - text_block_markdown: >-
