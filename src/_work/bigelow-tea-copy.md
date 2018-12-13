@@ -1,72 +1,22 @@
 ---
-client: Bigelow Tea
+client: Bota Box Wine
 link_to_casestudy: true
 sort_number: 7
-headline: Mobile Tea Bar US Sampling Tours
-hover_text: Bigelow warmed hearts and hands across America sampling from its Mobile Tea Bar
-hero_image_path: /uploads/bigelow-mtb.jpg
-thumbnail_image_path: /uploads/bigelow-thumb.jpg
+headline: NYC Pop-Up Brunchgate Event
+hover_text: 'Bota Box combined tailgating with brunch for the ultimate #botabrunchgate'
+hero_image_path: /uploads/bota-box-case-study-hero-image.jpg
+thumbnail_image_path: /uploads/thumbnail-bota-box.png
 types:
-  - vehicle tour
-  - street team
-cta_text: Interested in a mobile marketing vehicle?
-cta: "Let's talk"
-sidebar_text_markdown: >-
+  - pr event
+cta_text: Interested in a pop-up event for your brand?
+cta: Let's talk
+sidebar_text_markdown: |-
   ### Quick Stats
 
-
-
-  #### 2016 Northeast Tour
-
-
-
-  * Logged&nbsp;**3,400&nbsp;**miles over **3&nbsp;**months visiting CT, NY, MA,
-  RI, NH, PA, NJ, DE, DC and MD
-
-  * **1.6 million+** over-the-road impressions
-
-  * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops,
-  & **3&nbsp;**university visits
-
-  * **63,675** one-on-one interactions
-
-
-
-  #### 2015 Midwest/Pacific Coast Tour
-
-
-
-  * Logged 8,200***&nbsp;***miles over***&nbsp;5***&nbsp;months visiting NY, NJ,
-  CT, NH, MA, ID, CA, WA and AZ
-
-  * **4 million+** over-the-road impressions
-
-  * **127&nbsp;**touring days, **28&nbsp;**events, **39&nbsp;**retail stops,
-  & **1&nbsp;**university visits
-
-  * **49,667** one-on-one interactions
-
-
-
-  #### 2014 Coastal Tour
-
-
-
-  * Logged over **12,500&nbsp;**milesover ***7&nbsp;***months visiting MA, NY,
-  CT, MN, IL, ID, WA, CA, TX, FL and GA
-
-  * **6.1**&nbsp;**million+** over-the-road impressions
-
-  * **98&nbsp;**touring days, **23&nbsp;**events, **19&nbsp;**retail stops,
-  & **5&nbsp;**university visits
-
-  * **59,831**&nbsp;one-on-one interactions
+  #### &nbsp;
 content_section:
   - text_block_markdown: >-
       ### A LOOK BEHIND THE SCENES
-
-
-
 
 
       * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar
@@ -82,10 +32,10 @@ content_section:
       * Integrated social media photo activation including development and
       execution of “Biggie” the mascot
     single_image_block:
-      single_image_path: /uploads/bigelow-case-3.jpg
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/students-in-mtb.png
-      image_2_path: /uploads/bigelow-case-5.jpg
+      image_1_path: /uploads/tent.JPG
+      image_2_path: /uploads/cornhole.JPG
     video_block:
       video_id:
   - text_block_markdown:
