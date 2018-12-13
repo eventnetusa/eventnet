@@ -63,7 +63,7 @@ content_section:
       image_1_path: /uploads/minis.JPG
       image_2_path: /uploads/pinkies-up.JPG
     video_block:
-      video_id: OvUjkom0HOE
+      video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
