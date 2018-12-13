@@ -14,10 +14,24 @@ sidebar_text_markdown: >-
   ### At-A-Glance
 
 
-  * #### Event located in high-traffic SOHO location on corner of Lafayette and
+  * 200+ walk-in guests during 2 hour event
+
+
+  * 400+ Bota Box samples
+
+
+  * Custom #botabrunchgate brunch-inspired tailgate menu
+
+
+  * Event located in high-traffic SOHO location on corner of Lafayette and
   Houston
 
-  * Heavy weekend foot-traffic to loca
+
+  * Heavy weekend foot-traffic due to surrounding retail, dining and
+  activities.&nbsp;
+
+
+  * &nbsp;
 content_section:
   - text_block_markdown: >-
       ### A LOOK BEHIND THE SCENES
@@ -44,7 +58,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/20161001-125153.jpg
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/minis.JPG
       image_2_path: /uploads/pinkies-up.JPG
