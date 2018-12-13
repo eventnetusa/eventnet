@@ -42,11 +42,16 @@ content_section:
 
       * Managed program according to New York State Liquor Authority regulations
 
-      * Managed all event permitting and special licensing
+      * Managed all event permitting, special licensing, insurance and legal
+      requirements
 
-      * Designed and produced custom Bota Box inspired rectangular tent
+      * Designed and produced custom Bota Box inspired rectangular tent to mimic
+      product packaging
 
       * Recruited, trained and staffed event Brand Ambassadors and catering team
+
+      * Worked with brunchboys influencer to design brunch inspired tailgate
+      recipes perfect for pairing with Bota Box wines
     single_image_block:
       single_image_path:
     double_image_block:
