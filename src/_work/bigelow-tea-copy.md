@@ -42,10 +42,26 @@ content_section:
     single_image_block:
       single_image_path: /uploads/20161001-125153.jpg
     double_image_block:
-      image_1_path: /uploads/bigelow-tea-shirt.jpg
-      image_2_path: /uploads/happy-mtb-samplers.png
+      image_1_path: /uploads/minis.JPG
+      image_2_path: /uploads/pinkies-up.JPG
     video_block:
       video_id: OvUjkom0HOE
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/cheers.JPG
+      image_2_path: /uploads/group-jump.JPG
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/couple-with-dog.JPG
+      image_2_path: /uploads/influencer.JPG
+    video_block:
+      video_id:
 project_logos:
   - logo_image_path: /uploads/bigelow.JPG
     logo_image_height:
