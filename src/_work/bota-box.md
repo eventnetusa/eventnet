@@ -1,7 +1,7 @@
 ---
 client: Bota Box Wine
 link_to_casestudy: true
-sort_number: 7
+sort_number: 3
 headline: NYC Pop-Up Brunchgate Event
 hover_text: 'Bota Box combined tailgating with brunch for the ultimate #botabrunchgate'
 hero_image_path: /uploads/bota-box-case-study-hero-image.jpg
@@ -10,10 +10,14 @@ types:
   - pr event
 cta_text: Interested in a pop-up event for your brand?
 cta: Let's talk
-sidebar_text_markdown: |-
-  ### Quick Stats
+sidebar_text_markdown: >-
+  ### At-A-Glance
 
-  #### &nbsp;
+
+  * #### Event located in high-traffic SOHO location on corner of Lafayette and
+  Houston
+
+  * Heavy weekend foot-traffic to loca
 content_section:
   - text_block_markdown: >-
       ### A LOOK BEHIND THE SCENES
