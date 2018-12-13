@@ -27,11 +27,7 @@ sidebar_text_markdown: >-
   Houston
 
 
-  * Heavy weekend foot-traffic due to surrounding retail, dining and
-  activities.&nbsp;
-
-
-  * &nbsp;
+  * Heavy weekend foot-traffic due to surrounding retail, dining and activities
 content_section:
   - text_block_markdown: >-
       ### A LOOK BEHIND THE SCENES
@@ -84,7 +80,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/bigelow.JPG
+  - logo_image_path: /uploads/logo-1.png
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/biotherm.png
