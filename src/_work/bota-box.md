@@ -33,13 +33,19 @@ sidebar_text_markdown: >-
 
   * &nbsp;
 content_section:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       ### A LOOK BEHIND THE SCENES
 
-      * Researched, negotiated and booked venue
+
+      * Researched, negotiated and booked event venue within strict parameters
+      related to alcohol sampling compliance
+
       * Managed program according to New York State Liquor Authority regulations
+
       * Managed all event permitting and special licensing
+
       * Designed and produced custom Bota Box inspired rectangular tent
+
       * Recruited, trained and staffed event Brand Ambassadors and catering team
     single_image_block:
       single_image_path:
