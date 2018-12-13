@@ -33,22 +33,14 @@ sidebar_text_markdown: >-
 
   * &nbsp;
 content_section:
-  - text_block_markdown: >-
+  - text_block_markdown: |-
       ### A LOOK BEHIND THE SCENES
 
-
-      * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar
-      complete with tasting bar, brewers, compliant food service areas, and
-      historical lounge
-
-      * Recruited, trained and staffed Tour Managers and in-field staff to serve
-      as Tea Ambassadors
-
-      * Researched, scheduled and executed three US tours: 2016 Northeast Tour,
-      2015 MidWest/Pacific Coast Tour and 2014 Coastal Tour
-
-      * Integrated social media photo activation including development and
-      execution of “Biggie” the mascot
+      * Researched, negotiated and booked venue
+      * Managed program according to New York State Liquor Authority regulations
+      * Managed all event permitting and special licensing
+      * Designed and produced custom Bota Box inspired rectangular tent
+      * Recruited, trained and staffed event Brand Ambassadors and catering team
     single_image_block:
       single_image_path:
     double_image_block:
