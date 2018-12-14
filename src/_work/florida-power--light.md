@@ -6,7 +6,7 @@ headline: Consumers cool off in the summer heat with blasts of cold nitrogen
 hover_text: >-
   FPL wanted an innovative way to raise awareness for its energy usage app and
   help customers cool off in the hot Florida summer.
-hero_image_path: /uploads/aetna.png
+hero_image_path: /uploads/hero-image-2.png
 thumbnail_image_path: /uploads/aetna.png
 types:
   - pr event
@@ -71,7 +71,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/cs8.jpg
-      image_2_path:
+      image_2_path: /uploads/cs5.jpg
     video_block:
       video_id:
 project_logos:
