@@ -9,10 +9,8 @@ hover_text: >-
 hero_image_path: /uploads/aetna.png
 thumbnail_image_path: /uploads/aetna.png
 types:
-  - insurance activation
-  - popup shop
-  - retail
-cta_text:
+  - pr event
+cta_text: Looking for an exciting stunt to grab consumer attention?
 cta: Let's talk
 sidebar_text_markdown:
 content_section:
