@@ -20,7 +20,16 @@ sidebar_text_markdown: |-
   * 900+ cooling station interactions
   * 507 total GIF shares (158% conversion)
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      To launch its new energy usage app, FPL turned to EventNetUSA for a fun
+      out-of-the-box activation. The solution - treat FPL customers to a summer
+      cool down in the FPL Cooling Station.&nbsp;
+
+
+      Guests download app as entry into cooling station. Upon entry, offical
+      countdown starts. Guests are blasted with cold nitrogren, dropping
+      temperatures inside the station by more than 30 degrees! The fun is
+      captured via GIF and shared by guests for sweepstakes entry.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
