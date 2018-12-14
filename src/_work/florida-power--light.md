@@ -13,12 +13,33 @@ types:
 cta_text: Looking for an exciting stunt to grab consumer attention?
 cta: Let's talk
 sidebar_text_markdown: |-
-  At-A-Glance
+  ## At-A-Glance
 
   Museum of Science and Discovery
 
-  * 900+ cooling station interactions
-  * 507 total GIF shares (158% conversion)
+  * 900+ cooling station consumer activations
+  * 507 total GIF social shares (158% conversion)
+
+  Zoo Miami
+
+  * 3,850+ cooling station consumer activations
+  * 650 total GIF social shares (145% conversion)
+
+  Homestead Airshow
+
+  * 5,000+ cooling station consumer activations
+  * 2,581 total GIF social shares (143% conversion)
+
+  Frost Museum
+
+  * 1,300+ cooling station consumer activations
+  * 670 total GIF shares
+
+  &nbsp;
+
+  &nbsp;
+
+  &nbsp;
 content_section:
   - text_block_markdown: >-
       To launch its new energy usage app, FPL turned to EventNetUSA for a fun
