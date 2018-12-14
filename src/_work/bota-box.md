@@ -32,10 +32,12 @@ content_section:
   - text_block_markdown: >-
       #### Edelman PR in Chicago retained the help of EventNetUSA to pull off
       the ultimate Bota Box Wines #botabrunchgate. The NYC event was open to
-      lovers of all things wine, brunch, football and tailgating. With custom
-      tailgate-inspired brunch-bites created to perfectly pair with Bota Box
-      wines, guests enjoyed and spread of instagram worthy eats. The fun
-      continued with branded foam pinkies, cornhole games and photo
+      lovers of all things wine, brunch, football and tailgating.
+
+
+      #### With custom tailgate-inspired brunch-bites created to perfectly pair
+      with Bota Box wines, guests enjoyed and spread of instagram worthy eats.
+      The fun continued with branded foam pinkies, cornhole games and photo
       ops.&nbsp;&nbsp;
 
 
