@@ -33,45 +33,27 @@ sidebar_text_markdown: >-
 content_section:
   - text_block_markdown: >-
       CELSIUS, fitness drink manufacturer and one of the world's fastest growing
-      beverage brands, turned to EventNetUSA to execute a can-in-hand guerrilla
-      sampling program. The program's main objective was to increase brand
-      awareness and educate consumers on the proven performance CELSIUS
-      delivers.&nbsp;
-
-
-      ### A LOOK BEHIND THE SCENES
-
-
-      * Completed 62 sampling days over 10 weeks in 6 markets: Miami, Austin,
-      Los Angeles, Minneapolis, Boston, Charlotte
-
-      * Contracted, trained, and managed 6 teams of demographically targeted
-      brand ambassadors and tour managers in selected markets
-
-      * Identified key locations within assigned markets that allowed us to
-      reach a concentrated number of the targeted demographic including gyms and
-      specialty fitness facilities, active lifestyle locations and
-      fitness/sports events
+      beverage brands.
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/20170708-131347.jpg
-      image_2_path: /uploads/miami---swim-6.jpg
+      image_1_path: /uploads/picture1-4.jpg
+      image_2_path: /uploads/picture2-8.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/img-3257.JPG
     double_image_block:
-      image_1_path: /uploads/austin--3.JPG
-      image_2_path: /uploads/photo-aug-19-10-06-14-am.jpg
+      image_1_path: /uploads/picture4-5.jpg
+      image_2_path: /uploads/picture3-4.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
+      image_1_path: /uploads/picture7-2.jpg
       image_2_path:
     video_block:
       video_id:
