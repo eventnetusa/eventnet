@@ -12,7 +12,13 @@ types:
   - pr event
 cta_text: Looking for an exciting stunt to grab consumer attention?
 cta: Let's talk
-sidebar_text_markdown:
+sidebar_text_markdown: |-
+  At-A-Glance
+
+  Museum of Science and Discovery
+
+  * 900+ cooling station interactions
+  * 507 total GIF shares (158% conversion)
 content_section:
   - text_block_markdown:
     single_image_block:
