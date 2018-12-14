@@ -7,7 +7,7 @@ hover_text: >-
   FPL wanted an innovative way to raise awareness for its energy usage app and
   help customers cool off in the hot Florida summer.
 hero_image_path: /uploads/hero-image-2.png
-thumbnail_image_path: /uploads/aetna.png
+thumbnail_image_path: /uploads/thumbnail-2.jpg
 types:
   - pr event
 cta_text: Looking for an exciting stunt to grab consumer attention?
@@ -49,8 +49,8 @@ content_section:
 
       Guests download app as entry into cooling station. Upon entry, offical
       countdown starts. Guests are blasted with cold nitrogren, dropping
-      temperatures inside the station by more than 30 degrees! The fun is
-      captured via GIF and shared by guests for sweepstakes entry.&nbsp;
+      temperatures inside station by more than 30 degrees! The fun is captured
+      via GIF generator and shared on social media for sweepstakes entry.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
