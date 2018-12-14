@@ -2,24 +2,34 @@
 client: CELSIUS
 link_to_casestudy: true
 sort_number: 4
-headline: National Guerrilla Sampling Program
+headline: Tough Mudder Presenting Sponsorship
 hover_text: >-
-  Over 133,400 CELSIUS fitness drinks sampled to targeted consumers across 6 key
-  markets
+  Eight months, 39 markets, 122 event days... CELSIUS' presenting sponsorship of
+  Tough Mudder 2018 was a dirty job!
 hero_image_path: /uploads/celsius-hero-image.jpg
 thumbnail_image_path: /uploads/celsius-thumbnail-image.jpg
 types:
   - street team
-cta_text: Thinking about a sampling program? What are you waiting for?
-cta: Start sampling today!
-sidebar_text_markdown: |-
+  - vehicle tour
+  - pr event
+cta_text: Thinking about sponsoring an event series?
+cta: Let's talk!
+sidebar_text_markdown: >-
   ### QUICK STATS
 
-  * Sampled over 133,00 CELSIUS cans
-  * 6 Markets: Miami, Austin, Los Angeles, Minneapolis, Boston, Charlotte
-  * Delivered key brand messaging, vital to success of program
-  * Custom routed to reach fitness lifers and execute strategic product drops
-  * Delivered over 300,000 active and passive impressions
+
+  * Completed 260 touring days
+
+  * Sampled CELSIUS to 153,000 participants over 59 TM event days in 31 markets
+
+  * Sampled CELSIUS to 94,630 consumers over 63 Guerrilla sampling days in 8
+  markets
+
+  * Delivered over 182,000 direct one-on-one impressions
+
+  * Interacted with average 3,250 mudders per event day
+
+  * Collected over 4,680 consumer surveys
 content_section:
   - text_block_markdown: >-
       CELSIUS, fitness drink manufacturer and one of the world's fastest growing
