@@ -93,7 +93,7 @@ content_section:
       video_id:
 project_logos:
   - logo_image_path: /uploads/logo-1.png
-    logo_image_height:
+    logo_image_height: 125%
 related_client_logos:
   - logo_image_path: /uploads/biotherm.png
     logo_image_height:
