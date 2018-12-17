@@ -76,7 +76,7 @@ content_section:
       video_id:
 project_logos:
   - logo_image_path: /uploads/fpl.png
-    logo_image_height:
+    logo_image_height: 50%
 related_client_logos:
   - logo_image_path: /uploads/advil.png
     logo_image_height:
