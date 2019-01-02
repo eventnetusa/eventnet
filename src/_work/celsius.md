@@ -50,7 +50,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      Up
+      &nbsp;
 
       &nbsp;
     single_image_block:
@@ -62,7 +62,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/crowded-tent.JPG
     double_image_block:
       image_1_path: /uploads/picture7-2.jpg
       image_2_path: /uploads/picture5-7.jpg
