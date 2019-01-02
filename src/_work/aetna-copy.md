@@ -6,8 +6,8 @@ headline: Medicare Pop-Up Store
 hover_text: >-
   Aetna opened its first open enrollment Medicare Pop-Up Store to reach and
   assist senior citizens in Strongsville, OH.
-hero_image_path: /uploads/aetna.png
-thumbnail_image_path: /uploads/aetna.png
+hero_image_path: /uploads/hero-images.jpg
+thumbnail_image_path: /uploads/thumbnail-image.jpg
 types:
   - insurance activation
   - popup shop
