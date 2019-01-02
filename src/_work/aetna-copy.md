@@ -1,17 +1,19 @@
 ---
 client: Aetna
 link_to_casestudy: false
-sort_number: 24
-headline: Pop-Up Answer Centers
-hover_text: 'When Medicare Part D launched, Aetna turned to EventNetUSA to educate consumers using kiosks in shopping malls and HEB stores'
+sort_number: 40
+headline: Medicare Pop-Up Store
+hover_text: >-
+  Aetna opened its first open enrollment Medicare Pop-Up Store to reach and
+  assist senior citizens in Strongsville, OH.
 hero_image_path: /uploads/aetna.png
 thumbnail_image_path: /uploads/aetna.png
 types:
   - insurance activation
   - popup shop
   - retail
-cta_text:
-cta: "Let's talk"
+cta_text: Interested in your own pop-up store?
+cta: Let's talk
 sidebar_text_markdown:
 content_section:
   - text_block_markdown:
