@@ -6,7 +6,7 @@ headline: National Guerrilla Sampling Program
 hover_text: >-
   Over 133,400 CELSIUS fitness drinks sampled to targeted consumers across 6 key
   markets
-hero_image_path: /uploads/celsius-hero-image.jpg
+hero_image_path: /uploads/hero-image-3.png
 thumbnail_image_path: /uploads/thumbnail-3.jpg
 types:
   - street team
