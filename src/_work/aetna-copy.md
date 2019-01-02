@@ -18,7 +18,31 @@ sidebar_text_markdown:
 content_section:
   - text_block_markdown:
     single_image_block:
+      single_image_path: /uploads/storefront-2-resized.jpg
+    double_image_block:
+      image_1_path: /uploads/people-at-front-desk-resized.jpg
+      image_2_path: /uploads/waiting-area-resized.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
       single_image_path:
+    double_image_block:
+      image_1_path: /uploads/storefront-before-resized.png
+      image_2_path: /uploads/storefront-resized-after.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/interior-before.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/storefront-2-after-resized.jpg
     double_image_block:
       image_1_path:
       image_2_path:
