@@ -6,8 +6,8 @@ headline: Tough Mudder Presenting Sponsorship
 hover_text: >-
   Eight months, 39 markets, 122 event days... CELSIUS' presenting sponsorship of
   Tough Mudder 2018 was a dirty job!
-hero_image_path: /uploads/celsius-hero-image.jpg
-thumbnail_image_path: /uploads/celsius-thumbnail-image.jpg
+hero_image_path: /uploads/hero-image-4.png
+thumbnail_image_path: /uploads/thumbnail-4.jpg
 types:
   - street team
   - vehicle tour
