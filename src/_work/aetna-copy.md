@@ -1,6 +1,6 @@
 ---
 client: Aetna
-link_to_casestudy: true
+link_to_casestudy: false
 sort_number: 40
 headline: Medicare Pop-Up Store
 hover_text: >-
