@@ -12,8 +12,8 @@ cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Program Opportunities Include:
 
+  * Custom Experiential Vehicle/Trailer Tours
   * Storefront Sidewalk Sampling & Demonstrations
-  * Custom Vehicle/Trailer Tours
   * Seasonal/Holiday Campaigns
   * Brand Influencer Events
 
