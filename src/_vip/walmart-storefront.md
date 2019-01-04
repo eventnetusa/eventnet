@@ -1,6 +1,6 @@
 ---
 small_headline: Now Scheduling Markets & Dates
-large_headline: WALMART PARKING LOT ACTIVATION TOURS
+large_headline: WALMART STOREFRONT SIDEWALK EVENTS
 hero_image_path: /uploads/hero-image-5.png
 vip_project_type: B2C
 hide_social_links: false
@@ -12,8 +12,8 @@ cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Program Opportunities Include:
 
-  * Custom Experiential Vehicle/Trailer Tours
   * Storefront Sidewalk Sampling & Demonstrations
+  * Custom Experiential Vehicle/Trailer Tours
   * Seasonal/Holiday Campaigns
   * Brand Influencer Events
 
