@@ -90,6 +90,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: Up
+    single_image_block:
+      single_image_path: /uploads/walmart-storefornt-sidewalk-setup.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/almay-at-walmart.jpg
