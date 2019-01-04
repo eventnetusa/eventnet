@@ -1,7 +1,7 @@
 ---
 small_headline: Take Your Next Brand Activation to Walmart
 large_headline: Now Scheduling Markets & Dates
-hero_image_path: /uploads/walmart-tour-backpage-header-image4.png
+hero_image_path: /uploads/hero-image-5.png
 vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: true
