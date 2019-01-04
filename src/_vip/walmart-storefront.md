@@ -68,23 +68,7 @@ content_section:
 
       ### &nbsp;
     single_image_block:
-      single_image_path: /uploads/garnier-mg-1064-1.jpg
-    double_image_block:
-      image_1_path: /uploads/garnier-case-study-1.jpg
-      image_2_path: /uploads/garnier-102-3657-1.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/wal-mart706zephyrhills-fl-1-11-tr-7a-003-0032.jpg
-    double_image_block:
-      image_1_path: /uploads/picture3-5.jpg
-      image_2_path: /uploads/picture4-6.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/walmart-seasonal-001.jpg
+      single_image_path: /uploads/walmart-storefornt-sidewalk-setup-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -92,7 +76,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/walmart-seasonal-002.jpg
+      single_image_path: /uploads/picture1-7.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -100,7 +84,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/walmart-seasonal-003.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -108,7 +92,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/almay-at-walmart.jpg
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
