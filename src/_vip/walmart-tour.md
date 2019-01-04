@@ -1,8 +1,8 @@
 ---
-small_headline:
+small_headline: Take Your Next Brand Activation to Walmart
 large_headline: Now Scheduling Markets & Dates
 hero_image_path: /uploads/walmart-tour-backpage-header-image4.png
-vip_project_type: B2B
+vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
@@ -12,10 +12,10 @@ cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Program Opportunities Include:
 
-  * Brand Influencer Events
+  * Storefront Sidewalk Sampling & Demonstrations
   * Custom Vehicle/Trailer Tours
   * Seasonal/Holiday Campaigns
-  * Pop-Up Sidewalk Sampling & Demonstrations
+  * Brand Influencer Events
 
   ### Turn-key Management Includes
 
