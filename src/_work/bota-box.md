@@ -14,10 +14,10 @@ sidebar_text_markdown: >-
   ### At-A-Glance
 
 
-  * 200+ walk-in guests during 2 hour event
+  * 300+ walk-in guests during 3 hour event
 
 
-  * 400+ Bota Box samples
+  * 500+ Bota Box samples
 
 
   * Custom #botabrunchgate brunch-inspired tailgate menu
