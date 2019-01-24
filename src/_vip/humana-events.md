@@ -117,7 +117,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **\*NEW\* POP-UP MOBILR RETAIL STORE**<br>EventNetUSA's pop-up mobile
+      **\*NEW\* POP-UP MOBILE RETAIL STORE**<br>EventNetUSA's pop-up mobile
       retail store delivers brick-and-mortar feel with trailer mobility. Take
       your Humana Guidance Center anywhere, anytime.&nbsp;
 
