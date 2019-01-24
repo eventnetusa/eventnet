@@ -87,6 +87,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
       **ALL PURPOSE RV**<br>RV's offer park-and-play mobility with all-purpose
       functionality. Offer Medicare customers private consultations, gap closing
       services and enrollment events onboard your Humana RV.
@@ -108,14 +111,8 @@ content_section:
       video_id:
   - text_block_markdown: >-
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
+
+
       **MOBILE ASSISTANCE CENTER (MAC)**<br>One of our most versatile marketing
       trailers, MACs are self-contained units offering maximum flexibility for
       activations on-the-go.
