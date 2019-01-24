@@ -74,10 +74,30 @@ content_section:
 
       * Field teams include Event Manager and Brand Ambassadors
     single_image_block:
-      single_image_path: /uploads/humana-mac.png
+      single_image_path:
     double_image_block:
       image_1_path: /uploads/humana-1.jpg
       image_2_path: /uploads/humana-3.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      **ALL PURPOSE RV**<br>RV's offer park-and-play mobility with all-purpose
+      functionality. Offer Medicare customers private consultations, gap closing
+      services and enrollment events onboard your Humana RV.
+
+
+      In 2006, EventNetUSA toured 10 Humana "Let's Talk Medicare" RV's to over
+      1,700 Walmart stores across 35 states. Read the case study
+      [here](https://www.eventnetusa.com/work/humana-rvs/){:
+      target="_blank"}.&nbsp;
+
+
+      &nbsp;
+    single_image_block:
+      single_image_path: /uploads/humana-rv-3.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -101,17 +121,6 @@ content_section:
       &nbsp;
     single_image_block:
       single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      **ALL PURPOSE RV**<br>RV's offer park-and-play mobility with all-purpose
-      functionality. Offer Medicare customers private consultations, gap closing
-      services and enrollment events onboard your Humana RV.
-    single_image_block:
-      single_image_path: /uploads/humana-rv-3.png
     double_image_block:
       image_1_path:
       image_2_path:
