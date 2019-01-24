@@ -23,7 +23,10 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      ### **Since 2006 EventNetUSA has supported Humana's Medicare marketing
+      objectives with consumer engagement, education and enrollment
+      events.&nbsp;**
     single_image_block:
       single_image_path:
     double_image_block:
