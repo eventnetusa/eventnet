@@ -66,7 +66,7 @@ content_section:
       * Generate new Medicare enrollment leads and increase brand awareness
 
 
-      A LOOK BEHIND THE SCENES
+      **A LOOK BEHIND THE SCENES**
 
 
       * Events operate weekly and bi-weekly in select shopping malls year-round
