@@ -1,13 +1,13 @@
 ---
 small_headline: TURNKEY INSURANCE MARKETING SOLUTIONS
-large_headline: 'ENGAGE, ACTIVATE & ENROLL ON-THE-GO'
+large_headline: Humana Consumer Engagement Events
 hero_image_path: /uploads/hero-image-6.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: 'Ready to engage, activate and enroll?'
+cta_headline: Ready to discuss options for your territory?
 cta_text: Let's Talk
 sidebar_text_markdown: |-
   **Turnkey Service Offerings:**
