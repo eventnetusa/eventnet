@@ -23,10 +23,7 @@ sidebar_text_markdown: |-
   * Social Media Integration
   * Permitting & Legal
 content_section:
-  - text_block_markdown: >-
-      **EventNetUSA's experiential vehicles and trailers are ready to be
-      customized and branded for your needs. Units are available for purchase or
-      lease.&nbsp;**
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -35,17 +32,57 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      **MOBILE ASSISTANCE CENTER (MAC**)<br>One of our most versatile marketing
-      trailers, MACs are self-contained units offering maximum flexibility for
-      activations on-the-go.&nbsp;
+      **POP-UP GUIDANCE CENTERS**
+
+
+      Humana’s Pop-Up Guidance Center events take place in shopping malls, where
+      Seniors come to participate in free health education seminars, fitness
+      classes, one-on-one consultations and biometric screenings.
+
+
+      Now operating in its second year, program objectives include:
+
+
+      * Reinforce “Humana is here for you” message to improve member
+      satisfaction and retention
+
+      * Increase awareness of Humana Medicare resources like Go365 and
+      SilverSneakers Fitness Classes
+
+      * Close gaps of care for eligible Humana Medicare members by providing
+      biometric health screenings and take-home test kits
+
+      * Generate new Medicare enrollment leads and increase brand awareness
+
+
+      A LOOK BEHIND THE SCENES
+
+
+      * Event Set-Up and Operations:
+
+      * Events operate weekly and bi-weekly in select shopping malls year-round
+
+      * Daily set-up/tear-down of branded modular displays, furniture and
+      fixtures
+
+      * HIPAA compliant private consultation and screening rooms
+
+      * Promotional and directional signage throughout venues
+
+      * Field teams include Event Manager and Brand Ambassadors
     single_image_block:
       single_image_path: /uploads/humana-mac.png
     double_image_block:
-      image_1_path: /uploads/mac-travelling2.png
-      image_2_path: /uploads/mac-night.png
+      image_1_path: /uploads/humana-1.jpg
+      image_2_path: /uploads/humana-3.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
+      MOBILE ASSISTANCE CENTER (MAC)<br>One of our most versatile marketing
+      trailers, MACs are self-contained units offering maximum flexibility for
+      activations on-the-go.
+
+
       * Features seating for nine, sunbright video monitor with computer
       connectivity, tablet mounts and onboard generator
 
