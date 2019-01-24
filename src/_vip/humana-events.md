@@ -101,44 +101,6 @@ content_section:
       target="_blank"}.&nbsp;
 
 
-      &nbsp;
-    single_image_block:
-      single_image_path: /uploads/humana-rv-3.png
-    double_image_block:
-      image_1_path: /uploads/humana-mamogram-rv.jpg
-      image_2_path: /uploads/interior-rv-2-2.png
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-      **MOBILE ASSISTANCE CENTER (MAC)**<br>One of our most versatile marketing
-      trailers, MACs are self-contained units offering maximum flexibility for
-      activations on-the-go.
-
-
-      * Features seating for nine, sunbright video monitor with computer
-      connectivity, tablet mounts and onboard generator
-
-      * Quickly install inside or outside to reach consumers year-round
-
-      * Carry 10x10 privacy tent in support vehicle for on-demand HIPAA
-      compliance and privacy
-
-
-      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-      &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
       * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
       and onboard power
 
@@ -148,10 +110,10 @@ content_section:
 
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/humana-rv-3.png
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/humana-mamogram-rv.jpg
+      image_2_path: /uploads/interior-rv-2-2.png
     video_block:
       video_id:
   - text_block_markdown: >-
