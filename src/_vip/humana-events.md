@@ -51,7 +51,7 @@ content_section:
       classes, one-on-one consultations and biometric screenings.
 
 
-      Now operating in its second year, program objectives include:
+      Now operating in its third year, program objectives include:
 
 
       * Reinforce “Humana is here for you” message to improve member
@@ -69,8 +69,6 @@ content_section:
       A LOOK BEHIND THE SCENES
 
 
-      * Event Set-Up and Operations:
-
       * Events operate weekly and bi-weekly in select shopping malls year-round
 
       * Daily set-up/tear-down of branded modular displays, furniture and
@@ -80,7 +78,7 @@ content_section:
 
       * Promotional and directional signage throughout venues
 
-      * Field teams include Event Manager and Brand Ambassadors
+      * Field teams include Event Managers and Brand Ambassadors
     single_image_block:
       single_image_path:
     double_image_block:
