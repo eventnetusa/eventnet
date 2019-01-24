@@ -22,6 +22,14 @@ sidebar_text_markdown: |-
   * Account Management & Reporting
   * Social Media Integration
   * Permitting & Legal
+
+  **Consumer Field Marketing Opportunities:**
+
+  * Pop-up Guidance Centers
+  * Custom Mobile Solutions for Community Outreach
+  * Gap Closing Events
+  * Enrollment Events
+  * Sponsoship Activations
 content_section:
   - text_block_markdown: >-
       ### **Since 2006 EventNetUSA has supported Humana's Medicare marketing
