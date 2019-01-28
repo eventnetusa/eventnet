@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to reach the next tier in health insurance consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Proud to Serve the Industry
+  ### Honored to Service
 
   * Humana
   * Aetna
