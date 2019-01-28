@@ -60,7 +60,7 @@ content_section:
 
       #### Which 2019 program opportunities fit your needs?
     single_image_block:
-      single_image_path: /uploads/2019-calendar.png
+      single_image_path: /uploads/2019-calendar2.png
     double_image_block:
       image_1_path:
       image_2_path:
