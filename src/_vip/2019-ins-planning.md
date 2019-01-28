@@ -7,7 +7,7 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to reach the next tier in health insurance consumer marketing?
+cta_headline: Now is a good time to start 2019 Medicare planning
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Honored to Service
