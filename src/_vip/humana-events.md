@@ -125,9 +125,9 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      **ALL PURPOSE RV**<br>RV's offer park-and-play mobility with all-purpose
-      functionality. Offer Medicare customers private consultations, gap closing
-      services and enrollment events onboard your Humana RV.
+      **COMMUNITY OUTREACH RV**<br>RV's offer park-and-play mobility with
+      all-purpose functionality. Offer Medicare customers private consultations,
+      gap closing services and enrollment events onboard your Humana RV.
 
 
       In 2006, EventNetUSA toured 10 Humana "Let's Talk Medicare" RV's to over
