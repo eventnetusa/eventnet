@@ -34,7 +34,7 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      ### **Since 2006 EventNetUSA has supported Humana's Medicare marketing
+      #### **Since 2006 EventNetUSA has supported Humana's Medicare marketing
       objectives by producing and managing nationwide consumer engagement,
       education and enrollment events.&nbsp;**
 
@@ -42,18 +42,24 @@ content_section:
       &nbsp;
 
 
-      ### **Our history of turnkey insurance programs include**
+      #### &nbsp;
 
 
-      * ### Pop-up Guidance Centers
+      #### &nbsp;
 
-      * ### Custom RVs and Trailers for Community Outreach
 
-      * ### HEDIS Gap Closing Events
+      #### **Our history of turnkey insurance programs include**
 
-      * ### Enrollment Events
 
-      * ### Sponsorship Activations
+      * #### Pop-up Guidance Centers
+
+      * #### Custom RVs and Trailers for Community Outreach
+
+      * #### HEDIS Gap Closing Events
+
+      * #### Enrollment Events
+
+      * #### Sponsorship Activations
 
 
       &nbsp;
