@@ -60,16 +60,16 @@ content_section:
       #### Increase Engagement
 
 
-      * Education & Demonstration Classes
+      * Pop-up Stores & Events
 
-      * Health Screenings & Closing Gaps in Care
+      * Community Outreach Vehicles
 
-      * Consultation & Lead Generation&nbsp;
+      * Health Screening Events for Gap Closing
 
-      * Retail Integration
+      * Retail Partnership Integration
 
 
-      #### Increase Engagement
+      #### Reach Consumers
 
 
       * Malls & Shopping Centers
