@@ -1,6 +1,6 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: 2019 HEALTH INSURANCE CONSUMER ACTIVATION PLANNING
+large_headline: 2019 CONSUMER ACTIVATION PLANNING
 hero_image_path: /uploads/hero-image-editable.png
 vip_project_type: B2B
 hide_social_links: false
