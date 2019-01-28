@@ -1,6 +1,6 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: 2018 HEALTH INSURANCE CONSUMER ACTIVATION PLANNING
+large_headline: 2019 HEALTH INSURANCE CONSUMER ACTIVATION PLANNING
 hero_image_path: /uploads/2018-ins-hero.jpg
 vip_project_type: B2B
 hide_social_links: false
@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to reach the next tier in health insurance consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Increase 2018 Medicare Sales Through
+  ### Increase 2019 Medicare Sales&nbsp;
 
   * Education
   * Demonstration
@@ -19,7 +19,7 @@ sidebar_text_markdown: |-
   * Lead Generation
   * Retail Integration
 
-  ### Reach Consumers At
+  ### Reach Consumers
 
   * Socially Active Retirement Communities
   * Malls/ Shopping Centers
@@ -29,7 +29,7 @@ sidebar_text_markdown: |-
   * Trade Shows
   * Fairs & Festivals
 
-  ### Turnkey Management Includes
+  ### Turnkey Management Services
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
@@ -49,19 +49,16 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      #### Recognized as the leading Experiential Marketing agency servicing the
-      Health Insurance Industry on *[EventMarketer's 2017 IT
-      List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)*.
-
-
-      #### We excel in activations that promote sales, education and brand reach
-      to targeted consumers.&nbsp;
+      #### Recognized as the leading *Experiential Marketing agency servicing
+      the Health Insurance Industry* by Event Marketer Magazine, we excel in
+      activations that promote sales, education and brand reach to targeted
+      consumers.&nbsp;
 
 
       #### &nbsp;
 
 
-      #### What 2018 program opportunities fit your needs?
+      #### Which 2019 program opportunities fit your needs?
     single_image_block:
       single_image_path: /uploads/2019-calendar.png
     double_image_block:
