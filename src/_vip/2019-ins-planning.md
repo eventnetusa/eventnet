@@ -78,12 +78,16 @@ content_section:
 
       * Demographically Targeted Sporting Events
 
-      * Fairs & Festivals
+      * Consumer Shows, Fairs & Festivals
 
-      * Consumer Shows & Special Events
+
+      #### &nbsp;
 
 
       #### Which 2019 program opportunities fit your needs?
+
+
+      &nbsp;
     single_image_block:
       single_image_path: /uploads/2019-calendar6.png
     double_image_block:
