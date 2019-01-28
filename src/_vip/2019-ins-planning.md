@@ -50,7 +50,7 @@ content_section:
       #### &nbsp;
 
 
-      ### Increase Engagement
+      #### Increase Engagement
 
 
       * Education & Demonstration Classes
@@ -62,7 +62,7 @@ content_section:
       * Retail Integration
 
 
-      ### Increase Engagement
+      #### Increase Engagement
 
 
       * Malls & Shopping Centers
@@ -76,7 +76,7 @@ content_section:
       * Consumer Shows & Special Events
 
 
-      ### Which 2019 program opportunities fit your needs?
+      #### Which 2019 program opportunities fit your needs?
     single_image_block:
       single_image_path: /uploads/2019-calendar6.png
     double_image_block:
