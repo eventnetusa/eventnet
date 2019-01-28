@@ -57,7 +57,7 @@ content_section:
       #### &nbsp;
 
 
-      #### Increase Engagement
+      #### Medicare Engagement Through:
 
 
       * Pop-up Stores & Events
@@ -69,7 +69,7 @@ content_section:
       * Retail Partnership Integration
 
 
-      #### Reach Consumers
+      #### Consumer Activations at:
 
 
       * Malls & Shopping Centers
