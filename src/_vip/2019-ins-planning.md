@@ -10,25 +10,6 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to reach the next tier in health insurance consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Increase 2019 Medicare Sales&nbsp;
-
-  * Education
-  * Demonstration
-  * "Hands On" Screening
-  * Consultation
-  * Lead Generation
-  * Retail Integration
-
-  ### Reach Consumers
-
-  * Socially Active Retirement Communities
-  * Malls/ Shopping Centers
-  * Big Box Retailers
-  * Special Events
-  * Sporting Events
-  * Trade Shows
-  * Fairs & Festivals
-
   ### Turnkey Management Services
 
   * Ideation, Design & Brand Customization
