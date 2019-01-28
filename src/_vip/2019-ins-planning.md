@@ -28,7 +28,7 @@ sidebar_text_markdown: |-
     * Texas
     * South Carolina
 
-  ### Turnkey Management Services
+  ### Turnkey Services
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
