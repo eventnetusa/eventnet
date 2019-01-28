@@ -10,6 +10,17 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to reach the next tier in health insurance consumer marketing?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
+  ### Proud to Serve the Industry
+
+  * Humana
+  * Aetna
+  * Blue Cross and Blue Shield
+    * Tennessee
+    * Illinois
+    * Oklahoma
+    * Texas
+    * South Carolina
+
   ### Turnkey Management Services
 
   * Ideation, Design & Brand Customization
