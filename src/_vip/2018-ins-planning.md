@@ -63,7 +63,7 @@ content_section:
 
       #### What 2018 program opportunities fit your needs?
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/2019-calendar.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -78,7 +78,7 @@ content_section:
 
       ### &nbsp;
     single_image_block:
-      single_image_path: /uploads/capture-v3.PNG
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -134,7 +134,7 @@ content_section:
       video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
