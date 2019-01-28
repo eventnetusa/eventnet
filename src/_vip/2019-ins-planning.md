@@ -13,7 +13,14 @@ sidebar_text_markdown: |-
   ### Honored to Service
 
   * Humana
+    * Tampa
+    * Orlando
+    * North Chicago
+    * West Chicago
+    * Seattle
+    * New Orleans
   * Aetna
+    * Cleveland
   * Blue Cross and Blue Shield
     * Tennessee
     * Illinois
