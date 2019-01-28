@@ -51,15 +51,19 @@ content_section:
       #### **Our history of turnkey insurance programs include**
 
 
-      * #### Pop-up Guidance Centers
+      * Pop-up Guidance Centers
 
-      * #### Custom RVs and Trailers for Community Outreach
 
-      * #### HEDIS Gap Closing Events
+      * Custom RVs and Trailers for Community Outreach
 
-      * #### Enrollment Events
 
-      * #### Sponsorship Activations
+      * HEDIS Gap Closing Events
+
+
+      * Enrollment Events
+
+
+      * Sponsorship Activations
 
 
       &nbsp;
