@@ -39,7 +39,33 @@ content_section:
       #### &nbsp;
 
 
-      #### Which 2019 program opportunities fit your needs?
+      ### Increase Engagement
+
+
+      * Education & Demonstration Classes
+
+      * Health Screenings & Closing Gaps in Care
+
+      * Consultation & Lead Generation&nbsp;
+
+      * Retail Integration
+
+
+      ### Increase Engagement
+
+
+      * Malls & Shopping Centers
+
+      * Socially Active Retirement Communities
+
+      * Demographically Targeted Sporting Events
+
+      * Fairs & Festivals
+
+      * Consumer Shows & Special Events
+
+
+      ### Which 2019 program opportunities fit your needs?
     single_image_block:
       single_image_path: /uploads/2019-calendar6.png
     double_image_block:
