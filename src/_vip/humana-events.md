@@ -160,6 +160,26 @@ content_section:
       image_2_path: /uploads/picture3-5.png
     video_block:
       video_id:
+  - text_block_markdown: >-
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+      &nbsp;
+
+
+      **EVENT SPONSORSHIPS - FAIRS, FESTIVALS & MORE**<br>Take Humana outreach
+      to community events with portable trailers, vehicles and branded
+      assets.&nbsp;
+
+
+      &nbsp;
+    single_image_block:
+      single_image_path: /uploads/mac-unbranded.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type:
