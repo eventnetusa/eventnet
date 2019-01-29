@@ -10,16 +10,6 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to discuss options for your territory?
 cta_text: Let's Talk
 sidebar_text_markdown: |-
-  **Consumer Field Marketing Opportunities:**
-
-  * Pop-up Guidance Centers
-  * Custom Mobile Solutions for Community Outreach
-  * Gap Closing Events
-  * Enrollment Events
-  * Sponsoship Activations
-
-  &nbsp;
-
   **Turnkey Service Offerings:**
 
   * Ideation, Design & Brand Customization
