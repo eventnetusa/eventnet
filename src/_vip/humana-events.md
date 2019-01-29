@@ -164,12 +164,9 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      **EVENT SPONSORSHIPS - FAIRS, FESTIVALS & MORE**<br>Take Humana outreach
-      to community events with portable trailers, vehicles and branded
+      **EVENT SPONSORSHIPS - FAIRS, FESTIVALS & MORE**<br>Reach consumers at
+      community events with portable trailers, vehicles and branded
       assets.&nbsp;
-
-
-      &nbsp;
     single_image_block:
       single_image_path: /uploads/mac-unbranded.png
     double_image_block:
