@@ -156,7 +156,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture4-2.png
+      image_1_path: /uploads/fort-unbranded.png
       image_2_path: /uploads/picture3-5.png
     video_block:
       video_id:
