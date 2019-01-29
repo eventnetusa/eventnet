@@ -1,7 +1,7 @@
 ---
 small_headline: TURNKEY INSURANCE MARKETING SOLUTIONS
 large_headline: Humana Consumer Engagement Events
-hero_image_path: /uploads/hero-image-2-1.png
+hero_image_path: /uploads/hero-image-3-1.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
