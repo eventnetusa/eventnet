@@ -164,9 +164,6 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      &nbsp;
-
-
       **EVENT SPONSORSHIPS - FAIRS, FESTIVALS & MORE**<br>Take Humana outreach
       to community events with portable trailers, vehicles and branded
       assets.&nbsp;
@@ -175,6 +172,22 @@ content_section:
       &nbsp;
     single_image_block:
       single_image_path: /uploads/mac-unbranded.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/yoplait-1.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/owners.png
     double_image_block:
       image_1_path:
       image_2_path:
