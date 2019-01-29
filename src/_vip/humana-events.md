@@ -32,12 +32,6 @@ content_section:
       &nbsp;
 
 
-      #### &nbsp;
-
-
-      #### &nbsp;
-
-
       #### **Our history of turnkey insurance programs include**
 
 
@@ -148,9 +142,9 @@ content_section:
       &nbsp;
 
 
-      **\*NEW\* POP-UP MOBILE RETAIL STORE**<br>EventNetUSA's pop-up mobile
-      retail store delivers brick-and-mortar feel with trailer mobility. Take
-      your Humana Guidance Center anywhere, anytime.&nbsp;
+      **CONCEPT - NEW POP-UP MOBILE SOLUTION**<br>EventNetUSA's pop-up mobile
+      solution store delivers brick-and-mortar feel with trailer mobility. Take
+      your Humana events anywhere, anytime.&nbsp;
 
 
       * Travels as compact trailer and easily unfolds onsite into 20'x20' pop-up
