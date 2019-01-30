@@ -135,7 +135,7 @@ content_section:
 
       **CONCEPT - NEW POP-UP MOBILE SOLUTION**<br>EventNetUSA's pop-up mobile
       solution delivers brick-and-mortar feel with trailer mobility. Take your
-      Humana events anywhere, anytime.&nbsp;
+      Aetna events anywhere, anytime.&nbsp;
 
 
       * Travels as compact trailer and easily unfolds onsite into 20'x20'
@@ -147,8 +147,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/fort-unbranded-1.png
+      image_2_path: /uploads/picture3-6.png
     video_block:
       video_id:
   - text_block_markdown: >-
