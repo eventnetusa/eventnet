@@ -92,8 +92,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/humana-1.jpg
-      image_2_path: /uploads/humana-3.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -120,10 +120,10 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path: /uploads/humana-rv-3.png
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/humana-mamogram-rv.jpg
-      image_2_path: /uploads/interior-rv-2-2.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -147,8 +147,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/fort-unbranded2.png
-      image_2_path: /uploads/picture3-5.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
