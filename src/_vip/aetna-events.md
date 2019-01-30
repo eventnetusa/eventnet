@@ -1,6 +1,6 @@
 ---
 small_headline: TURNKEY INSURANCE MARKETING SOLUTIONS
-large_headline: Humana Consumer Engagement Events
+large_headline: Aetna Consumer Engagement Events
 hero_image_path: /uploads/hero-image-4-1.png
 vip_project_type: B2B
 hide_social_links: true
@@ -24,7 +24,7 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      #### **Since 2006 EventNetUSA has supported Humana's Medicare marketing
+      #### **Since 2006 EventNetUSA has supported Aetna's Medicare marketing
       objectives by producing and managing nationwide consumer engagement,
       education and enrollment events.&nbsp;**
 
@@ -32,10 +32,13 @@ content_section:
       &nbsp;
 
 
-      #### **Our history of turnkey insurance programs include**
+      #### **Our turnkey insurance programs include**
 
 
-      * Pop-up Guidance Centers
+      * Pop-Up Customer Support Centers
+
+
+      * Short-Term & Long-Term Mall Stores
 
 
       * Custom RVs and Trailers for Community Outreach
@@ -62,38 +65,26 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      **POP-UP GUIDANCE CENTERS**
+      **POP-UP CUSTOMER SUPPORT CENTERS**
 
 
-      Humana’s Pop-Up Guidance Center events take place in shopping malls, where
-      Seniors come to participate in free health education seminars, fitness
-      classes, one-on-one consultations and biometric screenings.
+      When Medicare Part D became available, Aetna needed a way to reach and
+      educate senior citizens.&nbsp;
 
 
-      Now operating in its third year, program objectives include:
-
-
-      * Reinforce “Humana is here for you” message to improve member
-      satisfaction and retention
-
-      * Increase awareness of Humana Medicare resources like Go365 and
-      SilverSneakers Fitness Classes
-
-      * Close gaps of care for eligible Humana Medicare members by providing
-      biometric health screenings and take-home test kits
-
-      * Generate new Medicare enrollment leads and increase brand awareness
+      Aetna's Pop-Up Answer Centers were a safe space for seniors meet
+      one-on-one with Aetna agents, learn about Medicare Part D and how to
+      enroll.&nbsp;
 
 
       **A LOOK BEHIND THE SCENES**
 
 
-      * Events operate weekly and bi-weekly in select shopping malls year-round
+      * Events operated daily in shopping malls and parking lots of
+      participating grocery partners
 
       * Daily set-up/tear-down of branded modular displays, furniture and
       fixtures
-
-      * HIPAA compliant private consultation and screening rooms
 
       * Promotional and directional signage throughout venues
 
