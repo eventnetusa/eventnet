@@ -159,7 +159,7 @@ content_section:
       EventNetUSA's fleet of mobile marketing vehicles or we'll secure one to
       meet your experiential needs.&nbsp;
     single_image_block:
-      single_image_path: /uploads/mac-unbranded.png
+      single_image_path: /uploads/mac-unbranded-1.png
     double_image_block:
       image_1_path:
       image_2_path:
