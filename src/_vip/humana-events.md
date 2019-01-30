@@ -109,7 +109,7 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      **COMMUNITY OUTREACH RV**<br>RV's offer park-and-play mobility with
+      **COMMUNITY OUTREACH RV**<br>RV's provide park-and-play mobility with
       all-purpose functionality. Offer Medicare customers private consultations,
       gap closing services and enrollment events onboard your Humana RV.
 
@@ -123,8 +123,8 @@ content_section:
       * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
       and onboard power
 
-      * Additional features may include wheel chair lift, retractable awing and
-      gray water collection, etc.&nbsp;
+      * Additional features may include wheel chair lift, retractable awing,
+      gray water collection and more.
 
 
       &nbsp;
@@ -143,8 +143,8 @@ content_section:
 
 
       **CONCEPT - NEW POP-UP MOBILE SOLUTION**<br>EventNetUSA's pop-up mobile
-      solution store delivers brick-and-mortar feel with trailer mobility. Take
-      your Humana events anywhere, anytime.&nbsp;
+      solution delivers brick-and-mortar feel with trailer mobility. Take your
+      Humana events anywhere, anytime.&nbsp;
 
 
       * Travels as compact trailer and easily unfolds onsite into 20'x20' pop-up
