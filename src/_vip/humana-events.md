@@ -147,8 +147,8 @@ content_section:
       Humana events anywhere, anytime.&nbsp;
 
 
-      * Travels as compact trailer and easily unfolds onsite into 20'x20' pop-up
-      store
+      * Travels as compact trailer and easily unfolds onsite into 20'x20'
+      enclosed event space
 
       * Onboard power, climate control and handicap access
 
