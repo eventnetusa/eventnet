@@ -164,9 +164,9 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      **EVENT SPONSORSHIPS - FAIRS, FESTIVALS & MORE**<br>Reach consumers at
-      community events with portable trailers, vehicles and branded
-      assets.&nbsp;
+      **EVENT SPONSORSHIPS - FAIRS, FESTIVALS & MORE**<br>Choose from
+      EventNetUSA's fleet of mobile marketing vehicles or we'll secure one to
+      meet your experiential needs.&nbsp;
     single_image_block:
       single_image_path: /uploads/mac-unbranded.png
     double_image_block:
