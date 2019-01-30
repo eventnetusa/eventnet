@@ -102,13 +102,7 @@ content_section:
 
       **COMMUNITY OUTREACH RV**<br>RV's provide park-and-play mobility with
       all-purpose functionality. Offer Medicare customers private consultations,
-      gap closing services and enrollment events onboard your Humana RV.
-
-
-      In 2006, EventNetUSA toured 10 Humana "Let's Talk Medicare" RV's to over
-      1,700 Walmart stores across 35 states. Read the case study
-      [here](https://www.eventnetusa.com/work/humana-rvs/){:
-      target="_blank"}.&nbsp;
+      gap closing services and enrollment events onboard your Aetna RV.
 
 
       * Features HIPAA compliant privacy spaces, built-to-spec technology hookup
