@@ -90,7 +90,7 @@ content_section:
 
       * Field teams include Event Managers and Brand Ambassadors
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/aetna-kiosk-front-photo-1.JPG
     double_image_block:
       image_1_path: /uploads/picture5-8.jpg
       image_2_path: /uploads/aetna-kiosk-front-photo.JPG
