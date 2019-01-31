@@ -93,7 +93,7 @@ content_section:
       single_image_path: /uploads/answer-center.png
     double_image_block:
       image_1_path: /uploads/willowbrook1-30-06-1.JPG
-      image_2_path: /uploads/picture7-3.jpg
+      image_2_path: /uploads/picture-group-table.png
     video_block:
       video_id:
   - text_block_markdown: >-
