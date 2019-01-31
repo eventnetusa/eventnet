@@ -88,7 +88,7 @@ content_section:
 
       * Promotional and directional signage throughout venues
 
-      * Field teams include Event Managers and Brand Ambassadors
+      * Field teams included Event Managers and Brand Ambassadors
     single_image_block:
       single_image_path: /uploads/answer-center.png
     double_image_block:
