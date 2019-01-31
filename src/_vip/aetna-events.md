@@ -72,7 +72,7 @@ content_section:
       educate senior citizens.&nbsp;
 
 
-      Aetna's Pop-Up Answer Centers were a safe space for seniors meet
+      Aetna's Pop-Up Answer Centers were a comfortable space for seniors meet
       one-on-one with Aetna agents, learn about Medicare Part D and how to
       enroll.&nbsp;
 
