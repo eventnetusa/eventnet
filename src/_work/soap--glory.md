@@ -1,5 +1,5 @@
 ---
-client: Soap & Glory
+client: Mml PR and Soap & Glory
 link_to_casestudy: true
 sort_number: 8
 headline: 2018 Tough Mudder Rinse Station Sponsor
