@@ -1,7 +1,7 @@
 ---
 client: CELSIUS
 link_to_casestudy: true
-sort_number: 4
+sort_number: 15
 headline: National Guerrilla Sampling Program
 hover_text: >-
   Over 133,400 CELSIUS fitness drinks sampled to targeted consumers across 6 key
