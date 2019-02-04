@@ -114,14 +114,14 @@ project_logos:
   - logo_image_path: /uploads/logo-2.png
     logo_image_height:
 related_client_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/celsius-1.jpg
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/nyx-logo-1.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/revlon-1.jpg
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/garnier-1.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/vaseline.png
     logo_image_height:
 ---
