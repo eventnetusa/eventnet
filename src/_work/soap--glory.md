@@ -31,6 +31,10 @@ content_section:
       mudders clean up and hydrate after a dirty day on the course.&nbsp;
 
 
+      Brand footprint included Rinse Stations, sampling tent and special VIP
+      experience at select events.
+
+
       **Program Objectives:**
 
 
