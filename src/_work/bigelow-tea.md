@@ -1,23 +1,23 @@
 ---
 client: Bigelow Tea
 link_to_casestudy: true
-sort_number: 7
+sort_number: 6
 headline: Mobile Tea Bar US Sampling Tours
-hover_text: Bigelow warmed hearts and hands across America sampling from its Mobile Tea Bar
+hover_text: >-
+  Bigelow warmed hearts and hands across America sampling from its Mobile Tea
+  Bar
 hero_image_path: /uploads/bigelow-mtb.jpg
 thumbnail_image_path: /uploads/bigelow-thumb.jpg
 types:
   - vehicle tour
   - street team
 cta_text: Interested in a mobile marketing vehicle?
-cta: "Let's talk"
+cta: Let's talk
 sidebar_text_markdown: >-
   ### Quick Stats
 
 
-
   #### 2016 Northeast Tour
-
 
 
   * Logged&nbsp;**3,400&nbsp;**miles over **3&nbsp;**months visiting CT, NY, MA,
@@ -25,15 +25,13 @@ sidebar_text_markdown: >-
 
   * **1.6 million+** over-the-road impressions
 
-  * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops,
-  & **3&nbsp;**university visits
+  * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops, &
+  **3&nbsp;**university visits
 
   * **63,675** one-on-one interactions
 
 
-
   #### 2015 Midwest/Pacific Coast Tour
-
 
 
   * Logged 8,200***&nbsp;***miles over***&nbsp;5***&nbsp;months visiting NY, NJ,
@@ -41,15 +39,13 @@ sidebar_text_markdown: >-
 
   * **4 million+** over-the-road impressions
 
-  * **127&nbsp;**touring days, **28&nbsp;**events, **39&nbsp;**retail stops,
-  & **1&nbsp;**university visits
+  * **127&nbsp;**touring days, **28&nbsp;**events, **39&nbsp;**retail stops, &
+  **1&nbsp;**university visits
 
   * **49,667** one-on-one interactions
 
 
-
   #### 2014 Coastal Tour
-
 
 
   * Logged over **12,500&nbsp;**milesover ***7&nbsp;***months visiting MA, NY,
@@ -57,8 +53,8 @@ sidebar_text_markdown: >-
 
   * **6.1**&nbsp;**million+** over-the-road impressions
 
-  * **98&nbsp;**touring days, **23&nbsp;**events, **19&nbsp;**retail stops,
-  & **5&nbsp;**university visits
+  * **98&nbsp;**touring days, **23&nbsp;**events, **19&nbsp;**retail stops, &
+  **5&nbsp;**university visits
 
   * **59,831**&nbsp;one-on-one interactions
 content_section:
