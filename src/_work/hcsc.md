@@ -1,7 +1,7 @@
 ---
 client: Health Care Service Corporation
 link_to_casestudy: true
-sort_number: 11
+sort_number: 18
 headline: Cross-Channel Community Outreach Program
 hover_text: >-
   See how Health Care Service Corporation educated consumers when the Affordable
