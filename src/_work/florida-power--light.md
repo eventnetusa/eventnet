@@ -1,7 +1,7 @@
 ---
 client: Florida Power & Light
 link_to_casestudy: true
-sort_number: 8
+sort_number: 7
 headline: Consumers cool off in the summer heat with blasts of cold nitrogen
 hover_text: >-
   FPL wanted an innovative way to raise awareness for its energy usage app and
