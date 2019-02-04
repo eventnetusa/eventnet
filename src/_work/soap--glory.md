@@ -48,8 +48,8 @@ content_section:
       * Generate content for social channels
 
 
-      **EventNetUSA executed CELSIUS' select-event sponsorship activations with
-      the following responsibilities:**
+      **EventNetUSA executed Soap & Glory's sponsorship activations with
+      following responsibilities:**
 
 
       * Administer event staff including recruiting, onboarding, training and
