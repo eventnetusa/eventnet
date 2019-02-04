@@ -1,7 +1,7 @@
 ---
 client: Soap & Glory
 link_to_casestudy: true
-sort_number: 30
+sort_number: 8
 headline: 2018 Tough Mudder Rinse Station Sponsor
 hover_text: >-
   Soap & Glory helped muddy runners get clean as the official Rinse Station
