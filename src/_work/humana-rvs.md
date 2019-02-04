@@ -1,7 +1,7 @@
 ---
 client: Humana at Walmart
 link_to_casestudy: true
-sort_number: 4
+sort_number: 16
 headline: '"Let''s Talk" Medicare National RV Tour'
 hover_text: >-
   10 custom RVs, 35 states, 1650 Walmart's, 900% increase in Humana Medicare
