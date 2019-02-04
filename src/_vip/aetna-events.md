@@ -1,7 +1,7 @@
 ---
 small_headline: TURNKEY INSURANCE MARKETING SOLUTIONS
 large_headline: Aetna Consumer Engagement Events
-hero_image_path: /uploads/thumbnail.png
+hero_image_path: /uploads/hero-image-2-3.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
