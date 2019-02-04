@@ -1,7 +1,7 @@
 ---
 client: Bota Box Wine
 link_to_casestudy: true
-sort_number: 3
+sort_number: 13
 headline: NYC Pop-Up Brunchgate Event
 hover_text: 'Bota Box combined tailgating with brunch for the ultimate #botabrunchgate'
 hero_image_path: /uploads/bota-box-case-study-hero-image.jpg
