@@ -1,7 +1,7 @@
 ---
 client: Owners.com
 link_to_casestudy: true
-sort_number: 8
+sort_number: 11
 headline: Mobile Open House
 hover_text: >-
   Owners.com launched its online real estate tool for the modern home owner with
