@@ -96,6 +96,14 @@ content_section:
       image_2_path: /uploads/picture-group-table.png
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/heb-storefront-1.png
+      image_2_path: /uploads/heb-in-store.png
+    video_block:
+      video_id:
   - text_block_markdown: >-
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -126,31 +134,6 @@ content_section:
     double_image_block:
       image_1_path:
       image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-
-      &nbsp;
-
-
-      **CONCEPT - NEW POP-UP MOBILE SOLUTION**<br>EventNetUSA's pop-up mobile
-      solution delivers brick-and-mortar feel with trailer mobility. Take your
-      Aetna events anywhere, anytime.&nbsp;
-
-
-      * Travels as compact trailer and easily unfolds onsite into 20'x20'
-      enclosed event space
-
-      * Onboard power, climate control and handicap access
-
-      * Customize layout with different wall styles and orientations
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/fort-unbranded4.png
-      image_2_path: /uploads/picture3-6.png
     video_block:
       video_id:
   - text_block_markdown: >-
@@ -197,6 +180,31 @@ content_section:
     double_image_block:
       image_1_path:
       image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+      &nbsp;
+
+
+      **CONCEPT - NEW POP-UP MOBILE SOLUTION**<br>EventNetUSA's pop-up mobile
+      solution delivers brick-and-mortar feel with trailer mobility. Take your
+      Aetna events anywhere, anytime.&nbsp;
+
+
+      * Travels as compact trailer and easily unfolds onsite into 20'x20'
+      enclosed event space
+
+      * Onboard power, climate control and handicap access
+
+      * Customize layout with different wall styles and orientations
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/fort-unbranded4.png
+      image_2_path: /uploads/picture3-6.png
     video_block:
       video_id:
 _comments:
