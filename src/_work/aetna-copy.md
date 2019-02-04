@@ -1,7 +1,7 @@
 ---
 client: Aetna
 link_to_casestudy: true
-sort_number: 40
+sort_number: 10
 headline: Medicare Pop-Up Store
 hover_text: >-
   Aetna opened its first open enrollment Medicare Pop-Up Store to reach and
