@@ -1,7 +1,7 @@
 ---
 client: rbb Communications and Homewood Suites
 link_to_casestudy: true
-sort_number: 3
+sort_number: 14
 headline: Homewood Suites Holiday Grin Media Influencer Event
 hover_text: >-
   rbb Communications retained EventNetUSA to produce a interactive experience to
