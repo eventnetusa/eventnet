@@ -68,6 +68,9 @@ content_section:
       * Re-stock rinse station product when fully utilized
 
       * Daily event metric and photo recaps
+
+
+      Program executed in partnership with brand's PR agency mml PR.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
