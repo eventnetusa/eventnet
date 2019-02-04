@@ -79,7 +79,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/20181104-114400.jpg
     double_image_block:
-      image_1_path: /uploads/photo-nov-03-10-19-15-am.jpg
+      image_1_path: /uploads/untitled.png
       image_2_path: /uploads/photo-nov-03-10-20-30-am.jpg
     video_block:
       video_id:
