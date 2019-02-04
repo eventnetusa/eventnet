@@ -27,8 +27,8 @@ content_section:
       Rinse Station Sponsor of select 2018 Tough Mudder events.&nbsp;
 
 
-      Featuring it's new Call of Fruity product line, Soap & Glory helped
-      mudders clean up and hydrate after a dirty day on the course.&nbsp;
+      Featuring its new Call of Fruity product line, Soap & Glory helped mudders
+      clean up and moisturize after a dirty day on the course.&nbsp;
 
 
       Brand footprint included Rinse Stations, sampling tent and special VIP
