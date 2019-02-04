@@ -77,7 +77,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/20181104-114400.jpg
     double_image_block:
       image_1_path:
       image_2_path:
@@ -88,7 +88,7 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/img-6873.JPG
     double_image_block:
       image_1_path:
       image_2_path:
