@@ -1,16 +1,18 @@
 ---
 client: NYX Professional Makeup
 link_to_casestudy: true
-sort_number: 6
+sort_number: 9
 headline: Beauty + Swag Truck and Flagship Store Grand Opening
-hover_text: NYX Professional Makeup took over the streets of NYC to promote its Union Square Flagship Store Grand Opening
+hover_text: >-
+  NYX Professional Makeup took over the streets of NYC to promote its Union
+  Square Flagship Store Grand Opening
 hero_image_path: /uploads/nyx-case-4.jpg
 thumbnail_image_path: /uploads/nyx-case-4.jpg
 types:
   - pr event
   - vehicle tour
-cta_text: 'Interested in grand openings & mobile marketing vehicles?'
-cta: "Let's talk"
+cta_text: Interested in grand openings & mobile marketing vehicles?
+cta: Let's talk
 sidebar_text_markdown: |-
   ### **QUICK STATS**
 
@@ -28,8 +30,9 @@ content_section:
 
       ### **A LOOK BEHIND THE SCENES:**
 
-      * Converted a food truck into a Beauty + Swag Truck, complete with 3 makeup
-      vanity stations, social media staging area, and integrated A/V monitor
+      * Converted a food truck into a Beauty + Swag Truck, complete with 3
+      makeup vanity stations, social media staging area, and integrated A/V
+      monitor
 
       * Contracted, trained, and managed one tour manager and a team of local
       brand ambassadors to deliver brand messaging and perform Express Lip
@@ -84,7 +87,7 @@ related_client_logos:
   - logo_image_path: /uploads/garnier-gray.png
     logo_image_height:
   - logo_image_path: /uploads/mcdonalds.png
-    logo_image_height: '50%'
+    logo_image_height: 50%
   - logo_image_path: /uploads/humana.png
     logo_image_height:
   - logo_image_path: /uploads/maybelline.png
