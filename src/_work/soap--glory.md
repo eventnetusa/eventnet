@@ -1,11 +1,11 @@
 ---
-client: CELSIUS
+client: Soap & Glory
 link_to_casestudy: true
-sort_number: 4
-headline: Tough Mudder Presenting Sponsorship
+sort_number: 30
+headline: Tough Mudder Sponsorship
 hover_text: >-
-  Eight months, 39 markets, 122 event days... CELSIUS' presenting sponsorship of
-  Tough Mudder 2018 was a dirty job!
+  Soap & Glory helped muddy runners get clean as the official Rinse Station
+  Sponsor of select 2018 Tough Mudder events.
 hero_image_path: /uploads/hero-image-4.png
 thumbnail_image_path: /uploads/thumbnail-4.jpg
 types:
@@ -14,22 +14,13 @@ types:
   - pr event
 cta_text: Thinking about sponsoring an event series?
 cta: Let's talk!
-sidebar_text_markdown: >-
+sidebar_text_markdown: |-
   ### QUICK STATS
 
-
-  * Completed 260 touring days
-
-  * Sampled CELSIUS to 153,000 participants over 59 TM event days in 31 markets
-
-  * Sampled CELSIUS to 94,630 consumers over 63 Guerrilla sampling days in 8
-  markets
-
-  * Delivered over 182,000 direct one-on-one impressions
-
-  * Interacted with average 3,250 mudders per event day
-
-  * Collected over 4,680 consumer surveys
+  * Completed 7 event days over 4 weekends
+  * Sampled Soap & Glory *The Way She Smoothes* body lotion to 25,570 consumers
+  * Delivered over 29,500 direct one-on-one impressions
+  * Actively engaged with average 5,250 mudders per event day
 content_section:
   - text_block_markdown: >-
       CELSIUS, fitness drink manufacturer and one of the world's fastest growing
