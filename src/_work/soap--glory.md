@@ -71,16 +71,16 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture1-4.jpg
-      image_2_path: /uploads/picture2-8.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture4-5.jpg
-      image_2_path: /uploads/picture3-4.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -90,32 +90,32 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/guy-drinking-from-sampling-station.jpg
-      image_2_path: /uploads/mario-lopez-selfie.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/crowded-tent.JPG
     double_image_block:
-      image_1_path: /uploads/picture7-2.jpg
-      image_2_path: /uploads/picture5-7.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/picture1-2.png
     double_image_block:
-      image_1_path: /uploads/picture6-1.jpg
-      image_2_path: /uploads/picture8-2.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture10.jpg
-      image_2_path: /uploads/picture9-1.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 project_logos:
