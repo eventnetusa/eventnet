@@ -1,7 +1,7 @@
 ---
 client: Humana
 link_to_casestudy: true
-sort_number: 9
+sort_number: 5
 headline: Pop-Up Guidance Center Program
 hover_text: >-
   To close gaps in care and raise awareness of Humana's Guidance Centers, Humana
