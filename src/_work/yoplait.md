@@ -1,7 +1,7 @@
 ---
 client: Cone Communications & Sunflower Agency
 link_to_casestudy: true
-sort_number: 9
+sort_number: 17
 headline: YOPLAIT Save Lids to Save Lives Campaign
 hover_text: >-
   Yoplait along with Guiliana Rancic and Sherri Shepherd  took over Columbus
