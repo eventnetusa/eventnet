@@ -23,13 +23,29 @@ sidebar_text_markdown: |-
   * Actively engaged with average 5,250 mudders per event day
 content_section:
   - text_block_markdown: >-
-      CELSIUS, fitness drink manufacturer and one of the world's fastest growing
-      beverage brands, was the 2018 Presenting Sponsor of the national obstacle
-      race series Tough Mudder.
+      Soap & Glory, a fun, fresh and fearless beauty brand, was the Official
+      Rinse Station Sponsor of select 2018 Tough Mudder events.&nbsp;
 
 
-      EventNetUSA executed CELSIUS' select-event sponsorship activations with
-      the following responsibilities:
+      Featuring it's new Call of Fruity product line, Soap & Glory helped
+      mudders clean up and hydrate after a dirty day on the course.&nbsp;
+
+
+      **Program Objectives:**
+
+
+      * Increase Soap & Glory’s brand awareness in market through hand-to-hand
+      sampling
+
+      * Introduce new “Call of Fruity” fragrance line to consumers
+
+      * Drive sales through sharing where-to-buy information
+
+      * Generate content for social channels
+
+
+      **EventNetUSA executed CELSIUS' select-event sponsorship activations with
+      the following responsibilities:**
 
 
       * Administer event staff including recruiting, onboarding, training and
@@ -48,9 +64,6 @@ content_section:
       * Re-stock rinse station product when fully utilized
 
       * Daily event metric and photo recaps
-
-
-      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
