@@ -1,7 +1,7 @@
 ---
 client: Carnival Cruise Line
 link_to_casestudy: true
-sort_number: 1
+sort_number: 4
 headline: 2017 AGENTPALOOZA CAMPAIGN TOUR
 hover_text: >-
   Carnival Cruise Line retained EventNetUSA to produce and operate the 2017
