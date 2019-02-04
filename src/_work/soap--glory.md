@@ -126,5 +126,5 @@ related_client_logos:
   - logo_image_path: /uploads/garnier-1.png
     logo_image_height:
   - logo_image_path: /uploads/vaseline.png
-    logo_image_height:
+    logo_image_height: 80%
 ---
