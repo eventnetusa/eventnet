@@ -79,8 +79,8 @@ content_section:
     single_image_block:
       single_image_path: /uploads/20181104-114400.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/photo-nov-03-10-19-15-am.jpg
+      image_2_path: /uploads/photo-nov-03-10-20-30-am.jpg
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -96,7 +96,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/crowded-tent.JPG
+      single_image_path: /uploads/photo-oct-08-6-30-21-pm.jpg
     double_image_block:
       image_1_path:
       image_2_path:
@@ -104,18 +104,10 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture1-2.png
+      single_image_path: /uploads/photo-oct-08-6-30-58-pm.jpg
     double_image_block:
       image_1_path:
       image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/photo-1.png
-      image_2_path: /uploads/photo-2.png
     video_block:
       video_id:
 project_logos:
