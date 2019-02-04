@@ -111,7 +111,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/soap-glory-logo.jpg
+  - logo_image_path: /uploads/logo-2.png
     logo_image_height:
 related_client_logos:
   - logo_image_path:
