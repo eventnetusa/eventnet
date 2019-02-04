@@ -1,7 +1,7 @@
 ---
 client: CELSIUS
 link_to_casestudy: true
-sort_number: 4
+sort_number: 1
 headline: Tough Mudder Presenting Sponsorship
 hover_text: >-
   Eight months, 39 markets, 122 event days... CELSIUS' presenting sponsorship of
