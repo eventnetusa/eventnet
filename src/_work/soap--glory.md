@@ -28,8 +28,26 @@ content_section:
       race series Tough Mudder.
 
 
-      EventNetUSA executed CELSIUS' event sponsorship activation with a
-      fulltime, seven-month, muddy tour.
+      EventNetUSA executed CELSIUS' select-event sponsorship activations with
+      the following responsibilities:
+
+
+      * Administer event staff including recruiting, onboarding, training and
+      onsite management
+
+      * Deliver key brand messaging, where-to-buy information and coupons to
+      Tough Mudder participants
+
+      * Assemble giveaway prize bags, select winners and distribute on-site
+
+      * Full size product and sample inventory management
+
+      * Confirm placement of product, signage and other contracted commitments
+      through-out event course
+
+      * Re-stock rinse station product when fully utilized
+
+      * Daily event metric and photo recaps
 
 
       &nbsp;
