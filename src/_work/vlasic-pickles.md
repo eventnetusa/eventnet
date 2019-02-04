@@ -1,22 +1,30 @@
 ---
 client: Vlasic Pickles
 link_to_casestudy: true
-sort_number: 9
+sort_number: 12
 headline: Pickle Stand Sampling Tour
-hover_text: "Vlasic won the hearts and taste buds of consumers with its mobile Pickle Sampling Stand, introducing it's Farmer's Garden line to pickle lovers around America"
+hover_text: >-
+  Vlasic won the hearts and taste buds of consumers with its mobile Pickle
+  Sampling Stand, introducing it's Farmer's Garden line to pickle lovers around
+  America
 hero_image_path: /uploads/eventnetusa-1.jpg
 thumbnail_image_path: /uploads/eventnetusa-1.jpg
 types:
   - vehicle tour
   - street team
 cta_text: Looking for a unique way to launch your next product?
-cta: "Let's talk"
-sidebar_text_markdown: |-
+cta: Let's talk
+sidebar_text_markdown: >-
   * Over 152,000 pickles sampled (65% above goal)
+
   * 308M impressions generated (301% above goal)
+
   * Featured on Today, Every Day with Rachel Ray and Hungry Girl
+
   * Traveled to 5 major markets across America
-  * VIP tasting, pairing and chef pickling demonstration with Chef David Burke in New York City, hosting the nation’s most influential food bloggers
+
+  * VIP tasting, pairing and chef pickling demonstration with Chef David Burke
+  in New York City, hosting the nation’s most influential food bloggers
 content_section:
   - text_block_markdown: >-
       Vlasic turned to EventNetUSA to help launch it's new farm fresh, all
