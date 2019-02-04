@@ -11,7 +11,7 @@ hero_image_path: /uploads/humana-collage.jpg
 thumbnail_image_path: /uploads/img-20170607-110338.jpg
 types:
   - insurance activation
-  - vehicle tour
+  - retail
 cta_text: Looking to activate medicare consumers?
 cta: Let's talk
 sidebar_text_markdown: |-
