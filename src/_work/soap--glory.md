@@ -38,10 +38,10 @@ content_section:
       **Program Objectives:**
 
 
-      * Increase Soap & Glory’s brand awareness in market through hand-to-hand
+      * Increase Soap & Glory’s brand awareness in-market through hand-to-hand
       sampling
 
-      * Introduce new “Call of Fruity” fragrance line to consumers
+      * Introduce new Call of Fruity product line to consumers
 
       * Drive sales through sharing where-to-buy information
 
