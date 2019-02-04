@@ -10,6 +10,7 @@ hero_image_path: /uploads/hero-image-2.jpg
 thumbnail_image_path: /uploads/thumbnail-5.jpg
 types:
   - pr event
+  - street team
 cta_text: Thinking about sponsoring an event series?
 cta: Let's talk!
 sidebar_text_markdown: |-
