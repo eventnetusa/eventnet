@@ -7,7 +7,7 @@ hover_text: >-
   Soap & Glory helped muddy runners get clean as the official Rinse Station
   Sponsor of select 2018 Tough Mudder events.
 hero_image_path: /uploads/hero-image-2.jpg
-thumbnail_image_path: /uploads/thumbnail-4.jpg
+thumbnail_image_path: /uploads/thumbnail-5.jpg
 types:
   - street team
   - vehicle tour
