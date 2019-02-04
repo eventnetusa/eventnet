@@ -169,6 +169,14 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/nbc-health-and-fitness-expo-3.jpg
+      image_2_path: /uploads/nbc-health-and-fitness-expo-2.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
       single_image_path: /uploads/mac-unbranded-2.png
     double_image_block:
       image_1_path:
