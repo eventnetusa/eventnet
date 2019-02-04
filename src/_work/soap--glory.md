@@ -9,8 +9,6 @@ hover_text: >-
 hero_image_path: /uploads/hero-image-2.jpg
 thumbnail_image_path: /uploads/thumbnail-5.jpg
 types:
-  - street team
-  - vehicle tour
   - pr event
 cta_text: Thinking about sponsoring an event series?
 cta: Let's talk!
