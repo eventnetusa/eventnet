@@ -89,8 +89,8 @@ content_section:
     single_image_block:
       single_image_path: /uploads/img-5154.JPG
     double_image_block:
-      image_1_path: /uploads/img-5153.JPG
-      image_2_path: /uploads/waiting-area-resized-1.jpg
+      image_1_path: /uploads/storefront-before-resized-1.png
+      image_2_path: /uploads/storefront-resized-after-1.jpg
     video_block:
       video_id:
   - text_block_markdown:
