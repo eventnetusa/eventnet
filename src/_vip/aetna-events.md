@@ -97,7 +97,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/img-5125.JPG
+      image_1_path: /uploads/waiting-area-resized-2.jpg
       image_2_path: /uploads/img-5165.JPG
     video_block:
       video_id:
