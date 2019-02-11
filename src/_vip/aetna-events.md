@@ -68,7 +68,7 @@ content_section:
       **POP-UP MALL STORES**
 
 
-      In 2018, we launched the first Aetna Medicare Store in Strongsville, OH to
+      In 2018, we launched Aetna's first Medicare Store in Strongsville, OH to
       service Group Retirees during the Annual Enrollment Period.
 
 
