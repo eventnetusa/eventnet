@@ -62,6 +62,35 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      **POP-UP MALL STORES**
+
+
+      In 2018, we launched the first Aetna Medicare Store in Strongsville, OH to
+      service Group Retirees during the Annual Enrollment Period.
+
+
+      **A LOOK BEHIND THE SCENES**
+
+
+      * Provided Agent consultations and plan support to Group Retirees
+
+      * Made available customer support and guidance to Medicare, Medicaid and
+      Individual/Family customers
+
+      * Open 7 days per week, staffed with fulltime store Manager and scheduled
+      licensed Agents
+
+      * Turnkey program included market research, space negotiation and mall
+      contracting, total buildout, furnishing, daily operations management and
+      load-out
+    single_image_block:
+      single_image_path: /uploads/img-5154.JPG
+    double_image_block:
+      image_1_path: /uploads/img-5153.JPG
+      image_2_path: /uploads/waiting-area-resized-1.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
