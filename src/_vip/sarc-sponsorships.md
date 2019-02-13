@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Have sponsorship opportunities available?
 cta_text: Let us know!
 sidebar_text_markdown: >-
-  #### OUR TARGET DEMOGRAPHIC
+  #### Our Target Demographic
 
 
   * Average resident age 65 - 75
