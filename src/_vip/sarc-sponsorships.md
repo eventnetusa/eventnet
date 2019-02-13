@@ -9,7 +9,47 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Have sponsorship opportunities available?
 cta_text: Let us know!
-sidebar_text_markdown:
+sidebar_text_markdown: >-
+  #### OUR TARGET DEMOGRAPHIC
+
+
+  * Average resident age 65 - 75
+
+  * Active seniors living healthy lifestyles and participating in community
+  events
+
+
+  #### Ideal Events, Tournaments and Activities&nbsp;
+
+
+  * Golf&nbsp;
+
+  * Tennis, Pickleball & Racquet Ball
+
+  * Tai Chi, Yoga and Meditation
+
+  * Bingo & Bridge
+
+  * Movie Night
+
+  * Anything fun, social and active!
+
+
+  #### Types of Onsite Branding and Activation
+
+
+  * Signage, banners and logo placement
+
+  * Display space (10'x10' and up)
+
+  * Host onsite educational seminars
+
+  * Health and wellness, nutrition, fitness, Medicare Q&A, fraud protection,
+  social media, crafts/skills, etc.&nbsp;&nbsp;
+
+  * Complimentary health screenings
+
+  * Blood pressure, BMI, bone density, etc.
 content_section:
   - text_block_markdown: >-
       #### **EventNetUSA, founded in 1976, is a consumer activation marketing
@@ -22,54 +62,6 @@ content_section:
 
       #### **Currently seeking opportunities at 55+ living communities for event
       and activity brand sponsorships.&nbsp;**
-
-
-      &nbsp;
-
-
-      #### OUR TARGET DEMOGRAPHIC
-
-
-      * Average resident age 65 - 75
-
-      * Active seniors living healthy lifestyles and participating in community
-      events
-
-
-      #### Ideal Events, Tournaments and Activities&nbsp;
-
-
-      * Golf&nbsp;
-
-      * Tennis, Pickleball & Racquet Ball
-
-      * Tai Chi, Yoga and Meditation
-
-      * Bingo & Bridge
-
-      * Movie Night
-
-      * Anything fun, social and active!
-
-
-      #### Types of Onsite Branding and Activation
-
-
-      * Signage, banners and logo placement
-
-      * Display space (10'x10' and up)
-
-      * Host onsite educational seminars
-
-      * Health and wellness, nutrition, fitness, Medicare Q&A, fraud protection,
-      social media, crafts/skills, etc.&nbsp;&nbsp;
-
-      * Complimentary health screenings
-
-      * Blood pressure, BMI, bone density, etc.
-
-
-      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
