@@ -1,6 +1,6 @@
 ---
 small_headline: We want to bring our brand clients to you!
-large_headline: SEEKING SPONSORSHIP OPPORTINITIES AT YOUR COMMUNITY
+large_headline: SEEKING SPONSORSHIP OPPORTINITIES IN YOUR COMMUNITY
 hero_image_path: /uploads/hero-image-7.png
 vip_project_type: B2B
 hide_social_links: true
