@@ -47,7 +47,7 @@ sidebar_text_markdown: >-
   crafts/skills, etc.&nbsp;&nbsp;
 
   * Complimentary health screenings including blood pressure, BMI, bone density,
-  etc.
+  take home test kits, etc.
 content_section:
   - text_block_markdown: >-
       #### **EventNetUSA, founded in 1976, is a consumer activation marketing
