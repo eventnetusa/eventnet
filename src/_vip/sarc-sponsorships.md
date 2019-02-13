@@ -42,14 +42,12 @@ sidebar_text_markdown: >-
 
   * Display space (10'x10' and up)
 
-  * Host onsite educational seminars
+  * Host onsite educational seminars. Topics include health and wellness,
+  nutrition, fitness, Medicare Q&A, fraud protection, social media,
+  crafts/skills, etc.&nbsp;&nbsp;
 
-  * Health and wellness, nutrition, fitness, Medicare Q&A, fraud protection,
-  social media, crafts/skills, etc.&nbsp;&nbsp;
-
-  * Complimentary health screenings
-
-  * Blood pressure, BMI, bone density, etc.
+  * Complimentary health screenings including blood pressure, BMI, bone density,
+  etc.
 content_section:
   - text_block_markdown: >-
       #### **EventNetUSA, founded in 1976, is a consumer activation marketing
