@@ -49,7 +49,7 @@ content_section:
       sponsor recurring social activities on an on-going basis.**
 
 
-      **Ideal Events, Tournaments and Activities&nbsp;**
+      **Ideal Health and Wellness Events, Tournaments and Activities&nbsp;**
 
 
       * Golf Classics and Scrambles
@@ -60,11 +60,11 @@ content_section:
 
       * Soft Ball & Kick Ball
 
+      * Water Aerobics & Group Fitness Classes
+
       * Bowling & Shuffle Board
 
       * Tai Chi, Yoga & Meditation
-
-      * Water Aerobics & Group Fitness Classes
 
       * Bingo & Other Indoor Games
 
