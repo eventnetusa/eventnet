@@ -36,23 +36,20 @@ sidebar_text_markdown: >-
   take home test kits, etc.
 content_section:
   - text_block_markdown: >-
-      #### EventNetUSA, founded in 1976, is a consumer activation marketing
-      agency providing turnkey event production and management nationwide.
+      EventNetUSA, founded in 1976, is a consumer activation marketing agency
+      providing turnkey event production and management nationwide.
 
 
-      #### Our clients include Humana, L'Oreal, Dunkin' Donuts, Carnival Cruise
-      Line and more.
+      Our clients include Humana, L'Oreal, Dunkin' Donuts, Carnival Cruise Line
+      and more.
 
 
-      #### **Currently seeking opportunities at 55+ living communities for event
-      and activity brand sponsorships. Our goal is partner with communities to
+      **Currently seeking opportunities at 55+ living communities for event and
+      activity brand sponsorships. Our goal is partner with communities to
       sponsor recurring social activities on an on-going basis.**
 
 
-      &nbsp;
-
-
-      #### **Ideal Events, Tournaments and Activities&nbsp;**
+      **Ideal Events, Tournaments and Activities&nbsp;**
 
 
       * Golf Classics and Scrambles
