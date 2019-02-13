@@ -60,7 +60,7 @@ content_section:
 
       * Soft Ball & Kick Ball
 
-      * Water Aerobics & Group Fitness Classes
+      * Dancing & Group Fitness Classes
 
       * Bowling & Shuffle Board
 
