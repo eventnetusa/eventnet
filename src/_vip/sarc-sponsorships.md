@@ -42,8 +42,9 @@ content_section:
       Line and more.
 
 
-      #### Currently seeking opportunities at 55+ living communities for event
-      and activity brand sponsorships.&nbsp;
+      #### **Currently seeking opportunities at 55+ living communities for event
+      and activity brand sponsorships. Our goal is partner with communities to
+      sponsor many recurring activities on an on-going basis.**
 
 
       &nbsp;
