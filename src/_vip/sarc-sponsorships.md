@@ -24,6 +24,8 @@ sidebar_text_markdown: >-
 
   * Signage, banners and logo placement
 
+  * Trophies, prizes, hospitality and giveaways
+
   * Display space (10'x10' and up)
 
   * Host onsite educational seminars. Topics include health and wellness,
