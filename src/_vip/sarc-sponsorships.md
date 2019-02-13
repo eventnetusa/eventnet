@@ -19,22 +19,6 @@ sidebar_text_markdown: >-
   events
 
 
-  #### Ideal Events, Tournaments and Activities&nbsp;
-
-
-  * Golf&nbsp;
-
-  * Tennis, Pickleball & Racquet Ball
-
-  * Tai Chi, Yoga and Meditation
-
-  * Bingo & Bridge
-
-  * Movie Night
-
-  * Anything fun, social and active!
-
-
   #### Types of Onsite Branding and Activation
 
 
@@ -50,16 +34,41 @@ sidebar_text_markdown: >-
   take home test kits, etc.
 content_section:
   - text_block_markdown: >-
-      #### **EventNetUSA, founded in 1976, is a consumer activation marketing
-      agency providing turnkey event production and management nationwide.**
+      #### EventNetUSA, founded in 1976, is a consumer activation marketing
+      agency providing turnkey event production and management nationwide.
 
 
-      #### **Our clients include Humana, L'Oreal, Dunkin' Donuts, Carnival
-      Cruise Line and more.**
+      #### Our clients include Humana, L'Oreal, Dunkin' Donuts, Carnival Cruise
+      Line and more.
 
 
-      #### **Currently seeking opportunities at 55+ living communities for event
-      and activity brand sponsorships.&nbsp;**
+      #### Currently seeking opportunities at 55+ living communities for event
+      and activity brand sponsorships.&nbsp;
+
+
+      &nbsp;
+
+
+      #### **Ideal Events, Tournaments and Activities&nbsp;**
+
+
+      * Golf Classics and Scrambles
+
+      * Tennis, Pickleball & Racquet Ball
+
+      * Soft Ball & Kick Ball
+
+      * Bowling & Shuffle Board
+
+      * Tai Chi, Yoga & Meditation
+
+      * Water Aerobics&nbsp;
+
+      * Bingo, Bridge and Indoor Games
+
+      * Movie Night
+
+      * Anything fun, social and active!
     single_image_block:
       single_image_path: >-
         /uploads/golfers-with-the-villages-cheerleaders-at-last-years-st--jude-golf-tournament.jpg
