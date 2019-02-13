@@ -13,7 +13,7 @@ sidebar_text_markdown: >-
   #### Our Target Demographic
 
 
-  * Average resident age 65 - 75
+  * 55+ Communities
 
   * Active seniors living healthy lifestyles and participating in community
   events
