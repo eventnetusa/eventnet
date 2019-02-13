@@ -72,8 +72,7 @@ content_section:
 
       * Anything fun, social and active!
     single_image_block:
-      single_image_path: >-
-        /uploads/golfers-with-the-villages-cheerleaders-at-last-years-st--jude-golf-tournament.jpg
+      single_image_path: /uploads/golf-1.jpg
     double_image_block:
       image_1_path: /uploads/photo.jpg
       image_2_path: /uploads/41-561861c.JPG
@@ -81,7 +80,8 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/golf.jpg
+      single_image_path: >-
+        /uploads/golfers-with-the-villages-cheerleaders-at-last-years-st--jude-golf-tournament-1.jpg
     double_image_block:
       image_1_path: /uploads/magazine-2010-11-maar03-golfretirement.jpg
       image_2_path: /uploads/1011759821-senior-bowler-10-1260x800.jpg
