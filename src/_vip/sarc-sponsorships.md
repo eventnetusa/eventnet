@@ -84,6 +84,15 @@ content_section:
       image_2_path: /uploads/villages-tennis-team-1.jpg
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: >-
+        /uploads/1140-practice-thai-chi-imgcache-revb06bf54065ecc22e610212d93d25ed24.jpg
+    double_image_block:
+      image_1_path: /uploads/5b90800e5d35e-image.jpg
+      image_2_path: /uploads/5168b1aa17dac-image.jpg
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type:
