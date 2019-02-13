@@ -56,15 +56,17 @@ content_section:
 
       * Tennis, Pickleball & Racquet Ball
 
+      * Bridge, Poker & Other Card Games
+
       * Soft Ball & Kick Ball
 
       * Bowling & Shuffle Board
 
       * Tai Chi, Yoga & Meditation
 
-      * Water Aerobics&nbsp;
+      * Water Aerobics & Group Fitness Classes
 
-      * Bingo, Bridge and Indoor Games
+      * Bingo & Other Indoor Games
 
       * Movie Night
 
