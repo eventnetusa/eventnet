@@ -9,129 +9,64 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Have sponsorship opportunities available?
 cta_text: Let us know!
-sidebar_text_markdown: >-
-  #### EventNetUSA, founded in 1976, is a consumer activation marketing agency
-  providing turnkey event production and management nationwide.
-
-
-  #### Our clients include Humana, L'Oreal, Dunkin' Donuts, Carnival Cruise Line
-  and more.
-
-
-  #### Currently seeking opportunities at 55+ living communities for event and
-  activity brand sponsorships.&nbsp;
-
-
-  &nbsp;
-
-
-  #### OUR TARGET DEMOGRAPHIC
-
-
-  * Average resident age 65 - 75
-
-  * Active seniors living healthy lifestyles and participating in community
-  events
-
-
-  #### Ideal Events, Tournaments and Activities&nbsp;
-
-
-  * Golf&nbsp;
-
-  * Tennis, Pickleball & Racquet Ball
-
-  * Tai Chi, Yoga and Meditation
-
-  * Bingo & Bridge
-
-  * Movie Night
-
-  * Anything fun, social and active!
-
-
-  #### Types of Onsite Branding and Activation
-
-
-  * Signage, banners and logo placement
-
-  * Display space (10'x10' and up)
-
-  * Host onsite educational seminars
-    * Health and wellness, nutrition, fitness, Medicare Q&A, fraud protection, social media, crafts/skills, etc.&nbsp;&nbsp;
-  * Complimentary health screenings
-    * Blood pressure, BMI, bone density, etc.&nbsp;
+sidebar_text_markdown:
 content_section:
   - text_block_markdown: >-
-      EventNetUSA has developed an exclusive network of SARCs™ (Socially Active
-      Retirement Communities) to create better opportunities for Medicare
-      Outreach Teams to reach seniors.
+      #### **EventNetUSA, founded in 1976, is a consumer activation marketing
+      agency providing turnkey event production and management nationwide.**
 
 
+      #### **Our clients include Humana, L'Oreal, Dunkin' Donuts, Carnival
+      Cruise Line and more.**
 
 
-
-      SARC™ Partnerships enable Medicare Outreach Teams to host educational
-      seminars onsite for community residents.&nbsp;
-
-
-
-
-
-      EventNetUSA manages turn-key local marketing, pre-registration and
-      logistics, allowing your teams to focus on consumer engagement, education
-      and lead generation.&nbsp;
-
-
-
-
-
-      ### 3 Types of SARC™ Properties:
-
-
-
-
-
-      **COUNTRY CLUB RESIDENCES**
-
-      <br>Largest and most expensive communities. Typically private, gated
-      neighborhoods with golf courses, tennis courts, fitness facilities and
-      club houses.
-
-
-
-
-
-      **COMMUNITY LIVING**
-
-      <br>55+ senior communities built by leading real estate developers. Mostly
-      private homes and apartments with recreation and retail located within the
-      community.
-
-
-
-
-
-      **INDEPENDENT LIVING**
-
-      <br>Usually apartment style living with food and transportation services
-      provided by property management. Most communities are combined with
-      assisted living housing.
-
-
-
+      #### **Currently seeking opportunities at 55+ living communities for event
+      and activity brand sponsorships.&nbsp;**
 
 
       &nbsp;
 
 
+      #### OUR TARGET DEMOGRAPHIC
 
 
+      * Average resident age 65 - 75
 
-      > &nbsp;
+      * Active seniors living healthy lifestyles and participating in community
+      events
 
 
+      #### Ideal Events, Tournaments and Activities&nbsp;
 
+
+      * Golf&nbsp;
+
+      * Tennis, Pickleball & Racquet Ball
+
+      * Tai Chi, Yoga and Meditation
+
+      * Bingo & Bridge
+
+      * Movie Night
+
+      * Anything fun, social and active!
+
+
+      #### Types of Onsite Branding and Activation
+
+
+      * Signage, banners and logo placement
+
+      * Display space (10'x10' and up)
+
+      * Host onsite educational seminars
+
+      * Health and wellness, nutrition, fitness, Medicare Q&A, fraud protection,
+      social media, crafts/skills, etc.&nbsp;&nbsp;
+
+      * Complimentary health screenings
+
+      * Blood pressure, BMI, bone density, etc.
 
 
       &nbsp;
