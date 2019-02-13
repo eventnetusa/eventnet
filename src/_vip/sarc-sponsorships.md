@@ -7,7 +7,7 @@ hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Have sponsorship opportunities in your community?
+cta_headline: Have sponsorship opportunities for us in your community?
 cta_text: Let us know!
 sidebar_text_markdown: >-
   #### Our Target Demographic
