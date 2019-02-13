@@ -61,10 +61,11 @@ content_section:
       #### **Currently seeking opportunities at 55+ living communities for event
       and activity brand sponsorships.&nbsp;**
     single_image_block:
-      single_image_path:
+      single_image_path: >-
+        /uploads/golfers-with-the-villages-cheerleaders-at-last-years-st--jude-golf-tournament.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/photo.jpg
+      image_2_path: /uploads/41-561861c.JPG
     video_block:
       video_id:
   - text_block_markdown:
