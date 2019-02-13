@@ -75,7 +75,7 @@ content_section:
       single_image_path: /uploads/golf-1.jpg
     double_image_block:
       image_1_path: /uploads/photo.jpg
-      image_2_path: /uploads/41-561861c.JPG
+      image_2_path: /uploads/693-06016656en-masterfile.jpg
     video_block:
       video_id:
   - text_block_markdown:
