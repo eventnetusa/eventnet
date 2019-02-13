@@ -44,9 +44,9 @@ content_section:
       and more.
 
 
-      **Currently seeking opportunities at 55+ living communities for event and
-      activity brand sponsorships. Our goal is to partner with communities to
-      sponsor recurring social activities on an on-going basis.**
+      **We seek opportunities to bring our brands to your community. Our goal is
+      to partner with communities to sponsor recurring social activities on an
+      on-going basis.**
 
 
       **Ideal Health and Wellness Events, Tournaments and Activities&nbsp;**
