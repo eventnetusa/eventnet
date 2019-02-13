@@ -1,7 +1,7 @@
 ---
 small_headline: We want to bring our brand clients to you!
 large_headline: SEEKING EVENT SPONSORSHIP OPPORTINITIES AT YOUR PROPERTY
-hero_image_path: /uploads/golf-community.png
+hero_image_path: /uploads/hero-image-7.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -67,20 +67,9 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      **The SARC™ national network spans coast-to-coast, with highest
-      concentrations in Arizona, California, Florida, Pennsylvania, North and
-      South Carolina and New England.**
+  - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/country-map.png
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '### **&nbsp;**EXAMPLES OF SARC™ ASSOCIATE FACILITIES&nbsp;'
-    single_image_block:
-      single_image_path: /uploads/sarc-collage.png
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
