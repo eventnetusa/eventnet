@@ -1,13 +1,13 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Introduction and Capabilities
+large_headline: TAKE YOUR PICK FROM OUR FLEET INVENTORY
 hero_image_path: /uploads/collage-for-8-reasons.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to make your next event your greatest?
+cta_headline: Something catch your eye?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
   ### Turnkey Service Offerings Include
@@ -89,16 +89,11 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/garnier-stylebar-1.jpg
+      image_2_path: /uploads/beauty--swag-truck-nyx-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ### MOBILE VEHICLE AND TRAILER TOURS
-
-
-      Create a unique consumer experience with a customized marketing vehicle
-      built, routed and staffed to reach your target audience on the road.
+  - text_block_markdown: '### Experiential Trailers'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -111,89 +106,14 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/6.jpg
-      image_2_path: /uploads/nyx-case-4.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
       image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### PR EVENTS & STUNTS
-
-
-      Our clients have stories to tell and we help turn those stories into large
-      newsworthy events. We stage and manage the event so you can focus on media
-      opportunities, feeling confident that the behind-the-scenes is covered.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/slide-drink-up.jpg
-      image_2_path: /uploads/20170516-101234.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/fine-living-island-thumb.jpg
-      image_2_path: /uploads/jetblue-story-booth.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
-    single_image_block:
-      single_image_path:
-    double_image_block:
       image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### POP-UP SHOPS
-
-
-      Make sales in unique environments that build buzz through consumer
-      exposure, while generating a feeling of relevance and interactivity.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/revlon-case-4.jpg
-      image_2_path: /uploads/maybelline-nyc-popup.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/39.jpg
-      image_2_path: /uploads/essie-thumb.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### INSURANCE ACTIVATIONS
-
-
-      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer
-      engagement and activation programs.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/case-hsbc.jpg
       image_2_path: /uploads/double-expandable-truck.png
     video_block:
       video_id:
@@ -208,62 +128,9 @@ content_section:
       image_2_path: /uploads/hcsc-rv.png
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### GRAND OPENINGS
-
-
-      We handle permitting, line management, hospitality and display production
-      so that your first impression to your guests is your best!
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
-      image_2_path: /uploads/7.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### SAMPLING & STREET TEAMS
-
-
-      Our expert routing and diverse network of brand ambassadors puts your
-      brand in consumer's hands from grassroots level engagement to major
-      events.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/lacroix-superbowl.JPG
-      image_2_path: /uploads/silk-thumb.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/garnier-case-3.jpg
-      image_2_path: /uploads/20170708_094506.jpg
-    video_block:
-      video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
