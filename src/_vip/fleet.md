@@ -86,8 +86,11 @@ content_section:
 
       Our full service approach and team of industry experts ensure every brand
       idea comes to life with originality, quality, on time and on budget.
+
+
+      Experiential Vehicles and Trailers
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/revlon-trailer.jpg
     double_image_block:
       image_1_path: /uploads/garnier-stylebar-1.jpg
       image_2_path: /uploads/beauty--swag-truck-nyx-1.jpg
@@ -95,13 +98,13 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture1-8.png
     double_image_block:
       image_1_path: /uploads/garnier-102-3657-2.jpg
       image_2_path: /uploads/lacroix-mini-and-scooters-1.jpg
     video_block:
       video_id:
-  - text_block_markdown: '### Experiential Trailers'
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
