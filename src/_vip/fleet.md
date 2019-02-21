@@ -78,16 +78,18 @@ sidebar_text_markdown: >-
   * Reporting
 content_section:
   - text_block_markdown: >-
-      Founded in 1976, EventNetUSA is one of the oldest experiential marketing
-      agencies in the industry. Repeatedly named a *Top Event Marketing
-      Agency*&nbsp;on Event Marketer's It List, and *known for producing the
-      impossible*, we provide turn-key event production and logistics to brands
-      and agencies nationwide.&nbsp;
+      EventNetUSA, 43 year experiential marketing agency, provides turnkey event
+      production and management for brands and agencies nationwide.&nbsp;
 
 
-      Our fleet of experiential vehicles and trailers is available for all your
-      mobile activation needs. Leasing from our fleet means lower costs, shorter
-      leadtimes and greater customization flexibility.&nbsp;
+      Our team of industy experts ensures every brand idea comes to life with
+      originality, quality, on time and on budget.&nbsp;
+
+
+      In addition to planning and executing your brand tours, our fleet of
+      experiential vehicles and trailers is available for your mobile activation
+      needs. *Leasing from our fleet means lower costs, shorter leadtimes and
+      greater customization flexibility.&nbsp;*
     single_image_block:
       single_image_path: /uploads/revlon-trailer-1.jpg
     double_image_block:
