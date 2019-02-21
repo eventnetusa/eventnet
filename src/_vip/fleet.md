@@ -36,43 +36,6 @@ content_section:
       Our fleet of experiential vehicles and trailers is available for all your
       mobile activation needs. Leasing from our fleet means lower costs, shorter
       leadtimes and greater customization flexibility.&nbsp;
-
-
-      **Experiential Fleet Vehicles and Trailers\***
-
-
-      * Tractor Trailers
-
-      * Goosenecks
-
-      * Bumper Pulls
-
-      * Drop Trailers
-
-      * Medical Screening Trucks, RVs and Trailers
-
-      * Food Trucks
-
-      * Airstream and Vintage Trailers
-
-      * Self-Countained Pop-Up and Fold-Out Trailers
-
-      * Executive Coach Buses
-
-      * Single and Double Expandable Trucks and RVs
-
-      * Double Decker Trailers
-
-      * Glass Box Trucks
-
-      * Custom Units
-
-
-      \*Pending availability&nbsp;
-
-
-      Have something else in mind? We'll find it, procure it and customize it on
-      your behalf.&nbsp;
     single_image_block:
       single_image_path: /uploads/revlon-trailer-1.jpg
     double_image_block:
