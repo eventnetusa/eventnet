@@ -90,7 +90,7 @@ content_section:
 
       Experiential Vehicles and Trailers
     single_image_block:
-      single_image_path: /uploads/revlon-trailer.jpg
+      single_image_path: /uploads/revlon-trailer-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
@@ -98,34 +98,34 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture1-8.png
-    double_image_block:
-      image_1_path: /uploads/garnier-102-3657-2.jpg
-      image_2_path: /uploads/lacroix-mini-and-scooters-1.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/5-2.jpg
-      image_2_path: /uploads/20161001-125153.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/6.jpg
-      image_2_path: /uploads/1-7.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture1-9.png
     double_image_block:
       image_1_path:
-      image_2_path: /uploads/double-expandable-truck.png
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/owners-com1.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/picture1-5.jpg
+    double_image_block:
+      image_1_path: /uploads/vlasic-stand.png
+      image_2_path: /uploads/yoplait-2.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/img-0047-1.jpg
+    double_image_block:
+      image_1_path: /uploads/picture6-2.png
+      image_2_path: /uploads/picture7.png
     video_block:
       video_id:
   - text_block_markdown: |-
@@ -135,8 +135,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/hcsc-case-3.jpg
-      image_2_path: /uploads/hcsc-rv.png
+      image_1_path: /uploads/picture12-1.jpg
+      image_2_path: /uploads/picture11-6.jpg
     video_block:
       video_id:
 _comments:
