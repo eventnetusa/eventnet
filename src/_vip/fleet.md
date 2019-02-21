@@ -9,20 +9,72 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Something catch your eye?
 cta_text: Let's Talk!
-sidebar_text_markdown: |-
+sidebar_text_markdown: >-
+  ### Experiential Fleet Vehicles and Trailers\*
+
+
+  * Tractor Trailers
+
+  * Goosenecks
+
+  * Bumper Pulls
+
+  * Drop Trailers
+
+  * Medical Screening Trucks, RVs and Trailers
+
+  * Food Trucks
+
+  * Airstream and Vintage Trailers
+
+  * Self-Countained Pop-Up and Fold-Out Trailers
+
+  * Executive Coach Buses
+
+  * Single and Double Expandable Trucks and RVs
+
+  * Double Decker Trailers
+
+  * Glass Box Trucks
+
+  * Custom Units
+
+
+  \*Pending availability&nbsp;
+
+
+  Have something else in mind? We'll find it, procure it and customize it on
+  your behalf.&nbsp;
+
+
+  ### &nbsp;
+
+
   ### Turnkey Service Offerings Include
 
+
   * Ideation, Design & Brand Customization
+
   * Graphic & Display Production
+
   * Venue & Vehicle Procurement
+
   * Routing & Logistics
+
   * Permitting & Legal
+
   * Staff & Training
+
   * Social Media Integration
+
   * Budget Forecasting
+
   * Account Management
+
   * Liability Insurance
+
   * Risk Management
+
   * Reporting
 content_section:
   - text_block_markdown: >-
