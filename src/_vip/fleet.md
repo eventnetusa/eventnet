@@ -9,86 +9,67 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Something catch your eye?
 cta_text: Let's Talk!
-sidebar_text_markdown: >-
+sidebar_text_markdown: |-
   ### Turnkey Service Offerings Include
 
-
   * Ideation, Design & Brand Customization
-
   * Graphic & Display Production
-
   * Venue & Vehicle Procurement
-
   * Routing & Logistics
-
   * Permitting & Legal
-
   * Staff & Training
-
   * Social Media Integration
-
   * Budget Forecasting
-
   * Account Management
-
   * Liability Insurance
-
   * Risk Management
-
   * Reporting
-
-
-  &nbsp;
-
-
-  ### Bragworthy Hightlights
-
-
-  * Named Top Event Marketing Agency for 15th year on Event Marketer's [It
-  List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/)
-
-  * Built private tropical island in the Hudson River for one lucky family's
-  Fine Living vacation
-
-  * Granted security clearance for producing high profile PR Events by both
-  United States Homeland Security and Secret Service
-
-  * Managed over 1,500 event days over past 5 years. That's over 310 event day's
-  per year
-
-  * Managed over 140 different Mobile Marketing Vehicle Tours over past 10 years
-
-  * Produced consumer events for major sports organizations including NBA, NFL,
-  MLB and PGA
-
-  * Delivered major client brand exposure at some of the world's largest events
-  including the ESPY Awards, NBA All-Star Game, Grammy's, Emmy's, New York
-  Fashion Week, US Women's Open Ski Tournament and Super Bowl XLIV
-
-  * Agency of record for Mini Cooper's US launch
-
-  * Introduced Affordable Care Act to thousands of consumers for one of the
-  country's top Health Insurance Providers
-
-  * Only agency It List agency named for Health Insurance Activations
-
-  * Led digital fantasy sports phenomenon by taking CBS Interactive on the road
-  to debut its fantasy sports website
 content_section:
   - text_block_markdown: >-
       Founded in 1976, EventNetUSA is one of the oldest experiential marketing
-      agencies in the industry. Named a *Top Event Marketing Agency* for the
-      15th year on Event Marketer's [It
-      List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/),
-      and *known for producing the impossible*, we provide turn-key event
-      production and logistics to brands and agencies nationwide.&nbsp;
+      agencies in the industry. Repeatedly named a *Top Event Marketing
+      Agency*&nbsp;on Event Marketer's It List, and *known for producing the
+      impossible*, we provide turn-key event production and logistics to brands
+      and agencies nationwide.&nbsp;
 
 
-      Our full service approach and team of industry experts ensure every brand
-      idea comes to life with originality, quality, on time and on budget.
+      Our fleet of experiential vehicles and trailers is available for all your
+      mobile activation needs. Leasing from our fleet means lower costs, shorter
+      leadtimes and greater customization flexibility.&nbsp;
 
 
-      Experiential Vehicles and Trailers
+      **Experiential Fleet Vehicles and Trailers**
+
+
+      * Tractor Trailers
+
+      * Goosenecks
+
+      * Bumper Pulls
+
+      * Drop Trailers
+
+      * Medical Screening Trucks, RVs and Trailers
+
+      * Food Trucks
+
+      * Airstream and Vintage Trailers
+
+      * Self-Countained Pop-Up and Fold-Out Trailers
+
+      * Executive Coach Buses
+
+      * Single and Double Expandable Trucks and RVs
+
+      * Double Decker Trailers
+
+      * Glass Box Trucks
+
+      * Custom Units
+
+
+      Have something else in mind? We'll find it, procure it and customize it on
+      your behalf.&nbsp;
     single_image_block:
       single_image_path: /uploads/revlon-trailer-1.jpg
     double_image_block:
