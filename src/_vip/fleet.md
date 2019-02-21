@@ -38,7 +38,7 @@ content_section:
       leadtimes and greater customization flexibility.&nbsp;
 
 
-      **Experiential Fleet Vehicles and Trailers**
+      **Experiential Fleet Vehicles and Trailers\***
 
 
       * Tractor Trailers
@@ -66,6 +66,9 @@ content_section:
       * Glass Box Trucks
 
       * Custom Units
+
+
+      \*Pending availability&nbsp;
 
 
       Have something else in mind? We'll find it, procure it and customize it on
