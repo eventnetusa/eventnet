@@ -56,7 +56,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**TURN-KEY MALL POP-UP PROGRAM**'
+  - text_block_markdown: '**MALL POP-UP EVENTS**'
     single_image_block:
       single_image_path:
     double_image_block:
