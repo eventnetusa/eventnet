@@ -64,18 +64,34 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture7-5.jpg
     double_image_block:
-      image_1_path: /uploads/picture6.jpg
-      image_2_path: /uploads/picture7-1.jpg
+      image_1_path: /uploads/picture1-2-1.jpg
+      image_2_path: /uploads/picture112.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/ed1213154625-preview.jpg
+      single_image_path: /uploads/picture16.jpg
     double_image_block:
-      image_1_path: /uploads/img-8449-preview.jpg
-      image_2_path: /uploads/img-84272preview.jpg
+      image_1_path: /uploads/picture17-1.jpg
+      image_2_path: /uploads/picture8-3.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/picture9-2.jpg
+    double_image_block:
+      image_1_path: /uploads/picture14-2.jpg
+      image_2_path: /uploads/picture18.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/picture10-1.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
 project_logos:
