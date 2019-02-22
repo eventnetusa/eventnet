@@ -24,7 +24,7 @@ sidebar_text_markdown: |-
   * Hilton Honors
     * Distributed over 250,000 post cards
 
-  ### **Turnkey Service Offerings:**
+  ### Turnkey Service Offerings
 
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
