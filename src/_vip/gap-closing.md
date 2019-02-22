@@ -61,7 +61,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/img-1053.JPG
-      image_2_path: /uploads/photo-mar-01-11-53-47-am.jpg
+      image_2_path: /uploads/humana-no-logo.png
     video_block:
       video_id:
   - text_block_markdown: >-
