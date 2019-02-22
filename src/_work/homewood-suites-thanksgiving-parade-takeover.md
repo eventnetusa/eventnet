@@ -47,11 +47,11 @@ content_section:
       **A LOOK BEHIND THE SCENES**
 
 
-      * Recruited, trianed and staffed 70 Program Managers and in-field Brand
+      * Recruited, trained and staffed 70 Program Managers and in-field Brand
       Ambassadors
 
 
-      * Utlized iPads to capture consumer information and holiday photos
+      * Utilized iPads to capture consumer information and holiday photos
 
 
       * Distributed over 250,000 post cards, sharing the benefits of Hilton
