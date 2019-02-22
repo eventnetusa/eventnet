@@ -58,6 +58,10 @@ content_section:
       travel rewards program
 
 
+      * Distributed exclusive Homewood Suites ear and hand warmers to 1,000
+      lucky recipients
+
+
       * Executed total program logistics including site coordination, street
       team routing, software development, hardware rental, staffing, branded
       uniform and reporting
