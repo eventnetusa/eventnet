@@ -54,8 +54,8 @@ content_section:
       * Utilized iPads to capture consumer information and holiday photos
 
 
-      * Distributed over 250,000 post cards, sharing the benefits of Hilton
-      Honors
+      * Distributed over 250,000 post cards, sharing benefits of Hilton Honors
+      travel rewards program
 
 
       * Executed total program logistics including site coordination, optimal
