@@ -2,7 +2,7 @@
 client: Aetna
 link_to_casestudy: true
 sort_number: 10
-headline: Medicare Pop-Up Store
+headline: Medicare Enrollment Pop-Up Store
 hover_text: >-
   Aetna opened its first annual enrollment period Medicare Pop-Up Store to reach
   and assist senior citizens in Strongsville, OH.
