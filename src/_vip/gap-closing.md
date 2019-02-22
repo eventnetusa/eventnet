@@ -65,8 +65,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      &nbsp;EventNetUSA will secure malls in your targeted zip codes, produce
-      and set up branded event elements and provide trained staff and greeters.
+      EventNetUSA will secure malls in your targeted zip codes, produce and set
+      up branded event elements and provide trained staff and greeters. Your
+      licensed agents and screening vendors just have to show up!&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
