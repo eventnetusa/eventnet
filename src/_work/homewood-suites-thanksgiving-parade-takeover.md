@@ -15,6 +15,17 @@ types:
 cta_text: Need a turnkey event solution?
 cta: Let's talk
 sidebar_text_markdown: |-
+  ### QuickStats
+
+  * Homewood Suites
+    * 3,000+ Active impressions
+    * 50,000+ Passive impressions
+    * 1,000 Exclusive Swag Giveaways
+  * Hilton Honors
+    * Distributed over 250,000 post cards
+
+  &nbsp;
+
   ### **Turnkey Service Offerings:**
 
   * Ideation, Design & Brand Customization
@@ -29,43 +40,28 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      EventNetUSA partnered with rbb Communications to produce a interactive
-      experience to engage media guest and their families during a two hour
-      Holiday Photo Influencer event for Homewood Suites. The "Winter
-      Wonderland" themed event's interactive elements included a staged photo
-      area with onsite printing and digital delivery capabilities and a fun DIY
-      activity to "channel your creativity with Homewood Suites".
-
-
-      &nbsp;
+      EventNetUSA partnered with rbb Communications, Homewood Suites and Hilton
+      Honors to take over the NYC Thanksgiving Day Parade!&nbsp; Parade goers
+      participated in custom winter wonderland photos and posted to social media
+      for a chance to win the grand prize valued at $4,999!&nbsp;
 
 
       **A LOOK BEHIND THE SCENES**
 
 
-      * Successfully executed winter wonderland media event and influencer
-      presentation under a tight 3 week timeline.
+      * Recruited, trianed and staffed 70 Program Managers and in-field Brand
+      Ambassadors
 
 
-      * Transformed the indoor dining area and outdoor patio of Homewood Suites
-      Times Square into a white winter scene.
+      * Utlized iPads to capture consumer information and holiday photos
 
 
-      * Vetted and managed holiday inspired catering
+      * Distributed over 250,000 post cards, sharing the benefits of Hilton
+      Honors
 
 
-      * Engaged guests with over-sized snow globe photo activation allowing them
-      to climb into the globe and play around in "snow"
-
-
-      * Inspired creativity with DIY ornament station that included over-sized
-      ornaments and decorating materials along with a take home box
-
-
-      * Managed AV set up for influencer presentation
-
-
-      <br>&nbsp;
+      * Executed total program logistics including site coordination, optimal
+      routing, software development, hardware rental, staffing and reporting
 
 
       &nbsp;
