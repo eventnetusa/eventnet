@@ -4,7 +4,7 @@ link_to_casestudy: true
 sort_number: 1
 headline: Tough Mudder Presenting Sponsorship
 hover_text: >-
-  Eight months, 39 markets, 122 event days... CELSIUS' presenting sponsorship of
+  Seven months, 39 markets, 122 event days... CELSIUS' presenting sponsorship of
   Tough Mudder 2018 was a dirty job!
 hero_image_path: /uploads/hero-image-4.png
 thumbnail_image_path: /uploads/thumbnail-4.jpg
@@ -41,7 +41,31 @@ content_section:
       fulltime, seven-month, muddy tour.
 
 
-      &nbsp;
+      * Liaised and managed overall program logistics and requirements between
+      CELSIUS corporate team and Tough Mudder producers
+
+      * Routed tour according to Tough Mudder event schedule and incorporated
+      eight guerrilla sampling markets
+
+      * Required splitting into two simultaneous tours when events overlapped
+      weekends in different markets
+
+      * Recruited, hired, trained and managed two full-time Tour Managers and
+      local Brand Ambassadors in each market
+
+      * Transported all CELSIUS activation assets in branded box truck
+
+      * Designed CELSIUS footprint for Mudder Village and ancillary sampling
+      stations and produced all assets
+
+      * Managed all event set-up, teardown and troubleshooting
+
+      * Provided onsite quality control and delivery against contracted
+      sponsorship agreement
+
+      * Managed product, swag, asset and sweepstakes inventory
+
+      * Supported VIP event influencer needs for FloRida and Mario Lopez
     single_image_block:
       single_image_path:
     double_image_block:
