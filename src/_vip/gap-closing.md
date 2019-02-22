@@ -77,9 +77,9 @@ content_section:
       video_id:
   - text_block_markdown: '**POP-UP RETAIL STORES**'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture19.png
     double_image_block:
-      image_1_path: /uploads/picture3-updated.jpg
+      image_1_path: /uploads/picture20.png
       image_2_path: /uploads/picture4-updated.jpg
     video_block:
       video_id:
