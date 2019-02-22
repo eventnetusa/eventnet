@@ -8,20 +8,25 @@ hover_text: >-
   engage media guest and their families during a two hour Holiday Photo
   Influencer event for Homewood Suites
 hero_image_path: /uploads/2img-8429-preview.jpg
-thumbnail_image_path: /uploads/picture11-2.jpg
+thumbnail_image_path: /uploads/picture7-4.jpg
 types:
   - pr event
+  - street team
 cta_text: Need a turnkey event solution?
 cta: Let's talk
 sidebar_text_markdown: |-
-  ### QUICK STATS
+  ### **Turnkey Service Offerings:**
 
-  * Private Media and Influencer Event
-  * Winter Wonderland theme
-  * Invite-only, 50 guests
-  * Photo activation, DIY station and light hospitality
-
-  &nbsp;
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue & Vehicle Procurement
+  * Routing & Logistics
+  * Staffing & Training
+  * Budget Forecasting and Management
+  * Liability Insurance & Risk Management
+  * Account Management & Reporting
+  * Social Media Integration
+  * Permitting & Legal
 content_section:
   - text_block_markdown: >-
       EventNetUSA partnered with rbb Communications to produce a interactive
