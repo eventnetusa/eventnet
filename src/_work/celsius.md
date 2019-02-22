@@ -46,10 +46,7 @@ content_section:
 
       * Routed tour according to Tough Mudder event schedule and incorporated
       eight guerrilla sampling markets
-
-      * Required splitting into two simultaneous tours when events overlapped
-      weekends in different markets
-
+        * Required splitting into two simultaneous tours when events overlapped weekends in different markets
       * Recruited, hired, trained and managed two full-time Tour Managers and
       local Brand Ambassadors in each market
 
