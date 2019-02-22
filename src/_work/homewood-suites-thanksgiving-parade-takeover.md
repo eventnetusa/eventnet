@@ -102,6 +102,8 @@ content_section:
 project_logos:
   - logo_image_path: /uploads/homewood-suites-by-hilton.png
     logo_image_height:
+  - logo_image_path: /uploads/hilton-honors-loyalty-program.jpg
+    logo_image_height:
   - logo_image_path: /uploads/rbblogo.jpg
     logo_image_height:
 related_client_logos:
