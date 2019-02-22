@@ -93,7 +93,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**MOBILE ASSISTANCE CENTER (MAC**)'
+  - text_block_markdown: '**MOBILE ACTIVATION CENTER (MAC**)'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -102,11 +102,11 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Your Medicare mobile assistance center contains seating for 8, video
-      screen, and generator to provide electricity. MAC can be used indoor or
-      outdoor and can be easily pulled by a car or light truck trailer hitch.
-      Set up time: 20 minutes. EventNetUSA can supply driver/greeter and manage
-      set up upon request. We can also work with you on routing.
+      Your Medicare mobile activation center contains seating for 9, video
+      screen, and generator-run electricity. MAC can be used indoor or outdoor
+      and can be easily pulled by a car or light truck trailer hitch. Set up
+      time: 20 minutes. EventNetUSA can supply driver/greeter and manage set up
+      upon request. We can also work with you on routing.
     single_image_block:
       single_image_path:
     double_image_block:
