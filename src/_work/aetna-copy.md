@@ -58,8 +58,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/storefront-before-resized.png
-      image_2_path: /uploads/storefront-resized-after.jpg
+      image_1_path: /uploads/storefront-before-2-1.png
+      image_2_path: /uploads/storefront-resized-after-2-1.jpg
     video_block:
       video_id:
   - text_block_markdown:
