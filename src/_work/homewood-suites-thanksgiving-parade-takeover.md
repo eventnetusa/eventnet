@@ -2,7 +2,7 @@
 client: Homewood Suites & Hilton Honors
 link_to_casestudy: true
 sort_number: 14
-headline: Homewood Suites & Hilton Honors Thanksgiving Day Parade Take-Over
+headline: NYC Thanksgiving Day Parade Take-Over
 hover_text: >-
   rbb Communications retained EventNetUSA to produce a interactive experience to
   engage media guest and their families during a two hour Holiday Photo
