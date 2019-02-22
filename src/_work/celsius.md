@@ -118,14 +118,14 @@ project_logos:
   - logo_image_path: /uploads/celsius-logo.jpg
     logo_image_height:
 related_client_logos:
-  - logo_image_path:
+  - logo_image_path: /uploads/soap-and-glory.jpg
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/cbs-sports-1.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/carnival.jpg
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/la-croix-1.png
     logo_image_height:
-  - logo_image_path:
+  - logo_image_path: /uploads/ronzoni-1.png
     logo_image_height:
 ---
