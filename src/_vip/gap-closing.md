@@ -1,13 +1,13 @@
 ---
 small_headline: GAP  CLOSING AND QUALITY IMPROVEMENT
-large_headline: 'HEALTH SCREENINGS, EDUCATION & ENROLLMENT'
-hero_image_path: /uploads/2018-ins-planning-hero-1.jpg
+large_headline: 'HEDIS, HEALTH SCREENINGS, EDUCATION & ENGAGEMENT'
+hero_image_path: /uploads/hero-image-9.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: 'Ready to engage, activate and enroll?'
+cta_headline: Ready to close gaps in member care?
 cta_text: Let's Talk
 sidebar_text_markdown: |-
   **Turnkey Service Offerings:**
@@ -24,23 +24,31 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      Named the leading agency in *Health Insurance Activation*
+      ##### Named the leading agency in *Health Insurance Activation*
       ([EventMarketer's It
       List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)) we know
-      how to engage your targeted demographic to close gaps in care, increase
+      how to engage your target demographic to close gaps in care, help increase
       HEDIS rating and maximize brand exposure.
 
 
-      Our turn-key proven programs include:
+      ##### &nbsp;
 
 
-      * Recurring Pop-Up Events
+      ##### Our turn-key programs include:
+
 
       * Mobile Screening & Activation Centers
+
+      * Events at Socially Active Retirement Communities (SARC(TM))
+
+      * Recurring Pop-Up Events
 
       * Retail Partner Events
 
       * Community Event Sponsorships
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -147,7 +155,7 @@ content_section:
       video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
