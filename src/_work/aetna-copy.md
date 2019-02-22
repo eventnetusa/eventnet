@@ -14,7 +14,19 @@ types:
   - retail
 cta_text: Interested in your own pop-up store?
 cta: Let's talk
-sidebar_text_markdown:
+sidebar_text_markdown: |-
+  ### **Turnkey Service Offerings:**
+
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue & Vehicle Procurement
+  * Routing & Logistics
+  * Staffing & Training
+  * Budget Forecasting and Management
+  * Liability Insurance & Risk Management
+  * Account Management & Reporting
+  * Social Media Integration
+  * Permitting & Legal
 content_section:
   - text_block_markdown:
     single_image_block:
