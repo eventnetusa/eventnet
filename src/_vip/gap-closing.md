@@ -24,17 +24,17 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      ##### Named the leading agency in *Health Insurance Activation*
+      Named the leading agency in *Health Insurance Activation*
       ([EventMarketer's It
       List](http://www.eventmarketer.com/it-list-2017/?q=winner-283)) we know
       how to engage your target demographic to close gaps in care, help increase
       HEDIS rating and maximize brand exposure.
 
 
-      ##### &nbsp;
+      &nbsp;
 
 
-      ##### Our turn-key programs include:
+      #### Our turn-key programs include:
 
 
       * Mobile Screening & Activation Centers
