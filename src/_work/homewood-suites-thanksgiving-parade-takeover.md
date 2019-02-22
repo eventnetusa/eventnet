@@ -12,7 +12,7 @@ thumbnail_image_path: /uploads/picture7-4.jpg
 types:
   - pr event
   - street team
-cta_text: Need a turnkey event solution?
+cta_text: Want to do something WOW worthy?
 cta: Let's talk
 sidebar_text_markdown: |-
   ### QuickStats
