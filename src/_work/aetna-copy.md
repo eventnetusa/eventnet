@@ -64,14 +64,14 @@ project_logos:
   - logo_image_path:
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/advil.png
+  - logo_image_path: /uploads/humana-3.png
     logo_image_height:
-  - logo_image_path: /uploads/chevy.png
+  - logo_image_path: /uploads/revlon-2.jpg
     logo_image_height:
-  - logo_image_path: /uploads/jetblue.png
+  - logo_image_path: /uploads/garnier-2.png
     logo_image_height:
-  - logo_image_path: /uploads/mm.png
+  - logo_image_path: /uploads/nyx-logo-2.png
     logo_image_height:
-  - logo_image_path: /uploads/fineliving.png
+  - logo_image_path: /uploads/owners-com-logo-1.jpg
     logo_image_height:
 ---
