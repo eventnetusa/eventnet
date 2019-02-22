@@ -58,8 +58,9 @@ content_section:
       travel rewards program
 
 
-      * Executed total program logistics including site coordination, optimal
-      routing, software development, hardware rental, staffing and reporting
+      * Executed total program logistics including site coordination, street
+      team routing, software development, hardware rental, staffing, branded
+      uniform and reporting
 
 
       &nbsp;
