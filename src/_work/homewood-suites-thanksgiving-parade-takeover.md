@@ -100,14 +100,14 @@ project_logos:
   - logo_image_path: /uploads/rbblogo.jpg
     logo_image_height:
 related_client_logos:
-  - logo_image_path: /uploads/2hilton-hhonors-logo.jpg
+  - logo_image_path: /uploads/t-mobile.png
     logo_image_height:
-  - logo_image_path: /uploads/jetblue-1.png
+  - logo_image_path: /uploads/advil-1.png
     logo_image_height: 40%
-  - logo_image_path: /uploads/2carnival-cruise-line-logo-svg.png
+  - logo_image_path: /uploads/la-croix-2.png
     logo_image_height: 40%
-  - logo_image_path: /uploads/fineliving-1.png
+  - logo_image_path: /uploads/nyx-logo-3.png
     logo_image_height: 60%
-  - logo_image_path: /uploads/mini-1.png
+  - logo_image_path: /uploads/celsius-2.jpg
     logo_image_height:
 ---
