@@ -173,8 +173,7 @@ content_section:
       image_2_path: /uploads/essie-thumb.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -192,7 +191,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/case-hsbc.jpg
-      image_2_path: /uploads/double-expandable-truck.png
+      image_2_path: /uploads/humana-no-logo-1.png
     video_block:
       video_id:
   - text_block_markdown: |-
