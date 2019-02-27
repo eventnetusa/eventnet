@@ -162,7 +162,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/revlon-case-4.jpg
-      image_2_path: /uploads/maybelline-nyc-popup.jpg
+      image_2_path: /uploads/nice-exterior-shot.jpg
     video_block:
       video_id:
   - text_block_markdown:
