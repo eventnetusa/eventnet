@@ -201,7 +201,7 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/hcsc-case-3.jpg
+      image_1_path: /uploads/mac-outside-2.png
       image_2_path: /uploads/hcsc-rv.png
     video_block:
       video_id:
