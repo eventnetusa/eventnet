@@ -97,7 +97,7 @@ content_section:
       ### MOBILE VEHICLE AND TRAILER TOURS
 
 
-      Create a unique consumer experience with a customized marketing vehicle
+      Create unique consumer experiences using customized marketing vehicles
       built, routed and staffed to reach your target audience on the road.
     single_image_block:
       single_image_path:
@@ -114,8 +114,7 @@ content_section:
       image_2_path: /uploads/nyx-case-4.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -145,8 +144,7 @@ content_section:
       image_2_path: /uploads/jetblue-story-booth.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -158,7 +156,7 @@ content_section:
       ### POP-UP SHOPS
 
 
-      Make sales in unique environments that build buzz through consumer
+      Drive sales in one-of-a-kind environments that build buzz through consumer
       exposure, while generating a feeling of relevance and interactivity.
     single_image_block:
       single_image_path:
@@ -188,7 +186,7 @@ content_section:
       ### INSURANCE ACTIVATIONS
 
 
-      Industry leaders repeatedly contract with EventNetUSA for turnkey consumer
+      Industry leaders repeatedly turn to EventNetUSA for turn-key consumer
       engagement and activation programs.
     single_image_block:
       single_image_path:
@@ -208,8 +206,7 @@ content_section:
       image_2_path: /uploads/hcsc-rv.png
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -230,8 +227,7 @@ content_section:
       image_2_path: /uploads/7.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ___________________________________________________________________________
+  - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
@@ -263,7 +259,7 @@ content_section:
       video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
