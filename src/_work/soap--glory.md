@@ -57,14 +57,14 @@ content_section:
       * Deliver key brand messaging, where-to-buy information and coupons to
       Tough Mudder participants
 
-      * Assemble giveaway prize bags, select winners and distribute on-site
+      * Assemble giveaway prize bags, select winners and distribute onsite
 
       * Full size product and sample inventory management
 
       * Confirm placement of product, signage and other contracted commitments
-      through-out event course
+      throughout event course
 
-      * Re-stock rinse station product when fully utilized
+      * Restock rinse station product when fully utilized
 
       * Daily event metric and photo recaps
 
