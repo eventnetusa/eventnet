@@ -10,80 +10,41 @@ hero_image_path: /uploads/hero-imge.png
 thumbnail_image_path: /uploads/thumbnail-1.jpeg
 content_section:
   - text_block_markdown: >-
-      Original content can be seen on
-      [L](https://www.honolulumagazine.com/Calendar/index.php/name/Health-and-Wellness-Pop-Up/event/11997/requiressl/true/){:
-      target="_blank"}[awndaleNews.com](__notset__)
+      Original content can be seen on Lawndalenews.com
 
 
-      Health and well-being company Humana Inc. will host a series of free
-      community events starting in March at Pearlridge Center Mauka to educate
-      Honolulu area residents on health and wellness.
+      On Tuesday, March 5th, leading health and well-being company Humana opened
+      a new community location in Norridge, inside Harlem Irving Plaza (“the
+      HIP”).&nbsp; Situated at the center of the mall, near parking garage
+      entrances “C” and “H,” the location is open every Tuesday.
 
 
-      The Humana pop-up location will offer free health and wellness classes
-      that are open to anyone in the community, such as healthy snack and
-      smoothie demonstrations, crafting classes, diabetes and nutrition
-      education, and SilverSneakers Fitness Program demonstrations. Customer
-      service representatives will also be available to answer questions on
-      Humana health plans.
+      Activities include
 
 
-      The events are free and open to the public.
+      * Cooking demonstrations
+
+      * Exercise classes
+
+      * Educational seminars
+
+      * Social activities like crafts and bingo
 
 
-      **March Schedule of Events:**
+      Humana membership is not required for most activities.&nbsp; It’s a place
+      to make friends, have fun, and engage in healthy activities – and in
+      addition, anyone with a Humana health plan can get help with customer
+      service questions.
 
 
-      Thursday, March 7, 2019:
+      The new location is part of Humana’s commitment to improving the health
+      and well-being of the communities it serves.&nbsp; Humana has opened
+      community locations in 18 states as a way to break down barriers to health
+      and help community members live healthier lives.&nbsp;
 
 
-      * 10 a.m.: Farm Bingo
-
-      * 11 a.m.: Fruits & Vegetables: Color Yourself Healthy
-
-      * 12 p.m.: Brain Games:&nbsp; Monopoly
-
-      * 1 p.m.: DIY Craft: Beaded Jewelry
-
-      * 2 p.m.: Healthy Smoothie Demo: Pineapple Green Smoothie
-
-
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      &nbsp;&nbsp;&nbsp;
-
-
-      Friday, March 8, 2019:
-
-
-      * 10 a.m.: DIY Craft: Rock Painting
-
-      * 11 a.m.: Healthy Sleep
-
-      * 12 p.m.: Brain Games: Mahjong
-
-      * 1 p.m.: Ukulele 101 (bring your own ukulele)
-
-      * 2 p.m.: Healthy Snack Demo: High Fiber Trail Mix
-
-
-      &nbsp;
-
-
-      Saturday, March 9, 2019:
-
-
-      * 10 a.m.: Adult Coloring: Flowers
-
-      * 11 a.m.: Protein: Are You Getting Enough?
-
-      * 12 p.m.: Brain Games: Puzzles
-
-      * 1 p.m.: Farm Bingo
-
-      * 2 p.m.: Healthy Smoothie Demo: Banana Protein
-
-
-      &nbsp;
+      Humana’s Norridge community location is open every Tuesday from 9a.m. to
+      3p.m.&nbsp; For more information, call 331-315-5219.
     single_image_block:
       single_image_path:
     double_image_block:
