@@ -4,8 +4,8 @@ date: 2019-03-08 00:01:00
 filter: press
 featured_post: false
 excerpt: 'Humana takes its Pop-Up Guidance Center Program to seniors in Honolulu, Hawaii'
-hero_image_path: /uploads/hero-image-4-2.png
-thumbnail_image_path: /uploads/popuplocation-f68cadbf.jpeg
+hero_image_path: /uploads/hero-image-10.png
+thumbnail_image_path: /uploads/thumbnail.jpeg
 content_section:
   - text_block_markdown: >-
       Original content can be seen on
