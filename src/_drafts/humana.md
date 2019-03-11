@@ -6,13 +6,13 @@ featured_post: true
 excerpt: >-
   Humana takes its Pop-Up Guidance Center Program to seniors at Harlem Irving
   Plaza in Chicago. IL
-hero_image_path: /uploads/hero-image-10.png
-thumbnail_image_path: /uploads/thumbnail.jpeg
+hero_image_path: /uploads/hero-imge.png
+thumbnail_image_path: /uploads/thumbnail-1.jpeg
 content_section:
   - text_block_markdown: >-
       Original content can be seen on
-      [HonoluluMagazine.com](https://www.honolulumagazine.com/Calendar/index.php/name/Health-and-Wellness-Pop-Up/event/11997/requiressl/true/){:
-      target="_blank"}
+      [L](https://www.honolulumagazine.com/Calendar/index.php/name/Health-and-Wellness-Pop-Up/event/11997/requiressl/true/){:
+      target="_blank"}[awndaleNews.com](__notset__)
 
 
       Health and well-being company Humana Inc. will host a series of free
