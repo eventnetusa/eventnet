@@ -1,9 +1,9 @@
 ---
-title: Humana Pearlridge Center
-date: 2018-04-11 00:01:00
+title: 'Humana Pop-Up Medicare Event , Hawaii'
+date: 2019-03-08 00:01:00
 filter: press
 featured_post: true
-excerpt: Carnival Cruise Line Hits the Road Again with Agentpalooza 2018!
+excerpt: 'Humana takes its Pop-Up Guidance Center Program to seniors in Honolulu, Hawaii'
 hero_image_path: /uploads/agentpalooza-logo-fn-one-color-blog-hero-image.jpg
 thumbnail_image_path: /uploads/agentpalooza-2018-thumbnail.png
 content_section:
@@ -86,3 +86,4 @@ content_section:
     video_block:
       video_id:
 ---
+
