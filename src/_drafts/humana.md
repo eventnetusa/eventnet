@@ -1,9 +1,11 @@
 ---
-title: Humana
-date: 2019-03-08 00:01:00
+title: 'Humana Pop-Up Guidance Center in Chicago, IL'
+date: 2019-03-07 00:01:00
 filter: press
-featured_post: false
-excerpt: 'Humana takes its Pop-Up Guidance Center Program to seniors in Honolulu, Hawaii'
+featured_post: true
+excerpt: >-
+  Humana takes its Pop-Up Guidance Center Program to seniors at Harlem Irving
+  Plaza in Chicago. IL
 hero_image_path: /uploads/hero-image-10.png
 thumbnail_image_path: /uploads/thumbnail.jpeg
 content_section:
@@ -98,3 +100,4 @@ content_section:
     video_block:
       video_id:
 ---
+
