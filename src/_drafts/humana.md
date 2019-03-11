@@ -10,7 +10,7 @@ hero_image_path: /uploads/hero-imge.png
 thumbnail_image_path: /uploads/thumbnail-1.jpeg
 content_section:
   - text_block_markdown: >-
-      Original content can be seen on Lawndalenews.com
+      Original content can be seen on Lawndalenews.com.
 
 
       On Tuesday, March 5th, leading health and well-being company Humana opened
