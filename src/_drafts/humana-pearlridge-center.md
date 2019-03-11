@@ -89,5 +89,13 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/popuplocation-f68cadbf-1.jpeg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 ---
 
