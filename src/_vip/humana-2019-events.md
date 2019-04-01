@@ -1,7 +1,7 @@
 ---
 small_headline:
 large_headline: 2019 Humana Events Update
-hero_image_path: /uploads/img-0895-1.JPG
+hero_image_path: /uploads/hero-image-11.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
