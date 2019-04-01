@@ -68,8 +68,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/picture1-10.png
-      image_2_path: /uploads/picture2-7.png
+      image_1_path: /uploads/picture1-2-1.png
+      image_2_path: /uploads/picture2-2-1.png
     video_block:
       video_id:
   - text_block_markdown: '#### **TYRONE SQUARE MALL, TAMPA, FL**'
