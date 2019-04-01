@@ -28,12 +28,11 @@ sidebar_text_markdown: |-
   #### &nbsp;
 content_section:
   - text_block_markdown: >-
-      EventNetUSA's Humana Pop-Up Mall Program has been such a success in the
-      Chicago and Tampa locations that we are expanding and would like to
-      partner with your mall!
+      It's only April and we've been very busy launching new Humana programs
+      around the country.&nbsp;
 
 
-      See examples of our mall program below.
+      Since January, we've launched three new Pop-Up Guidance Center markets.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -41,7 +40,10 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '---'
+  - text_block_markdown: |-
+      **Harlem Irving Plaza in Chicago, IL**
+
+      ---
     single_image_block:
       single_image_path:
     double_image_block:
