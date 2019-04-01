@@ -64,14 +64,6 @@ content_section:
       image_2_path: /uploads/picture2-2-1.png
     video_block:
       video_id:
-  - text_block_markdown: '#### **TYRONE SQUARE MALL, TAMPA, FL**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/photo-feb-13-1-33-50-pm.jpg
-      image_2_path: /uploads/photo-feb-06-9-10-37-am.jpg
-    video_block:
-      video_id:
   - text_block_markdown: '#### **Harlem Irving Plaza in Chicago, IL**'
     single_image_block:
       single_image_path: /uploads/hip-2019.jpg
