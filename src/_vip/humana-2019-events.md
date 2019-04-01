@@ -1,6 +1,6 @@
 ---
-small_headline:
-large_headline: 2019 Humana Events Update
+small_headline: 2019 Humana Events
+large_headline: Hosting Seniors at Pop-Up Guidance Centers & Events Around the Country
 hero_image_path: /uploads/hero-image-11.png
 vip_project_type: B2B
 hide_social_links: true
