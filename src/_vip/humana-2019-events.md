@@ -1,12 +1,12 @@
 ---
-small_headline: POP-UP MALL PROGRAM
-large_headline: HUMANA WELLNESS EVENTS
+small_headline:
+large_headline: 2019 Humana Events Update
 hero_image_path: /uploads/img-0895-1.JPG
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 sidebar_text_markdown: |-
-  #### **Wellness Event Includes**
+  #### **Pop-Up Guidance Center Events Include**
 
   * Education
   * Demonstration
@@ -23,7 +23,7 @@ sidebar_text_markdown: |-
   * Thank You Letters to Military
   * Guest Speakers
   * Bingo
-  * Computer Classes
+  * Computer & Technology Classes
 
   #### &nbsp;
 content_section:
