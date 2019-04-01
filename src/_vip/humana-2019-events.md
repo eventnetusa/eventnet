@@ -73,8 +73,11 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Our Pop-Up GC at Yorktown Mall in Lombard, IL is still running strong too,
-      now in its second year.&nbsp;
+      #### ---------------------------------------------------------------
+
+
+      #### Our Pop-Up GC at Yorktown Mall in Lombard, IL is still running strong
+      too, now in its second year.&nbsp;
     single_image_block:
       single_image_path: /uploads/img-1080.JPG
     double_image_block:
