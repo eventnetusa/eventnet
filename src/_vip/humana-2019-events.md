@@ -40,8 +40,10 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      #### ---------------------------------------------------------------
+  - text_block_markdown: >-
+      ####
+      ------------------------------------------------------------------------------------------------------------------------------
+
 
       #### **Tacoma Mall in Tacoma, WA**
     single_image_block:
@@ -51,8 +53,10 @@ content_section:
       image_2_path: /uploads/photo-mar-12-12-23-26-pm.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
-      #### ---------------------------------------------------------------
+  - text_block_markdown: >-
+      ####
+      ------------------------------------------------------------------------------------------------------------------------------
+
 
       #### **Pearlridge Center in Honolulu, HI**
     single_image_block:
@@ -70,8 +74,10 @@ content_section:
       image_2_path: /uploads/picture2-2-1.png
     video_block:
       video_id:
-  - text_block_markdown: |-
-      #### ---------------------------------------------------------------
+  - text_block_markdown: >-
+      ####
+      ------------------------------------------------------------------------------------------------------------------------------
+
 
       #### **Harlem Irving Plaza in Chicago, IL**
     single_image_block:
@@ -82,7 +88,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      #### ---------------------------------------------------------------
+      ####
+      ------------------------------------------------------------------------------------------------------------------------------
 
 
       #### Our Pop-Up GC at Yorktown Mall in Lombard, IL is still running strong
