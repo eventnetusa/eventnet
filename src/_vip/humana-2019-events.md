@@ -40,7 +40,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**Harlem Irving Plaza in Chicago, IL**'
+  - text_block_markdown: '#### **Harlem Irving Plaza in Chicago, IL**'
     single_image_block:
       single_image_path: /uploads/hip-2019.jpg
     double_image_block:
@@ -48,7 +48,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '**Tacoma Mall in Tacoma, WA**'
+  - text_block_markdown: '#### **Tacoma Mall in Tacoma, WA**'
     single_image_block:
       single_image_path: /uploads/20190319-110840.jpg
     double_image_block:
@@ -56,7 +56,7 @@ content_section:
       image_2_path: /uploads/photo-mar-12-12-23-26-pm.jpg
     video_block:
       video_id:
-  - text_block_markdown: 'Pearlridge Center in Honolulu, HI'
+  - text_block_markdown: '#### **Pearlridge Center in Honolulu, HI**'
     single_image_block:
       single_image_path: /uploads/photo-mar-14-11-37-25-am.jpg
     double_image_block:
