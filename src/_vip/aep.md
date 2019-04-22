@@ -85,6 +85,28 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: >-
+      **CONCEPT - NEW POP-UP MOBILE SOLUTION**
+
+
+      EventNetUSA’s pop-up mobile solution delivers brick-and-mortar feel with
+      trailer mobility. Take your Medicare events anywhere, anytime.
+
+
+      * Travels as compact trailer and easily unfolds onsite into 20’x20’
+      enclosed event space
+
+      * Onboard power, climate control and handicap access
+
+      * Customize layout with variety of wall styles and orientations
+        * HIPAA and ADA accessibility&nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/fort-unbranded2-2.png
+      image_2_path: /uploads/picture7-1.png
+    video_block:
+      video_id:
   - text_block_markdown: '**MOBILE ASSISTANCE CENTER (MAC**)'
     single_image_block:
       single_image_path:
@@ -143,7 +165,7 @@ content_section:
       video_id:
 _comments:
   hide_social_links: hide social sharing links?
-  vip_project_type: B2C will not show header or footer
+  vip_project_type:
   cta_headline: Optional
   cta_text: the text for the CTA button
   cta_link: >-
