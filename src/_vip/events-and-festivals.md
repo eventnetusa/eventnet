@@ -102,37 +102,13 @@ content_section:
     single_image_block:
       single_image_path: /uploads/a21-nyc-wine-and-food-info.JPG
     double_image_block:
-      image_1_path: /uploads/a21-sobe-wff-info-1.JPG
-      image_2_path: /uploads/a21-palm-beach-food-and-wine-info-1.JPG
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/a21-whisky-extravaganza-info.JPG
-      image_2_path: /uploads/a21-wine-riot-info-1.JPG
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/a21-c555-event-info.JPG
-      image_2_path: /uploads/a21-greenwich-wine-and-food-info.JPG
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/a21-americas-test-kitchen-info.JPG
-      image_2_path: /uploads/a21-dwayne-wade-event-info.JPG
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
+      single_image_path: /uploads/a21-sobe-wff-info-2.JPG
     double_image_block:
       image_1_path:
       image_2_path:
@@ -140,18 +116,37 @@ content_section:
       video_id:
   - text_block_markdown: '---'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/a21-c555-event-info-1.JPG
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ### POP-UP SHOPS
-
-
-      Drive sales in one-of-a-kind environments that build buzz through consumer
-      exposure, while generating a feeling of relevance and interactivity.
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/a21-wine-riot-info-2.JPG
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/a21-whisky-extravaganza-info-1.JPG
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: '---'
+    single_image_block:
+      single_image_path: /uploads/a21-americas-test-kitchen-info-1.JPG
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -163,8 +158,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/39.jpg
-      image_2_path: /uploads/essie-thumb.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: '---'
@@ -218,36 +213,6 @@ content_section:
     double_image_block:
       image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
       image_2_path: /uploads/7.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### SAMPLING & STREET TEAMS
-
-
-      Our expert routing and diverse network of brand ambassadors puts your
-      brand in consumer's hands from grassroots level engagement to major
-      events.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/lacroix-superbowl.JPG
-      image_2_path: /uploads/silk-thumb.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/garnier-case-3.jpg
-      image_2_path: /uploads/20170708_094506.jpg
     video_block:
       video_id:
 _comments:
