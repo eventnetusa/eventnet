@@ -143,11 +143,12 @@ content_section:
   - text_block_markdown: |-
       ### Arts and Crafts Festivals
 
-      * 45 Fine art festivals
-      * 40 Craft fairs
+      * 45 Fine art festivals and 40 craft fairs
       * 8 Markets
       * 85 Annual events
       * 1\.9M + Attendees
+      * Open to all ages. Average attendee age range 43 - 74
+      * Average annual household income $85,000+
     single_image_block:
       single_image_path: /uploads/las-olas-art-fair-header.jpeg
     double_image_block:
