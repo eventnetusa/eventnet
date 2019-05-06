@@ -93,17 +93,17 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ### MOBILE VEHICLE AND TRAILER TOURS
+  - text_block_markdown: |-
+      ### CULINARY EVENTS
 
-
-      Create unique consumer experiences using customized marketing vehicles
-      built, routed and staffed to reach your target audience on the road.
+      * Over 100 annual events
+      * 26+ Markets
+      * 250k+ Event attendees
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/a21-nyc-wine-and-food-info.JPG
     double_image_block:
-      image_1_path: /uploads/5-2.jpg
-      image_2_path: /uploads/20161001-125153.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
