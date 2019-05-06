@@ -100,7 +100,7 @@ content_section:
       * 26+ Markets
       * 250k+ Event attendees
     single_image_block:
-      single_image_path: /uploads/a21-nyc-wine-and-food-info.JPG
+      single_image_path: /uploads/a21-sobe-wff-info-3.JPG
     double_image_block:
       image_1_path: /uploads/nyc-fw-small.JPG
       image_2_path: /uploads/palm-beach-food-and-wine-small.JPG
@@ -207,19 +207,6 @@ content_section:
     double_image_block:
       image_1_path:
       image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### GRAND OPENINGS
-
-
-      We handle permitting, line management, hospitality and display production
-      so that your first impression to your guests is your best!
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/nyx-usq-ribbon-cutting.jpg
-      image_2_path: /uploads/7.jpg
     video_block:
       video_id:
 _comments:
