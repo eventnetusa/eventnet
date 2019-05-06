@@ -92,7 +92,7 @@ content_section:
 
       * Lock-in lower sponsorship rates including multi-event discounts
 
-      * Secure prime footprint locations
+      * Secure prime footprint locations for maximum brand exposure
 
       * Set and forget with a turnkey tour and custom consumer activation
       managed by EventNetUSA
