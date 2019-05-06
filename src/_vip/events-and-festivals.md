@@ -43,7 +43,7 @@ sidebar_text_markdown: >-
   &nbsp;
 
 
-  ### Bragworthy Hightlights
+  ### Agency Hightlights
 
 
   * Named Top Event Marketing Agency for 15th year on Event Marketer's [It
