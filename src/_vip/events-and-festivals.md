@@ -146,7 +146,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: |-
+      ### Arts and Crafts Festivals
+
+      * 45 Fine art festivals
+      * 40 Craft fairs
+      * 8 Markets
+      * 85 Annual events
+      * 1\.9M + Attendees
     single_image_block:
       single_image_path:
     double_image_block:
