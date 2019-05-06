@@ -1,6 +1,6 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Introduction and Capabilities
+large_headline: Sponsor the Nation's Top Culinary and Arts Events
 hero_image_path: /uploads/collage-for-8-reasons.png
 vip_project_type: B2B
 hide_social_links: false
@@ -77,15 +77,23 @@ sidebar_text_markdown: >-
 content_section:
   - text_block_markdown: >-
       Founded in 1976, EventNetUSA is one of the oldest experiential marketing
-      agencies in the industry. Named a *Top Event Marketing Agency* for the
-      15th year on Event Marketer's [It
+      agencies in the industry. Named a *Top Event Marketing Agency*&nbsp; Event
+      Marketer's [It
       List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/),
       and *known for producing the impossible*, we provide turn-key event
       production and logistics to brands and agencies nationwide.&nbsp;
 
 
-      Our full service approach and team of industry experts ensure every brand
-      idea comes to life with originality, quality, on time and on budget.
+      Through our exclusive partnerships with producers of the nation's highest
+      profile culinary and arts events, we offer the unique opportunity to
+
+
+      * Lock-in lower sponsorship rates
+
+      * Secure prime footprint locations
+
+      * Set and forget with a turnkey tour and custom consumer activation
+      managed by EventNetUSA
     single_image_block:
       single_image_path:
     double_image_block:
