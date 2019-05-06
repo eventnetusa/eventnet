@@ -13,6 +13,8 @@ sidebar_text_markdown: >-
   ### Turnkey Service Offerings Include
 
 
+  * Sponsorship agreement negotiation and contracting
+
   * Ideation, Design & Brand Customization
 
   * Graphic & Display Production
