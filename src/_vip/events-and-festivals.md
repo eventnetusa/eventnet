@@ -139,10 +139,10 @@ content_section:
       * 85 Annual events
       * 1\.9M + Attendees
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/las-olas-art-fair-header.jpeg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/las-olas-art-fair.jpg
+      image_2_path: /uploads/las-olas-art-fair-2.jpg
     video_block:
       video_id:
   - text_block_markdown:
