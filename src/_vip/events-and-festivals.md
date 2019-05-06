@@ -90,7 +90,7 @@ content_section:
       profile culinary and arts events, we offer the unique opportunity to
 
 
-      * Lock-in lower sponsorship rates
+      * Lock-in lower sponsorship rates including multi-event discounts
 
       * Secure prime footprint locations
 
