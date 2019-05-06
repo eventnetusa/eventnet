@@ -102,16 +102,16 @@ content_section:
     single_image_block:
       single_image_path: /uploads/a21-nyc-wine-and-food-info.JPG
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/a21-sobe-wff-info-1.JPG
+      image_2_path: /uploads/a21-palm-beach-food-and-wine-info-1.JPG
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/a21-sobe-wff-info.JPG
-      image_2_path: /uploads/a21-palm-beach-food-and-wine-info.JPG
+      image_1_path: /uploads/a21-whisky-extravaganza-info.JPG
+      image_2_path: /uploads/a21-wine-riot-info-1.JPG
     video_block:
       video_id:
   - text_block_markdown: '---'
@@ -119,7 +119,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/a21-c555-event-info.JPG
-      image_2_path: /uploads/a21-wine-riot-info.JPG
+      image_2_path: /uploads/a21-greenwich-wine-and-food-info.JPG
     video_block:
       video_id:
   - text_block_markdown:
@@ -134,8 +134,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/fine-living-island-thumb.jpg
-      image_2_path: /uploads/jetblue-story-booth.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: '---'
