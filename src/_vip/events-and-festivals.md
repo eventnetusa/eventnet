@@ -153,7 +153,7 @@ content_section:
       image_2_path: /uploads/aerial-view.jpg
     video_block:
       video_id:
-  - text_block_markdown: '---'
+  - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/asheville-arts-festival.jpeg
     double_image_block:
