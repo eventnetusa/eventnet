@@ -102,24 +102,24 @@ content_section:
     single_image_block:
       single_image_path: /uploads/a21-nyc-wine-and-food-info.JPG
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/sobe-small.JPG
+      image_2_path: /uploads/palm-beach-food-and-wine-small.JPG
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/a21-sobe-wff-info-2.JPG
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/greenwich-food-and-wine-small.JPG
+      image_2_path: /uploads/c555-small.JPG
     video_block:
       video_id:
   - text_block_markdown: '---'
     single_image_block:
       single_image_path: /uploads/a21-c555-event-info-1.JPG
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/whiskey-extravaganza-small.JPG
+      image_2_path: /uploads/wine-riot-small.JPG
     video_block:
       video_id:
   - text_block_markdown:
