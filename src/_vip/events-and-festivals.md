@@ -110,7 +110,7 @@ content_section:
       * 26+ Markets
       * 250k+ Event attendees
     single_image_block:
-      single_image_path: /uploads/a21-sobe-wff-info-3.JPG
+      single_image_path: /uploads/a21-sobe-wff-info-4.JPG
     double_image_block:
       image_1_path: /uploads/nyc-fw-small.JPG
       image_2_path: /uploads/palm-beach-food-and-wine-small.JPG
