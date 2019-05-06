@@ -155,42 +155,10 @@ content_section:
       video_id:
   - text_block_markdown: '---'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/asheville-arts-festival.jpeg
     double_image_block:
       image_1_path: /uploads/festival-photo.jpg
       image_2_path: /uploads/las-olas-art-fair-2-1.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      ### INSURANCE ACTIVATIONS
-
-
-      Industry leaders repeatedly turn to EventNetUSA for turn-key consumer
-      engagement and activation programs.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/case-hsbc.jpg
-      image_2_path: /uploads/humana-no-logo-1.png
-    video_block:
-      video_id:
-  - text_block_markdown: |-
-      ### &nbsp;
-
-      &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/mac-outside-2.png
-      image_2_path: /uploads/hcsc-rv.png
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
     video_block:
       video_id:
 _comments:
