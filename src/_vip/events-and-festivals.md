@@ -141,24 +141,24 @@ content_section:
     single_image_block:
       single_image_path: /uploads/las-olas-art-fair-header.jpeg
     double_image_block:
-      image_1_path: /uploads/las-olas-art-fair.jpg
-      image_2_path: /uploads/las-olas-art-fair-2.jpg
+      image_1_path: /uploads/chevy-chase-flyer-april-2019.jpg
+      image_2_path: /uploads/downtown-aspen-art-festival.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/las-olas-art-fair-1.jpg
+      image_2_path: /uploads/aerial-view.jpg
     video_block:
       video_id:
   - text_block_markdown: '---'
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/festival-photo.jpg
+      image_2_path: /uploads/las-olas-art-fair-2-1.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
