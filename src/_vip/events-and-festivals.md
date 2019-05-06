@@ -102,16 +102,16 @@ content_section:
     single_image_block:
       single_image_path: /uploads/a21-nyc-wine-and-food-info.JPG
     double_image_block:
-      image_1_path: /uploads/sobe-small.JPG
+      image_1_path: /uploads/nyc-fw-small.JPG
       image_2_path: /uploads/palm-beach-food-and-wine-small.JPG
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/a21-sobe-wff-info-2.JPG
+      single_image_path: /uploads/a21-wine-riot-info-3.JPG
     double_image_block:
-      image_1_path: /uploads/greenwich-food-and-wine-small.JPG
-      image_2_path: /uploads/c555-small.JPG
+      image_1_path: /uploads/americas-test-kitchen-small.JPG
+      image_2_path: /uploads/ny-pizza-small.JPG
     video_block:
       video_id:
   - text_block_markdown: '---'
@@ -124,10 +124,10 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/a21-wine-riot-info-2.JPG
+      single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/greenwich-food-and-wine-small-1.JPG
+      image_2_path: /uploads/taste-of-seaport-small.JPG
     video_block:
       video_id:
   - text_block_markdown:
