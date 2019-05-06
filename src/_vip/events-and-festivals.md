@@ -110,7 +110,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/a21-wine-riot-info-3.JPG
     double_image_block:
-      image_1_path: /uploads/americas-test-kitchen-small.JPG
+      image_1_path: /uploads/americas-test-kitchen-small-1.JPG
       image_2_path: /uploads/dans-taste-of-summer-small.JPG
     video_block:
       video_id:
@@ -124,7 +124,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/a21-ny-pizza-festival-info.JPG
+      single_image_path: /uploads/a21-ny-pizza-festival-info-1.JPG
     double_image_block:
       image_1_path:
       image_2_path:
