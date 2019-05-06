@@ -114,7 +114,7 @@ content_section:
       image_2_path: /uploads/dans-taste-of-summer-small.JPG
     video_block:
       video_id:
-  - text_block_markdown: '---'
+  - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/a21-c555-event-info-1.JPG
     double_image_block:
