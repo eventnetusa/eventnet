@@ -7,8 +7,8 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Ready to plan your 2020 sponsorship tour?
-cta_text: Let's Talk!
+cta_headline: Plan your 2019-20 sponsorship tour
+cta_text: Let's talk!
 sidebar_text_markdown: >-
   ### Turnkey Service Offerings Include
 
