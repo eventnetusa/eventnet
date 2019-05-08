@@ -78,19 +78,13 @@ sidebar_text_markdown: >-
   to debut its fantasy sports website
 content_section:
   - text_block_markdown: >-
-      Founded in 1976, EventNetUSA is one of the oldest experiential marketing
-      agencies in the industry. Named a *Top Event Marketing Agency*&nbsp;on
-      Event Marketer's [It
-      List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/),
-      and *known for producing the impossible*, we provide turn-key event
-      production and logistics to brands and agencies nationwide.&nbsp;
+      Through EventNetUSA's exclusive partnerships with producers of the
+      nation's highest profile culinary and arts events, we offer the unique
+      opportunity to
 
 
-      Through our exclusive partnerships with producers of the nation's highest
-      profile culinary and arts events, we offer the unique opportunity to
-
-
-      * Lock-in lower sponsorship rates including multi-event discounts
+      * Lock-in lower rates including multi-event discounts (sponsorship
+      packages start $5,000)
 
       * Secure prime footprint locations for maximum brand exposure
 
