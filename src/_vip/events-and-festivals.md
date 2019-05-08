@@ -141,7 +141,7 @@ content_section:
       * 8 Markets
       * 85 Annual events
       * 1\.9M + Attendees
-      * Open to all ages. Average attendee age range 43 - 74
+      * Open to all ages. Average attendee age range 45 - 74
       * Average annual household income $85,000+
     single_image_block:
       single_image_path: /uploads/las-olas-art-fair-header.jpeg
