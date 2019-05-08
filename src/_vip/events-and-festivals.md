@@ -140,7 +140,7 @@ content_section:
       * 45 Fine art festivals and 40 craft fairs
       * 8 Markets
       * 85 Annual events
-      * 1\.9M + Attendees
+      * 1\.9M+ Attendees
       * Open to all ages. Average attendee age range 45 - 74
       * Average annual household income $85,000+
     single_image_block:
