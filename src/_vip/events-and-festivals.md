@@ -1,6 +1,6 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Consumer Activations as the Nation's Top Culinary and Arts Events 2019/20
+large_headline: Consumer Activations at the Nation's Top Culinary and Arts Events 2019/20
 hero_image_path: /uploads/collage-for-8-reasons.png
 vip_project_type: B2B
 hide_social_links: false
