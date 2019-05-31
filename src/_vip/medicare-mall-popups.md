@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE CONSUMER ENGAGEMENT AND ENROLLMENT
 large_headline: POP-UP MEDICARE EVENTS IN SHOPPING MALL CENTER COURTS
-hero_image_path: /uploads/img-0895-1.JPG
+hero_image_path: /uploads/humana-8.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
