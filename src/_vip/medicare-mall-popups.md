@@ -68,7 +68,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/humana-1-1.png
-      image_2_path: /uploads/humana-2-1.png
+      image_2_path: /uploads/humana-6-1.png
     video_block:
       video_id:
   - text_block_markdown:
@@ -76,7 +76,7 @@ content_section:
       single_image_path: /uploads/humana-9.png
     double_image_block:
       image_1_path: /uploads/humana-4.png
-      image_2_path: /uploads/humana-6.png
+      image_2_path: /uploads/picture1-12.png
     video_block:
       video_id:
   - text_block_markdown:
