@@ -30,12 +30,24 @@ sidebar_text_markdown: |-
   #### &nbsp;
 content_section:
   - text_block_markdown: >-
-      EventNetUSA's Humana Pop-Up Mall Program has been such a success in the
-      Chicago and Tampa locations that we are expanding and would like to
-      partner with your mall!
+      EventNetUSA's Medicare Mall Pop-Up Events originated as a solution to
+      support a provider's under performing retail stores. Since the first event
+      in April 2017, the innovative program has made its way into seven US
+      markets, spanning coast-to-“beyond coast” (Hawaii\!).
 
 
-      See examples of our mall program below.
+      The program continues to expand and evolve into a truly personalized
+      solution for supporting Seniors and their unique interests and needs.
+      Pop-up events create a weekly event experience, offering free activities
+      and classes to members and non-members.&nbsp;
+
+
+      More than free activities, Pop-Up GC’s create a safe space to socialize
+      with peers and support a healthier physical and mental well-being.
+
+
+      Let's discuss your unique Medicare goals to design a program that fits
+      your needs and budget.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
