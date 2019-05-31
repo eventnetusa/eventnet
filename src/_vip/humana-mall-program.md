@@ -73,7 +73,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/humana-3-1.png
+      single_image_path: /uploads/humana-9.png
     double_image_block:
       image_1_path: /uploads/humana-4.png
       image_2_path: /uploads/humana-6.png
