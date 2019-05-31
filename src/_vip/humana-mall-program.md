@@ -1,29 +1,31 @@
 ---
-small_headline: POP-UP MALL PROGRAM
-large_headline: HUMANA WELLNESS EVENTS
+small_headline: MEDICARE CONSUMER ENGAGEMENT AND ENROLLMENT
+large_headline: POP-UP MEDICARE EVENTS IN MALL CENTER COURTS
 hero_image_path: /uploads/img-0895-1.JPG
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 sidebar_text_markdown: |-
-  #### **Wellness Event Includes**
+  #### **Pop-Up Events Include**
 
-  * Education
-  * Demonstration
-  * Health Screenings
+  * Agent Consultations
+  * Plan/Product Education
+  * Enrollment (AEP, OEP, Special)
+  * Biometric Screenings
   * Wellness Activities
 
   #### **Activities Include**
 
-  * Silver Sneakers
-  * Cooking Demonstrations
+  * Cardio & Stretch Classes
   * Health & Wellness Classes
+  * Cooking Demonstrations
   * Identity Fraud Protection
+  * Technology Training
+  * Social Media Courses
   * Charitable Craft Tie-In
   * Thank You Letters to Military
   * Guest Speakers
-  * Bingo
-  * Computer Classes
+  * Bingo, Bridge & Other Games
 
   #### &nbsp;
 content_section:
