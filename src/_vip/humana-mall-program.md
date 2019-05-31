@@ -1,6 +1,6 @@
 ---
 small_headline: MEDICARE CONSUMER ENGAGEMENT AND ENROLLMENT
-large_headline: POP-UP MEDICARE EVENTS IN MALL CENTER COURTS
+large_headline: POP-UP MEDICARE EVENTS IN SHOPPING MALL CENTER COURTS
 hero_image_path: /uploads/img-0895-1.JPG
 vip_project_type: B2B
 hide_social_links: true
@@ -63,44 +63,60 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '#### **YORKTOWN MALL, LOMBARD, IL**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/humana-1.jpg
-      image_2_path: /uploads/humana-2.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/humana-3.jpg
-      image_2_path: /uploads/humana-4.jpg
-    video_block:
-      video_id:
-  - text_block_markdown: '---'
+  - text_block_markdown: >-
+      #### EventNetUSA Services Include
+
+
+      &nbsp;
+
+
+      **2019 Pre-Launch Planning**&nbsp;
+
+
+      * Comprehensive market research, venue identification, negotiations and
+      contracting
+
+      * In-venue marketing package negotiation and contracting
+
+      * Event set design for guest experience and government compliance
+
+      * Plan, purchase and produce all event assets
+        * Test and ensure quality control over all assets prior to program launch
+      * Staffing
+        * Recruit, hire and train full-time Field Event Managers
+          * Conduct rigorous five-step hiring process
+          * Full background checks
+          * Brand and event operations training
+          * Emergency response and risk mitigation training
+        * Identify local labor needs in each market
+      * Shipping and storage logistics
+
+
+      **On-going Program Operations**
+
+
+      * Recruit, hire and train local labor according to market requirements
+
+      * Weekly event load-in, set-up, tear-down and removal
+
+      * Asset inventory, maintenance and as-needed expedited replacement
+
+      * Venue management and coordination over contracted deliverables, space
+      requirements, modifications, on-site storage, etc.
+
+      * Event day troubleshooting, quality control and run-of-show
+
+      * Operational support for Agents and representatives
+
+      * Customer service support for event attendees
+
+      * Event data capture including metrics, photos, videos and post-event
+      recaps
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: '#### **TYRONE SQUARE MALL, TAMPA, FL**'
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/photo-feb-13-1-33-50-pm.jpg
-      image_2_path: /uploads/photo-feb-06-9-10-37-am.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/photo-mar-06-12-36-23-pm.jpg
-      image_2_path: /uploads/img-0932-1.JPG
     video_block:
       video_id:
   - text_block_markdown: >-
