@@ -94,7 +94,7 @@ content_section:
       &nbsp;
 
 
-      **2019 Pre-Launch Planning**&nbsp;
+      **Pre-Launch Planning**&nbsp;
 
 
       * Comprehensive market research, venue identification, negotiations and
@@ -136,6 +136,9 @@ content_section:
 
       * Event data capture including metrics, photos, videos and post-event
       recaps
+
+
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
