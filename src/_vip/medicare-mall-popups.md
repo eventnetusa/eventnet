@@ -30,24 +30,26 @@ sidebar_text_markdown: |-
   #### &nbsp;
 content_section:
   - text_block_markdown: >-
-      EventNetUSA's Medicare Mall Pop-Up Events originated as a solution to
-      support a provider's under performing retail stores. Since the first event
-      in April 2017, the innovative program has made its way into seven US
-      markets, spanning coast-to-“beyond coast” (Hawaii\!).
+      From original idea as a solution to support under-performing
+      &nbsp;brick-and-mortar stores, Mall Center Court Pop-Ups are fast becoming
+      the new home for AEP and year ‘round community outreach for insurance
+      providers.&nbsp;
 
 
-      The program continues to expand and evolve into a truly personalized
-      solution for supporting Seniors and their unique interests and needs.
-      Pop-up events create a weekly event experience, offering free activities
-      and classes to members and non-members.&nbsp;
+      Custom branded displays set in high-traffic mall courts by EventNetUSA
+      create a safe space for Medicare eligible adults to socialize with
+      provider Agents and peers in support of a healthier physical and mental
+      well-being.
 
 
-      More than free activities, Pop-Up GC’s create a safe space to socialize
-      with peers and support a healthier physical and mental well-being.
+      Free activities and classes open to members and non-members at 9 a.m.
+      attracting early mallwalkers, ending mid-afternoon. Providers have the
+      option to open for one specified day per week and can run weekly,
+      bi/weekly or even weekends\!
 
 
-      Let's discuss your unique Medicare goals to design a program that fits
-      your needs and budget.&nbsp;
+      Let’s discuss your unique Medicare goals to design a program that fits
+      your needs and budget.
     single_image_block:
       single_image_path:
     double_image_block:
