@@ -43,7 +43,7 @@ content_section:
 
 
       Free activities and classes open to members and non-members at 9 a.m.
-      attracting early mallwalkers, ending mid-afternoon. Providers have the
+      attracting early mall walkers, ending mid-afternoon. Providers have the
       option to open for one specified day per week and can run weekly,
       bi/weekly or even weekends\!
 
