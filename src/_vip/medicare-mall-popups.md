@@ -31,9 +31,8 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       From original idea as a solution to support under-performing
-      &nbsp;brick-and-mortar stores, Mall Center Court Pop-Ups are fast becoming
-      the new home for AEP and year ‘round community outreach for insurance
-      providers.&nbsp;
+      brick-and-mortar stores, mall center courts are the new home for AEP
+      Pop-Ups and year-round community outreach for insurance providers.&nbsp;
 
 
       Custom branded displays set in high-traffic mall courts by EventNetUSA
@@ -42,14 +41,13 @@ content_section:
       well-being.
 
 
-      Free activities and classes open to members and non-members at 9 a.m.
+      Free activities and classes open to members and non-members at 9 a.m.,
       attracting early mall walkers, ending mid-afternoon. Providers have the
-      option to open for one specified day per week and can run weekly,
-      bi/weekly or even weekends\!
+      option to activate weekly, bi/weekly or everyday.
 
 
-      Let’s discuss your unique Medicare goals to design a program that fits
-      your needs and budget.
+      Let’s discuss Medicare goals to design a program that fits your needs and
+      budget.
     single_image_block:
       single_image_path:
     double_image_block:
