@@ -1,7 +1,7 @@
 ---
 small_headline: MEDICARE CONSUMER ENGAGEMENT AND ENROLLMENT
 large_headline: MEDICARE AEP MALL POP-UP ACTIVATIONS
-hero_image_path: /uploads/humana-8.png
+hero_image_path: /uploads/hero-image-editable-1.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
@@ -65,7 +65,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture19-1.png
     double_image_block:
       image_1_path: /uploads/humana-1-1.png
       image_2_path: /uploads/humana-6-1.png
@@ -81,7 +81,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture1-13.png
     double_image_block:
       image_1_path: /uploads/humana-5.png
       image_2_path: /uploads/humana-6.jpg
