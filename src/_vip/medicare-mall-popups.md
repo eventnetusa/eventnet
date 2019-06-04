@@ -75,7 +75,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/humana-9.png
     double_image_block:
-      image_1_path: /uploads/humana-4.png
+      image_1_path: /uploads/picture2-8.png
       image_2_path: /uploads/picture1-12.png
     video_block:
       video_id:
