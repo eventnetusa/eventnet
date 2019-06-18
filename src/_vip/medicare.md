@@ -34,13 +34,15 @@ content_section:
       Our turn-key proven programs include:
 
 
-      * Events and Seminars at Retirement Communities
-
       * Mall Kiosks, Stores and Center Court Events
 
-      * Vehicles and Mobile Pop-Ups
+      * Custom Vehicles and Mobile Pop-Ups
+
+      * Sponsorship Activations
 
       * Retail and Grocery Partner Integration
+
+      * Events and Seminars at Retirement Communities
     single_image_block:
       single_image_path:
     double_image_block:
