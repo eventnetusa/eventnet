@@ -50,16 +50,22 @@ content_section:
       video_id:
   - text_block_markdown: '**TURN-KEY MALL POP-UP PROGRAM**'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/humana-8-1.png
     double_image_block:
-      image_1_path: /uploads/picture2-3.png
-      image_2_path: /uploads/picture1-6.png
+      image_1_path: /uploads/humana-1-2.png
+      image_2_path: /uploads/humana-7-1.png
     video_block:
       video_id:
   - text_block_markdown: >-
-      &nbsp;EventNetUSA will secure malls in your targeted zip codes, produce
-      and set up branded event elements and provide trained staff/greeters upon
-      request.
+      Custom branded displays set in high-traffic mall courts by EventNetUSA
+      create a safe space for Medicare eligible adults to socialize with
+      provider Agents and peers in support of a healthier physical and mental
+      well-being.
+
+
+      Free activities and classes open to members and non-members at 9 a.m.,
+      attracting early mall walkers, ending mid-afternoon. Providers have the
+      option to activate weekly, bi/weekly or everyday.
     single_image_block:
       single_image_path:
     double_image_block:
@@ -69,15 +75,16 @@ content_section:
       video_id:
   - text_block_markdown: '**POP-UP RETAIL STORES**'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture1-14.png
     double_image_block:
       image_1_path: /uploads/picture3-updated.jpg
       image_2_path: /uploads/picture4-updated.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
-      EventNetUSA will secure mall space in your targeted zip code and build out
-      temporary store. We can supply trained staff/greeters upon request.
+      EventNetUSA will identify and secure vacant mall space in your targeted
+      zip code to construct a temporary store. We can also supply trained
+      staff/greeters upon request.
     single_image_block:
       single_image_path:
     double_image_block:
