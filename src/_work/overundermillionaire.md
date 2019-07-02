@@ -4,8 +4,8 @@ link_to_casestudy: true
 sort_number: 1
 headline: OverUnderMillionaire
 hover_text: Online sports game designed to drive consumers to sponsored products.
-hero_image_path: /uploads/overundermillionare-logo.png
-thumbnail_image_path: /uploads/oum-image.JPG
+hero_image_path: /uploads/overundermillionare-logo-2.png
+thumbnail_image_path: /uploads/oum-image3.jpg
 types:
 cta_text: Want more information?
 cta: Let's talk!
