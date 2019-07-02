@@ -14,13 +14,13 @@ content_section:
   - text_block_markdown: >-
       OverUnderMillionaire is an e-commerce sales acquisition startup, leveling
       the playing field for retailers across the U.S. that are looking for a
-      better way to market their business through gamification. \*
+      better way to market their business through gamification.
 
 
-      \*42-year brand marketing veteran Joel Benson was fascinated by this
-      concept but noticed many e-commerce and gamification partnerships were
-      one-sided or potentially deemed as untrustworthy by the consumer. Instead,
-      he launched a platform that was mutually beneficial for all parties.
+      42-year brand marketing veteran Joel Benson was fascinated by this concept
+      but noticed many e-commerce and gamification partnerships were one-sided
+      or potentially deemed as untrustworthy by the consumer. Instead, he
+      launched a platform that was mutually beneficial for all parties.
 
 
       *Here’s how it works:*
