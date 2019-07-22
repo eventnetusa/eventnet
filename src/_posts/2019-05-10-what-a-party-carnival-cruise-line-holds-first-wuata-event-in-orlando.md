@@ -7,7 +7,7 @@ excerpt: >-
   Mixing business and fun, Carnival Cruise Line staged its first WUATA Party at
   The Orlando Science Center in Orlando, Florida on May 8, 2019. Nearly 300
   travel advisors and their clients...
-hero_image_path: /uploads/wuata-logo-jpeg-1170x658.jpg
+hero_image_path: /uploads/wuata-logo-jpeg-1170x658-v2.jpg
 thumbnail_image_path: /uploads/thumbnail-1.png
 content_section:
   - text_block_markdown: >-
