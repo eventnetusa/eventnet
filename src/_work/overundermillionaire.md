@@ -24,6 +24,14 @@ sidebar_text_markdown: >-
   [OverUnderMillionaire.com](https://www.overundermillionaire.com/sponsor/index.html){:
   target="_blank"}&nbsp;
 content_section:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/oum-june2019-new-sponsors-mailer-3v2-linkedin-thumb.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       OverUnderMillionaire is an e-commerce sales acquisition startup, leveling
       the playing field for retailers across the U.S. that are looking for a
