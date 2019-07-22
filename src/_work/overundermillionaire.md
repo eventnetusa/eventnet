@@ -106,7 +106,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/oum-image-1.JPG
+  - logo_image_path: /uploads/overundermillionare-logo-3.png
     logo_image_height:
 related_client_logos:
   - logo_image_path:
