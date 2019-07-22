@@ -19,6 +19,8 @@ sidebar_text_markdown: >-
      1. Everyone\! While OUM is positioned as a sports game, it’s free and easy to play with a chance to win a variety of prizes including the $1,000,000 Grand Prize. Based on preliminary research, we expect over one million daily players comprised of 70% men and 30% women, 18+ years of age.
   3. How does the game bring players as customers to our site?
      1. Players are eligible to collect sponsor prizes by reaching win streak levels along the way towards the $1,000,000 Grand Prize. Prizes are listed by category with description and links to sponsor’s website. Winning players selecting your prize are linked to your site for redemption.
+  4. How do I sign up as a Prize Sponsor?
+     1. Complete our sponsor registration form&nbsp;[**here**](https://www.overundermillionaire.com/sponsor/index.html#become-a-sponsor){: target="_blank"}.You’ll receive emailed instructions along with a dashboard log-in to submit your prize offer.
 
   For more FAQs, visit
   [OverUnderMillionaire.com](https://www.overundermillionaire.com/sponsor/index.html){:
