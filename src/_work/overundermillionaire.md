@@ -71,7 +71,23 @@ content_section:
       to top retailers that entices consumers to continue playing and converting
       these players into loyal customers for e-commerce companies.*
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/oum3.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/oum4.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/oum5.jpg
     double_image_block:
       image_1_path:
       image_2_path:
