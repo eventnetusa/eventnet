@@ -60,13 +60,13 @@ project_logos:
   - logo_image_path: /uploads/oum-image-1.JPG
     logo_image_height:
 related_client_logos:
+  - logo_image_path:
+    logo_image_height:
   - logo_image_path: /uploads/cbs-sports-2.png
     logo_image_height:
+  - logo_image_path:
+    logo_image_height:
   - logo_image_path: /uploads/touch-tunes.png
-    logo_image_height:
-  - logo_image_path:
-    logo_image_height:
-  - logo_image_path:
     logo_image_height:
   - logo_image_path:
     logo_image_height:
