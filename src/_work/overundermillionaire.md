@@ -9,7 +9,20 @@ thumbnail_image_path: /uploads/oum-image3.jpg
 types:
 cta_text: Want more information?
 cta: Let's talk!
-sidebar_text_markdown:
+sidebar_text_markdown: >-
+  ### FAQs
+
+
+  1. Why be a prize sponsor on OUM?
+     1. OUM is a new marketplace platform where game players are converted into customers on E-commerce sites through prize redemption. No gimmicks, no hidden fees, just a game that brings customers to sponsor sites.
+  2. Who will be playing?
+     1. Everyone\! While OUM is positioned as a sports game, it’s free and easy to play with a chance to win a variety of prizes including the $1,000,000 Grand Prize. Based on preliminary research, we expect over one million daily players comprised of 70% men and 30% women, 18+ years of age.
+  3. How does the game bring players as customers to our site?
+     1. Players are eligible to collect sponsor prizes by reaching win streak levels along the way towards the $1,000,000 Grand Prize. Prizes are listed by category with description and links to sponsor’s website. Winning players selecting your prize are linked to your site for redemption.
+
+  For more FAQs, visit
+  [OverUnderMillionaire.com](https://www.overundermillionaire.com/sponsor/index.html){:
+  target="_blank"}&nbsp;
 content_section:
   - text_block_markdown: >-
       OverUnderMillionaire is an e-commerce sales acquisition startup, leveling
