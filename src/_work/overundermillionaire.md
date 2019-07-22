@@ -93,6 +93,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/oum6.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 project_logos:
   - logo_image_path: /uploads/oum-image-1.JPG
     logo_image_height:
