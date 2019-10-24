@@ -80,7 +80,7 @@ content_section:
       image_2_path: /uploads/2015-ford-f550-3.jpg
     video_block:
       video_id:
-  - text_block_markdown: Two meeting spaces
+  - text_block_markdown: Two Meeting Spaces
     single_image_block:
       single_image_path:
     double_image_block:
@@ -88,7 +88,7 @@ content_section:
       image_2_path: /uploads/2015-ford-f550-second-office.jpg
     video_block:
       video_id:
-  - text_block_markdown: Waiting area and wheel chair lift
+  - text_block_markdown: Waiting Area and Wheel Chair Lift
     single_image_block:
       single_image_path:
     double_image_block:
@@ -96,7 +96,10 @@ content_section:
       image_2_path: /uploads/2015-ford-f550-wheelchair-lift.jpg
     video_block:
       video_id:
-  - text_block_markdown: Drivers cabin and dining area
+  - text_block_markdown: |-
+      &nbsp;
+
+      Drivers Cabin and Dining Area
     single_image_block:
       single_image_path:
     double_image_block:
