@@ -10,34 +10,43 @@ cta_link_url: contact@eventnetusa.com
 cta_headline: Interested in these vehicles?
 cta_text: Call for pricing
 sidebar_text_markdown: |-
+  ### AVAILABLE VEHICLES
+
   * **2015 Ford F550**
     * Mileage: 24,913
     * Gasoline
     * Generator Hours: 5,846
+
   * **2015 Ford F550**
     * Mileage: 28,587
     * Gasoline
     * Generator Hours: 1,713
+
   * **2015 Ford F550&nbsp;**
     * Mileage: 29,013
     * Gasoline
     * Generator Hours: 1,312
+
   * **2015 Ford F550**
     * Mileage: 35,885
     * Gasoline
     * Generator Hours: 1,224
+
   * **2007 Chevy Turtle Top**
     * Mileage: 98,023
     * Diesel
     * Generator Hours: 3,355
+
   * **2006 Chevy Turtle Top**
     * Mileage: 107,275
     * Diesel
     * Generator Hours: 6,101
+
   * **2006 Chevy Turtle Top**
     * Mileage: 112,502
     * Diesel
     * Generator Hours: 3,931
+
   * **2006 Chevy Turtle Top**
     * Mileage: 138,132
     * Diesel
