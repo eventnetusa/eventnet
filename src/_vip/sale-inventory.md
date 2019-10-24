@@ -147,7 +147,7 @@ content_section:
       single_image_path: /uploads/2007-chevy-turtle-top-2.jpg
     double_image_block:
       image_1_path: /uploads/2007-chevy-turtle-top-3.jpg
-      image_2_path: /uploads/2007-chevy-turtle-top.jpg
+      image_2_path: /uploads/2007-chevy-turtle-top-4.jpg
     video_block:
       video_id:
   - text_block_markdown:
