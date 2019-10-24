@@ -10,25 +10,22 @@ cta_link_url: contact@eventnetusa.com
 cta_headline: Interested in these vehicles?
 cta_text: Call for pricing
 sidebar_text_markdown: |-
-  ### Generate Sales Through
-
-  * Education
-  * Demonstration
-  * Product Trial
-  * Retail Integration
-
-  ### Turnkey Services &nbsp;Include
-
-  * Ideation, Design & Brand Customization
-  * Graphic & Display Production
-  * Venue Procurement
-  * Vehicle Procurement
-  * Staff & Training
-  * Routing & Logistics
-  * Legal & Permitting
-  * Account Management
-  * Social Media Integration
-  * Liability Insurance
+  * 2015 Ford F550
+    * Mileage: 24,913
+    * Gasoline
+    * Generator Hours: 5,846
+  * 2015 Ford F550
+    * Mileage: 28,587
+    * Gasoline
+    * Generator Hours: 1,713
+  * 2015 Ford F550&nbsp;
+    * Mileage: 29,013
+    * Gasoline
+    * Generator Hours: 1,312
+  * 2015 Ford F550
+    * Mileage: 35,885
+    * Gasoline
+    * Generator Hours: 1,224
 content_section:
   - text_block_markdown: >-
       Interested in adding a Community Engagement Vehicle to your 2020 marketing
@@ -50,27 +47,6 @@ content_section:
       video_id:
   - text_block_markdown: |-
       ## Ford F550
-
-      * Vehicle 1
-        * Year: 2015
-        * Mileage: 24,913
-        * Gasoline
-        * Generator Hours: 5,846
-      * Vehicle 2
-        * Year: 2015
-        * Mileage: 28,587
-        * Gasoline
-        * Generator Hours: 1,713
-      * Vehicle 3
-        * Year: 2015
-        * Mileage: 29,013
-        * Gasoline
-        * Generator Hours: 1,312
-      * Vehicle 4
-        * Year: 2015
-        * Mileage: 35,885
-        * Gasoline
-        * Generator Hours: 1,224
 
       &nbsp;
     single_image_block:
