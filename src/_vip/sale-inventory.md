@@ -1,7 +1,7 @@
 ---
 small_headline: 'Turnkey Brand Event Production, Staffing and Road Management'
 large_headline: USED INSURANCE MARKETING VEHICLES FOR SALE
-hero_image_path: /uploads/picture6-1.png
+hero_image_path: /uploads/hero-image-12.png
 vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: true
@@ -16,37 +16,30 @@ sidebar_text_markdown: |-
     * Mileage: 24,913
     * Gasoline
     * Generator Hours: 5,846
-
   * **2015 Ford F550**
     * Mileage: 28,587
     * Gasoline
     * Generator Hours: 1,713
-
   * **2015 Ford F550&nbsp;**
     * Mileage: 29,013
     * Gasoline
     * Generator Hours: 1,312
-
   * **2015 Ford F550**
     * Mileage: 35,885
     * Gasoline
     * Generator Hours: 1,224
-
   * **2007 Chevy Turtle Top**
     * Mileage: 98,023
     * Diesel
     * Generator Hours: 3,355
-
   * **2006 Chevy Turtle Top**
     * Mileage: 107,275
     * Diesel
     * Generator Hours: 6,101
-
   * **2006 Chevy Turtle Top**
     * Mileage: 112,502
     * Diesel
     * Generator Hours: 3,931
-
   * **2006 Chevy Turtle Top**
     * Mileage: 138,132
     * Diesel
