@@ -1,0 +1,106 @@
+---
+small_headline: 'Turnkey Brand Event Production, Staffing and Road Management'
+large_headline: USED INSURANCE MARKETING VEHICLES FOR SALE
+hero_image_path: /uploads/picture6-1.png
+vip_project_type: B2C
+hide_social_links: false
+show_cta_at_bottom: true
+cta_link: true
+cta_link_url: contact@eventnetusa.com
+cta_headline: Interested in these vehicles?
+cta_text: Call for pricing
+sidebar_text_markdown: |-
+  ### Generate Sales Through
+
+  * Education
+  * Demonstration
+  * Product Trial
+  * Retail Integration
+
+  ### Turnkey Services &nbsp;Include
+
+  * Ideation, Design & Brand Customization
+  * Graphic & Display Production
+  * Venue Procurement
+  * Vehicle Procurement
+  * Staff & Training
+  * Routing & Logistics
+  * Legal & Permitting
+  * Account Management
+  * Social Media Integration
+  * Liability Insurance
+content_section:
+  - text_block_markdown: >-
+      Interested in adding a Community Engagement Vehicle to your 2020 marketing
+      strategy?&nbsp;
+
+
+      MVP Health Care's fleet of eight mobile marketing vehicles is available
+      for purchase.
+
+
+      For information about availability and pricing, contact Shelby Beaty at
+      shelbyb@eventnetusa.com.&nbsp;
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: |-
+      ## 2015 Ford F550
+
+      * Mileage: 24,913
+      * Gasoline
+      * Generator Hours: 5,846
+    single_image_block:
+      single_image_path: /uploads/2015-ford-f550.jpg
+    double_image_block:
+      image_1_path: /uploads/2015-ford-f550-2.jpg
+      image_2_path: /uploads/2015-ford-f550-3.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: Two meeting spaces
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/2015-ford-f550-first-office.jpg
+      image_2_path: /uploads/2015-ford-f550-second-office.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: Waiting area and wheel chair lift
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/2015-ford-f550-guest-waiting-area.jpg
+      image_2_path: /uploads/2015-ford-f550-wheelchair-lift.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: Drivers cabin and dining area
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/2015-ford-f550-drvier-cabin.jpg
+      image_2_path: /uploads/2015-ford-f550-dining-area.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: Refrigerator and microwave
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/2015-ford-f550-refrigerator.jpg
+      image_2_path: /uploads/2015-ford-f550-microwave.jpg
+    video_block:
+      video_id:
+_comments:
+  hide_social_links: hide social sharing links?
+  vip_project_type: B2C will not show header or footer
+  cta_headline: Optional
+  cta_text: the text for the CTA button
+  cta_link: >-
+    Does the CTA triggera link to another page, site, or email? (note: use
+    'mailto:info@eventnetusa.com' format for an email address)
+  cta_link_url: The url the CTA should link to (if the above is checked)
+  siebar_text: This appear beneath the CTA
+---
