@@ -62,9 +62,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      ## Ford F550
+      ## Four Available: Used Ford F550
 
-      &nbsp;
+      * Two meeting spaces
+      * Guest waiting area
+      * Wheel chair lift
+      * Exterior awning
+      * Dining/break area
+      * Drivers cabin
+      * Panic alarm safety feature
+      * Refrigerator and microwave
     single_image_block:
       single_image_path: /uploads/2015-ford-f550.jpg
     double_image_block:
@@ -72,7 +79,7 @@ content_section:
       image_2_path: /uploads/2015-ford-f550-3.jpg
     video_block:
       video_id:
-  - text_block_markdown: Two Meeting Spaces
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -80,7 +87,7 @@ content_section:
       image_2_path: /uploads/2015-ford-f550-second-office.jpg
     video_block:
       video_id:
-  - text_block_markdown: Waiting Area and Wheel Chair Lift
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -91,7 +98,7 @@ content_section:
   - text_block_markdown: |-
       &nbsp;
 
-      Drivers Cabin and Dining Area
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -99,7 +106,7 @@ content_section:
       image_2_path: /uploads/2015-ford-f550-dining-area.jpg
     video_block:
       video_id:
-  - text_block_markdown: Refrigerator and microwave
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -108,9 +115,17 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: |-
-      ## Chevrolet Turtle Top
+      ## Four Available: Used Chevrolet Turtle Top
 
       &nbsp;
+
+      * Two meeting spaces
+      * Guest waiting area
+      * Exterior awning
+      * Drivers cabin
+      * Passenger seating
+      * Dining/break area
+      * Refrigerator and microwave
     single_image_block:
       single_image_path:
     double_image_block:
@@ -126,7 +141,7 @@ content_section:
       image_2_path: /uploads/2007-chevy-turtle-top.jpg
     video_block:
       video_id:
-  - text_block_markdown: Two Meeting Spaces
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -134,7 +149,7 @@ content_section:
       image_2_path: /uploads/2007-chevy-turtle-top-second-office.jpg
     video_block:
       video_id:
-  - text_block_markdown: Passenger Seating and Guest Waiting Area
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -142,7 +157,7 @@ content_section:
       image_2_path: /uploads/2007-chevy-turtle-top-guest-waiting-area.jpg
     video_block:
       video_id:
-  - text_block_markdown: Driver's Cabin and Dining Area
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
@@ -150,7 +165,7 @@ content_section:
       image_2_path: /uploads/2007-chevy-turtle-top-dining-area.jpg
     video_block:
       video_id:
-  - text_block_markdown: Refrigerator and Microwave
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
