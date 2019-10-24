@@ -10,22 +10,38 @@ cta_link_url: contact@eventnetusa.com
 cta_headline: Interested in these vehicles?
 cta_text: Call for pricing
 sidebar_text_markdown: |-
-  * 2015 Ford F550
+  * **2015 Ford F550**
     * Mileage: 24,913
     * Gasoline
     * Generator Hours: 5,846
-  * 2015 Ford F550
+  * **2015 Ford F550**
     * Mileage: 28,587
     * Gasoline
     * Generator Hours: 1,713
-  * 2015 Ford F550&nbsp;
+  * **2015 Ford F550&nbsp;**
     * Mileage: 29,013
     * Gasoline
     * Generator Hours: 1,312
-  * 2015 Ford F550
+  * **2015 Ford F550**
     * Mileage: 35,885
     * Gasoline
     * Generator Hours: 1,224
+  * **2007 Chevy Turtle Top**
+    * Mileage: 98,023
+    * Diesel
+    * Generator Hours: 3,355
+  * **2006 Chevy Turtle Top**
+    * Mileage: 107,275
+    * Diesel
+    * Generator Hours: 6,101
+  * **2006 Chevy Turtle Top**
+    * Mileage: 112,502
+    * Diesel
+    * Generator Hours: 3,931
+  * **2006 Chevy Turtle Top**
+    * Mileage: 138,132
+    * Diesel
+    * Generator Hours: 11,680
 content_section:
   - text_block_markdown: >-
       Interested in adding a Community Engagement Vehicle to your 2020 marketing
@@ -94,21 +110,7 @@ content_section:
   - text_block_markdown: |-
       ## Chevrolet Turtle Top
 
-      * Vehicle 1
-        * Year: 2007
-        * Mileage: 98,023
-        * Diesel
-        * Generator Hours: 3,355
-      * Vehicle 2
-        * Year: 2006
-        * Mileage: 107,275
-        * Diesel
-        * Generator Hours: 6,101
-      * Vehicle 3
-        * Year: 2006
-        * Mileage: 138,132
-        * Diesel
-        * Generator Hours: 11,680
+      &nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
