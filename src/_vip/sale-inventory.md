@@ -68,17 +68,13 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       ## Four Available: Used Ford F550
 
-      * Two meeting spaces
-      * Guest waiting area
-      * Wheel chair lift
-      * Exterior awning
-      * Dining/break area
-      * Drivers cabin
-      * Panic alarm safety feature
-      * Refrigerator and microwave
+
+      \- Two meeting spaces<br>\- Guest waiting area<br>\- Wheel chair
+      lift<br>\- Exterior awning<br>\- Dining/break area with refrigerator and
+      microwave<br>\- Drivers cabin<br>\- Panic alarm safety feature
     single_image_block:
       single_image_path: /uploads/2015-ford-f550.jpg
     double_image_block:
@@ -121,18 +117,13 @@ content_section:
       image_2_path: /uploads/2015-ford-f550-microwave.jpg
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       ## Four Available: Used Chevrolet Turtle Top
 
-      &nbsp;
 
-      * Two meeting spaces
-      * Guest waiting area
-      * Exterior awning
-      * Drivers cabin
-      * Passenger seating
-      * Dining/break area
-      * Refrigerator and microwave
+      \- Two meeting spaces<br>\- Guest waiting area<br>\- Exterior awning<br>\-
+      Drivers cabin<br>\- Passenger seating<br>\- Dining/break area with
+      refrigerator and microwave
     single_image_block:
       single_image_path:
     double_image_block:
