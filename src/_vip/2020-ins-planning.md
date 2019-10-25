@@ -138,16 +138,8 @@ content_section:
       Marketing](https://www.eventnetusa.com/work/)\!
 
 
-      Shelby Beaty
-
-
-      Business Development
-
-
-      (954) 467-9898 (Ext. 204)
-
-
-      shelbyb@eventnetusa.com
+      Shelby Beaty<br>Business Development<br>(954) 467-9898 (Ext.
+      204)<br>shelbyb@eventnetusa.com
     single_image_block:
       single_image_path:
     double_image_block:
