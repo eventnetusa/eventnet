@@ -1,6 +1,6 @@
 ---
-small_headline: 'Turnkey Brand Event Production, Staffing and Road Management'
-large_headline: NEWLY AVAILABLE USED MOBILE MARKETING VEHICLES
+small_headline: IDEAL OPTION FOR MOBILE MARKETING PROGRAMS ON A BUDGET
+large_headline: NEWLY AVAILABLE! USED MOBILE MARKETING VEHICLES
 hero_image_path: /uploads/hero-image-12.png
 vip_project_type: B2C
 hide_social_links: false
