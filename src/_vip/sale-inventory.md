@@ -1,6 +1,6 @@
 ---
 small_headline: 'Turnkey Brand Event Production, Staffing and Road Management'
-large_headline: USED INSURANCE MARKETING VEHICLES FOR SALE
+large_headline: MOBILE MARKETING VEHICLES FOR SALE
 hero_image_path: /uploads/hero-image-12.png
 vip_project_type: B2C
 hide_social_links: false
@@ -8,7 +8,7 @@ show_cta_at_bottom: true
 cta_link: true
 cta_link_url: contact@eventnetusa.com
 cta_headline: Interested in these vehicles?
-cta_text: Call for pricing
+cta_text: Contact us for pricing
 sidebar_text_markdown: |-
   ### AVAILABLE VEHICLES
 
@@ -51,7 +51,12 @@ content_section:
 
 
       MVP Health Care's fleet of eight mobile marketing vehicles is available
-      for purchase.
+      for purchase or lease.
+
+
+      The process is turnkey\! EventNetUSA will manage vehicle purchase or
+      lease, rebranding and customization, operations including staff, routing
+      and permitting, etc. All on your behalf.&nbsp;
 
 
       For information about availability and pricing, contact Shelby Beaty at
