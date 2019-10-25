@@ -51,12 +51,12 @@ content_section:
 
 
       MVP Health Care's fleet of eight mobile marketing vehicles is available
-      for purchase or lease.
+      for purchase or lease, exclusively through EventNetUSA.
 
 
-      The process is turnkey\! EventNetUSA will manage vehicle purchase or
-      lease, rebranding and customization, operations including staff, routing
-      and permitting, etc. All on your behalf.&nbsp;
+      The process is turnkey\! We manage vehicle purchase or lease, rebranding
+      and customization, operations including staff, routing and permitting,
+      etc. All on your behalf.&nbsp;
 
 
       For information about availability and pricing, contact Shelby Beaty at
