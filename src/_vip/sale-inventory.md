@@ -55,8 +55,8 @@ content_section:
 
 
       The process is turnkey\! We manage vehicle purchase or lease, rebranding
-      and customization, operations including staff, routing and permitting,
-      etc. All on your behalf.&nbsp;
+      and interior customization, operations including staff, routing and
+      permitting, etc.&nbsp;
 
 
       For information about availability and pricing, contact Shelby Beaty at
