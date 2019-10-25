@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Now is the time to start 2020 Medicare planning
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Our History
+  ### Our Insurance Clients
 
   * Humana
     * Hawaii
