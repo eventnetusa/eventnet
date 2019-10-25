@@ -76,8 +76,8 @@ content_section:
 
 
       \- Malls & Shopping Centers<br>\- Socially Active Retirement
-      Communities<br>\- Demographically Targeted Sporting Events<br>\- Consumer
-      Shows, Fairs & Festivals
+      Communities<br>\- High Traffic, Demographically Targeted Locations<br>\-
+      Consumer Shows, Fairs & Festivals
 
 
       #### &nbsp;
