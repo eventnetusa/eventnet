@@ -70,13 +70,9 @@ content_section:
       #### Consumer Activations at:
 
 
-      * Malls & Shopping Centers
-
-      * Socially Active Retirement Communities
-
-      * Demographically Targeted Sporting Events
-
-      * Consumer Shows, Fairs & Festivals
+      \- Malls & Shopping Centers<br>\- Socially Active Retirement
+      Communities<br>\- Demographically Targeted Sporting Events<br>\- Consumer
+      Shows, Fairs & Festivals
 
 
       #### &nbsp;
