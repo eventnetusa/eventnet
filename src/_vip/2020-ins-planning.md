@@ -10,17 +10,20 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Now is a good time to start 2019 Medicare planning
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Honored to Service
+  ### Our History
 
   * Humana
-    * Tampa
-    * Orlando
-    * North Chicago
-    * West Chicago
-    * Seattle
-    * New Orleans
+    * Hawaii
+    * Florida
+    * Illinois
+    * Washington
+    * Louisiana
+    * Kansas
+    * Texas
   * Aetna
-    * Cleveland
+    * Ohio
+    * New Jersey
+    * Texas
   * Blue Cross and Blue Shield
     * Tennessee
     * Illinois
@@ -28,7 +31,7 @@ sidebar_text_markdown: |-
     * Texas
     * South Carolina
     * Rhode Island
-    * Independence
+    * Pennsylvania
 
   ### Turnkey Services
 
