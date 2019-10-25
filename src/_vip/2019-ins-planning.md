@@ -65,7 +65,7 @@ content_section:
       * Pop-up Stores & Events
 
       * Community Outreach Vehicles
-
+        * Take a look at our [inventory for purchase or lease](/vip/used-inventory/){: target="_blank"}
       * Health Screening Events for Gap Closing
 
       * Retail Partnership Integration
@@ -86,7 +86,7 @@ content_section:
       #### &nbsp;
 
 
-      #### Which 2019 program opportunities fit your needs?
+      #### Which 2020 program opportunities fit your needs?
 
 
       &nbsp;
