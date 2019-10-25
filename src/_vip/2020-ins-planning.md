@@ -88,7 +88,7 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path: /uploads/picture5-10.jpg
+      single_image_path: /uploads/picture6-2.jpg
     double_image_block:
       image_1_path:
       image_2_path:
