@@ -27,6 +27,8 @@ sidebar_text_markdown: |-
     * Oklahoma
     * Texas
     * South Carolina
+    * Rhode Island
+    * Independence
 
   ### Turnkey Services
 
@@ -104,15 +106,39 @@ content_section:
 
       ### &nbsp;
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture1-15.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/picture2-9.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/picture3-8.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/picture4-3.png
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
-      See why we're #1 in [Medicare
-      Marketing](https://www.eventnetusa.com/work/)!
+      See why we're \#1 in [Medicare
+      Marketing](https://www.eventnetusa.com/work/)\!
 
 
       Shelby Beaty
