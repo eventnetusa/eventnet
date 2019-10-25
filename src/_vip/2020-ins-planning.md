@@ -20,6 +20,7 @@ sidebar_text_markdown: |-
     * Louisiana
     * Kansas
     * Texas
+    * Minnesota
   * Aetna
     * Ohio
     * New Jersey
