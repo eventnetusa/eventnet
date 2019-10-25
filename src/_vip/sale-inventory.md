@@ -6,7 +6,7 @@ vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
-cta_link_url: contact@eventnetusa.com
+cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Interested in these vehicles?
 cta_text: Contact us for pricing
 sidebar_text_markdown: |-
