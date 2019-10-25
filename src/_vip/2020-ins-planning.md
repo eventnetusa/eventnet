@@ -1,6 +1,6 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: 2020 MEDICARE ENGAGEMENT & ENROLLMENT PROGRAMS
+large_headline: 2020 MEDICARE ENGAGEMENT AND ENROLLMENT PROGRAMS
 hero_image_path: /uploads/hero-image-2-2.png
 vip_project_type: B2B
 hide_social_links: false
@@ -10,7 +10,7 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Now is the time to start 2020 Medicare planning
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Our Insurance Clients
+  ### Insurance Clients
 
   * Humana
     * Hawaii
