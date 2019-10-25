@@ -69,7 +69,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## Four Available: Used Ford F550
+      ## Four Available: Ford F550
 
 
       \- Two meeting spaces<br>\- Guest waiting area<br>\- Wheel chair
@@ -118,7 +118,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## Four Available: Used Chevrolet Turtle Top
+      ## Four Available: Chevrolet Turtle Top
 
 
       \- Two meeting spaces<br>\- Guest waiting area<br>\- Exterior awning<br>\-
