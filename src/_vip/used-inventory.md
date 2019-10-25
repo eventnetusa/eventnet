@@ -46,7 +46,7 @@ sidebar_text_markdown: |-
     * Generator Hours: 11,680
 content_section:
   - text_block_markdown: >-
-      Interested in adding a Community Engagement Vehicle to your 2020 marketing
+      Interested in adding a Consumer Engagement Vehicle to your 2020 marketing
       strategy?&nbsp;
 
 
