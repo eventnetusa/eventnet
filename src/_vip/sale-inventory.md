@@ -1,6 +1,6 @@
 ---
 small_headline: IDEAL OPTION FOR MOBILE MARKETING PROGRAMS ON A BUDGET
-large_headline: NEWLY AVAILABLE! USED MOBILE MARKETING VEHICLES
+large_headline: NEWLY AVAILABLE! USED MOBILE MARKETING VEHICLES FOR PURCHASE OR LEASE
 hero_image_path: /uploads/hero-image-12.png
 vip_project_type: B2C
 hide_social_links: false
