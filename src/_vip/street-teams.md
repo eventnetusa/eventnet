@@ -111,8 +111,40 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/garnier-case-3.jpg
+      image_1_path: /uploads/nyx-truck-2.jpg
       image_2_path: /uploads/20170708_094506.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/homewood-suites-macys-parade.jpg
+      image_2_path: /uploads/lacroix-mini-and-scooters-2.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/vlasic-sampling2-1.jpg
+      image_2_path: /uploads/picture5-11.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/lacroix-3.jpg
+      image_2_path: /uploads/picture14-2-1.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/yogurtini.jpg
+      image_2_path: /uploads/20170701-110303.jpg
     video_block:
       video_id:
 _comments:
