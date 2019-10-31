@@ -91,7 +91,7 @@ content_section:
       single_image_path:
     double_image_block:
       image_1_path: /uploads/lacroix-superbowl.JPG
-      image_2_path: /uploads/silk-thumb.jpg
+      image_2_path: /uploads/silk1-1.png
     video_block:
       video_id:
   - text_block_markdown:
