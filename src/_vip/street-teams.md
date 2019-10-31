@@ -1,6 +1,6 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Guerrilla Marketing with Street Teams
+large_headline: High Volume Sampling with Street Teams
 hero_image_path: /uploads/collage-for-8-reasons.png
 vip_project_type: B2B
 hide_social_links: false
