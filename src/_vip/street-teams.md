@@ -10,6 +10,12 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Ready to sample thousands of targeted consumers?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
+  ### ABOUT EVENTNETUSA
+
+
+  ### &nbsp;
+
+
   ### Turnkey Service Offerings Include
 
 
