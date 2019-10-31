@@ -76,30 +76,17 @@ sidebar_text_markdown: >-
   to debut its fantasy sports website
 content_section:
   - text_block_markdown: >-
-      Founded in 1976, EventNetUSA is one of the oldest experiential marketing
-      agencies in the industry. Named a *Top Event Marketing Agency* for the
-      15th year on Event Marketer's [It
-      List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/),
-      and *known for producing the impossible*, we provide turn-key event
-      production and logistics to brands and agencies nationwide.&nbsp;
-
-
-      Our full service approach and team of industry experts ensure every brand
-      idea comes to life with originality, quality, on time and on budget.
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
       ### SAMPLING & STREET TEAMS
 
 
       Our expert routing and diverse network of brand ambassadors puts your
-      brand in consumer's hands from grassroots level engagement to major
-      events. Even the Super Bowl\!
+      brand in targeted consumer's hands from grassroots level engagement to
+      major events like the Super Bowl.&nbsp;
+
+
+      Looking for more than just sampling? Increase impressions with branded
+      vehicles, beach and park takeovers, targeted product drops, etc. We even
+      took over the Macy's Thanksgiving Day Parade\!&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
