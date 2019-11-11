@@ -55,7 +55,7 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       #### Recognized as the leading *Experiential Marketing Agency servicing
-      the Health Insurance Industry* by Event Marketer Magazine, we excel in
+      the Health Insurance Industry* by Event Marketer Magazine. We excel in
       activations that promote sales, education and brand reach to targeted
       consumers.&nbsp;
 
