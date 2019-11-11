@@ -66,10 +66,8 @@ content_section:
       #### Reach New & Existing Members:
 
 
-      \- Pop-up Stores & Events<br>\- Community Outreach Vehicles ([New
-      inventory for purchase or lease](/vip/used-inventory/){:
-      target="_blank"})<br>\- Health Screening Events for Gap Closing<br>\-
-      Retail Partnership Integration
+      \- Pop-up Stores & Events<br>\- Community Outreach Vehicles<br>\- Health
+      Screening Events for Gap Closing<br>\- Retail Partnership Integration
 
 
       #### Consumer Activations at:
