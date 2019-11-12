@@ -74,9 +74,9 @@ content_section:
       #### Year Round Consumer Activations at:
 
 
-      \- Malls & Shopping Centers<br>\- Socially Active Retirement
-      Communities<br>\- High Traffic, Demographically Targeted Locations<br>\-
-      Consumer Shows, Fairs & Festivals
+      \- Malls & Shopping Centers<br>\- SARCs (Socially Active Retirement
+      Communities)<br>\- High Traffic, Demographically Targeted Locations<br>\-
+      Consumer Shows, Fairs & Festivals, Lifestyle Events
 
 
       #### &nbsp;
