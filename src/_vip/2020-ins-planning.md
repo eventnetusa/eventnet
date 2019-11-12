@@ -67,10 +67,11 @@ content_section:
 
 
       \- Pop-up Stores & Events<br>\- Community Outreach Vehicles<br>\- Health
-      Screening Events for Gap Closing<br>\- Retail Partnership Integration
+      Screening Events for Gap Closing<br>\- Retail Partnership
+      Integration<br>&nbsp; &nbsp; &nbsp;- Store in Store Pop-Ups
 
 
-      #### Consumer Activations at:
+      #### Year Round Consumer Activations at:
 
 
       \- Malls & Shopping Centers<br>\- Socially Active Retirement
