@@ -1,5 +1,5 @@
 ---
-title: 'Decades Greatest Hits: Holiday ED'
+title: Decades Greatest Hits - Holiday ED
 date: 2019-12-09 09:00:00
 filter: insights
 featured_post: true
