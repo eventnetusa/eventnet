@@ -1,8 +1,8 @@
 ---
 title: 'Decades Greatest Hits: Holiday ED'
 date: 2019-12-09 09:00:00
-filter:
-featured_post: false
+filter: insights
+featured_post: true
 excerpt:
 hero_image_path:
 thumbnail_image_path:
@@ -39,7 +39,22 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      ### A LOOK BEHIND THE SCENES
+
+
+      * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar
+      complete with tasting bar, brewers, compliant food service areas, and
+      historical lounge
+
+      * Recruited, trained and staffed Tour Managers and in-field staff to serve
+      as Tea Ambassadors
+
+      * Researched, scheduled and executed three US tours: 2016 Northeast Tour,
+      2015 MidWest/Pacific Coast Tour and 2014 Coastal Tour
+
+      * Integrated social media photo activation including development and
+      execution of “Biggie” the mascot
     single_image_block:
       single_image_path:
     double_image_block:
