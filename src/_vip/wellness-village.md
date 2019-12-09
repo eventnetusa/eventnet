@@ -7,75 +7,24 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Plan your 2019-20 sponsorship tour
-cta_text: Let's talk!
-sidebar_text_markdown: >-
+cta_headline: Sample your health and wellness product in Wellness Village
+cta_text: Contact Us
+sidebar_text_markdown: |-
   ### Turnkey Service Offerings Include
 
-
   * Sponsorship agreement negotiation and contracting
-
   * Ideation, Design & Brand Customization
-
   * Graphic & Display Production
-
   * Venue & Vehicle Procurement
-
   * Routing & Logistics
-
   * Permitting & Legal
-
   * Staff & Training
-
   * Social Media Integration
-
   * Budget Forecasting
-
   * Account Management
-
   * Liability Insurance
-
   * Risk Management
-
   * Reporting
-
-
-  &nbsp;
-
-
-  ### Agency Highlights
-
-
-  * Named Top Event Marketing Agency for 15th year on Event Marketer's [It
-  List](http://www.eventmarketer.com/article/the-2017-it-list-recognizing-the-top-100-event-agencies/)
-
-  * Built private tropical island in the Hudson River for one lucky family's
-  Fine Living vacation
-
-  * Granted security clearance for producing high profile PR Events by both
-  United States Homeland Security and Secret Service
-
-  * Managed over 1,500 event days over past 5 years. That's over 310 event day's
-  per year
-
-  * Managed over 140 different Mobile Marketing Vehicle Tours over past 10 years
-
-  * Produced consumer events for major sports organizations including NBA, NFL,
-  MLB and PGA
-
-  * Delivered major client brand exposure at some of the world's largest events
-  including the ESPY Awards, NBA All-Star Game, Grammy's, Emmy's, New York
-  Fashion Week, US Women's Open Ski Tournament and Super Bowl XLIV
-
-  * Agency of record for Mini Cooper's US launch
-
-  * Introduced Affordable Care Act to thousands of consumers for one of the
-  country's top Health Insurance Providers
-
-  * Only agency It List agency named for Health Insurance Activations
-
-  * Led digital fantasy sports phenomenon by taking CBS Interactive on the road
-  to debut its fantasy sports website
 content_section:
   - text_block_markdown: >-
       Through EventNetUSA's exclusive partnerships with producers of the
