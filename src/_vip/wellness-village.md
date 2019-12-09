@@ -53,15 +53,19 @@ content_section:
       **How to participate**
 
 
-      1. Select one or multiple tours, 10 major events each
+      1\. Select one or multiple tours, 10 major events each
 
-      2. Select your footprint<br>\- 10x20 with Custom Activation<br>\- 10x10
-      Sampling Package<br>\- Co-op Sampling Package<br>\- Have something else in
-      mind? Let’s hear it\! &nbsp;
 
-      3. Provide product samples and we’ll take care of the rest\!<br>\- Branded
-      set production, transport, set-up and tear-down<br>\- Staffing and
-      training<br>\- Sampling recaps and reports<br>\- Insurance
+      2\. Select your footprint<br>&nbsp; &nbsp;- 10x20 with Custom
+      Activation<br>&nbsp; &nbsp;- 10x10 Sampling Package<br>&nbsp; &nbsp;-
+      Co-op Sampling Package<br>&nbsp; &nbsp;- Have something else in mind?
+      Let’s hear it\! &nbsp;
+
+
+      3\. Provide product samples and we’ll take care of the rest\!<br>&nbsp;
+      &nbsp;- Branded set production, transport, set-up and tear-down<br>&nbsp;
+      &nbsp;- Staffing and training<br>&nbsp; &nbsp;- Sampling recaps and
+      reports<br>&nbsp; &nbsp;- Insurance
     single_image_block:
       single_image_path: /uploads/wellness-village.png
     double_image_block:
