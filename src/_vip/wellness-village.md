@@ -45,16 +45,19 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
+  - text_block_markdown: >-
       **How to participate**
 
+
       1. Select one or multiple tours, 10 major events each
-      2. Select your footprint
-         * 10x20 with Custom Activation
-         * 10x10 Sampling Package
-         * Co-op Sampling Package
-         * Have something else in mind? Let’s hear it\! &nbsp;
-      3. Provide product samples and we’ll take care of the rest\!
+
+      2. Select your footprint<br>\- 10x20 with Custom Activation<br>\- 10x10
+      Sampling Package<br>\- Co-op Sampling Package<br>\- Have something else in
+      mind? Let’s hear it\! &nbsp;
+
+      3. Provide product samples and we’ll take care of the rest\!<br>\- Branded
+      set production, transport, set-up and tear-down<br>\- Staffing and
+      training<br>\- Sampling recaps and reports<br>\- Insurance
     single_image_block:
       single_image_path: /uploads/wellness-village.png
     double_image_block:
