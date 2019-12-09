@@ -53,7 +53,7 @@ content_section:
       **How to participate**
 
 
-      1\. Select one or multiple tours, 10 major events each
+      1\. Select one or multiple tours
 
 
       2\. Select your footprint<br>&nbsp; &nbsp;- 10x20 with Custom
