@@ -67,7 +67,7 @@ content_section:
       &nbsp;- Staffing and training<br>&nbsp; &nbsp;- Sampling recaps and
       reports<br>&nbsp; &nbsp;- Insurance
     single_image_block:
-      single_image_path: /uploads/wellness-village.png
+      single_image_path: /uploads/wellness-village-1.png
     double_image_block:
       image_1_path:
       image_2_path:
