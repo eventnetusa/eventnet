@@ -75,7 +75,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/10x20-footprint-1.png
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -83,7 +83,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/10x10-footprint-1.png
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
