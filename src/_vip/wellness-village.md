@@ -38,6 +38,10 @@ content_section:
       Engaging for all ages, Wellness Village features free health activities
       and brand activations including product sampling and demonstrations, yoga,
       biometric scans, rock climbing, strength and agility tests, and more\!
+
+
+      4 Regional Tours, 10 Events Each\*<br>\- Northeast<br>\- Midwest<br>\-
+      West Coast<br>\- South<br><br>\*Events to be announced in 2020
     single_image_block:
       single_image_path:
     double_image_block:
