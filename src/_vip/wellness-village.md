@@ -75,7 +75,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture1-16.png
     double_image_block:
       image_1_path:
       image_2_path:
