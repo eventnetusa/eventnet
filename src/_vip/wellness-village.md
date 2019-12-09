@@ -1,7 +1,7 @@
 ---
 small_headline: Consumer Sampling at 40 of the Nation's Top Family Festivals
 large_headline: WELLNESS VILLAGE 2020
-hero_image_path: /uploads/collage-for-8-reasons.png
+hero_image_path: /uploads/hero-image-14.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
@@ -45,7 +45,16 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: |-
+      **How to participate**
+
+      1. Select one or multiple tours, 10 major events each
+      2. Select your footprint
+         * 10x20 with Custom Activation
+         * 10x10 Sampling Package
+         * Co-op Sampling Package
+         * Have something else in mind? Let’s hear it\! &nbsp;
+      3. Provide product samples and we’ll take care of the rest\!
     single_image_block:
       single_image_path:
     double_image_block:
