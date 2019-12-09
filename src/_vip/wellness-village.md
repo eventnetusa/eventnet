@@ -56,7 +56,7 @@ content_section:
          * Have something else in mind? Let’s hear it\! &nbsp;
       3. Provide product samples and we’ll take care of the rest\!
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/wellness-village.png
     double_image_block:
       image_1_path:
       image_2_path:
