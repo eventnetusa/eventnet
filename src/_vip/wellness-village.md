@@ -40,7 +40,7 @@ content_section:
       biometric scans, rock climbing, strength and agility tests, and more\!
 
 
-      4 Regional Tours, 10 Events Each\*<br>\- Northeast<br>\- Midwest<br>\-
+      **4 Regional Tours, 10 Events Each\***<br>\- Northeast<br>\- Midwest<br>\-
       West Coast<br>\- South<br><br>\*Events to be announced in 2020
     single_image_block:
       single_image_path:
