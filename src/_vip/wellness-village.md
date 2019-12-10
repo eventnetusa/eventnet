@@ -36,9 +36,10 @@ content_section:
       sampling, demonstrations and purchases. Free wellness activities include:
 
 
-      Rock climbing<br>\- Balance and agility challenges<br>\- Blood pressure,
-      vision and biometric tests<br>\- Health knowledge trivia<br>\- Give us
-      Your Best Grip strength test<br>\- Speed cycling and yoga<br>\- Line
+      Rock climbing<br>&nbsp; &nbsp;- Balance and agility challenges<br>&nbsp;
+      &nbsp;- Blood pressure, vision and biometric tests<br>&nbsp; &nbsp;-
+      Health knowledge trivia<br>&nbsp; &nbsp;- Give us Your Best Grip strength
+      test<br>&nbsp; &nbsp;- Speed cycling and yoga<br>&nbsp; &nbsp;- Line
       dancing<br>And more\!&nbsp;
 
 
@@ -60,14 +61,12 @@ content_section:
 
       2\. Select your footprint<br>&nbsp; &nbsp;- 10x20 with Custom
       Activation<br>&nbsp; &nbsp;- 10x10 Sampling Package<br>&nbsp; &nbsp;-
-      Co-op Sampling Package<br>&nbsp; &nbsp;- Have something else in mind?
-      Let’s hear it\! &nbsp;
+      Co-op Sampling Package<br>&nbsp; &nbsp;- Bring Your Own Display or Mobile
+      Activation<br>&nbsp; &nbsp;- Have something else in mind? Let’s hear it\!
+      &nbsp;
 
 
-      3\. Provide product samples and we’ll take care of the rest\!<br>&nbsp;
-      &nbsp;- Branded set production, transport, set-up and tear-down<br>&nbsp;
-      &nbsp;- Staffing and training<br>&nbsp; &nbsp;- Sampling recaps and
-      reports<br>&nbsp; &nbsp;- Insurance
+      3\. Provide product samples and we’ll take care of the rest\!
     single_image_block:
       single_image_path:
     double_image_block:
