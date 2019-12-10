@@ -9,22 +9,19 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Sample your health and wellness product in Wellness Village
 cta_text: Contact Us
-sidebar_text_markdown: |-
-  ### Turnkey Service Offerings Include
+sidebar_text_markdown: >-
+  ### Sample West Cost Tour
 
-  * Sponsorship agreement negotiation and contracting
-  * Ideation, Design & Brand Customization
-  * Graphic & Display Production
-  * Venue & Vehicle Procurement
-  * Routing & Logistics
-  * Permitting & Legal
-  * Staff & Training
-  * Social Media Integration
-  * Budget Forecasting
-  * Account Management
-  * Liability Insurance
-  * Risk Management
-  * Reporting
+
+  Auburn Spring Home Show I 32K+&nbsp;<br>Temecula Valley Balloon & Wine Fest I
+  40K+&nbsp;<br>Meeker Days Arts & Music Fest I 100K+&nbsp;<br>Seattle Cancer
+  Care Alliance Seafair Summer I 45K+<br>San Francisco Marathon Race 7 Expo I
+  40K+<br>Los Angeles Parade of Palm Trees I 140K+<br>Seattle Hempfest I
+  110K+<br>Olympia Harbor Days Tugboat Fest I 55K+<br>Gold Country Fair I
+  30,000+<br>Auburn Fall Show I 28K+
+
+
+  Note - Final tour events and dates to be announced in 2020<br>&nbsp;
 content_section:
   - text_block_markdown: >-
       **Engage with 2MM+ health-minded consumers at Wellness Village 2020, a
