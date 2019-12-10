@@ -1,5 +1,5 @@
 ---
-small_headline: Consumer Sampling at 40 of the Nation's Top Family Festivals
+small_headline: Brand Engagement at 40 of the Nation's Top Family Festivals
 large_headline: WELLNESS VILLAGE 2020
 hero_image_path: /uploads/hero-image-16.png
 vip_project_type: B2B
