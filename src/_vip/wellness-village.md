@@ -36,10 +36,10 @@ content_section:
       sampling, demonstrations and purchases. Free wellness activities include:
 
 
-      Rock climbing<br>Balance and agility challenges<br>Blood pressure, vision
-      and biometric tests<br>Health knowledge trivia<br>Give us Your Best Grip
-      strength test<br>Speed cycling and yoga<br>Line dancing<br>And
-      more\!&nbsp;
+      Rock climbing<br>\- Balance and agility challenges<br>\- Blood pressure,
+      vision and biometric tests<br>\- Health knowledge trivia<br>\- Give us
+      Your Best Grip strength test<br>\- Speed cycling and yoga<br>\- Line
+      dancing<br>And more\!&nbsp;
 
 
       **4 Regional Tours, 10 Events Each\***<br>\- Northeast<br>\- Midwest<br>\-
