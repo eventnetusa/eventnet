@@ -27,16 +27,17 @@ sidebar_text_markdown: |-
   * Reporting
 content_section:
   - text_block_markdown: >-
-      Engage with 2MM+ health-minded consumers at Wellness Village 2020, a
+      **Engage with 2MM+ health-minded consumers at Wellness Village 2020, a
       health fair within a fair\! Travelling to 40 top U.S. festivals this
-      summer.
+      summer.**
 
 
-      Attendees at Wellness Village get healthy in fun ways through product
-      sampling, demonstrations and purchases. Free wellness activities include:
+      **Attendees at Wellness Village get healthy in fun ways through product
+      sampling, demonstrations and purchases.&nbsp;**
 
 
-      Rock climbing<br>&nbsp; &nbsp;- Balance and agility challenges<br>&nbsp;
+      **Free Wellness Activities Include:&nbsp;**<br>&nbsp; &nbsp;- Rock
+      climbing<br>&nbsp; &nbsp;- Balance and agility challenges<br>&nbsp;
       &nbsp;- Blood pressure, vision and biometric tests<br>&nbsp; &nbsp;-
       Health knowledge trivia<br>&nbsp; &nbsp;- Give us Your Best Grip strength
       test<br>&nbsp; &nbsp;- Speed cycling and yoga<br>&nbsp; &nbsp;- Line
