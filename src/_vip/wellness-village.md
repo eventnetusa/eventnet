@@ -27,17 +27,19 @@ sidebar_text_markdown: |-
   * Reporting
 content_section:
   - text_block_markdown: >-
-      Looking for consumer sampling and brand exposure next summer?&nbsp;
+      Engage with 2MM+ health-minded consumers at Wellness Village 2020, a
+      health fair within a fair\! Travelling to 40 top U.S. festivals this
+      summer.
 
 
-      EventNetUSA invites your brand to participate in **Wellness Village**, a
-      health-centric brand sampling zone within the largest 2020 family events
-      and festivals. &nbsp;
+      Attendees at Wellness Village get healthy in fun ways through product
+      sampling, demonstrations and purchases. Free wellness activities include:
 
 
-      Engaging for all ages, Wellness Village features free health activities
-      and brand activations including product sampling and demonstrations, yoga,
-      biometric scans, rock climbing, strength and agility tests, and more\!
+      Rock climbing<br>Balance and agility challenges<br>Blood pressure, vision
+      and biometric tests<br>Health knowledge trivia<br>Give us Your Best Grip
+      strength test<br>Speed cycling and yoga<br>Line dancing<br>And
+      more\!&nbsp;
 
 
       **4 Regional Tours, 10 Events Each\***<br>\- Northeast<br>\- Midwest<br>\-
@@ -67,7 +69,7 @@ content_section:
       &nbsp;- Staffing and training<br>&nbsp; &nbsp;- Sampling recaps and
       reports<br>&nbsp; &nbsp;- Insurance
     single_image_block:
-      single_image_path: /uploads/wellness-village-1.png
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
@@ -76,14 +78,6 @@ content_section:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/picture1-16.png
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
