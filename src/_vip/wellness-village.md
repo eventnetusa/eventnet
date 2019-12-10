@@ -33,16 +33,17 @@ content_section:
       sampling, demonstrations and purchases.&nbsp;**
 
 
-      **Free Wellness Activities Include:&nbsp;**<br>&nbsp; &nbsp;- Rock
-      climbing<br>&nbsp; &nbsp;- Balance and agility challenges<br>&nbsp;
-      &nbsp;- Blood pressure, vision and biometric tests<br>&nbsp; &nbsp;-
-      Health knowledge trivia<br>&nbsp; &nbsp;- Give us Your Best Grip strength
-      test<br>&nbsp; &nbsp;- Speed cycling and yoga<br>&nbsp; &nbsp;- Line
-      dancing<br>And more\!&nbsp;
+      **Free Wellness Activities Include:&nbsp;**<br>&nbsp; &nbsp;- Product
+      demonstrations and sampling<br>&nbsp; &nbsp;- Rock climbing<br>&nbsp;
+      &nbsp;- Balance and agility challenges<br>&nbsp; &nbsp;- Blood pressure,
+      vision and biometric tests<br>&nbsp; &nbsp;- Health knowledge
+      trivia<br>&nbsp; &nbsp;- Give us Your Best Grip strength test<br>&nbsp;
+      &nbsp;- Speed cycling and yoga<br>&nbsp; &nbsp;- Line dancing<br>And
+      more\!&nbsp;
 
 
       **4 Regional Tours, 10 Events Each\***<br>\- Northeast<br>\- Midwest<br>\-
-      West Coast<br>\- South<br><br>\*Events to be announced in 2020
+      West Coast<br>\- South<br>(\*Events to be announced in 2020)
 
 
       **Costs range from $100K - $400K+**
@@ -60,7 +61,7 @@ content_section:
       1\. Select one or multiple tours
 
 
-      2\. Select your footprint<br>&nbsp; &nbsp;- 10x20 with Custom
+      2\. Select your branded footprint<br>&nbsp; &nbsp;- 10x20 with Custom
       Activation<br>&nbsp; &nbsp;- 10x10 Sampling Package<br>&nbsp; &nbsp;-
       Co-op Sampling Package<br>&nbsp; &nbsp;- Bring Your Own Display or Mobile
       Activation<br>&nbsp; &nbsp;- Have something else in mind? Let’s hear it\!
