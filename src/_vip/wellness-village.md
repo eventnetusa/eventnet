@@ -29,12 +29,12 @@ content_section:
       summer.**
 
 
-      **Attendees at Wellness Village get healthy in fun ways through product
-      sampling, demonstrations and purchases.&nbsp;**
+      **Attendees of all ages enjoy engaging with healthy lifestyle brand
+      products and free wellness activities.**
 
 
       **Free Wellness Activities Include:&nbsp;**<br>&nbsp; &nbsp;- Product
-      demonstrations and sampling<br>&nbsp; &nbsp;- Rock climbing<br>&nbsp;
+      demonstrations and sampling<br>&nbsp; &nbsp;- Exercise clinics<br>&nbsp;
       &nbsp;- Balance and agility challenges<br>&nbsp; &nbsp;- Blood pressure,
       vision and biometric tests<br>&nbsp; &nbsp;- Health knowledge
       trivia<br>&nbsp; &nbsp;- Give us Your Best Grip strength test<br>&nbsp;
