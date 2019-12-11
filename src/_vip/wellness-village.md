@@ -33,7 +33,7 @@ content_section:
       products and free wellness activities.**
 
 
-      **Free Wellness Activities Include:&nbsp;**<br>&nbsp; &nbsp;- Product
+      **Wellness Activities Include:&nbsp;**<br>&nbsp; &nbsp;- Product
       demonstrations and sampling<br>&nbsp; &nbsp;- Exercise clinics<br>&nbsp;
       &nbsp;- Balance and agility challenges<br>&nbsp; &nbsp;- Blood pressure,
       vision and biometric tests<br>&nbsp; &nbsp;- Health knowledge
