@@ -7,7 +7,7 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Sample your health and wellness product in Wellness Village
+cta_headline: Sign Up to Participate in Wellness Village 2020
 cta_text: Contact Us
 sidebar_text_markdown: >-
   ### Sample West Cost Tour
