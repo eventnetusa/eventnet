@@ -6,7 +6,7 @@ vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
-cta_link_url: 'mailto:shelbyb@eventnetusa.com'
+cta_link_url: '''mailto:shelbyb@eventnetusa.com'''
 cta_headline: Sign Up to Participate in Wellness Village 2020
 cta_text: Contact Us
 sidebar_text_markdown: >-
