@@ -73,7 +73,7 @@ content_section:
 
       [F](mailto:shelbyb@eventnetusa.com?subject=Wellness%20Village%202020%20Inquiry)[or
       further information, click here to request a
-      meeting.](mailto:shelbyb@eventnetusa.com?subject=Wellness%20Village%202020%20Inquiry)
+      meeting.](mailto:shelbyb@eventnetusa.com?subject=Wellness%20Village%202020%20Inquiry&amp;body=Please%20provide%20the%20following%20details%20with%20your%20request%20-%20%0A%0ABrand%3A%0AProduct%20to%20be%20showcased%3A%20%0ATarget%20demographic%3A%20%0AInterested%20in%20national%20or%20regional%20tours%3A)
     single_image_block:
       single_image_path:
     double_image_block:
