@@ -1,7 +1,7 @@
 ---
 small_headline: Brand Engagement at 40 of the Nation's Top Family Festivals
 large_headline: WELLNESS VILLAGE 2020
-hero_image_path: /uploads/hero-image-16.png
+hero_image_path: /uploads/hero-image-17.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
