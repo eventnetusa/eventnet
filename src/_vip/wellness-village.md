@@ -69,6 +69,10 @@ content_section:
 
 
       3\. Provide product samples and we’ll take care of the rest\!
+
+
+      [Contact us to learn
+      more.](mailto:shelbyb@eventnetusa.com?subject=Wellness%20Village%202020%20Inquiry)
     single_image_block:
       single_image_path:
     double_image_block:
