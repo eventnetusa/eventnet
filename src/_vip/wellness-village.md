@@ -61,7 +61,7 @@ content_section:
       1\. Select one or multiple tours
 
 
-      2\. Select your branded footprint<br>&nbsp; &nbsp;- 10x20 with Custom
+      2\. Select your preferred footprint<br>&nbsp; &nbsp;- 10x20 with Custom
       Activation<br>&nbsp; &nbsp;- 10x10 Sampling Package<br>&nbsp; &nbsp;-
       Co-op Sampling Package<br>&nbsp; &nbsp;- Bring Your Own Display or Mobile
       Activation<br>&nbsp; &nbsp;- Have something else in mind? Let’s hear it\!
