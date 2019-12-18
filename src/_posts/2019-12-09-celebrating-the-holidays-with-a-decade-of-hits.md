@@ -26,10 +26,10 @@ content_section:
       **SEE SOME OF OUR 2010 - 2019 HIGHLIGHTS BELOW**
 
 
-      **[As you read along, click here to listen to our curated Spotify playlist
-      with songs selected specially for each program. Can you find the
+      ***[As you read along, click here to listen to our curated Spotify
+      playlist with songs selected specially for each program. Can you find the
       connection?\!](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
-      target="_blank"}**
+      target="_blank"}***
     single_image_block:
       single_image_path: /uploads/holiday-card-album-back-2.jpg
     double_image_block:
