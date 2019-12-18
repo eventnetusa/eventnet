@@ -149,8 +149,8 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## **2017 \| Homewood Suites & rbb Communications: Macy’s Thanksgiving Day
-      Parade Photo Activation **
+      ## 2017 \| Homewood Suites & rbb Communications: Macy’s Thanksgiving Day
+      Parade Photo Activation
 
 
       EventNetUSA in partnership with rbb Communications and Homewood Suites
