@@ -98,7 +98,7 @@ content_section:
 
 
       We’ve been warming hearts across America with Bigelow for over five years.
-      Bigelow came to EventNetUSA with a need to promote and sample it's tea to
+      Bigelow came to EventNetUSA with a need to promote and sample its tea to
       consumers at events and retailers. Our solution? Transform a 1977
       Airstream into a Mobile Tea Bar complete with tasting bar, brewers,
       compliant food service areas and historical lounge. Biggie the mascot even
