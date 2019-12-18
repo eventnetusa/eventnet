@@ -122,15 +122,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## **2016 \| Owners.com: Mobile Open House**
+      ## **2016 \| Owners.com Mobile Open House Tour**
 
 
       Owners.com partnered with EventNetUSA to bring its online, self-directed
-      approach to home buying/selling to life. Key objectives: Attract consumer
-      and media attention and provide a platform to support brand awareness and
-      education of this new alternative to buying and selling a home. Our
-      solution: A 53’ tractor trailer transformed into a Mobile Open House
-      complete with a interactive front yard\!
+      approach to home buying and selling to life. And we delivered\! By
+      transforming our 53' tractor trailer into a mobile house on wheels
+      complete with front yard games and a backyard bbq. Inside, guests were
+      introduced to the platform with a self-guided, interactive digital
+      experience. Touring events and high visibility locations across the US
+      brought the media and consumers in droves\!
     single_image_block:
       single_image_path: /uploads/owners-article-2.jpg
     double_image_block:
