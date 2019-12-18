@@ -97,9 +97,9 @@ content_section:
       ## **2014\| Bigelow: Mobile Tea Bar**
 
 
-      We’ve been warming hearts across America with Bigelow for over five years
-      now. Bigelow came to EventNetUSA with a need to promote and sample it's
-      tea to consumers at events and retailers. Our solution? Transform a 1977
+      We’ve been warming hearts across America with Bigelow for over five years.
+      Bigelow came to EventNetUSA with a need to promote and sample it's tea to
+      consumers at events and retailers. Our solution? Transform a 1977
       Airstream into a Mobile Tea Bar complete with tasting bar, brewers,
       compliant food service areas and historical lounge. Biggie the mascot even
       goes on tour with us\!&nbsp;
@@ -118,7 +118,7 @@ content_section:
       tractor trailer into a unique beauty and sales experience\! Revlon’s Love
       Is On Pop-Up Shop treated consumers to personalized makeovers and
       manicures, one-on-one product consultations, a “Try Me” sample bar and the
-      famous \#LOVEISON photo booth. Our kick off event with Kevin and Danielle
+      famous \#LOVEISON photo booth. Our kick-off event with Kevin and Danielle
       Jonas in Times Square had the media buzzing\!&nbsp;
     single_image_block:
       single_image_path: /uploads/revlon-case-7.jpg
