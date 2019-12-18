@@ -26,6 +26,9 @@ content_section:
       **SEE OUR 2010 - 2019 HIGHLIGHTS BELOW**
 
 
+      As you read, along, listed to our specially curated Spotify playlist&nbsp;
+
+
       (Click
       **[here](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
       target="_blank"}** to listen to our Greatest Hits of the Decade holiday
@@ -146,17 +149,16 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## 2017 \| Homewood Suites & rbb Communications: Macy’s Thanksgiving Day
-      Parade Photo Activation
+      ## 2017 \| Homewood Suites & rbb Communications: Thanksgiving Day Parade
+      Photo Activation
 
 
       EventNetUSA, in partnership with rbb Communications and Homewood Suites,
-      infiltrated the Macy’s Thanksgiving Day Parade with a team of 75 brand
+      infiltrated the Thanksgiving Day Parade with a team of 75 brand
       ambassadors to provide parade goers with custom Winter Wonderland photos\!
       Participants posted their photos to social media for a chance to win a
-      dream vacation and tickets to next year's parade (valued at $4,999\!). Our
-      teams marched alongside the iconic floats, giving Homewood Suites the
-      ultimate guerrilla marketing stunt.
+      dream vacation and tickets to next year's parade. It was a true guerrilla
+      marketing stunt\!
     single_image_block:
       single_image_path: /uploads/picture4-8.jpg
     double_image_block:
