@@ -50,11 +50,12 @@ content_section:
       ## **2011 \| Nestle Deer Park: Recycling Education Tour**
 
 
-      The 2010’s was the decade of Eco-Awareness. We partnered with Nestle Deer
-      Park to teach consumers that recycling works\! We produced an interactive
-      glass enclosed vehicle featuring games and exhibits that showed recycling
-      in action. The program garnered over 1M + over the road impressions
-      reaffirming Nestle’s commitment to Keeping America Beautiful\!
+      It was a decade of Eco-Awareness\! We partnered with Nestle Deer Park to
+      teach consumers that recycling works using an interactive glass enclosed
+      vehicle. Events featured games, prizes and exhibits that displayed
+      recycling in action. The Recycling Education Tour garnered 1M +
+      impressions, reaffirming Nestle’s commitment to Keeping America
+      Beautiful\!
     single_image_block:
       single_image_path:
     double_image_block:
