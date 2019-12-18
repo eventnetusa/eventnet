@@ -180,7 +180,7 @@ content_section:
 
 
       Carnival's VP of Sales & Trade Marketing even got a real *Travel Agents
-      Rock*&nbsp;tattoo on stage to show his love for Carnival travel agents\!
+      Rock*&nbsp;tattoo on stage to show his love for travel agents\!
     single_image_block:
       single_image_path: /uploads/34718071141-38c3ce57d2-o.jpg
     double_image_block:
