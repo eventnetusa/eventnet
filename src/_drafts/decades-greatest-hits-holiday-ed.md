@@ -68,11 +68,10 @@ content_section:
 
 
       We partnered with mml PR and Garnier Fructis to throw the ultimate VIP
-      pool party hosted by Mario Lopez. We took over the pool deck of
-      Fountainbleau Miami and brought in Garnier Styling Cabanas featuring salon
-      stations, product demonstrations, swag and photo ops. Our party
-      ambassadors handed out branded gear to attendees which included beach
-      balls, pool floats, lounge furniture, towels and more\!
+      pool party hosted by Mario Lopez. &nbsp;We took over the famous Miami
+      Fountainbleau pool deck with styling cabanas, salon stations, branded
+      lounge furniture and more. Each guest received a celebrity hair makeover,
+      swag bag and VIP photo with Mario himself\!&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
@@ -80,17 +79,7 @@ content_section:
       image_2_path: /uploads/garnier-pool-party-brand-ambassadors.jpg
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ## **2013 \| White House, Partnership for Healthier America & Y&R NY:
-      Drink Up Campaign**
-
-
-      The White House, through the Partnership for a Healthier America and Young
-      & Rubican, approached EventNetUSA to design and produce First Lady
-      Michelle Obama’s national Drink Up Campaign launch. We conceptualized
-      water games and managed the day of set-up and operations including press
-      requirements for Michelle Obama and Eva Longoria with only a 3-week time
-      frame\! P.S. We have government security clearance.
+  - text_block_markdown: "## **2013 \\| White House, Partnership for Healthier America & Y&R NY: Drink Up Campaign**\n\nThe White House, through the Partnership for a Healthier America and Young & Rubican, enlisted the help of EventNetUSA to design and produce First Lady Michelle Obama’s national Drink Up Campaign launch. We conceptualized water games and managed the day of set-up and operations including press requirements for Michelle Obama and Eva Longoria. What's most impressive - we did it all within a 3-week time frame\\! P.S. We have government security clearance. \U0001F60E"
     single_image_block:
       single_image_path:
     double_image_block:
