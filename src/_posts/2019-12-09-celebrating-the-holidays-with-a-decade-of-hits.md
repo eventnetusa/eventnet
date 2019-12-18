@@ -1,5 +1,5 @@
 ---
-title: Decade of Hits Holiday Edition
+title: Celebrating the Holidays with a Decade of Hits
 date: 2019-12-09 09:00:00
 filter: insights
 featured_post: true
