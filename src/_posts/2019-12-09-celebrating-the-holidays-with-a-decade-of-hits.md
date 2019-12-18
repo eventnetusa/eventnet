@@ -57,8 +57,8 @@ content_section:
 
 
       It was a decade of Eco-Awareness\! We partnered with Nestle Deer Park to
-      teach consumers that recycling works using an interactive glass enclosed
-      vehicle. Events featured games, prizes and exhibits that displayed
+      teach consumers that recycling works with an interactive glass enclosed
+      vehicle. Events featured games, prizes and exhibits that demonstrated
       recycling in action. The Recycling Education Tour garnered 1M +
       impressions, reaffirming Nestle’s commitment to Keeping America
       Beautiful\!
