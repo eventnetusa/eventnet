@@ -74,10 +74,10 @@ content_section:
 
 
       We partnered with mml PR and Garnier Fructis to throw the ultimate VIP
-      pool party hosted by Mario Lopez. &nbsp;We took over the famous Miami
-      Fountainbleau pool deck with styling cabanas, salon stations, branded
-      lounge furniture and more. Each guest received a celebrity hair makeover,
-      swag bag and VIP photo with Mario himself\!&nbsp;
+      pool party hosted by Mario Lopez. &nbsp;Our team took over the famous
+      Miami Fountainbleau pool deck with styling cabanas, salon stations,
+      branded lounge furniture and more. Each guest received a celebrity hair
+      makeover, swag bag and VIP photo with Mario himself\!&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
