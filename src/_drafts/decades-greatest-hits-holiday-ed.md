@@ -4,26 +4,28 @@ date: 2019-12-09 09:00:00
 filter: insights
 featured_post: true
 excerpt:
-hero_image_path: /uploads/holiday-card-album-cover-3.jpg
-thumbnail_image_path: /uploads/holiday-card-album-cover-3.jpg
+hero_image_path:
+thumbnail_image_path:
 content_section:
   - text_block_markdown: >-
-      2010 – 2019 Revealed an exciting new trend across the marketing industry.
-      Brands began moving away from traditional marketing, looking for
-      innovative ways to create memorable, one-on-one experiences with consumers
-      through experiential activations.
+      **2010 – 2019 showed** a huge change in brands moving from traditional
+      marketing to creating one-on-one experiences with their customers through
+      experiential marketing. It has been a pleasure working with our brands and
+      agencies to create these unique experiences and are grateful for our
+      amazing clients.
 
 
-      As we reflect, our team has had the pleasure of working with incredible
-      brands and agencies to create unforgettable experiences and bring their
-      big ideas to life. &nbsp;Thank you to ALL our amazing clients for making
-      this decade a huge hit\!
+      &nbsp;
 
 
-      We look forward to what the next decade has in store\!
+      Going into 2020 we have some game changing programs underway and
+      innovative ideas waiting for the right brand to partner with.
 
 
-      **See our 2010 – 2019 highlights below**
+      &nbsp;
+
+
+      **See our 2010 – 2019 Highlights Below**
     single_image_block:
       single_image_path:
     double_image_block:
@@ -58,8 +60,8 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/picture3-6.jpg
+      image_2_path: /uploads/picture1-7.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
