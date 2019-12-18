@@ -45,9 +45,9 @@ content_section:
       Florida with street teams, branded Vespas and Mini Coopers, LaCroix stole
       the show as the unofficial sponsor of Superbowl XLIV.
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/lacroix-superbowl.JPG
     double_image_block:
-      image_1_path:
+      image_1_path: /uploads/lacroix-mini-and-scooters-1.jpg
       image_2_path:
     video_block:
       video_id:
