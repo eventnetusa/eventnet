@@ -104,7 +104,7 @@ content_section:
       compliant food service areas and historical lounge. Biggie the mascot even
       goes on tour with us\!&nbsp;
     single_image_block:
-      single_image_path: /uploads/picture2-10.png
+      single_image_path: /uploads/20161001-125153-2.jpg
     double_image_block:
       image_1_path: /uploads/bigelow-tour-2014.jpg
       image_2_path: /uploads/5-2-17-bigelow-kids.jpg
