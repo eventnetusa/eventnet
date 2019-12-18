@@ -128,7 +128,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## **2016 \| Owners.com Mobile Open House Tour**
+      ## **2016 \| Owners.com: Mobile Open House Tour**
 
 
       Owners.com partnered with EventNetUSA to bring its online, self-directed
