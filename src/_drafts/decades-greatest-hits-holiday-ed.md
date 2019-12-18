@@ -149,40 +149,21 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      EventNetUSA partnered with rbb Communications to produce a interactive
-      experience to engage media guest and their families during a two hour
-      Holiday Photo Influencer event for Homewood Suites. The “Winter
-      Wonderland” themed event’s interactive elements included a staged photo
-      area with onsite printing and digital delivery capabilities and a fun DIY
-      activity to “channel your creativity with Homewood Suites”.
+      ## **2017 \| Homewood Suites & rbb Communications: Macy’s Thanksgiving Day
+      Parade Photo Activation **
 
 
-      &nbsp;
-
-
-      **A LOOK BEHIND THE SCENES**
-
-
-      * Successfully executed winter wonderland media event and influencer
-      presentation under a tight 3 week timeline.
-
-      * Transformed the indoor dining area and outdoor patio of Homewood Suites
-      Times Square into a white winter scene.
-
-      * Vetted and managed holiday inspired catering
-
-      * Engaged guests with over-sized snow globe photo activation allowing them
-      to climb into the globe and play around in “snow”
-
-      * Inspired creativity with DIY ornament station that included over-sized
-      ornaments and decorating materials along with a take home box
-
-      * Managed AV set up for influencer presentation
+      EventNetUSA in partnership with rbb Communications and Homewood Suites
+      infiltrated the Macy’s Thanksgiving Day Parade with a team of 70+ brand
+      ambassadors to provide parade goers with custom Winter Wonderland photos\!
+      The photos taken were a part of a social media competition that gave
+      consumers a change to win the grand prize valued at $4,999\! WE even had
+      some team members walking in the parade\!
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/picture4-8.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/picture1-17.png
+      image_2_path: /uploads/picture2-11.png
     video_block:
       video_id:
   - text_block_markdown: >-
