@@ -219,7 +219,7 @@ content_section:
 
 
       If you would like more information on these programs or our event
-      marketing services, click [here](/contact/){: target="_blank"}to let us
+      marketing services, click [here](/contact/){: target="_blank"} to let us
       know\!&nbsp;
     single_image_block:
       single_image_path:
