@@ -205,10 +205,22 @@ content_section:
       image_2_path: /uploads/humana-2-1.png
     video_block:
       video_id:
-  - text_block_markdown: |-
-      **HAPPY HOLIDAY'S FROM YOUR FRIENDS AT EVENTNETUSA\! **
+  - text_block_markdown: >-
+      **HAPPY HOLIDAYS FROM YOUR FRIENDS AT EVENTNETUSA\!&nbsp;**
+
 
       **WE'LL SEE YOU IN THE NEXT DECADE\!**
+
+
+      &nbsp;
+
+
+      &nbsp;
+
+
+      If you would like more information on these programs or our event
+      marketing services, click [here](/contact/){: target="_blank"}to let us
+      know\!&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
