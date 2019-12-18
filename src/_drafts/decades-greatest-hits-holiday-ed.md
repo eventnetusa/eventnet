@@ -157,7 +157,7 @@ content_section:
       infiltrated the Macy’s Thanksgiving Day Parade with a team of 70+ brand
       ambassadors to provide parade goers with custom Winter Wonderland photos\!
       The photos taken were a part of a social media competition that gave
-      consumers a change to win the grand prize valued at $4,999\! WE even had
+      consumers a change to win the grand prize valued at $4,999\! We even had
       some team members walking in the parade\!
     single_image_block:
       single_image_path: /uploads/picture4-8.jpg
