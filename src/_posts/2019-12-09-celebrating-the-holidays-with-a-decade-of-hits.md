@@ -49,7 +49,7 @@ content_section:
       We kicked the decade off with LaCroix Sparkling Water, executing guerrilla
       sampling at one of the year’s largest events. By infiltrating South
       Florida with street teams, branded Vespas and Mini Coopers, LaCroix stole
-      the show as the unofficial sponsor of Superbowl XLIV.
+      the show as the unofficial sponsor of Super Bowl XLIV.
     single_image_block:
       single_image_path:
     double_image_block:
