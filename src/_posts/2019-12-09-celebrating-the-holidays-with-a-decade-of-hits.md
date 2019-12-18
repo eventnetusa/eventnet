@@ -31,14 +31,14 @@ content_section:
       target="_blank"}** to listen to our Greatest Hits of the Decade holiday
       playlist on Spotify.)
     single_image_block:
-      single_image_path: /uploads/holiday-card-album-back.jpg
+      single_image_path: /uploads/holiday-card-album-back-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## **2010 \| LaCroix Sparkling Water: Superbowl XLIV Activation**
+      ## **2010 \| LaCroix Sparkling Water: Super Bowl XLIV Takeover**
 
 
       We kicked the decade off with LaCroix Sparkling Water, executing guerrilla
