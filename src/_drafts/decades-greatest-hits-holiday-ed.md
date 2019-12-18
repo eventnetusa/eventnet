@@ -183,19 +183,15 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## **2019 HUMANA: Pop-up Guidance Center Program**
+      ## **2019 Humana Pop-up Guidance Centers**
 
 
-      Humana, a leading U.S. health insurance provider, partnered with Humana
-      partnered with EventNetUSA to produce and operate a
-      multi-market&nbsp;*Pop-Up Guidance Center Program*&nbsp;for activating
-      Medicare-eligible Seniors. Reinforcing the “Humana is here for you”
-      message
-
-
-      Humana’s Pop-Up Guidance Center events take place in shopping malls, where
-      Seniors come to participate in free health education seminars, fitness
-      classes, one-on-one consultations and biometric screenings.
+      Humana, a leading U.S. health insurance provider, partnered with
+      EventNetUSA to produce and operate a multi-market&nbsp;*Pop-Up Guidance
+      Center Program*&nbsp;for activating Medicare-eligible seniors. Proving to
+      be a huge hit, events take place weekly in shopping malls, where seniors
+      come to participate in free health education seminars, fitness classes,
+      one-on-one consultations, biometric screenings and more\!
     single_image_block:
       single_image_path:
     double_image_block:
