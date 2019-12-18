@@ -51,15 +51,15 @@ content_section:
       image_2_path: /uploads/lacroix-superbowl.JPG
     video_block:
       video_id:
-  - text_block_markdown: Nestle Deer Park
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: Garnier Pool Party
+  - text_block_markdown: >-
+      ## **2011 \| Nestle Deer Park: Recycling Education Tour**
+
+
+      The 2010’s was the decade of Eco-Awareness. We partnered with Nestle Deer
+      Park to teach consumers that recycling works\! We produced an interactive
+      glass enclosed vehicle featuring games and exhibits that showed recycling
+      in action. The program garnered over 1M + over the road impressions
+      reaffirming Nestle’s commitment to Keeping America Beautiful\!
     single_image_block:
       single_image_path:
     double_image_block:
@@ -68,58 +68,55 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      In 2013, The White House, through the Partnership for a Healthier America
-      and Young & Rubican, approached EventNetUSA to design and produce First
-      Lady Michelle Obama’s national Drink Up Campaign launch. The water themed
-      carnival, held in the Watertown High School gymnasium, featured Dunk the
-      Principal, water relay races, water ring toss and Ride the Surf. Actress
-      Eva Longoria, local distributors Wis-Park Inc., 7UP Bottling, and a dozen
-      other water groups also attended the Watertown, WI event.
+      ## **2012 \| Garnier Fructis & mml PR: Pool Party Hosted by Mario Lopez**
 
 
-      ### A LOOK BEHIND THE SCENES
-
-
-      * Successfully executed water carnival and media presentation under a
-      tight 3 week timeline with limited information due to White House security
-      restrictions.
-
-      * Conceptualized and produced carnival water themed games to engage and
-      educate students.
-
-      * Managed PR event setup and operations including press requirements for
-      Michelle Obama and Eva Longoria
-
-      * Vetted by United States Secret Service including permits and security
-      procedures
+      We partnered with mml PR and Garnier Fructis to throw the ultimate VIP
+      pool party hosted by Mario Lopez. We took over the pool deck of
+      Fountainbleau Miami and brought in Garnier Styling Cabanas featuring salon
+      stations, product demonstrations, swag and photo ops. Our party
+      ambassadors handed out branded gear to attendees which included beach
+      balls, pool floats, lounge furniture, towels and more\!
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/mario-lopez.png
+      image_2_path: /uploads/garnier-pool-party-brand-ambassadors.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
-      ### A LOOK BEHIND THE SCENES
+      ## **2013 \| White House, Partnership for Healthier America & Y&R NY:
+      Drink Up Campaign**
 
 
-      * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar
-      complete with tasting bar, brewers, compliant food service areas, and
-      historical lounge
-
-      * Recruited, trained and staffed Tour Managers and in-field staff to serve
-      as Tea Ambassadors
-
-      * Researched, scheduled and executed three US tours: 2016 Northeast Tour,
-      2015 MidWest/Pacific Coast Tour and 2014 Coastal Tour
-
-      * Integrated social media photo activation including development and
-      execution of “Biggie” the mascot
+      The White House, through the Partnership for a Healthier America and Young
+      & Rubican, approached EventNetUSA to design and produce First Lady
+      Michelle Obama’s national Drink Up Campaign launch. We conceptualized
+      water games and managed the day of set-up and operations including press
+      requirements for Michelle Obama and Eva Longoria with only a 3-week time
+      frame\! P.S. We have government security clearance.
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/water-launch-event-1.jpg
+      image_2_path: /uploads/5-3-17-michelle-obama.jpg
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      ## **2014\| Bigelow: Mobile Tea Bar**
+
+
+      We’ve been warming hearts across America with Bigelow for 5 years now.
+      Bigelow came to with a need to promote and sample Bigelow tea at events
+      and retailers, so we designed and transformed a 1977 Airstream into a
+      Mobile Tea Bar complete with tasting bar, brewers, compliant food service
+      areas, and historical lounge. Our favorite part? The social media photo
+      activation with “Biggie” the Mascot\!
+    single_image_block:
+      single_image_path: /uploads/picture2-10.png
+    double_image_block:
+      image_1_path: /uploads/bigelow-tour-2014.jpg
+      image_2_path: /uploads/5-2-17-bigelow-kids.jpg
     video_block:
       video_id:
   - text_block_markdown: >-
