@@ -137,7 +137,7 @@ content_section:
       complete with front yard games and a backyard bbq. Inside, guests were
       introduced to the platform with a self-guided, interactive digital
       experience. Touring events and high visibility locations across the US
-      brought the media and consumers in droves\!
+      attracted media and consumers in droves\!
     single_image_block:
       single_image_path: /uploads/owners-article-2.jpg
     double_image_block:
