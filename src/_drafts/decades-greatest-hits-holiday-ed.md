@@ -162,19 +162,19 @@ content_section:
       ## **2018 \| Carnival Cruise Line: Agentpalooza Tour**
 
 
-      For 2 years we have helped Carnival Cruise Line celebrated travel agents
-      and the rock stars they are through exclusive, invite-only events.
-      AgentPalooza cranked up the volume to create a true rock star experience.
-      Travel agents arrived via limo entrance with paparazzi and fans crowding
-      the red carpet, begging for autographs and photos. Stylists and makeup
-      teams brought out the inner rocker in every agent for concert stage
-      photos. Lido deck inspired games and activities were hosted by a Carnival
-      Cruise Director. VIP swag bags and must-have giveaways topped every event,
-      sending agents home ready to rock for Carnival.
+      For years, EventNetUSA has helped Carnival Cruise Line celebrate travel
+      agents and the rock stars they are through exclusive, invite-only events.
+      The 2017 Agentpalooza Tour cranked up the volume to create a true rock
+      star experience. Travel agents arrived via limo entrance with paparazzi
+      and fans crowding the red carpet, begging for autographs and photos.
+      Stylists and makeup teams brought out the inner rocker in every agent for
+      concert stage photos. Lido deck inspired games and activities were hosted
+      by a Carnival Cruise Director. VIP swag bags and must-have giveaways
+      topped every event, sending agents home, ready to rock for Carnival\!
 
 
-      The VP of Sales & Trade Marketing even got a real “Travel Agents Rock”
-      tattoo on stage to show his love for Carnival travel agents\!
+      Carnival's VP of Sales & Trade Marketing even got a real *Travel Agents
+      Rock*&nbsp;tattoo on stage to show his love for Carnival travel agents\!
     single_image_block:
       single_image_path: /uploads/34718071141-38c3ce57d2-o.jpg
     double_image_block:
