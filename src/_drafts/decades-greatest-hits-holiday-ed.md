@@ -91,12 +91,12 @@ content_section:
       ## **2014\| Bigelow: Mobile Tea Bar**
 
 
-      We’ve been warming hearts across America with Bigelow for 5 years now.
-      Bigelow came to with a need to promote and sample Bigelow tea at events
-      and retailers, so we designed and transformed a 1977 Airstream into a
-      Mobile Tea Bar complete with tasting bar, brewers, compliant food service
-      areas, and historical lounge. Our favorite part? The social media photo
-      activation with “Biggie” the Mascot\!
+      We’ve been warming hearts across America with Bigelow for over five years
+      now. Bigelow came to EventNetUSA with a need to promote and sample it's
+      tea at events and retailers. Our solution? Transform a 1977 Airstream into
+      a Mobile Tea Bar complete with tasting bar, brewers, compliant food
+      service areas and historical lounge. Biggie the mascot even goes on tour
+      with us\!&nbsp;
     single_image_block:
       single_image_path: /uploads/picture2-10.png
     double_image_block:
