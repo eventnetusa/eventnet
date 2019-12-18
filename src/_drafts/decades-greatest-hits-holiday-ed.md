@@ -167,97 +167,27 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      Carnival Cruise Line retained EventNetUSA to produce and operate the 2017
-      AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.
+      ## **2018 \| Carnival Cruise Line: Agentpalooza Tour**
 
 
-      Hosted by Carnival’s Executive Sales Team, AgentPalooza celebrated travel
-      agents and the rock stars they are through exclusive, invite-only events.
-
-
+      For 2 years we have helped Carnival Cruise Line celebrated travel agents
+      and the rock stars they are through exclusive, invite-only events.
       AgentPalooza cranked up the volume to create a true rock star experience.
       Travel agents arrived via limo entrance with paparazzi and fans crowding
       the red carpet, begging for autographs and photos. Stylists and makeup
-      teams brought out the inner-rocker in every agent for concert stage
-      photos. VIP swag bags and must-have giveaways topped every event, sending
-      agents home ready to rock for Carnival.
+      teams brought out the inner rocker in every agent for concert stage
+      photos. Lido deck inspired games and activities were hosted by a Carnival
+      Cruise Director. VIP swag bags and must-have giveaways topped every event,
+      sending agents home ready to rock for Carnival.
 
 
-      Adolfo Perez, Vice President of Sales & Trade Marketing, even got
-      a&nbsp;*Travel Agents Rock*&nbsp;tattoo on stage to show his love for
-      Carnival travel agents\!
-
-
-      **MARKETS:**
-
-
-      * Houston, TX - Minute Maid Park - May 11th
-
-      * New Orleans, LA - Mardi Gras World - May 12th &nbsp;…and 13th (We can’t
-      control the weather but we can react quickly to reschedule events when
-      rain just won’t cooperate.)
-
-      * Charleston, SC - Patriot’s Point Park - May 15th
-
-      * Atlanta, GA - Suntrust Park - May 16th
-
-      * Jacksonville, FL - Jacksonville Landing - May 17th
-
-      * Orlando, FL Kissimmee “Park” - May 18th
-
-
-      **EVENTS INCLUDED:**
-
-
-      * AgentPalooza tour bus
-
-      * Celebrity inspired limo entrance for travel agent guests
-
-      * Red carpet with paparazzi photo shoot
-
-      * Activity zones
-
-      * Rock star stage with DJ
-
-      * Carnival’s Cherry On Top hospitality
-
-      * Charitable food-drive
-
-      * One-on-one meetings between agents and Carnival sales team
-
-      * Prize and premium giveaways
-
-
-      ### **HOW WE DID IT:**
-
-
-      * Venue acquisition including defined venue criteria, comprehensive market
-      research, site visits, selection and contract negotiation
-
-      * Rented, wrapped and staffed 45’ luxury coach bus for transporting
-      Carnival team, tour staff and event display materials from
-      market-to-market
-
-      * Planned and managed tour routing, scheduling and logistics to comply
-      with DOT regulations and meet strict campaign timeline
-
-      * Designed and produced event set including branded tents, signage,
-      banners, tables, chairs, rock star photo activation, stage and games
-
-      * Recruited, hired and trained production team of managers, brand
-      ambassadors, photographers, DJ, drivers and labor personnel
-
-      * Managed inventory for hospitality, premiums/giveaways, materials,
-      supplies, etc.
-
-      * Rescheduled New Orleans event on-the-fly to take place following day due
-      to bad weather. Included venue coordination, rerouting and travel
-      logistics, rescheduled vendors, etc.
+      The VP of Sales & Trade Marketing even got a real “Travel Agents Rock”
+      tattoo on stage to show his love for Carnival travel agents\!
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/34718071141-38c3ce57d2-o.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/34686744062-9ec2898605-k.jpg
+      image_2_path: /uploads/adolfo-tattoo-1.png
     video_block:
       video_id:
   - text_block_markdown: >-
