@@ -117,7 +117,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## **2015\| Revlon & mml PR: Love Is On Mobile Pop-up Store **
+      ## **2015\| Revlon & mml PR: Love Is** On Mobile Pop-up Store
 
 
       How do you inspire and entice love in a big way? You transform a 53’
