@@ -7,7 +7,25 @@ excerpt:
 hero_image_path:
 thumbnail_image_path:
 content_section:
-  - text_block_markdown: Intro
+  - text_block_markdown: >-
+      **2010 – 2019 showed** a huge change in brands moving from traditional
+      marketing to creating one-on-one experiences with their customers through
+      experiential marketing. It has been a pleasure working with our brands and
+      agencies to create these unique experiences and are grateful for our
+      amazing clients.
+
+
+      &nbsp;
+
+
+      Going into 2020 we have some game changing programs underway and
+      innovative ideas waiting for the right brand to partner with.
+
+
+      &nbsp;
+
+
+      **See our 2010 – 2019 Highlights Below**
     single_image_block:
       single_image_path:
     double_image_block:
