@@ -100,7 +100,7 @@ content_section:
       image_2_path: /uploads/garnier-pool-party-brand-ambassadors.jpg
     video_block:
       video_id:
-  - text_block_markdown: "## **2013 \\| White House, Partnership for Healthier America & Y&R NY: Drink Up Campaign**\n\n**(Click to Listen)&nbsp;**[**White Christmas - Bing Crosby**](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){: target=\"_blank\"}\n\nThe White House, through Partnership for a Healthier America and Young & Rubicam, enlisted the help of EventNetUSA to design and produce First Lady Michelle Obama’s national Drink Up Campaign launch. We conceptualized a water-themed carnival and managed day of set-up and operations, including press requirements for Michelle Obama and Eva Longoria. What's most impressive - we did it all within a 3-week time frame\\! P.S. We have government security clearance. \U0001F60E"
+  - text_block_markdown: "## **2013 \\| White House, Partnership for Healthier America & Y&R NY: Drink Up Campaign**\n\n**(Click to Listen)&nbsp;**[**White Christmas - Bing Crosby**](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc)\n\nThe White House, through Partnership for a Healthier America and Young & Rubicam, enlisted the help of EventNetUSA to design and produce First Lady Michelle Obama’s national Drink Up Campaign launch. We conceptualized a water-themed carnival and managed day of set-up and operations, including press requirements for Michelle Obama and Eva Longoria. What's most impressive - we did it all within a 3-week time frame\\! P.S. We have government security clearance. \U0001F60E"
     single_image_block:
       single_image_path:
     double_image_block:
@@ -134,9 +134,9 @@ content_section:
       ## **2015 \| Revlon & mml PR: Love Is** On Mobile Pop-up Shop
 
 
-      **(Click to Listen)**&nbsp;**[All I Want For Christmas Is You - Mariah
-      Carey](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn){:
-      target="_blank"}**
+      **(Click to Listen)**&nbsp;[**All I Want For Christmas Is You - Mariah
+      Carey**](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
+      target="_blank"}
 
 
       How do you inspire and entice love in a big way? You transform a 53’
@@ -157,7 +157,7 @@ content_section:
 
 
       **(Click to Listen)&nbsp;**[**Please Come Home For Christmas -
-      Eagles**](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC){:
+      Eagles**](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
       target="_blank"}
 
 
@@ -180,9 +180,9 @@ content_section:
       Photo Activation
 
 
-      **(Click to Listen)**&nbsp;**[Santa Claus Is Comin' To Town - Bruce
-      Springsteen](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee){:
-      target="_blank"}**
+      **(Click to Listen)**&nbsp;[**Santa Claus Is Comin' To Town - Bruce
+      Springsteen**](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
+      target="_blank"}
 
 
       EventNetUSA, in partnership with rbb Communications and Homewood Suites,
@@ -203,7 +203,7 @@ content_section:
 
 
       **(Click to Listen)&nbsp;**[**Rockin' Around The Christmas Tree - Brenda
-      Lee**](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97){:
+      Lee**](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
       target="_blank"}
 
 
