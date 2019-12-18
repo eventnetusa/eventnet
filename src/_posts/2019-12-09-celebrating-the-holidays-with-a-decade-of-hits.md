@@ -26,8 +26,8 @@ content_section:
       **SEE OUR 2010 - 2019 HIGHLIGHTS BELOW**
 
 
-      **[As you read along, listen to our curated Spotify playlist with songs
-      selected specially for each program. Can you find the
+      **[As you read along, click here to listen to our curated Spotify playlist
+      with songs selected specially for each program. Can you find the
       connection?\!](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
       target="_blank"}**
     single_image_block:
