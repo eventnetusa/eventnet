@@ -23,7 +23,7 @@ content_section:
       We look forward to what the next decade has in store\!
 
 
-      **SEE OUR 2010 - 2019 HIGHLIGHTS BELOW**
+      **SEE SOME OF OUR 2010 - 2019 HIGHLIGHTS BELOW**
 
 
       **[As you read along, click here to listen to our curated Spotify playlist
