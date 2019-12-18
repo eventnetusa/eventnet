@@ -232,7 +232,7 @@ content_section:
 
 
       **(Click to Listen)&nbsp;**[**Merry Christmas, Happy Holidays -
-      Pentatonix**](https://open.spotify.com/track/6crJeVAyChFwjdI6oo0lwm){:
+      Pentatonix**](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
       target="_blank"}
 
 
