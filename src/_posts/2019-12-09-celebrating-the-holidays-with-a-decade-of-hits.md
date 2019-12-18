@@ -118,8 +118,8 @@ content_section:
       tractor trailer into a unique beauty and sales experience\! Revlon’s Love
       Is On Pop-Up Shop treated consumers to personalized makeovers and
       manicures, one-on-one product consultations, a “Try Me” sample bar and the
-      famous \#LOVEISON photo booth. Our kick off event in Times Square had the
-      media buzzing\!&nbsp;
+      famous \#LOVEISON photo booth. Our kick off event with Kevin and Danielle
+      Jonas in Times Square had the media buzzing\!&nbsp;
     single_image_block:
       single_image_path: /uploads/revlon-case-7.jpg
     double_image_block:
