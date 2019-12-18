@@ -61,6 +61,11 @@ content_section:
       ## **2011 \| Nestle Deer Park: Recycling Education Tour**
 
 
+      [**Grandma Got Run Over By A Reindeer - Elmo &
+      Patsy**](https://open.spotify.com/track/49iHYFjT5yO6WEw6KerX9o){:
+      target="_blank"}
+
+
       It was a decade of Eco-Awareness\! We partnered with Nestle Deer Park to
       teach consumers that recycling works with an interactive glass enclosed
       vehicle. Events featured games, prizes and exhibits that demonstrated
@@ -78,6 +83,11 @@ content_section:
       ## **2012 \| Garnier Fructis & mml PR: Pool Party Hosted by Mario Lopez**
 
 
+      [**Mele Kalikimaka - Kacey
+      Musgraves**](https://open.spotify.com/track/7KObgYiok4BqaeRZttDDCO){:
+      target="_blank"}
+
+
       We partnered with mml PR and Garnier Fructis to throw the ultimate VIP
       pool party hosted by Mario Lopez. &nbsp;Our team took over the famous
       Miami Fountainbleau pool deck with styling cabanas, salon stations,
@@ -90,7 +100,7 @@ content_section:
       image_2_path: /uploads/garnier-pool-party-brand-ambassadors.jpg
     video_block:
       video_id:
-  - text_block_markdown: "## **2013 \\| White House, Partnership for Healthier America & Y&R NY: Drink Up Campaign**\n\nThe White House, through Partnership for a Healthier America and Young & Rubicam, enlisted the help of EventNetUSA to design and produce First Lady Michelle Obama’s national Drink Up Campaign launch. We conceptualized a water-themed carnival and managed day of set-up and operations, including press requirements for Michelle Obama and Eva Longoria. What's most impressive - we did it all within a 3-week time frame\\! P.S. We have government security clearance. \U0001F60E"
+  - text_block_markdown: "## **2013 \\| White House, Partnership for Healthier America & Y&R NY: Drink Up Campaign**\n\n[**White Christmas - Bing Crosby**](https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW){: target=\"_blank\"}\n\nThe White House, through Partnership for a Healthier America and Young & Rubicam, enlisted the help of EventNetUSA to design and produce First Lady Michelle Obama’s national Drink Up Campaign launch. We conceptualized a water-themed carnival and managed day of set-up and operations, including press requirements for Michelle Obama and Eva Longoria. What's most impressive - we did it all within a 3-week time frame\\! P.S. We have government security clearance. \U0001F60E"
     single_image_block:
       single_image_path:
     double_image_block:
@@ -99,7 +109,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ## **2014\| Bigelow: Mobile Tea Bar**
+      ## **2014 \| Bigelow: Mobile Tea Bar**
+
+
+      [**You Make It Feel Like Christmas - Neil
+      Diamond**](https://open.spotify.com/track/7AnG4Uwt9IZE1LI98DAuJq){:
+      target="_blank"}
 
 
       We’ve been warming hearts across America with Bigelow for over five years.
@@ -119,6 +134,11 @@ content_section:
       ## **2015 \| Revlon & mml PR: Love Is** On Mobile Pop-up Shop
 
 
+      [All I Want For Christmas Is You - Mariah
+      Carey](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn){:
+      target="_blank"}
+
+
       How do you inspire and entice love in a big way? You transform a 53’
       tractor trailer into a unique beauty and sales experience\! Revlon’s Love
       Is On Pop-Up Shop treated consumers to personalized makeovers and
@@ -134,6 +154,11 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ## **2016 \| Owners.com: Mobile Open House Tour**
+
+
+      [**Please Come Home For Christmas -
+      Eagles**](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC){:
+      target="_blank"}
 
 
       Owners.com partnered with EventNetUSA to bring its online, self-directed
@@ -155,6 +180,11 @@ content_section:
       Photo Activation
 
 
+      [Santa Claus Is Comin' To Town - Bruce
+      Springsteen](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee){:
+      target="_blank"}
+
+
       EventNetUSA, in partnership with rbb Communications and Homewood Suites,
       infiltrated the Thanksgiving Day Parade with a team of 75 brand
       ambassadors to provide parade goers with custom Winter Wonderland photos\!
@@ -170,6 +200,11 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ## **2018 \| Carnival Cruise Line: Agentpalooza Tour**
+
+
+      [**Rockin' Around The Christmas Tree - Brenda
+      Lee**](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97){:
+      target="_blank"}
 
 
       For years, EventNetUSA has helped Carnival Cruise Line celebrate travel
@@ -194,6 +229,11 @@ content_section:
       video_id:
   - text_block_markdown: >-
       ## **2019 Humana Pop-up Guidance Centers**
+
+
+      [**Merry Christmas, Happy Holidays -
+      Pentatonix**](https://open.spotify.com/track/6crJeVAyChFwjdI6oo0lwm){:
+      target="_blank"}
 
 
       Humana, a leading U.S. health insurance provider, partnered with
