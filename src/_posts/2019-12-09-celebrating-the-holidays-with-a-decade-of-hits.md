@@ -134,9 +134,9 @@ content_section:
       ## **2015 \| Revlon & mml PR: Love Is** On Mobile Pop-up Shop
 
 
-      **(Click to Listen)&nbsp;**[All I Want For Christmas Is You - Mariah
+      **(Click to Listen)**&nbsp;**[All I Want For Christmas Is You - Mariah
       Carey](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn){:
-      target="_blank"}
+      target="_blank"}**
 
 
       How do you inspire and entice love in a big way? You transform a 53’
@@ -180,9 +180,9 @@ content_section:
       Photo Activation
 
 
-      **(Click to Listen)&nbsp;**[Santa Claus Is Comin' To Town - Bruce
+      **(Click to Listen)**&nbsp;**[Santa Claus Is Comin' To Town - Bruce
       Springsteen](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee){:
-      target="_blank"}
+      target="_blank"}**
 
 
       EventNetUSA, in partnership with rbb Communications and Homewood Suites,
