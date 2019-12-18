@@ -127,7 +127,7 @@ content_section:
     single_image_block:
       single_image_path: /uploads/revlon-case-7.jpg
     double_image_block:
-      image_1_path: /uploads/revlon-case-7.jpg
+      image_1_path: /uploads/loveison-jonas-1.jpg
       image_2_path: /uploads/revlon-beauty-bar.jpg
     video_block:
       video_id:
