@@ -23,7 +23,12 @@ content_section:
       We look forward to what the next decade has in store\!
 
 
-      **See our 2010 – 2019 highlights below**
+      **SEE OUR 2010 - 2019 HIGHLIGHTS BELOW**
+
+
+      (Click [here](https://open.spotify.com/playlist/7hBAMhv1SZSRzAGkQeJZWc){:
+      target="_blank"} to listen to our Greatest Hits of the Decade holiday
+      playlist on Spotify.)
     single_image_block:
       single_image_path: /uploads/holiday-card-album-back.jpg
     double_image_block:
