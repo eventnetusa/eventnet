@@ -144,12 +144,13 @@ content_section:
       Parade Photo Activation
 
 
-      EventNetUSA in partnership with rbb Communications and Homewood Suites
-      infiltrated the Macy’s Thanksgiving Day Parade with a team of 70+ brand
+      EventNetUSA, in partnership with rbb Communications and Homewood Suites,
+      infiltrated the Macy’s Thanksgiving Day Parade with a team of 75 brand
       ambassadors to provide parade goers with custom Winter Wonderland photos\!
-      The photos taken were a part of a social media competition that gave
-      consumers a change to win the grand prize valued at $4,999\! We even had
-      some team members walking in the parade\!
+      Participants posted their photos to social media for a chance to win a
+      dream vacation and tickets to next year's parade (valued at $4,999\!). Our
+      teams marched alongside the iconic floats, giving Homewood Suites the
+      ultimate guerrilla marketing stunt.
     single_image_block:
       single_image_path: /uploads/picture4-8.jpg
     double_image_block:
