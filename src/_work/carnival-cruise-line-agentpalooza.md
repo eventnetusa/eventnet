@@ -15,13 +15,18 @@ types:
 cta_text: Let’s take your brand on a tour fit for a rock star!
 cta:
 sidebar_text_markdown: |-
-  ### **QUICK STATS**
+  **MARKETS:**
 
-  * **6** states, **10**&nbsp;cities, **12**&nbsp;days
-  * Traveled **6K+&nbsp;**miles&nbsp;
-  * Over **80%** attendance from invited travel agents in all markets
-  * **2,000+&nbsp;**Rock Star Travel Agents
-  * 1 live Travel Agents Rock tattoo **(really\!)**
+  * Houston, TX - Minute Maid Park&nbsp;
+  * New Orleans, LA - Mardi Gras World&nbsp;
+  * Charleston, SC - Patriot's Point Park&nbsp;
+  * Atlanta, GA - Suntrust Park&nbsp;
+  * Jacksonville, FL - Jacksonville Landing&nbsp;
+  * Orlando, FL - Kissimmee "Park"&nbsp;
+  * Pasadena, CA - Rose Bowl Stadium
+  * Fountain Valley, CA - Mile Square Park
+  * Chula Vista, CA - Chula Vista Bayside Park
+  * Long Beach, CA - Carnival's Cruise Terminal
 content_section:
   - text_block_markdown: >-
       Carnival Cruise Line retained EventNetUSA to produce and operate its
@@ -45,30 +50,6 @@ content_section:
       Adolfo Perez, Vice President of Sales & Trade Marketing, even got a
       *Travel Agents Rock* tattoo on stage to show his love for Carnival travel
       agents\!&nbsp;
-
-
-      **MARKETS:**
-
-
-      * Houston, TX - Minute Maid Park&nbsp;
-
-      * New Orleans, LA - Mardi Gras World&nbsp;
-
-      * Charleston, SC - Patriot's Point Park&nbsp;
-
-      * Atlanta, GA - Suntrust Park&nbsp;
-
-      * Jacksonville, FL - Jacksonville Landing&nbsp;
-
-      * Orlando, FL - Kissimmee "Park"&nbsp;
-
-      * Pasadena, CA - Rose Bowl Stadium
-
-      * Fountain Valley, CA - Mile Square Park
-
-      * Chula Vista, CA - Chula Vista Bayside Park
-
-      * Long Beach, CA - Carnival's Cruise Terminal
 
 
       **EVENTS INCLUDED:**
