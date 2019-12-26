@@ -7,7 +7,7 @@ hover_text: >-
   Carnival Cruise Line retained EventNetUSA to produce and operate its
   Agentpalooza Campaign Tours, visiting and celebrating travel agents around the
   country.
-hero_image_path: /uploads/carnival-hero-image-2.jpg
+hero_image_path: /uploads/agentpalooza-hero-image.png
 thumbnail_image_path: /uploads/thumbnail-image.png
 types:
   - pr event
