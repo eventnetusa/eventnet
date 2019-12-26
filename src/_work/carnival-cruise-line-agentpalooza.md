@@ -2,10 +2,11 @@
 client: Carnival Cruise Line
 link_to_casestudy: true
 sort_number: 4
-headline: 2017 AGENTPALOOZA CAMPAIGN TOUR
+headline: AGENTPALOOZA CAMPAIGN TOURS
 hover_text: >-
-  Carnival Cruise Line retained EventNetUSA to produce and operate the 2017
-  AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.
+  Carnival Cruise Line retained EventNetUSA to produce and operate its
+  Agentpalooza Campaign Tours, visiting and celebrating travel agents around the
+  country.
 hero_image_path: /uploads/carnival-hero-image-2.jpg
 thumbnail_image_path: /uploads/thumbnail-image.png
 types:
@@ -16,20 +17,21 @@ cta:
 sidebar_text_markdown: |-
   ### **QUICK STATS**
 
-  * **5** states, **6** cities, **8** days
-  * Traveled **3,500+&nbsp;**miles&nbsp;
-  * **1.5M+** over-the-road impressions
+  * **6** states, **10**&nbsp;cities, **12**&nbsp;days
+  * Traveled **6K+&nbsp;**miles&nbsp;
   * Over **80%** attendance from invited travel agents in all markets
-  * **1,000+&nbsp;**Rock Star Travel Agents
-  * 1 live Travel Agents Rock tattoo **(really!)**
+  * **2,000+&nbsp;**Rock Star Travel Agents
+  * 1 live Travel Agents Rock tattoo **(really\!)**
 content_section:
   - text_block_markdown: >-
-      Carnival Cruise Line retained EventNetUSA to produce and operate the 2017
-      AgentPalooza Campaign Tour, visiting 5 states and 6 cities over 8 days.
+      Carnival Cruise Line retained EventNetUSA to produce and operate its
+      award-winning Agentpalooza Campaign Tours, visiting travel agents around
+      the country.
 
 
-      Hosted by Carnival’s Executive Sales Team, AgentPalooza celebrated travel
-      agents and the rock stars they are through exclusive, invite-only events.
+      Hosted by Carnival’s Executive Sales Team, Agentpalooza celebrated travel
+      agents and the *rock stars* they are through exclusive, invite-only
+      events.
 
 
       AgentPalooza cranked up the volume to create a true rock star experience.
@@ -42,25 +44,31 @@ content_section:
 
       Adolfo Perez, Vice President of Sales & Trade Marketing, even got a
       *Travel Agents Rock* tattoo on stage to show his love for Carnival travel
-      agents!&nbsp;
+      agents\!&nbsp;
 
 
       **MARKETS:**
 
 
-      * Houston, TX - Minute Maid Park - May 11<sup>th</sup>
+      * Houston, TX - Minute Maid Park&nbsp;
 
-      * New Orleans, LA - Mardi Gras World - May 12<sup>th</sup> &nbsp;…and
-      13<sup>th</sup>&nbsp;(We can’t control the weather but we can react
-      quickly to reschedule events when rain just won’t cooperate.)
+      * New Orleans, LA - Mardi Gras World&nbsp;
 
-      * Charleston, SC - Patriot's Point Park - May 15<sup>th</sup>
+      * Charleston, SC - Patriot's Point Park&nbsp;
 
-      * Atlanta, GA - Suntrust Park - May 16<sup>th</sup>
+      * Atlanta, GA - Suntrust Park&nbsp;
 
-      * Jacksonville, FL - Jacksonville Landing - May 17<sup>th</sup>
+      * Jacksonville, FL - Jacksonville Landing&nbsp;
 
-      * Orlando, FL Kissimmee "Park" - May 18<sup>th</sup>
+      * Orlando, FL - Kissimmee "Park"&nbsp;
+
+      * Pasadena, CA - Rose Bowl Stadium
+
+      * Fountain Valley, CA - Mile Square Park
+
+      * Chula Vista, CA - Chula Vista Bayside Park
+
+      * Long Beach, CA - Carnival's Cruise Terminal
 
 
       **EVENTS INCLUDED:**
