@@ -7,8 +7,8 @@ hover_text: >-
   To close gaps in care and raise awareness of Humana's Guidance Centers, Humana
   Medicare Members enjoy free wellness and health screening events across
   multiple markets.
-hero_image_path: /uploads/humana-collage.jpg
-thumbnail_image_path: /uploads/img-20170607-110338.jpg
+hero_image_path: /uploads/hero-image-19.png
+thumbnail_image_path: /uploads/photo-feb-14-10-07-07-am-1.jpg
 types:
   - insurance activation
   - retail
@@ -17,27 +17,17 @@ cta: Let's talk
 sidebar_text_markdown: |-
   **EventNetUSA’s Turnkey Services Include:**
 
-  • Program conceptualization
-
-  • Budget management
-
-  • Marketing material inventory control
-
-  • Market research and analysis
-
-  • Venue selection and negotiation
-
-  • Hire and train Market Managers and teams of rotational Brand Ambassadors
-
-  • Comprehensive training manuals and conduct classes for team
-
-  • Hire and train local labor for event load-in/out
-
-  • Display design and production
-
-  • Routing and logistics
-
-  • Wrap-up and executive reporting
+  * Program conceptualization
+  * Budget management
+  * Marketing material inventory control
+  * Market research and analysis
+  * Venue selection and negotiation
+  * Hire and train Market Managers and teams of rotational Brand Ambassadors
+  * Comprehensive training manuals and conduct classes for team
+  * Hire and train local labor for event load-in/out
+  * Display design and production
+  * Routing and logistics
+  * Wrap-up and executive reporting
 
   **Wellness Activities Include:**
 
@@ -52,11 +42,8 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       Humana, a leading U.S. health insurance provider, partnered with
-      EventNetUSA to produce and operate a multi-market *Pop-Up Guidance Center
-      Program* for activating Medicare-eligible Seniors.
-
-
-      &nbsp;
+      EventNetUSA in 2016 to produce and operate the national&nbsp;*Pop-Up
+      Guidance Center Program* for activating Medicare-eligible Seniors.
 
 
       Humana’s Pop-Up Guidance Center events take place in shopping malls, where
@@ -67,7 +54,7 @@ content_section:
       &nbsp;
 
 
-      **Now operating in its second year, program objectives include:**
+      **Now operating in its fourth year, program objectives include:**
 
 
       * Reinforce “Humana is here for you” message to improve member
@@ -116,7 +103,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/img-0895.JPG
+      single_image_path: /uploads/photo-feb-21-10-56-39-am-1.jpg
     double_image_block:
       image_1_path: /uploads/img-1050.JPG
       image_2_path: /uploads/img-1111.JPG
@@ -124,10 +111,18 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/img-0894-1.JPG
+      single_image_path: /uploads/img-1058.JPG
     double_image_block:
       image_1_path:
       image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/photo-mar-08-8-26-05-am-1.jpg
+      image_2_path: /uploads/photo-mar-14-12-14-15-pm-1.jpg
     video_block:
       video_id:
 project_logos:
