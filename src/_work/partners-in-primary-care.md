@@ -2,12 +2,12 @@
 client: Partners in Primary Care
 link_to_casestudy: true
 sort_number: 5
-headline: Clinic Discovery Experience
+headline: New Clinic Discovery Experience
 hover_text: >-
   PiPC turned to EventNetUSA for an interactive introduction to its
   senior-focused care clinic model
 hero_image_path: /uploads/hero-image-20.png
-thumbnail_image_path: /uploads/thumbnail-image-2.png
+thumbnail_image_path: /uploads/yvb5vn9a.jpeg
 types:
   - insurance activation
   - retail
