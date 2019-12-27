@@ -31,7 +31,20 @@ sidebar_text_markdown: |-
 
   &nbsp;
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      Partners in Primary Care (PiPC), a subsidiary of Humana, is a family of
+      senior-focused primary care clinics that serve over 35,000 Medicare
+      Advantage patients.&nbsp;
+
+
+      PiPC turned to EventNetUSA to conceptualize and produce an interactive
+      Discovery Experience that introduces consumers to its care model during
+      new clinic construction.&nbsp;
+
+
+      To accommodate various clinic locations and Discovery Experience spaces,
+      EventNetUSA designed a custom modular display set complete with integrated
+      technology.&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
