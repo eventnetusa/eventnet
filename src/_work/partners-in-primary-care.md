@@ -50,10 +50,18 @@ content_section:
 
       * Private consultation space for new patient sign-up
     single_image_block:
+      single_image_path: /uploads/kc-disc-exp-9.jpg
+    double_image_block:
+      image_1_path: /uploads/kc-disc-exp-10.jpg
+      image_2_path: /uploads/kc-disc-exp-6.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/kc-disc-exp-11.jpg
+      image_2_path: /uploads/kc-disc-exp.jpg
     video_block:
       video_id:
 project_logos:
