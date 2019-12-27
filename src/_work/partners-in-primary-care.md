@@ -42,65 +42,18 @@ content_section:
       new clinic construction.&nbsp;
 
 
-      To accommodate various clinic locations and Discovery Experience spaces,
-      EventNetUSA designed a custom modular display set complete with integrated
-      technology.&nbsp;
+      * Custom modular design to accommodate various space layouts
+
+      * Integrated technology including self-guided private audio tour
+
+      * Clinic visuals and patient furniture to highlight senior-focused design
+
+      * Private consultation space for new patient sign-up
     single_image_block:
       single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: >-
-      **A LOOK BEHIND THE SCENES**
-
-
-      Event Set-Up and Operations:
-
-
-      * Events operate weekly and bi-weekly in select shopping malls year-round
-
-      * Daily set-up/tear-down of branded modular displays, furniture and
-      fixtures
-
-      * HIPAA compliant private consultation and screening rooms &nbsp;
-
-      * Promotional and directional signage throughout venues
-
-      * Field teams include Event Manager and Brand Ambassadors
-
-
-      &nbsp;
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/img-1052.JPG
-      image_2_path: /uploads/img-1076.JPG
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/photo-feb-21-10-56-39-am-1.jpg
-    double_image_block:
-      image_1_path: /uploads/img-1050.JPG
-      image_2_path: /uploads/img-1111.JPG
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/img-1058.JPG
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/photo-mar-08-8-26-05-am-1.jpg
-      image_2_path: /uploads/photo-mar-14-12-14-15-pm-1.jpg
     video_block:
       video_id:
 project_logos:
