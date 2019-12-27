@@ -31,33 +31,7 @@ sidebar_text_markdown: |-
 
   &nbsp;
 content_section:
-  - text_block_markdown: >-
-      Humana, a leading U.S. health insurance provider, partnered with
-      EventNetUSA in 2016 to produce and operate the national&nbsp;*Pop-Up
-      Guidance Center Program* for activating Medicare-eligible Seniors.
-
-
-      Humana’s Pop-Up Guidance Center events take place in shopping malls, where
-      Seniors come to participate in free health education seminars, fitness
-      classes, one-on-one consultations and biometric screenings.
-
-
-      &nbsp;
-
-
-      **Now operating in its fourth year, program objectives include:**
-
-
-      * Reinforce “Humana is here for you” message to improve member
-      satisfaction and retention
-
-      * Increase awareness of Humana Medicare resources like Go365 and
-      SilverSneakers Fitness Classes
-
-      * Close gaps of care for eligible Humana Medicare members by providing
-      biometric health screenings and take-home test kits
-
-      * Generate new Medicare enrollment leads and increase brand awareness
+  - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
