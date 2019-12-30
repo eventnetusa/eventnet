@@ -50,26 +50,26 @@ content_section:
       * Mimicked design aesthetic of brick and mortar stores for authentic
       BCBSRI brand appearance&nbsp;
     single_image_block:
-      single_image_path: /uploads/storefront-2-resized.jpg
+      single_image_path: /uploads/74670677-10157406367525630-4659063901453811712-o-1.jpg
     double_image_block:
-      image_1_path: /uploads/people-at-front-desk-resized.jpg
-      image_2_path: /uploads/waiting-area-resized.jpg
+      image_1_path: /uploads/20191029-121613-resized.jpg
+      image_2_path: /uploads/20191029-121626-resized.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/storefront-before-2-1.png
-      image_2_path: /uploads/storefront-resized-after-2-1.jpg
+      image_1_path: /uploads/20191029-121645-resized.jpg
+      image_2_path: /uploads/20191029-121846-resized.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/img-5126.JPG
-      image_2_path: /uploads/img-5165-1.JPG
+      image_1_path: /uploads/20191029-121809-resized.jpg
+      image_2_path: /uploads/20191029-122651-resized.jpg
     video_block:
       video_id:
   - text_block_markdown:
