@@ -65,7 +65,7 @@ content_section:
     video_block:
       video_id:
 project_logos:
-  - logo_image_path: /uploads/humana-logo.png
+  - logo_image_path: /uploads/3843281-pipc-logo.jpg
     logo_image_height:
 related_client_logos:
   - logo_image_path: /uploads/hcsc-group-company-logo.jpg
