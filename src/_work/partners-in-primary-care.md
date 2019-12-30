@@ -44,7 +44,7 @@ content_section:
 
       While touring the Discovery Experience, consumers meet their Care Team,
       learn about activities and community involvement, hear patient
-      testimonials and receive a digital clinic tour.&nbsp;
+      testimonials and receive a virtual clinic tour.&nbsp;
 
 
       * Custom modular design to accommodate various space layouts
