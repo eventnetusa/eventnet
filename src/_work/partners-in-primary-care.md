@@ -66,7 +66,7 @@ content_section:
       video_id:
 project_logos:
   - logo_image_path: /uploads/3843281-pipc-logo.jpg
-    logo_image_height:
+    logo_image_height: 80%
 related_client_logos:
   - logo_image_path: /uploads/hcsc-group-company-logo.jpg
     logo_image_height:
