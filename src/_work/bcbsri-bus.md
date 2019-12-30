@@ -2,7 +2,7 @@
 client: Blue Cross Blue Shield of Rhode Island
 link_to_casestudy: true
 sort_number: 10
-headline: Custom Mobile Your Blue Store
+headline: Mobile Your Blue Store
 hover_text: >-
   With goals of reaching BCBSRI members in the community, EventNetUSA made the
   Your Blue Store mobile with a custom office bus.
