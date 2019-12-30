@@ -29,7 +29,7 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      Blue Cross Blue Shield of Rhode Island need a way to increase community
+      Blue Cross Blue Shield of Rhode Island needed a way to increase community
       presence and bring Agents to members for on-the-go customer service. They
       turned to EventNetUSA to make the Your Blue Store experience mobile with a
       custom experiential bus.&nbsp;
