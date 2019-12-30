@@ -12,7 +12,7 @@ types:
   - insurance activation
   - popup shop
   - retail
-cta_text: Interested in your own pop-up store?
+cta_text: Interested in your own mobile office?
 cta: Let's talk
 sidebar_text_markdown: |-
   ### **Turnkey Service Offerings:**
@@ -29,24 +29,26 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      In 2018, we launched Aetna’s first Medicare Store in Strongsville, OH to
-      service Group Retirees during the Annual Enrollment Period.
+      Blue Cross Blue Shield of Rhode Island need a way to increase community
+      presence and bring Agents to members for on-the-go customer service. They
+      turned to EventNetUSA to make the Your Blue Store experience mobile with a
+      custom experiential bus.&nbsp;
 
 
       **A LOOK BEHIND THE SCENES**
 
 
-      * Provided Agent consultations and plan support to Group Retirees
+      * Identified and facilitated purchase of used bus that met strict program
+      requirements
 
-      * Made available customer support and guidance to Medicare, Medicaid and
-      Individual/Family customers
+      * Removed all existing furnishings, fixtures, walls and flooring to
+      rebuild to design specifications
 
-      * Open 7 days per week, staffed with fulltime store Manager and scheduled
-      licensed Agents
+      * Designed and built custom two-office mobile retail store complete with
+      reception and waiting area
 
-      * Turnkey program included market research, space negotiation and mall
-      contracting, total buildout, furnishing, daily operations management and
-      load-out
+      * Mimicked design aesthetic of brick and mortar stores for authentic
+      BCBSRI brand appearance&nbsp;
     single_image_block:
       single_image_path: /uploads/storefront-2-resized.jpg
     double_image_block:
