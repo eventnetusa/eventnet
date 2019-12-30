@@ -74,7 +74,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/interior-before.png
+      single_image_path: /uploads/resized-20191029-141119.jpg
     double_image_block:
       image_1_path:
       image_2_path:
