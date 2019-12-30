@@ -42,7 +42,7 @@ content_section:
       new clinic construction.&nbsp;
 
 
-      During the Discovery Experience tour, consumers meet their Care Team,
+      While touring the Discovery Experience, consumers meet their Care Team,
       learn about activities and community involvement, hear patient
       testimonials and receive a digital clinic tour.&nbsp;
 
