@@ -42,6 +42,11 @@ content_section:
       new clinic construction.&nbsp;
 
 
+      During the Discovery Experience tour, consumers meet their Care Team,
+      learn about activities and community involvement, hear patient
+      testimonials and receive a digital clinic tour.&nbsp;
+
+
       * Custom modular design to accommodate various space layouts
 
       * Integrated technology including self-guided private audio tour
