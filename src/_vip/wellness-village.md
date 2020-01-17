@@ -25,7 +25,7 @@ sidebar_text_markdown: >-
 content_section:
   - text_block_markdown: >-
       **Engage with 2MM+ health-minded consumers at Wellness Village 2020, a
-      health fair within a fair\! Travelling to 40 top U.S. festivals this
+      health fair within a fair\! Traveling to 10 top U.S. festivals this
       summer.**
 
 
@@ -42,11 +42,7 @@ content_section:
       more\!&nbsp;
 
 
-      **4 Regional Tours, 10 Events Each\***<br>\- Northeast<br>\- Midwest<br>\-
-      West Coast<br>\- South<br>(\*Events to be announced in 2020)
-
-
-      **Costs range from $100K - $400K+**
+      **Costs start at $100,000**
     single_image_block:
       single_image_path:
     double_image_block:
