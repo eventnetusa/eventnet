@@ -1,5 +1,5 @@
 ---
-small_headline: Brand Engagement at 40 of Nation's Top Family Festivals
+small_headline: Feature Your Health Product at 10 of Nation's Top Family Festivals
 large_headline: WELLNESS VILLAGE 2020
 hero_image_path: /uploads/hero-image-18.png
 vip_project_type: B2B
@@ -54,17 +54,14 @@ content_section:
       **How to participate**
 
 
-      1\. Select one or multiple tours
-
-
-      2\. Select your preferred footprint<br>&nbsp; &nbsp;- 10x20 with Custom
+      1\. Select your preferred footprint<br>&nbsp; &nbsp;- 10x20 with Custom
       Activation<br>&nbsp; &nbsp;- 10x10 Sampling Package<br>&nbsp; &nbsp;-
-      Co-op Sampling Package<br>&nbsp; &nbsp;- Bring Your Own Display or Mobile
-      Activation<br>&nbsp; &nbsp;- Have something else in mind? Let’s hear it\!
-      &nbsp;
+      Bring Your Own Display or Mobile Activation<br>&nbsp; &nbsp;- Samples &
+      Swag bag&nbsp;<br>&nbsp; &nbsp;- Have something else in mind? Let’s hear
+      it\! &nbsp;
 
 
-      3\. Provide product samples and we’ll take care of the rest\!
+      3\. Provide product samples and artwork - we’ll take care of the rest\!
 
 
       **[F](/contact/)[or further information, click here to request a
