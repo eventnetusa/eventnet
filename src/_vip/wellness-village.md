@@ -9,7 +9,15 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Sign Up to Participate in Wellness Village 2020
 cta_text: Contact Us
-sidebar_text_markdown: '### <br>&nbsp;'
+sidebar_text_markdown: >-
+  ### For more information:
+
+
+  Shelby Beaty<br>New Business Development<br>shelbyb@eventnetusa.com<br>(954)
+  467-9898<br>&nbsp;
+
+
+  &nbsp;
 content_section:
   - text_block_markdown: >-
       **Engage with 2MM+ health-minded consumers at Wellness Village 2020, a
