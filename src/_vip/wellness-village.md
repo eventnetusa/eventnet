@@ -40,7 +40,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/festivals.png
+      single_image_path: /uploads/festivals-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -48,7 +48,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/services.png
+      single_image_path: /uploads/services-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -56,7 +56,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/exclusivity.png
+      single_image_path: /uploads/exclusivity-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -64,7 +64,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/activities.png
+      single_image_path: /uploads/activities-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -72,7 +72,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/footprint.png
+      single_image_path: /uploads/footprint-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -80,7 +80,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/media.png
+      single_image_path: /uploads/media-1.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -88,7 +88,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/costs-1.png
+      single_image_path: /uploads/costs-2.png
     double_image_block:
       image_1_path:
       image_2_path:
