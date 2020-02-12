@@ -1,13 +1,13 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: 2020 MEDICARE YEAR-ROUND ENGAGEMENT & ENROLLMENT
+large_headline: 2020-21 MEDICARE MEMBER ENGAGEMENT & ENROLLMENT
 hero_image_path: /uploads/hero-image-2-2.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Now is the time to start 2020 Medicare planning
+cta_headline: Looking to reach 65+ seniors and engage members?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Insurance Clients
