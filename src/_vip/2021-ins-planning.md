@@ -79,13 +79,7 @@ content_section:
       Consumer Shows, Fairs & Festivals, Lifestyle Events
 
 
-      #### &nbsp;
-
-
       #### Which 2020-21 program opportunities fit your needs?
-
-
-      &nbsp;
     single_image_block:
       single_image_path: /uploads/picture6-2.jpg
     double_image_block:
