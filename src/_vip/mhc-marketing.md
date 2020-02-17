@@ -101,7 +101,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/maybelline-style-bar-1.jpg
+      single_image_path: /uploads/picture2-10.jpg
     double_image_block:
       image_1_path:
       image_2_path:
@@ -109,7 +109,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/revlon-1.png
+      single_image_path: /uploads/picture3-9.png
     double_image_block:
       image_1_path:
       image_2_path:
