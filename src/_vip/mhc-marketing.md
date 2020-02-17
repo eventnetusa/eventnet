@@ -42,8 +42,8 @@ content_section:
       EventNetUSA is a consumer activation marketing agency providing turnkey
       event production and management for brands like L'Oreal, Dunkin' Donuts,
       Carnival Cruise Line and more since 1976.<br><br>With over 3,500 Medicare
-      activations since 2005, we are recognized as the nation’s Premier Health
-      Insurance Activation Agency.
+      activations since 2005, we are recognized as the nation’s Premier
+      Activation Agency for reaching and engaging 65+ seniors.
 
 
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>**We're
