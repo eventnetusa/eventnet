@@ -7,7 +7,7 @@ hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Would your community like to participate?
+cta_headline: Interested in having your community participate?
 cta_text: Let's discuss!
 sidebar_text_markdown: >-
   #### Our Target Demographic
