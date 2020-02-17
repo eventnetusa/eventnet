@@ -94,6 +94,14 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
+      single_image_path: /uploads/bigelow-mtb-2.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
       single_image_path: /uploads/bcbst-1.png
     double_image_block:
       image_1_path:
