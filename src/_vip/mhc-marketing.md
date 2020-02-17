@@ -53,10 +53,21 @@ content_section:
       activities and share information about local primary care offices.&nbsp;**
 
 
-      **Our mobile clinic experience (shown below) will make 1-2 days
-      appearances at communities around the nation. Appearances will include
-      tours, demonstrations, free health activities, screenings and
-      more.&nbsp;**
+      Community Criteria
+
+
+      * 50%+ Occupancy of 65+ residents
+
+      * Average household income $50k or less
+
+      * Club house/gathering area
+
+      * Ability to promote events to residents (mail, email, bulletins, etc.)
+
+
+      Our mobile clinic experience (shown below) will make 1-2 days appearances
+      at communities around the nation. Appearances will include tours,
+      demonstrations, free health activities, screenings and more.&nbsp;
 
 
       &nbsp;
