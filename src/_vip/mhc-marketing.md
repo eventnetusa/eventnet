@@ -66,12 +66,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: 'See more examples of our work below and [here](/work/).'
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/owners-1.png
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/bcbst.png
+      image_2_path: /uploads/nyx.jpg
     video_block:
       video_id:
   - text_block_markdown:
