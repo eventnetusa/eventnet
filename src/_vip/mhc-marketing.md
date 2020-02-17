@@ -53,7 +53,7 @@ content_section:
       activities and share information about local primary care offices.&nbsp;**
 
 
-      **Community Criteria**
+      **Community Criteria:**
 
 
       * 50%+ Occupancy of 65+ residents
