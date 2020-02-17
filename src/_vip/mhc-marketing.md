@@ -65,7 +65,7 @@ content_section:
       * Ability to promote events to residents (mail, email, bulletins, etc.)
 
 
-      Our mobile clinic experience (shown below) will make 1-2 days appearances
+      Our mobile clinic experience (shown below) will make 1-2 day appearances
       at communities around the nation. Appearances will include tours,
       demonstrations, free health activities, screenings and more.&nbsp;
 
@@ -128,8 +128,7 @@ content_section:
       ---
 
 
-      Interested in having our brand clients sponsor your community events?
-      Contact
+      To discuss opportunities for your community, contact
 
 
       Shelby Beaty<br>New Business Development<br>shelbyb@eventnetusa.com<br>(O)
