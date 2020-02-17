@@ -68,15 +68,6 @@ content_section:
       Our mobile clinic experience (shown below) will make 1-2 day appearances
       at communities around the nation. Appearances will include tours,
       demonstrations, free health activities, screenings and more.&nbsp;
-
-
-      &nbsp;
-
-
-      &nbsp;
-
-
-      &nbsp;
     single_image_block:
       single_image_path: /uploads/trailer.png
     double_image_block:
