@@ -52,48 +52,46 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path: /uploads/golf-1.jpg
+      single_image_path:
     double_image_block:
-      image_1_path: /uploads/photo.jpg
-      image_2_path: /uploads/693-06016656en-masterfile.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: >-
-        /uploads/golfers-with-the-villages-cheerleaders-at-last-years-st--jude-golf-tournament-1.jpg
-    double_image_block:
-      image_1_path: /uploads/magazine-2010-11-maar03-golfretirement.jpg
-      image_2_path: /uploads/1011759821-senior-bowler-10-1260x800.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/softball.jpg
-      image_2_path: /uploads/villages-tennis-team-1.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: >-
-        /uploads/1140-practice-thai-chi-imgcache-revb06bf54065ecc22e610212d93d25ed24.jpg
-    double_image_block:
-      image_1_path: /uploads/5b90800e5d35e-image.jpg
-      image_2_path: /uploads/5168b1aa17dac-image.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/bridge-photo.jpg
-      image_2_path: /uploads/fans.jpg
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
-      ------------------------------------------------------------------------------------------------------------
+      ---
 
 
       Interested in having our brand clients sponsor your community events?
