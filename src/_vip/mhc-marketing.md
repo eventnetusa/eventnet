@@ -1,7 +1,7 @@
 ---
 small_headline: PARTNER WITH NATION'S LEADING PROVIDER OF SENIOR-FOCUSED HEALTH CARE
 large_headline: SEEKING MOBILE HOME COMMUNITIES FOR SENIOR RESIDENT ENGAGEMENT
-hero_image_path: /uploads/picture1-18.png
+hero_image_path: /uploads/hero.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
