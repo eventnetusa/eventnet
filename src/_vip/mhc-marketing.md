@@ -69,7 +69,7 @@ content_section:
 
       * Medium to low household incomes
 
-      * Club house/gathering area
+      * Club house/gathering area (preferred, not required)
 
       * Ability to promote events to residents (mail, email, bulletins, signage,
       etc.)
