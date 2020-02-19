@@ -39,35 +39,59 @@ sidebar_text_markdown: >-
   crafts/skills, etc.&nbsp;&nbsp;
 content_section:
   - text_block_markdown: >-
-      EventNetUSA is a consumer activation marketing agency providing turnkey
-      event production and management for brands like L'Oreal, Dunkin' Donuts,
-      Carnival Cruise Line and more since 1976.<br><br>With over 3,500 Medicare
-      activations since 2005, we are recognized as the nation’s Premier
-      Activation Agency for reaching and engaging 65+ seniors.
+      EventNetUSA, founded in 1976, works for leading consumer brands in
+      fashion, sports, health, finance and food industries. We create events
+      that introduce brand products to consumers through one-on-one experiential
+      marketing. To date, we have produced over 5 million consumer
+      activations.&nbsp;
 
 
-      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>**We're
-      currently seeking opportunities to bring our client, a leader in
-      senior-focused health care, to mobile home communities.<br><br>Our goal is
-      to partner with communities like yours to produce free, recurring social
-      activities and share information about local primary care offices.&nbsp;**
+      Our client, a leading health insurance provider, is looking to reach
+      Medicare eligible seniors to engage and educate on health, wellness and
+      how to best utilize Medicare services.&nbsp;
 
 
-      Community Criteria:
+      We seek opportunities to bring our Medicare Information Trailer (shown
+      below) to mobile home communities for 1-3 day events.&nbsp;
 
 
-      * 50%+ Occupancy of 65+ residents
+      Events will include free demonstrations, health screenings, healthy
+      refreshments and information on where to go for future Medicare
+      services.&nbsp;
 
-      * Average household income $50k or less
+
+      Mobile Home Community Criteria:
+
+
+      * Minimum 100 lots
+
+      * 50%+ Residents ages 65+
+
+      * Medium to low household incomes
 
       * Club house/gathering area
 
-      * Ability to promote events to residents (mail, email, bulletins, etc.)
+      * Ability to promote events to residents (mail, email, bulletins, signage,
+      etc.)
 
 
-      Our mobile clinic experience (shown below) will make 1-2 day appearances
-      at communities around the nation. Appearances will include tours,
-      demonstrations, free health activities, screenings and more.&nbsp;
+      To participate, email shelbyb@eventnetusa.com with the following
+      informaition:
+
+
+      * Community Name
+
+      * City and State
+
+      * Number of Residents
+
+      * Percent Residents 65+
+
+      * Method(s) of notifying residents of our Medicare Information Trailer
+      appearance
+
+
+      &nbsp;
     single_image_block:
       single_image_path: /uploads/trailer-1.png
     double_image_block:
