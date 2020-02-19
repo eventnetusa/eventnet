@@ -101,7 +101,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture2-10.jpg
+      single_image_path: /uploads/74670677-10157406367525630-4659063901453811712-o-2.jpg
     double_image_block:
       image_1_path:
       image_2_path:
