@@ -69,7 +69,7 @@ content_section:
       at communities around the nation. Appearances will include tours,
       demonstrations, free health activities, screenings and more.&nbsp;
     single_image_block:
-      single_image_path: /uploads/trailer.png
+      single_image_path: /uploads/trailer-1.png
     double_image_block:
       image_1_path:
       image_2_path:
