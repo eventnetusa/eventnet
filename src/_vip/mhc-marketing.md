@@ -1,7 +1,7 @@
 ---
 small_headline: WILL PAY SPACE FEE FOR ONSITE WELLNESS VEHICLE EVENT
 large_headline: SPONSORED WELLNESS EVENTS AT MOBILE HOME COMMUNITIES
-hero_image_path: /uploads/hero.png
+hero_image_path: /uploads/hero-1.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
