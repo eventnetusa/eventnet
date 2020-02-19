@@ -93,7 +93,7 @@ content_section:
 
       &nbsp;
     single_image_block:
-      single_image_path: /uploads/trailer-1.png
+      single_image_path: /uploads/trailer-2.png
     double_image_block:
       image_1_path:
       image_2_path:
