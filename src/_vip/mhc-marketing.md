@@ -55,7 +55,7 @@ content_section:
       below) to mobile home communities for 1-3 day events.&nbsp;
 
 
-      Events will include free demonstrations, health screenings, healthy
+      Free events will include demonstrations, health screenings, healthy
       refreshments and information on where to go for future Medicare
       services.&nbsp;
 
