@@ -76,7 +76,7 @@ content_section:
 
 
       To participate, email shelbyb@eventnetusa.com with the following
-      informaition:
+      information:
 
 
       * Community Name
