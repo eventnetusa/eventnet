@@ -51,12 +51,12 @@ content_section:
       how to best utilize Medicare services.&nbsp;
 
 
-      We seek opportunities to bring our Medicare Information Trailer (shown
-      below) to mobile home communities for 1-3 day events.&nbsp;
+      We seek opportunities to lease space in communities like yours to bring
+      our Medicare Information Trailer (shown below) for 1-3 day events.&nbsp;
 
 
-      Free events will include demonstrations, health screenings, healthy
-      refreshments and information on where to go for future Medicare
+      Free to residents, events will include demonstrations, health screenings,
+      healthy refreshments and information on where to go for future Medicare
       services.&nbsp;
 
 
