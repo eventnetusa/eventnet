@@ -1,7 +1,7 @@
 ---
 small_headline: WILL PAY SPACE FEE FOR ONSITE WELLNESS VEHICLE EVENT
 large_headline: SPONSORED WELLNESS EVENTS IN SENIOR COMMUNITIES
-hero_image_path: /uploads/hero-1.png
+hero_image_path: /uploads/65-wellness-hero-image.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
@@ -53,47 +53,13 @@ content_section:
       how to best utilize Medicare services.&nbsp;
 
 
-      We seek opportunities to lease space in communities like yours to bring
-      our Medicare Information Trailer (shown below) for 1-3 day events.&nbsp;
+      We seek opportunities to lease space at facilities like yours to bring our
+      Medicare Information Trailer (shown below) for 1-3 day events.&nbsp;
 
 
-      Free to residents, events will include demonstrations, health screenings,
+      Free to attendees, events will include demonstrations, health screenings,
       healthy refreshments and information on where to go for future Medicare
       services.&nbsp;
-
-
-      Mobile Home Community Criteria:
-
-
-      * Minimum 100 lots
-
-      * 50%+ Residents ages 65+
-
-      * Medium to low household incomes
-
-      * Club house/gathering area (preferred, not required)
-
-      * Ability to promote events to residents (mail, email, bulletins, signage,
-      etc.)
-
-
-      To participate, email shelbyb@eventnetusa.com with the following
-      information:
-
-
-      * Community Name
-
-      * City and State
-
-      * Number of Residents
-
-      * Percent Residents 65+
-
-      * Method(s) of notifying residents of our Medicare Information Trailer
-      appearance
-
-
-      &nbsp;
     single_image_block:
       single_image_path: /uploads/trailer-2.png
     double_image_block:
