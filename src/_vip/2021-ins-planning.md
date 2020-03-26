@@ -10,30 +10,6 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Looking to reach 65+ seniors and engage members?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
-  ### Insurance Clients
-
-  * Humana
-    * Hawaii
-    * Florida
-    * Illinois
-    * Washington
-    * Louisiana
-    * Kansas
-    * Texas
-    * Minnesota
-  * Aetna
-    * Ohio
-    * New Jersey
-    * Texas
-  * Blue Cross and Blue Shield
-    * Tennessee
-    * Illinois
-    * Oklahoma
-    * Texas
-    * South Carolina
-    * Rhode Island
-    * Pennsylvania
-
   ### Turnkey Services
 
   * Ideation, Design & Brand Customization
