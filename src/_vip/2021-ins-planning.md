@@ -33,40 +33,27 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       **EventNetUSA's Lead Generation Team is your full-time field referral
-      system.**
-
-
-      * Source, secure and plan senior events
-
-      * Build custom displays and branded vehicles
-
-      * Meet-n-greet with potential customers
-
-      * Explain Medicare in easy-to-understand terms
-
-      * Distribute product information
-
-      * Take customer contact information and/or schedule Broker meeting
+      system<br>\-&nbsp;**Source, secure and plan senior events<br>\- Build
+      custom displays and branded vehicles<br>\- Meet-n-greet with potential
+      customers<br>\- Explain Medicare in easy-to-understand terms<br>\-
+      Distribute product information<br>\- Take customer contact information
+      and/or schedule Broker meeting
 
 
       **Our team functions independently, meaning your Brokers are welcome to
       attend each event or we will secure leads for their follow-up.**
 
 
-      **Reach New & Existing Members:**
+      **Reach New & Existing Members:**<br>\- Pop-up Stores & Events<br>\-
+      Community Outreach Vehicles<br>\- Health Screening Events for Gap
+      Closing<br>\- Retail Partnership Integration<br>&nbsp; &nbsp; - Store in
+      Store Pop-Ups
 
 
-      \- Pop-up Stores & Events<br>\- Community Outreach Vehicles<br>\- Health
-      Screening Events for Gap Closing<br>\- Retail Partnership
-      Integration<br>&nbsp; &nbsp; &nbsp;- Store in Store Pop-Ups
-
-
-      **Year-Round Consumer Activations at:**
-
-
-      \- Malls & Shopping Centers<br>\- SARCs (Socially Active Retirement
-      Communities)<br>\- High Traffic, Demographically Targeted Locations<br>\-
-      Consumer Shows, Fairs & Festivals, Lifestyle Events
+      **Year-Round Consumer Activations at:<br>\-&nbsp;**Malls & Shopping
+      Centers<br>\- SARCs (Socially Active Retirement Communities)<br>\- High
+      Traffic, Demographically Targeted Locations<br>\- Consumer Shows, Fairs &
+      Festivals, Lifestyle Events
 
 
       **Which 2020-21 program opportunities fit your needs?**
