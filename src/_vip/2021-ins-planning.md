@@ -1,6 +1,6 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: 2020-21 MEDICARE MEMBER ENGAGEMENT & ENROLLMENT
+large_headline: MEDICARE LEAD GENERATION & MEMBER ENGAGEMENT
 hero_image_path: /uploads/hero-image-2-2.png
 vip_project_type: B2B
 hide_social_links: false
@@ -12,6 +12,8 @@ cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Turnkey Services
 
+  * Lead Generation
+  * Broker & Sales Staff Support
   * Ideation, Design & Brand Customization
   * Graphic & Display Production
   * Venue & Vehicle Procurement
@@ -30,13 +32,23 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      #### Recognized as the leading *Experiential Marketing Agency servicing
-      the Health Insurance Industry* by Event Marketer Magazine. We excel in
-      activations that promote sales, education and brand reach to targeted
-      consumers.&nbsp;
+      #### Our Medicare Lead Generation and Member Engagement experts work with
+      your Sales and Marketing teams to customize community outreach programs
+      that support enrollment and retention goals.
 
 
       #### &nbsp;
+
+
+      #### EventNetUSA's Event Managers are your full-time field marketing arm
+
+
+      \- Extensively trained to deliver your brand messaging<br>\- Schedule
+      appointments with your Brokers<br>\- Complete lead intake forms<br>\-
+      Direct to your local resources (clinics, retail centers, activity
+      centers)<br>**Our team functions independently on behalf of yours so
+      Brokers and representatives can work events that coordinate with their
+      availability**
 
 
       #### Reach New & Existing Members:
