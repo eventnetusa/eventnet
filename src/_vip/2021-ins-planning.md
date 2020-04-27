@@ -32,26 +32,28 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      #### Our Medicare Lead Generation and Member Engagement experts work with
-      your Sales and Marketing teams to customize community outreach programs
-      that support enrollment and retention goals.
+      **EventNetUSA's Lead Generation Team is your full-time field referral
+      system.**
 
 
-      #### &nbsp;
+      * Source, secure and plan senior events
+
+      * Build custom displays and branded vehicles
+
+      * Meet-n-greet with potential customers
+
+      * Explain Medicare in easy-to-understand terms
+
+      * Distribute product information
+
+      * Take customer contact information and/or schedule Broker meeting
 
 
-      #### EventNetUSA's Event Managers are your full-time field marketing arm
+      **Our team functions independently, meaning your Brokers are welcome to
+      attend each event or we will secure leads for their follow-up.**
 
 
-      \- Extensively trained to deliver your brand messaging<br>\- Schedule
-      appointments with your Brokers<br>\- Complete lead intake forms<br>\-
-      Direct to your local resources (clinics, retail centers, activity
-      centers)<br>**Our team functions independently on behalf of yours so
-      Brokers and representatives can work events that coordinate with their
-      availability**
-
-
-      #### Reach New & Existing Members:
+      **Reach New & Existing Members:**
 
 
       \- Pop-up Stores & Events<br>\- Community Outreach Vehicles<br>\- Health
@@ -59,7 +61,7 @@ content_section:
       Integration<br>&nbsp; &nbsp; &nbsp;- Store in Store Pop-Ups
 
 
-      #### Year-Round Consumer Activations at:
+      **Year-Round Consumer Activations at:**
 
 
       \- Malls & Shopping Centers<br>\- SARCs (Socially Active Retirement
@@ -67,7 +69,7 @@ content_section:
       Consumer Shows, Fairs & Festivals, Lifestyle Events
 
 
-      #### Which 2020-21 program opportunities fit your needs?
+      **Which 2020-21 program opportunities fit your needs?**
     single_image_block:
       single_image_path: /uploads/picture6-2.jpg
     double_image_block:
