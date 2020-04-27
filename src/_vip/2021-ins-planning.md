@@ -33,7 +33,7 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       **EventNetUSA's Lead Generation Team is your full-time field referral
-      system<br>\-&nbsp;**Source, secure and plan senior events<br>\- Build
+      system**<br>\-&nbsp;Source, secure and plan senior events<br>\- Build
       custom displays and branded vehicles<br>\- Meet-n-greet with potential
       customers<br>\- Explain Medicare in easy-to-understand terms<br>\-
       Distribute product information<br>\- Take customer contact information
