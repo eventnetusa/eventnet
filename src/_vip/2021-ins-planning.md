@@ -46,12 +46,12 @@ content_section:
 
 
       **Reach New & Existing Members:**<br>\- Senior Community Outreach
-      Visits&nbsp;<br>&nbsp; &nbsp; - 28' Branded Showroom/Event Trailer<br>\-
-      Provider Sponsored Senior Social Halls<br>&nbsp; &nbsp; - Game Rooms,
-      Lectures, Line Dancing, Exercise and Activities<br>\- Pop-up Stores &
-      Events<br>\- Community Outreach Vehicles<br>\- Health Screening Events for
-      Gap Closing<br>\- Retail Partnership Integration<br>&nbsp; &nbsp; - Store
-      in Store Pop-Ups
+      Visits&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;- 28' Branded Showroom/Event
+      Trailer<br>\- Provider Sponsored Senior Social Halls<br>&nbsp; &nbsp; -
+      Game Rooms, Lectures, Line Dancing, Exercise and Activities<br>\- Pop-up
+      Stores & Events<br>\- Community Outreach Vehicles<br>\- Health Screening
+      Events for Gap Closing<br>\- Retail Partnership Integration<br>&nbsp;
+      &nbsp; &nbsp; &nbsp;- Store in Store Pop-Ups
 
 
       **Year-Round Consumer Activations at:<br>\-&nbsp;**Mall Center Courts,
