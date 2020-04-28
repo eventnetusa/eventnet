@@ -54,7 +54,8 @@ content_section:
       &nbsp; &nbsp; &nbsp;- Store in Store Pop-Ups
 
 
-      **Year-Round Consumer Activations at:**<br>\- Mall Center Courts, Stores &
+      **Year-Round Consumer Activations at:**<br>\- Health Clinics<br>\- Popular
+      Strip Mall Stores<br>\- Pharmarcies<br>\- Mall Center Courts, Stores &
       Shopping Centers<br>\- SARCs (Socially Active Retirement
       Communities)<br>\- High Traffic, Demographically Targeted Locations<br>\-
       Consumer Shows, Fairs & Festivals, Lifestyle Events
