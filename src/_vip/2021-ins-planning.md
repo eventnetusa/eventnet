@@ -33,27 +33,31 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       **EventNetUSA's Lead Generation Team is your full-time field referral
-      system**<br>\-&nbsp;Source, secure and plan senior events<br>\- Build
-      custom displays and branded vehicles<br>\- Meet-n-greet with potential
-      customers<br>\- Explain Medicare in easy-to-understand terms<br>\-
-      Distribute product information<br>\- Take customer contact information
-      and/or schedule Broker meeting
+      system**<br>\- Source, secure and plan senior events *(we have venues to
+      reach Medicare customers)*<br>\- Build custom displays and branded
+      vehicles<br>\- Meet-n-greet with potential customers<br>\- Explain
+      Medicare in easy-to-understand terms<br>\- Distribute product
+      information<br>\- Schedule Broker meetings and/or take customer contact
+      information&nbsp;
 
 
       **Our team functions independently, meaning your Brokers are welcome to
       attend each event or we will secure leads for their follow-up.**
 
 
-      **Reach New & Existing Members:**<br>\- Pop-up Stores & Events<br>\-
-      Community Outreach Vehicles<br>\- Health Screening Events for Gap
-      Closing<br>\- Retail Partnership Integration<br>&nbsp; &nbsp; - Store in
-      Store Pop-Ups
+      **Reach New & Existing Members:**<br>\- Senior Community Outreach
+      Visits&nbsp;<br>&nbsp; &nbsp; - 28' Branded Showroom/Event Trailer<br>\-
+      Provider Sponsored Senior Social Halls<br>&nbsp; &nbsp; - Game Rooms,
+      Lectures, Line Dancing, Exercise and Activities<br>\- Pop-up Stores &
+      Events<br>\- Community Outreach Vehicles<br>\- Health Screening Events for
+      Gap Closing<br>\- Retail Partnership Integration<br>&nbsp; &nbsp; - Store
+      in Store Pop-Ups
 
 
-      **Year-Round Consumer Activations at:<br>\-&nbsp;**Malls & Shopping
-      Centers<br>\- SARCs (Socially Active Retirement Communities)<br>\- High
-      Traffic, Demographically Targeted Locations<br>\- Consumer Shows, Fairs &
-      Festivals, Lifestyle Events
+      **Year-Round Consumer Activations at:<br>\-&nbsp;**Mall Center Courts,
+      Stores & Shopping Centers<br>\- SARCs (Socially Active Retirement
+      Communities)<br>\- High Traffic, Demographically Targeted Locations<br>\-
+      Consumer Shows, Fairs & Festivals, Lifestyle Events
 
 
       **Which 2020-21 program opportunities fit your needs?**
