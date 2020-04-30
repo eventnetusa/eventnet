@@ -41,25 +41,39 @@ sidebar_text_markdown: >-
   crafts/skills, etc.&nbsp;&nbsp;
 content_section:
   - text_block_markdown: >-
-      EventNetUSA, founded in 1976, works for leading consumer brands in
-      fashion, sports, health, finance and food industries. We create events
-      that introduce brand products to consumers through one-on-one experiential
-      marketing. To date, we have produced over 5 million consumer
-      activations.&nbsp;
+      Our client, Partners in Primary Care (PiPC), is a leading provider of
+      Senior-focused integrated health care. A national provider, PiPC will be
+      opening clinics in your area this fall.&nbsp;
 
 
-      Our client, a leading health insurance provider, is looking to reach
-      Medicare eligible seniors to engage and educate on health, wellness and
-      how to best utilize Medicare services.&nbsp;
+      To promote the upcoming clinics and educate residents on the PiPC care
+      model, we will be hosting a series of Health and Wellness events. Events
+      will feature a custom Mobile Clinic Showroom and free activities.&nbsp;
 
 
-      We seek opportunities to lease space at facilities like yours to bring our
-      Medicare Information Trailer (shown below) for 1-3 day events.&nbsp;
+      Free to attendees, health and wellness activities may include
 
 
-      Free to attendees, events will include demonstrations, health screenings,
-      healthy refreshments and information on where to go for future Medicare
-      services.&nbsp;
+      * Giveaways and participatory incentives
+
+      * Cooking demonstrations and sampling
+
+      * Private consultations with Care Team Members
+
+      * Exercise and SilverSneakers
+
+      * Tips and Information on Medicare plan utilization&nbsp;
+
+      * Noninvasive, biometric health screenings
+
+      * Crafts and Skills Classes
+
+      * Seminars on various topics of interest
+
+
+      If you're interested in providing/leasing space on your property and
+      offering this free event to your community, contact us using the link
+      below.&nbsp;
     single_image_block:
       single_image_path: /uploads/trailer-2.png
     double_image_block:
