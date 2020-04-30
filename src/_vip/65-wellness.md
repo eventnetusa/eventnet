@@ -88,50 +88,10 @@ content_section:
 
 
       If you're interested in providing/leasing space on your property and
-      offering this free event to your community, contact us using the link
-      below.&nbsp;
+      offering this free event to your community, [***contact us by clicking
+      here***.](mailto:laurenm@eventnetusa.com?subject=PiPC%20Event%20Venue%20Interest&amp;body=Please%20provide%20your%20contact%20information%20and%20community%20name%2Flocation%20below.%20An%20Account%20Manager%20will%20contact%20you%20for%20followup%20details.)
     single_image_block:
       single_image_path: /uploads/trailer-2.png
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown: 'See more examples of our work below and [here](/work/).'
-    single_image_block:
-      single_image_path: /uploads/owners-1.png
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/bigelow-mtb-2.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/bcbst-1.png
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/74670677-10157406367525630-4659063901453811712-o-2.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/picture3-9.png
     double_image_block:
       image_1_path:
       image_2_path:
