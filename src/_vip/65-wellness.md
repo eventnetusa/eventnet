@@ -82,9 +82,7 @@ content_section:
 
       * Noninvasive, biometric health screenings
 
-      * Crafts and Skills Classes
-
-      * Seminars on various topics of interest
+      * Crafts, skills classes and seminars
 
 
       If you're interested in providing/leasing space on your property and
