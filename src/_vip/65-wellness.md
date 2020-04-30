@@ -41,17 +41,17 @@ sidebar_text_markdown: >-
   crafts/skills, etc.&nbsp;&nbsp;
 content_section:
   - text_block_markdown: >-
-      Partners in Primary Care (PiPC), is a leading provider of Senior-focused
-      integrated health care. A national provider, PiPC will be opening clinics
-      in your area this fall.&nbsp;
+      Partners in Primary Care (PiPC), a leading national provider of
+      Senior-focused integrated health care, will be opening clinics in your
+      area this fall.&nbsp;
 
 
-      To promote the upcoming clinics and educate residents on the PiPC care
-      model, we will be hosting a series of Health and Wellness events. Events
-      will feature a custom Mobile Clinic Showroom and free activities.&nbsp;
+      To promote upcoming clinics and educate residents on PiPC's care model,
+      EventNetUSA will be hosting a series of Health and Wellness events.
 
 
-      Free to attendees, health and wellness activities may include
+      Free to attendees, events will feature a custom Mobile Clinic Showroom and
+      health and wellness activities.
 
 
       * Giveaways and participatory incentives
