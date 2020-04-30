@@ -67,7 +67,7 @@ content_section:
 
 
       Free to attendees, events will feature a custom Mobile Clinic Showroom and
-      health and wellness activities.
+      activities.
 
 
       * Giveaways and participatory incentives
