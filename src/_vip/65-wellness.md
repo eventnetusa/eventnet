@@ -38,6 +38,11 @@ sidebar_text_markdown: >-
   #### Event Display Specifications
 
 
+  Our team of contracted CDL-A Drivers transport the unit to each event
+  location, configure with tables, chairs, signs and tents as needed. Requires 2
+  hours for setup and 2 hours for tear down.
+
+
   * Mobile Health Clinic Showroom
     * Size (closed): 32' L x 8.5' W x 11.5' H
     * Height Clearance: 18'
