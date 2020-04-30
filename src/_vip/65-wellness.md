@@ -41,9 +41,9 @@ sidebar_text_markdown: >-
   crafts/skills, etc.&nbsp;&nbsp;
 content_section:
   - text_block_markdown: >-
-      Our client, Partners in Primary Care (PiPC), is a leading provider of
-      Senior-focused integrated health care. A national provider, PiPC will be
-      opening clinics in your area this fall.&nbsp;
+      Partners in Primary Care (PiPC), is a leading provider of Senior-focused
+      integrated health care. A national provider, PiPC will be opening clinics
+      in your area this fall.&nbsp;
 
 
       To promote the upcoming clinics and educate residents on the PiPC care
