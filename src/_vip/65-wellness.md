@@ -1,14 +1,14 @@
 ---
-small_headline: WILL PAY SPACE FEE FOR ONSITE WELLNESS VEHICLE EVENT
-large_headline: SPONSORED WELLNESS EVENTS IN SENIOR COMMUNITIES
+small_headline: Partners in Primary Care Health & Wellness Event for Seniors
+large_headline: Seeking Event Locations for Leading Senior Health Provider
 hero_image_path: /uploads/65-wellness-hero-image.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Interested in having your community participate?
-cta_text: Let's discuss!
+cta_headline: Interested in participating?
+cta_text: Let us know!
 sidebar_text_markdown: >-
   #### Our Target Demographic
 
@@ -25,7 +25,7 @@ sidebar_text_markdown: >-
   #### Types of Onsite Branding and Activation
 
 
-  * Showcase Mobile Health Clinic Trailer
+  * PiPC Mobile Health Clinic Trailer
 
   * Complimentary (non-invasive) health screenings
     * Blood pressure
@@ -36,8 +36,8 @@ sidebar_text_markdown: >-
 
   * Hospitality and giveaways
 
-  * Host onsite educational seminars. Topics include health and wellness,
-  nutrition, fitness, Medicare Q&A, fraud protection, social media,
+  * Onsite educational seminars and activities. Topics may include health and
+  wellness, nutrition, fitness, Medicare Q&A, fraud protection, social media,
   crafts/skills, etc.&nbsp;&nbsp;
 content_section:
   - text_block_markdown: >-
