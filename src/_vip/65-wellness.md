@@ -89,26 +89,23 @@ content_section:
       offering this free event to your community, [***contact us by clicking
       here***.](mailto:laurenm@eventnetusa.com?subject=PiPC%20Event%20Venue%20Interest&amp;body=Please%20provide%20your%20contact%20information%20and%20community%20name%2Flocation%20below.%20An%20Account%20Manager%20will%20contact%20you%20for%20followup%20details.)
     single_image_block:
-      single_image_path: /uploads/trailer-2.png
+      single_image_path: /uploads/pipc-mobile-001.jpg
     double_image_block:
       image_1_path:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: >-
-      ---
-
-
-      To discuss opportunities for your community, contact
-
-
-      Shelby Beaty<br>New Business Development<br>shelbyb@eventnetusa.com<br>(O)
-      954.467.9898 x204
-
-
-      &nbsp;
+  - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/pipc-mobile-002.jpg
+    double_image_block:
+      image_1_path: /uploads/pipc-mobile-003.jpg
+      image_2_path: /uploads/pipc-mobile-005.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/pipc-mobile-008.jpg
     double_image_block:
       image_1_path:
       image_2_path:
