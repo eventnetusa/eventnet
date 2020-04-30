@@ -22,23 +22,34 @@ sidebar_text_markdown: >-
   * Medicare & Medicare+Medicaid
 
 
-  #### Types of Onsite Branding and Activation
+  #### Site Requirements
 
 
-  * PiPC Mobile Health Clinic Trailer
+  * 50% Residents/patrons ages 65+
 
-  * Complimentary (non-invasive) health screenings
-    * Blood pressure
-    * BMI
-    * Bone density
-    * Take home test kits
-  * Signage, banners and logo placement
+  * Clubhouse / gathering area
 
-  * Hospitality and giveaways
+  * Display setup area
+    * Minimum 35' L x 15' W ' 18' H
+  * Ability to promote events to residents/patrons (mail, email, social media,
+  bulletins, signage, etc.)
 
-  * Onsite educational seminars and activities. Topics may include health and
-  wellness, nutrition, fitness, Medicare Q&A, fraud protection, social media,
-  crafts/skills, etc.&nbsp;&nbsp;
+
+  #### Event Display Specifications
+
+
+  * Mobile Health Clinic Showroom
+    * Size (closed): 32' L x 8.5' W x 11.5' H
+    * Height Clearance: 18'
+    * Weight: 10,000 lbs
+    * Electricity: Powered by 7kw generator
+    * No restrooms
+    * Pull Vehicle: F-350
+  * Tents, tables, chairs and tabletop displays
+
+  * Small refrigerator or cooler for bottled water&nbsp;
+
+  * Signs, banners and a-frames
 content_section:
   - text_block_markdown: >-
       Partners in Primary Care (PiPC), a leading national provider of
