@@ -1,7 +1,7 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
 large_headline: MEDICARE LEAD GENERATION & MEMBER ENGAGEMENT
-hero_image_path: /uploads/hero-image-2-2.png
+hero_image_path: /uploads/hero-image-21.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
