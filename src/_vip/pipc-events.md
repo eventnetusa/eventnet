@@ -1,7 +1,7 @@
 ---
 small_headline: Partners in Primary Care Health & Wellness Event for Seniors
 large_headline: Seeking Event Locations for Senior Health and Wellness Tour
-hero_image_path: /uploads/65-wellness-hero-image.png
+hero_image_path: /uploads/hero-image-pipc-events.png
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
