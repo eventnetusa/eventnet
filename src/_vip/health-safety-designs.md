@@ -7,7 +7,7 @@ hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Looking to reach 65+ seniors and engage members?
+cta_headline: Looking for new ways to reach seniors during AEP?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Turnkey Services
