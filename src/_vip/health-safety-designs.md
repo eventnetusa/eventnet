@@ -32,17 +32,17 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **We help you reach sales and marketing goals with events to generate
-      face-to-face engagement, lead collection and Broker appointment
-      scheduling.**
+      **This AEP, let us help you reach lead generation and sales goals with
+      community outreach and senior engagement events.&nbsp;**
 
 
-      **Services include:**<br>\- Source, secure and plan senior events *(we
-      have venues to reach Medicare customers)*<br>\- Build custom displays and
-      branded vehicles design for Social Distancing<br>\- Meet-n-greet with
-      potential members<br>\- Explain Medicare in easy-to-understand terms<br>\-
-      Distribute brand and product information<br>\- Schedule Broker meetings
-      and/or take customer contact information&nbsp;
+      **Event production and management includes:**<br>\- Source, secure and
+      route venues for reaching Medicare customers&nbsp;<br>\- Build custom
+      displays and branded vehicles designed for social distancing<br>\-
+      Meet-n-greet with potential members<br>\- Explain Medicare in
+      easy-to-understand terms<br>\- Distribute brand and product
+      information<br>\- Schedule Broker meetings and/or take customer contact
+      information&nbsp;
 
 
       **Our team functions autonomously, meaning your Brokers are welcome to
@@ -58,7 +58,7 @@ content_section:
       strip malls and retail partner integration<br>&nbsp;
 
 
-      **Which 2020-21 program opportunities fit your needs?**
+      **Which 2020-21 program opportunities stand out to you?**
     single_image_block:
       single_image_path: /uploads/picture6-2.jpg
     double_image_block:
