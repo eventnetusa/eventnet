@@ -64,8 +64,8 @@ content_section:
       **Health Safety Designs Include:**<br>\- Plexiglas guards and space
       dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals
       and stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased
-      sanitation protocols and standards<br>*\- Custom designs available to meet
-      Risk & Compliance directives *
+      sanitation protocols and standards<br>**\- Custom designs available to
+      meet Risk & Compliance directives**
     single_image_block:
       single_image_path: /uploads/c-19-dt-trailer-001.jpg
     double_image_block:
