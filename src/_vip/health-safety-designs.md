@@ -36,13 +36,12 @@ content_section:
       community outreach and senior engagement events.&nbsp;**
 
 
-      **Event production and management includes:**<br>\- Source, secure and
-      route venues for reaching Medicare customers&nbsp;<br>\- Build custom
-      displays and branded vehicles designed for social distancing<br>\-
-      Meet-n-greet with potential members<br>\- Explain Medicare in
-      easy-to-understand terms<br>\- Distribute brand and product
-      information<br>\- Schedule Broker meetings and/or take customer contact
-      information&nbsp;
+      **On behalf of your team we:**<br>\- Source, secure and route venues for
+      reaching Medicare customers&nbsp;<br>\- Build custom displays and branded
+      vehicles designed for social distancing<br>\- Meet-n-greet with potential
+      members<br>\- Explain Medicare in easy-to-understand terms<br>\-
+      Distribute brand and product information<br>\- Schedule Broker meetings
+      and/or take customer contact information&nbsp;
 
 
       **Our team functions autonomously, meaning your Brokers are welcome to
