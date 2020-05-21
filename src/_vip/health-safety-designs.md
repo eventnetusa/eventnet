@@ -37,7 +37,7 @@ content_section:
       events.&nbsp;**
 
 
-      **On behalf of your team we:**<br>\- Source, secure and route venues for
+      **On Behalf of Your Team We:**<br>\- Source, secure and route venues for
       reaching Medicare customers&nbsp;<br>\- Build custom displays and branded
       vehicles designed for social distancing<br>\- Meet-n-greet with potential
       members<br>\- Explain Medicare in easy-to-understand terms<br>\-
