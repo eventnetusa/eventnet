@@ -32,8 +32,8 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **This AEP, let us help you reach lead generation and sales goals with
-      community outreach and senior engagement events.&nbsp;**
+      **This AEP, let us help you****achieve****&nbsp;lead generation and sales
+      goals with community outreach and senior engagement events.&nbsp;**
 
 
       **On behalf of your team we:**<br>\- Source, secure and route venues for
