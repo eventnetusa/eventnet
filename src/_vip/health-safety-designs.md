@@ -52,10 +52,9 @@ content_section:
       **Reach New & Existing Members:**<br>\- Community outreach vehicles
       \*Designed for Social Distancing\*<br>\- Senior housing and retirement
       communities<br>\- Senior centers and lifestyle locations<br>\- Provider
-      Sponsored Senior Social Halls<br>&nbsp; &nbsp; - Game Rooms, Lectures,
-      Line Dancing, Exercise and Activities<br>\- Mall center courts and popup
-      stores<br>\- Health Screening Events&nbsp;<br>\- Demographically targeted
-      strip malls and retail partner integration<br>&nbsp;
+      sponsored senior socials<br>\- Mall center court and popup stores<br>\-
+      Health screening events&nbsp;<br>\- Demographically targeted strip malls
+      and retail partner integration<br>&nbsp;
 
 
       **See examples below of our new community outreach trailers, designed for
