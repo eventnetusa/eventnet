@@ -32,7 +32,7 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **Let us support your sales and marketing teams with events to generate
+      **We help you reach sales and marketing goals with events to generate
       face-to-face engagement, lead collection and Broker appointment
       scheduling.**
 
