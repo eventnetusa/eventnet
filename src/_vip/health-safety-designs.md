@@ -1,5 +1,5 @@
 ---
-small_headline: Medicare Consumer Engagement in a World with Covid-19
+small_headline: Reaching and Engaging Seniors in a World with Covid-19
 large_headline: MEDICARE EVENTS DESIGNED FOR SOCIAL DISTANCING & HEALTH SAFETY
 hero_image_path: /uploads/covid-designs-backpage.png
 vip_project_type: B2B
