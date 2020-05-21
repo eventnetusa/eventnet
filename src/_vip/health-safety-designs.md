@@ -1,6 +1,6 @@
 ---
 small_headline: Medicare Consumer Engagement in a World with Covid-19
-large_headline: TRAILERS & EVENTS DESIGNED FOR SOCIAL DISTANCING & HEALTH SAFETY
+large_headline: MEDICARE EVENTS DESIGNED FOR SOCIAL DISTANCING & HEALTH SAFETY
 hero_image_path: /uploads/hero-image-21.png
 vip_project_type: B2B
 hide_social_links: false
@@ -32,33 +32,30 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **EventNetUSA's Lead Generation Team is your full-time field referral
-      system**<br>\- Source, secure and plan senior events *(we have venues to
-      reach Medicare customers)*<br>\- Build custom displays and branded
-      vehicles<br>\- Meet-n-greet with potential customers<br>\- Explain
-      Medicare in easy-to-understand terms<br>\- Distribute product
-      information<br>\- Schedule Broker meetings and/or take customer contact
-      information&nbsp;
+      **Our event production and management services support your sales and
+      marketing teams with face-to-face engagement, lead in-take and Broker
+      appointment scheduling.**
+
+
+      **Services include:**<br>\- Source, secure and plan senior events *(we
+      have venues to reach Medicare customers)*<br>\- Build custom displays and
+      branded vehicles design for Social Distancing<br>\- Meet-n-greet with
+      potential members<br>\- Explain Medicare in easy-to-understand terms<br>\-
+      Distribute brand and product information<br>\- Schedule Broker meetings
+      and/or take customer contact information&nbsp;
 
 
       **Our team functions independently, meaning your Brokers are welcome to
       attend each event or we will secure leads for their follow-up.**
 
 
-      **Reach New & Existing Members:**<br>\- Senior Community Outreach
-      Visits&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;- 28' Branded Showroom/Event
-      Trailer<br>\- Provider Sponsored Senior Social Halls<br>&nbsp; &nbsp; -
-      Game Rooms, Lectures, Line Dancing, Exercise and Activities<br>\- Pop-up
-      Stores & Events<br>\- Community Outreach Vehicles<br>\- Health Screening
-      Events for Gap Closing<br>\- Retail Partnership Integration<br>&nbsp;
-      &nbsp; &nbsp; &nbsp;- Store in Store Pop-Ups
-
-
-      **Year-Round Consumer Activations at:**<br>\- Health Clinics<br>\- Popular
-      Strip Mall Stores<br>\- Pharmarcies<br>\- Mall Center Courts, Stores &
-      Shopping Centers<br>\- SARCs (Socially Active Retirement
-      Communities)<br>\- High Traffic, Demographically Targeted Locations<br>\-
-      Consumer Shows, Fairs & Festivals, Lifestyle Events
+      **Reach New & Existing Members:**<br>\- Community outreach vehicles
+      \*Designed for Social Distancing\*<br>\- Senior housing and retirement
+      communities<br>\- Senior centers and lifestyle locations<br>\- Provider
+      Sponsored Senior Social Halls<br>&nbsp; &nbsp; - Game Rooms, Lectures,
+      Line Dancing, Exercise and Activities<br>\- Mall center courts and popup
+      stores<br>\- Health Screening Events&nbsp;<br>\- Demographically targeted
+      strip malls and retail partner integration<br>&nbsp;
 
 
       **Which 2020-21 program opportunities fit your needs?**
