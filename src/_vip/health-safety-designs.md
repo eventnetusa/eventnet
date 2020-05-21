@@ -58,7 +58,8 @@ content_section:
       strip malls and retail partner integration<br>&nbsp;
 
 
-      **Which 2020-21 program opportunities stand out to you?**
+      **See examples below of our new community outreach trailers, designed for
+      social distancing.**
     single_image_block:
       single_image_path: /uploads/picture6-2.jpg
     double_image_block:
