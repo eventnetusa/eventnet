@@ -10,19 +10,19 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Looking for new ways to reach seniors during AEP?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
+  **Health Safety Designs Include:**<br>\- Plexiglas guards and space
+  dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals and
+  stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased sanitation
+  protocols and standards<br>**\- Custom designs available to meet Risk &
+  Compliance directives**
+
+
   **Reach New & Existing Members:**<br>\- Community outreach vehicles \*Designed
   for Social Distancing\*<br>\- Senior housing and retirement communities<br>\-
   Senior centers and lifestyle locations<br>\- Provider sponsored senior
   socials<br>\- Mall center court and popup stores<br>\- Health screening
   events&nbsp;<br>\- Demographically targeted strip malls and retail partner
   integration
-
-
-  **Health Safety Designs Include:**<br>\- Plexiglas guards and space
-  dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals and
-  stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased sanitation
-  protocols and standards<br>**\- Custom designs available to meet Risk &
-  Compliance directives**
 content_section:
   - text_block_markdown: >-
       **As Medicare providers re-enter markets for AEP and 2021, our redesigned
