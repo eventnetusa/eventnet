@@ -63,7 +63,7 @@ content_section:
 
       **Health Safety Designs Include:**<br>\- Plexiglas guards and space
       dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals
-      and stanchion markers<br>\- Touchless experiences<br>\- Increased
+      and stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased
       sanitation protocols and standards<br>*\- Custom designs available to meet
       Risk & Compliance directives *
     single_image_block:
