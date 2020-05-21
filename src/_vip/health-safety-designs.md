@@ -32,9 +32,9 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **This AEP, let us help you****achieve****&nbsp;lead generation and
-      enrollment goals with community outreach and senior engagement
-      events.&nbsp;**
+      As we re-enter markets for AEP and 2021, our redesigned events create
+      senior-friendly spaces for to help achieve your enrollment, lead
+      generation and member engagement goals.
 
 
       **On Behalf of Your Team We:**<br>\- Source, secure and route venues for
