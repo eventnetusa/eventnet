@@ -56,7 +56,7 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      ## Examples of Medicare programs from before Covid-19
+      ## Medicare Events Before Covid-19
     single_image_block:
       single_image_path: /uploads/picture5-1.png
     double_image_block:
