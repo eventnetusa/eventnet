@@ -74,7 +74,7 @@ content_section:
       image_2_path: /uploads/c-19-sampling-trailer-003.jpg
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: '**Ask us about our current and past Medicare programs\!**'
     single_image_block:
       single_image_path: /uploads/picture5-1.png
     double_image_block:
