@@ -9,63 +9,33 @@ cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Looking for new ways to reach seniors during AEP?
 cta_text: Let's Talk!
-sidebar_text_markdown: |-
-  ### Turnkey Services
+sidebar_text_markdown: >-
+  **Reach New & Existing Members:**<br>\- Community outreach vehicles \*Designed
+  for Social Distancing\*<br>\- Senior housing and retirement communities<br>\-
+  Senior centers and lifestyle locations<br>\- Provider sponsored senior
+  socials<br>\- Mall center court and popup stores<br>\- Health screening
+  events&nbsp;<br>\- Demographically targeted strip malls and retail partner
+  integration
 
-  * Lead Generation
-  * Broker & Sales Staff Support
-  * Ideation, Design & Brand Customization
-  * Graphic & Display Production
-  * Venue & Vehicle Procurement
-  * Routing & Logistics
-  * Permitting & Legal
-  * Staff & Training
-  * Social Media Integration
-  * Budget Forecasting
-  * Account Management
-  * Liability Insurance
-  * Risk Management
-  * Reporting
 
-  ### &nbsp;
-
-  ### &nbsp;
+  **Health Safety Designs Include:**<br>\- Plexiglas guards and space
+  dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals and
+  stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased sanitation
+  protocols and standards<br>**\- Custom designs available to meet Risk &
+  Compliance directives**
 content_section:
   - text_block_markdown: >-
-      **As we re-enter markets for AEP and 2021, our redesigned events create
-      senior-friendly spaces for to help achieve your enrollment, lead
+      **As Medicare providers re-enter markets for AEP and 2021, our redesigned
+      events create senior-friendly spaces to achieve your enrollment, lead
       generation and member engagement goals.**
 
 
-      **On Behalf of Your Team We:**<br>\- Source, secure and route venues for
+      **EventNetUSA Support:**<br>\- Source, secure and route venues for
       reaching Medicare customers&nbsp;<br>\- Build custom displays and branded
       vehicles designed for social distancing<br>\- Meet-n-greet with potential
       members<br>\- Explain Medicare in easy-to-understand terms<br>\-
       Distribute brand and product information<br>\- Schedule Broker meetings
       and/or take customer contact information&nbsp;
-
-
-      **Our team functions autonomously, meaning your Brokers are welcome to
-      attend each event or we will secure leads for their follow-up.**
-
-
-      **Reach New & Existing Members:**<br>\- Community outreach vehicles
-      \*Designed for Social Distancing\*<br>\- Senior housing and retirement
-      communities<br>\- Senior centers and lifestyle locations<br>\- Provider
-      sponsored senior socials<br>\- Mall center court and popup stores<br>\-
-      Health screening events&nbsp;<br>\- Demographically targeted strip malls
-      and retail partner integration
-
-
-      **See examples below of our new community outreach trailers, designed for
-      social distancing.**
-
-
-      **Health Safety Designs Include:**<br>\- Plexiglas guards and space
-      dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals
-      and stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased
-      sanitation protocols and standards<br>**\- Custom designs available to
-      meet Risk & Compliance directives**
     single_image_block:
       single_image_path: /uploads/c-19-dt-trailer-001.jpg
     double_image_block:
