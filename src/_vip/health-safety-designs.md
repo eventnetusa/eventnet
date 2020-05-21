@@ -54,11 +54,18 @@ content_section:
       communities<br>\- Senior centers and lifestyle locations<br>\- Provider
       sponsored senior socials<br>\- Mall center court and popup stores<br>\-
       Health screening events&nbsp;<br>\- Demographically targeted strip malls
-      and retail partner integration<br>&nbsp;
+      and retail partner integration
 
 
       **See examples below of our new community outreach trailers, designed for
       social distancing.**
+
+
+      **Health Safety Designs Include:**<br>\- Plexiglas guards and space
+      dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals
+      and stanchion markers<br>\- Touchless experiences<br>\- Increased
+      sanitation protocols and standards<br>*\- Custom designs available to meet
+      Risk & Compliance directives *
     single_image_block:
       single_image_path: /uploads/c-19-dt-trailer-001.jpg
     double_image_block:
