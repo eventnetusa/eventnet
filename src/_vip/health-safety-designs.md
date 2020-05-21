@@ -32,9 +32,9 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **Our event production and management services support your sales and
-      marketing teams with face-to-face engagement, lead in-take and Broker
-      appointment scheduling.**
+      **Let us support your sales and marketing teams with events to generate
+      face-to-face engagement, lead collection and Broker appointment
+      scheduling.**
 
 
       **Services include:**<br>\- Source, secure and plan senior events *(we
@@ -45,7 +45,7 @@ content_section:
       and/or take customer contact information&nbsp;
 
 
-      **Our team functions independently, meaning your Brokers are welcome to
+      **Our team functions autonomously, meaning your Brokers are welcome to
       attend each event or we will secure leads for their follow-up.**
 
 
