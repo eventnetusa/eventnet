@@ -1,7 +1,7 @@
 ---
 small_headline: Reaching and Engaging Seniors in a World with Covid-19
 large_headline: GROUP & MEDICARE EVENTS DESIGNED FOR SOCIAL DISTANCING & HEALTH SAFETY
-hero_image_path: /uploads/covid-designs-backpage.png
+hero_image_path: /uploads/hero-image-1-1.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
