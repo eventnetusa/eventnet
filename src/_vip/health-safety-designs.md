@@ -25,17 +25,17 @@ sidebar_text_markdown: >-
   integration
 content_section:
   - text_block_markdown: >-
-      **As Medicare providers re-enter markets for AEP and 2021, our redesigned
-      events create senior-friendly spaces to achieve your enrollment, lead
-      generation and member engagement goals.**
+      **As providers re-enter markets for 2020/21, our redesigned Social
+      Distance Marketing Events create Group and Medicare outreach space for
+      safe engagement with current and potential customers.**
 
 
       **EventNetUSA Support:**<br>\- Source, secure and route venues for
-      reaching Medicare customers&nbsp;<br>\- Build custom displays and branded
-      vehicles designed for social distancing<br>\- Meet-n-greet with potential
-      members<br>\- Explain Medicare in easy-to-understand terms<br>\-
-      Distribute brand and product information<br>\- Schedule Broker meetings
-      and/or take customer contact information&nbsp;
+      reaching target audience&nbsp;<br>\- Build custom displays and branded
+      vehicles designed for social distancing<br>\- Supply logistics leading to
+      meet-n-greet with potential members<br>\- Distribute brand and product
+      information<br>\- Product awareness, lead generation and scheduling of
+      provider/Broker follow-up&nbsp;
     single_image_block:
       single_image_path:
     double_image_block:
