@@ -55,6 +55,14 @@ content_section:
     single_image_block:
       single_image_path: /uploads/c-19-dt-trailer-001.jpg
     double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/c-19-dt-trailer-006.jpg
+    double_image_block:
       image_1_path: /uploads/c-19-dt-trailer-002-1.jpg
       image_2_path: /uploads/c-19-dt-trailer-004.jpg
     video_block:
