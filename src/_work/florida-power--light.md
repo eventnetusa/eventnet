@@ -49,7 +49,7 @@ content_section:
 
       Guests download app as entry into cooling station. Upon entry, offical
       countdown starts. Guests are blasted with cold nitrogren, dropping
-      temperatures inside station by more than 30 degrees! The fun is captured
+      temperatures inside station by more than 30 degrees\! The fun is captured
       via GIF generator and shared on social media for sweepstakes entry.&nbsp;
     single_image_block:
       single_image_path:
@@ -73,7 +73,7 @@ content_section:
       image_1_path: /uploads/cs8.jpg
       image_2_path: /uploads/cs5.jpg
     video_block:
-      video_id:
+      video_id: WTzVzbMndEs
 project_logos:
   - logo_image_path: /uploads/fpl.png
     logo_image_height: 50%
