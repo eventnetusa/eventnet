@@ -68,7 +68,7 @@ content_section:
       image_1_path: /uploads/kc-disc-exp-11.jpg
       image_2_path: /uploads/kc-disc-exp.jpg
     video_block:
-      video_id:
+      video_id: sxA1es6jOBk
 project_logos:
   - logo_image_path: /uploads/3843281-pipc-logo.jpg
     logo_image_height: 100%
