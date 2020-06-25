@@ -10,11 +10,12 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Looking for new ways to reach seniors during AEP?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
-  **Health Safety Designs Include:**<br>\- Virtual Broker meetings<br>\-
-  Plexiglas guards and space dividers<br>\- Hand sanitizing stations<br>\- Safe
-  distance floor decals and stanchion markers<br>\- Touchless
-  experiences&nbsp;<br>\- Increased sanitation protocols and standards<br>**\-
-  Custom designs available to meet Risk & Compliance directives**
+  **Health Safety Designs Include:**<br>\- Virtual Broker and town hall style
+  meetings<br>\- Safe distance social gathering spaces<br>\- Plexiglas guards
+  and space dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor
+  decals and stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased
+  sanitation protocols and standards<br>**\- Custom designs available to meet
+  Risk & Compliance directives**
 
 
   **Reach New & Existing Members:**<br>\- Hybrid popup stores<br>\- Community
