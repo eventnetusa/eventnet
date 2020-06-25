@@ -69,10 +69,10 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/covid-kiosk-1.png
+      single_image_path: /uploads/virtual-meeting-offices-2.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/covid-kiosk-1.png
+      image_2_path: /uploads/covid-kiosk-2.png
     video_block:
       video_id:
   - text_block_markdown: >-
