@@ -1,6 +1,6 @@
 ---
 small_headline: Reaching and Engaging Seniors in a World with Covid-19
-large_headline: GROUP & MEDICARE EVENTS DESIGNED FOR SOCIAL DISTANCING & HEALTH SAFETY
+large_headline: MEDICARE EVENTS DESIGNED FOR SOCIAL DISTANCING & HEALTH SAFETY
 hero_image_path: /uploads/hero-image-1-1.png
 vip_project_type: B2B
 hide_social_links: false
@@ -10,19 +10,19 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Looking for new ways to reach seniors during AEP?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
-  **Health Safety Designs Include:**<br>\- Plexiglas guards and space
-  dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals and
-  stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased sanitation
-  protocols and standards<br>**\- Custom designs available to meet Risk &
-  Compliance directives**
+  **Health Safety Designs Include:**<br>\- Virtual Broker meetings<br>\-
+  Plexiglas guards and space dividers<br>\- Hand sanitizing stations<br>\- Safe
+  distance floor decals and stanchion markers<br>\- Touchless
+  experiences&nbsp;<br>\- Increased sanitation protocols and standards<br>**\-
+  Custom designs available to meet Risk & Compliance directives**
 
 
-  **Reach New & Existing Members:**<br>\- Community outreach vehicles \*Designed
-  for Social Distancing\*<br>\- Senior housing and retirement communities<br>\-
-  Senior centers and lifestyle locations<br>\- Provider sponsored senior
-  socials<br>\- Mall center court and popup stores<br>\- Health screening
-  events&nbsp;<br>\- Demographically targeted strip malls and retail partner
-  integration
+  **Reach New & Existing Members:**<br>\- Hybrid popup stores<br>\- Community
+  outreach vehicles \*Designed for Social Distancing\*<br>\- Senior housing and
+  retirement communities<br>\- Senior centers and lifestyle locations<br>\-
+  Provider sponsored senior socials<br>\- Mall center court events<br>\- Health
+  screening events&nbsp;<br>\- Demographically targeted strip malls and retail
+  partner integration
 content_section:
   - text_block_markdown: >-
       **As providers re-enter markets for 2020/21, our redesigned Social
