@@ -25,9 +25,9 @@ sidebar_text_markdown: >-
   partner integration
 content_section:
   - text_block_markdown: >-
-      **As providers re-enter markets for 2020/21, our redesigned Social
-      Distance Marketing Events create Group and Medicare outreach space for
-      safe engagement with current and potential customers.**
+      **As providers re-enter markets for 2020/21, our redesigned Socially
+      Distanced Marketing Events create Medicare outreach space for safe
+      engagement with current and potential customers.**
 
 
       **EventNetUSA Support:**<br>\- Source, secure and route venues for
