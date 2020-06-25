@@ -40,16 +40,24 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/c-19-dt-trailer-005.jpg
-      image_2_path: /uploads/c-19-sampling-trailer-003.jpg
+      image_1_path: /uploads/c-19-dt-trailer-002-1.jpg
+      image_2_path: /uploads/c-19-dt-trailer-004.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/c-19-sampling-trailer-001.jpg
+      single_image_path: /uploads/virtual-meeting-offices-2.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/covid-kiosk-3.png
+      image_2_path: /uploads/covid-kiosk-2.png
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/c-19-dt-trailer-006.jpg
+    double_image_block:
+      image_1_path: /uploads/c-19-dt-trailer-005-1.jpg
+      image_2_path: /uploads/c-19-sampling-trailer-003.jpg
     video_block:
       video_id:
   - text_block_markdown:
@@ -62,18 +70,10 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/c-19-dt-trailer-006.jpg
+      single_image_path: /uploads/c-19-sampling-trailer-001.jpg
     double_image_block:
-      image_1_path: /uploads/c-19-dt-trailer-002-1.jpg
-      image_2_path: /uploads/c-19-dt-trailer-004.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/virtual-meeting-offices-2.jpg
-    double_image_block:
-      image_1_path: /uploads/covid-kiosk-1.png
-      image_2_path: /uploads/covid-kiosk-2.png
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown: >-
