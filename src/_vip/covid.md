@@ -32,12 +32,12 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **EventNetUSA has exclusive access and sampling rights for 1000+ Covid
-      Testing Sites. **
+      #### EventNetUSA has exclusive access and sampling rights for 1000+ Covid
+      Testing Sites.
 
 
-      **Distribute product, brand messaging and special offers to millions of
-      Covid tested consumers starting this December.**
+      #### Distribute product, brand messaging and special offers to millions of
+      Covid tested consumers starting this December.
 
 
       * WHERE - Nationwide
