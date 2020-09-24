@@ -40,30 +40,29 @@ content_section:
       Covid tested consumers starting this December.
 
 
-      * WHERE - Nationwide
-        * Currently operating in 35 states
-        * Malls, convenience stores, big box and grocery plazas, etc.
-        * 500+ New sites opening now through 10/15/2020
-        * Sampling available December 2020 - December 2021+
-
       &nbsp;
 
 
-      * WHO – Millions of Americans
-        * 3MM+ consumers tested per month
-        * Each receives
-          * Your product sample\*
-          * Your messaging and special offer included in test results email
+      **WHERE - Nationwide**<br>\- Currently operating in 35 states<br>\- Malls,
+      convenience stores, big box and grocery plazas, etc.<br>\- 500+ New sites
+      opening now through 10/15/2020<br>\- Sampling available December 2020 -
+      December 2021+
+
+
+      **WHO – Millions of Americans**<br>\- 3MM+ consumers tested per
+      month<br>\- Each receives<br>&nbsp; &nbsp;- Your product
+      sample\*<br>&nbsp; &nbsp;- Your messaging and special offer included in
+      test results email
+
+
+      **HOW**<br>\- Provide samples, messaging and special offer<br>\-
+      EventNetUSA handles the rest<br>&nbsp; &nbsp;- Consumer
+      distribution<br>&nbsp; &nbsp;- Reporting<br>&nbsp; &nbsp;- Program
+      administration
+
 
       &nbsp;
 
-
-      * HOW
-        * Provide samples, messaging and special offer
-        * EventNetUSA handles the rest
-          * Consumer distribution
-          * Reporting
-          * Program administration
 
       &nbsp;
     single_image_block:
