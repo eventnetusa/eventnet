@@ -1,13 +1,13 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: REACH MILLIONS OF CONSUMERS VIA COVID TEST SITES
+large_headline: REACH MILLIONS NATIONWIDE VIA COVID TEST SITES
 hero_image_path: /uploads/hero-image-21.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
 cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: Looking to reach 65+ seniors and engage members?
+cta_headline: Ready to Reach Millions?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
   ### Turnkey Services
@@ -32,36 +32,40 @@ sidebar_text_markdown: |-
   ### &nbsp;
 content_section:
   - text_block_markdown: >-
-      **EventNetUSA's Lead Generation Team is your full-time field referral
-      system**<br>\- Source, secure and plan senior events *(we have venues to
-      reach Medicare customers)*<br>\- Build custom displays and branded
-      vehicles<br>\- Meet-n-greet with potential customers<br>\- Explain
-      Medicare in easy-to-understand terms<br>\- Distribute product
-      information<br>\- Schedule Broker meetings and/or take customer contact
-      information&nbsp;
+      **EventNetUSA has exclusive access and sampling rights for 1000+ Covid
+      Testing Sites. **
 
 
-      **Our team functions independently, meaning your Brokers are welcome to
-      attend each event or we will secure leads for their follow-up.**
+      **Distribute product, brand messaging and special offers to millions of
+      Covid tested consumers starting this December.**
 
 
-      **Reach New & Existing Members:**<br>\- Senior Community Outreach
-      Visits&nbsp;<br>&nbsp; &nbsp; &nbsp; &nbsp;- 28' Branded Showroom/Event
-      Trailer<br>\- Provider Sponsored Senior Social Halls<br>&nbsp; &nbsp; -
-      Game Rooms, Lectures, Line Dancing, Exercise and Activities<br>\- Pop-up
-      Stores & Events<br>\- Community Outreach Vehicles<br>\- Health Screening
-      Events for Gap Closing<br>\- Retail Partnership Integration<br>&nbsp;
-      &nbsp; &nbsp; &nbsp;- Store in Store Pop-Ups
+      * WHERE - Nationwide
+        * Currently operating in 35 states
+        * Malls, convenience stores, big box and grocery plazas, etc.
+        * 500+ New sites opening now through 10/15/2020
+        * Sampling available December 2020 - December 2021+
+
+      &nbsp;
 
 
-      **Year-Round Consumer Activations at:**<br>\- Health Clinics<br>\- Popular
-      Strip Mall Stores<br>\- Pharmarcies<br>\- Mall Center Courts, Stores &
-      Shopping Centers<br>\- SARCs (Socially Active Retirement
-      Communities)<br>\- High Traffic, Demographically Targeted Locations<br>\-
-      Consumer Shows, Fairs & Festivals, Lifestyle Events
+      * WHO – Millions of Americans
+        * 3MM+ consumers tested per month
+        * Each receives
+          * Your product sample\*
+          * Your messaging and special offer included in test results email
+
+      &nbsp;
 
 
-      **Which 2020-21 program opportunities fit your needs?**
+      * HOW
+        * Provide samples, messaging and special offer
+        * EventNetUSA handles the rest
+          * Consumer distribution
+          * Reporting
+          * Program administration
+
+      &nbsp;
     single_image_block:
       single_image_path: /uploads/picture6-2.jpg
     double_image_block:
