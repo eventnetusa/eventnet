@@ -1,6 +1,6 @@
 ---
 small_headline: Turnkey Brand Event Production and Management
-large_headline: REACH MILLIONS VIA NATIONWIDE COVID TEST SITES
+large_headline: SAMPLE TO MILLIONS RECEIVING COVID-19 TESTS
 hero_image_path: /uploads/hero-image-21.png
 vip_project_type: B2B
 hide_social_links: false
