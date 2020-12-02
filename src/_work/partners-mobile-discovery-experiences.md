@@ -57,7 +57,7 @@ content_section:
 
       * Private consultation space for new patient sign-up
     single_image_block:
-      single_image_path: /uploads/kc-disc-exp-9.jpg
+      single_image_path: /uploads/20201006-101046.jpg
     double_image_block:
       image_1_path: /uploads/kc-disc-exp-10.jpg
       image_2_path: /uploads/kc-disc-exp-6.jpg
