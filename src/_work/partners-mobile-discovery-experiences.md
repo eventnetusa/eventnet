@@ -59,18 +59,34 @@ content_section:
     single_image_block:
       single_image_path: /uploads/20201006-101046.jpg
     double_image_block:
-      image_1_path: /uploads/kc-disc-exp-10.jpg
-      image_2_path: /uploads/kc-disc-exp-6.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/central-mall-port-arthur-wk-2-14.jpg
     double_image_block:
-      image_1_path: /uploads/kc-disc-exp-11.jpg
-      image_2_path: /uploads/kc-disc-exp.jpg
+      image_1_path:
+      image_2_path:
     video_block:
       video_id: sxA1es6jOBk
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/central-mall-port-arthur-wk-2-4.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id: Pxs_gDLoXN0
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 project_logos:
   - logo_image_path: /uploads/3843281-pipc-logo.jpg
     logo_image_height: 100%
