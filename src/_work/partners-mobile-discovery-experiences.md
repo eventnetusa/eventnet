@@ -6,13 +6,14 @@ headline: Mobile Discovery Experiences
 hover_text: >-
   Partners turned to EventNetUSA to conceptualize and create a mobile showcase
   for their healthcare center patient experience.
-hero_image_path: /uploads/central-mall-port-arthur-wk-2-6.jpg
-thumbnail_image_path: /uploads/central-mall-port-arthur-wk-2-14.jpg
+hero_image_path: /uploads/20201006-101046.jpg
+thumbnail_image_path: /uploads/20201006-101046.jpg
 types:
   - insurance activation
-  - retail
   - popup shop
-cta_text: Looking to activate medicare consumers?
+  - vehicle tour
+  - pr event
+cta_text: Looking to promote your brand and gain new customers?
 cta: Let's talk
 sidebar_text_markdown: |-
   **EventNetUSA’s Turnkey Services Include:**
