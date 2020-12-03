@@ -38,25 +38,32 @@ content_section:
       Advantage patients.&nbsp;
 
 
-      Partners turned to EventNetUSA to conceptualize and create a mobile
-      showcase for their healthcare center patient experience. With goals of
-      educating consumers and enrolling new patients, Mobile Discovery
-      Experience trailers are used in new and emerging markets to support
-      centers.
+      Partners turned to EventNetUSA to deliver a solution for touchless open
+      house experiences in the day and age of COVID-19.&nbsp;
 
 
-      The Mobile Discovery Experience
+      With goals of incorporating center tours, care model education, data
+      collection and complimentary food distribution, EventNetUSA conceptualized
+      the Drive-thru Discovery Experience.&nbsp;
 
 
-      * Custom 32' drop trailer with hydraulics that lower unit to ground for
-      hidden wheels and easy entry
+      The Drive-thru Discovery Experience
 
-      * Integrated technology including self-guided private audio tour
 
-      * Center visuals, finishes and patient furniture to highlight
-      senior-focused design
+      * Parking lot events that enable consumers to engage safely from their
+      vehicles
 
-      * Private consultation space for new patient sign-up
+      * Four touchpoints
+        * Welcome and data collection via raffle entry
+        * Activities showcasing in-center social events
+        * Broker engagement and eligibility Q&A
+        * Thank you, food distribution and invitation for concierge style virtual tour
+      * Set dressed with branded backdrop, signage and balloon arch
+
+      * Crowd entertainment provided by professional DJ
+
+      * Pre-event promotion via direct mailers and teams canvassing
+      demographically targeted neighborhoods with flyers
     single_image_block:
       single_image_path: /uploads/20201006-101046.jpg
     double_image_block:
