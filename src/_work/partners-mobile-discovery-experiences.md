@@ -78,7 +78,7 @@ content_section:
       image_1_path:
       image_2_path:
     video_block:
-      video_id: Pxs_gDLoXN0
+      video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
