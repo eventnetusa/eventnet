@@ -60,16 +60,16 @@ content_section:
     single_image_block:
       single_image_path: /uploads/20201006-101046.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/photo-aug-17-1-04-28-pm.jpg
+      image_2_path: /uploads/photo-aug-18-11-38-03-am.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/central-mall-port-arthur-wk-2-14.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/photo-aug-18-11-37-19-am.jpg
+      image_2_path: /uploads/photo-aug-18-11-37-47-am.jpg
     video_block:
       video_id:
   - text_block_markdown:
