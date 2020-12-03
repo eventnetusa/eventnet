@@ -70,7 +70,7 @@ content_section:
       image_1_path:
       image_2_path:
     video_block:
-      video_id: sxA1es6jOBk
+      video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/central-mall-port-arthur-wk-2-4.jpg
