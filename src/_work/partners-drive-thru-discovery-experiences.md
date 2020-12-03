@@ -54,7 +54,7 @@ content_section:
       vehicles
 
       * Four touchpoints
-        * Welcome and data collection via raffle entry
+        * Welcome and data collection/raffle entry
         * Activities showcasing in-center social events
         * Broker engagement and eligibility Q&A
         * Thank you, food distribution and invitation for concierge style virtual tour
