@@ -95,6 +95,14 @@ content_section:
       image_2_path: /uploads/photo-nov-30-12-22-43-pm.jpg
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/photo-nov-30-10-15-51-am.jpg
+      image_2_path: /uploads/photo-nov-30-10-24-48-am.jpg
+    video_block:
+      video_id:
 project_logos:
   - logo_image_path: /uploads/3843281-pipc-logo.jpg
     logo_image_height: 100%
