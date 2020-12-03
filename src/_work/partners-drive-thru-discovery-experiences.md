@@ -80,6 +80,14 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/photo-nov-25-8-01-31-am.jpg
+      image_2_path: /uploads/photo-nov-25-8-02-47-am.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
       single_image_path: /uploads/11-30-humble-1.jpg
     double_image_block:
       image_1_path: /uploads/cgcjgntw.jpeg
@@ -116,14 +124,6 @@ content_section:
     double_image_block:
       image_1_path: /uploads/photo-nov-30-10-15-51-am.jpg
       image_2_path: /uploads/photo-nov-30-10-24-48-am.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/photo-nov-25-8-01-31-am.jpg
-      image_2_path: /uploads/photo-nov-25-8-02-47-am.jpg
     video_block:
       video_id:
 project_logos:
