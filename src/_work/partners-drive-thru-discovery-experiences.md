@@ -2,7 +2,7 @@
 client: Partners in Primary Care
 link_to_casestudy: true
 sort_number: 1
-headline: Drive-Thru Discovery Experiences
+headline: Drive-thru Discovery Experiences
 hover_text: >-
   Partners turned to EventNetUSA to deliver a solution for touchless open house
   experiences in the day and age of COVID-19.
