@@ -55,7 +55,7 @@ content_section:
 
       * Four touchpoints
         * Welcome and data collection/raffle entry
-        * Activities showcasing in-center social events
+        * Virtual activity showcasing in-center social events
         * Broker engagement and eligibility Q&A
         * Thank you, food distribution and invitation for concierge style virtual tour
       * Set dressed with branded backdrop, signage and balloon arch
@@ -86,7 +86,7 @@ content_section:
       image_1_path: /uploads/photo-nov-30-1-09-01-pm.jpg
       image_2_path: /uploads/photo-nov-30-9-04-13-am.jpg
     video_block:
-      video_id: Pxs_gDLoXN0
+      video_id:
   - text_block_markdown:
     single_image_block:
       single_image_path:
