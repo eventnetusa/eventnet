@@ -81,18 +81,18 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/central-mall-port-arthur-wk-2-4.jpg
+      single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/photo-nov-30-1-09-01-pm.jpg
+      image_2_path: /uploads/photo-nov-30-9-04-13-am.jpg
     video_block:
       video_id: Pxs_gDLoXN0
   - text_block_markdown:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/photo-nov-30-10-20-33-am.jpg
+      image_2_path: /uploads/photo-nov-30-12-22-43-pm.jpg
     video_block:
       video_id:
 project_logos:
