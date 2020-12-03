@@ -13,8 +13,8 @@ types:
   - popup shop
   - vehicle tour
   - pr event
-cta_text: Looking to promote your brand and gain new customers?
-cta: Let's talk
+cta_text: Need a solution for engaging with consumers in a safe way?
+cta: Let's talk about drive-thru parking lot events!
 sidebar_text_markdown: |-
   **EventNetUSA’s Turnkey Services Include:**
 
