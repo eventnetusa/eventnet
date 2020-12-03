@@ -33,9 +33,8 @@ sidebar_text_markdown: |-
   &nbsp;
 content_section:
   - text_block_markdown: >-
-      Partners in Primary Care (Partners), a subsidiary of Humana, is a family
-      of senior-focused primary care clinics that serve over 35,000 Medicare
-      Advantage patients.&nbsp;
+      Partners in Primary Care (Partners) is a family of senior-focused primary
+      care clinics that serve over 35,000 Medicare Advantage patients.&nbsp;
 
 
       Partners turned to EventNetUSA to deliver a solution for touchless open
@@ -67,8 +66,16 @@ content_section:
     single_image_block:
       single_image_path: /uploads/11-25-gulfgate-4.jpg
     double_image_block:
-      image_1_path: /uploads/photo-nov-25-8-01-31-am.jpg
-      image_2_path: /uploads/photo-nov-25-8-02-49-am.jpg
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/20201123-143011-copy-980x2016.jpg
+      image_2_path: /uploads/20201123-132805-copy-980x2016.jpg
     video_block:
       video_id:
   - text_block_markdown:
@@ -99,14 +106,6 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/photo-nov-30-10-15-51-am.jpg
-      image_2_path: /uploads/photo-nov-30-10-24-48-am.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
       image_1_path: /uploads/35eoixgq.jpeg
       image_2_path: /uploads/fzf-4tia.jpeg
     video_block:
@@ -115,8 +114,16 @@ content_section:
     single_image_block:
       single_image_path:
     double_image_block:
-      image_1_path: /uploads/20201123-143011-copy-980x2016.jpg
-      image_2_path: /uploads/20201123-132805-copy-980x2016.jpg
+      image_1_path: /uploads/photo-nov-30-10-15-51-am.jpg
+      image_2_path: /uploads/photo-nov-30-10-24-48-am.jpg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/photo-nov-25-8-01-31-am.jpg
+      image_2_path: /uploads/photo-nov-25-8-02-47-am.jpg
     video_block:
       video_id:
 project_logos:
