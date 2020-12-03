@@ -40,8 +40,8 @@ content_section:
 
       Partners turned to EventNetUSA to conceptualize and create a mobile
       showcase for their healthcare center patient experience. With goals of
-      educating consumers and enrolling new patients, the activation would be
-      used in new and emerging markets to support centers.
+      educating consumers and enrolling new patients, the activations are used
+      in new and emerging markets to support centers.
 
 
       The Mobile Discovery Experience
