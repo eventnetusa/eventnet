@@ -103,6 +103,22 @@ content_section:
       image_2_path: /uploads/photo-nov-30-10-24-48-am.jpg
     video_block:
       video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/35eoixgq.jpeg
+      image_2_path: /uploads/fzf-4tia.jpeg
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/20201123-143011-copy-980x2016.jpg
+      image_2_path: /uploads/20201123-132805-copy-980x2016.jpg
+    video_block:
+      video_id:
 project_logos:
   - logo_image_path: /uploads/3843281-pipc-logo.jpg
     logo_image_height: 100%
