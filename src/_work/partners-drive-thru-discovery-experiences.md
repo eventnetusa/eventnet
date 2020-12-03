@@ -65,18 +65,18 @@ content_section:
       * Pre-event promotion via direct mailers and teams canvassing
       demographically targeted neighborhoods with flyers
     single_image_block:
-      single_image_path: /uploads/20201006-101046.jpg
+      single_image_path: /uploads/11-25-gulfgate-4.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/photo-nov-25-8-01-31-am.jpg
+      image_2_path: /uploads/photo-nov-25-8-02-49-am.jpg
     video_block:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/central-mall-port-arthur-wk-2-14.jpg
+      single_image_path: /uploads/11-30-humble-1.jpg
     double_image_block:
-      image_1_path:
-      image_2_path:
+      image_1_path: /uploads/cgcjgntw.jpeg
+      image_2_path: /uploads/0so1yw-q.jpeg
     video_block:
       video_id:
   - text_block_markdown:
