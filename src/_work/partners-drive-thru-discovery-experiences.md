@@ -7,7 +7,7 @@ hover_text: >-
   Partners turned to EventNetUSA to deliver a solution for touchless open house
   experiences in the day and age of COVID-19.
 hero_image_path: /uploads/11-30-humble-8.jpg
-thumbnail_image_path: /uploads/11-25-gulfgate-5.jpg
+thumbnail_image_path: /uploads/thumbnail-photo.jpg
 types:
   - insurance activation
   - popup shop
