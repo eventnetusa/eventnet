@@ -7,7 +7,7 @@ hover_text: >-
   Partners turned to EventNetUSA to conceptualize and create a mobile showcase
   for their healthcare center patient experience.
 hero_image_path: /uploads/20201006-101046.jpg
-thumbnail_image_path: /uploads/20201006-101046.jpg
+thumbnail_image_path: /uploads/mde-thumbnail.jpg
 types:
   - insurance activation
   - popup shop
