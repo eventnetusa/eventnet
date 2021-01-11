@@ -10,12 +10,12 @@ cta_link_url: 'https://www.eventnetusa.com/contact/'
 cta_headline: Looking for new ways to reach members and prospects?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
-  **Reach New & Existing Members:**<br>\- Hybrid popup stores<br>\- Community
-  outreach vehicles \*Designed for Social Distancing\*<br>\- Senior housing and
-  retirement communities<br>\- Senior centers and lifestyle locations<br>\-
-  Provider sponsored senior socials<br>\- Mall center court events<br>\- Health
-  screening events&nbsp;<br>\- Demographically targeted strip malls and retail
-  partner integration
+  **Reach New & Existing Members:**<br>\- Hybrid popup stores<br>\- Drive-thru
+  parking lot events<br>\- Community outreach vehicles \*Designed for Social
+  Distancing\*<br>\- Senior housing and retirement communities<br>\- Senior
+  centers and lifestyle locations<br>\- Provider sponsored senior socials<br>\-
+  Mall center court events<br>\- Health screening events&nbsp;<br>\-
+  Demographically targeted strip malls and retail partner integration
 
 
   **Health Safety Designs Include:**<br>\- Virtual Broker and town hall style
