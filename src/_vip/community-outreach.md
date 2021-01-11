@@ -12,7 +12,7 @@ cta_text: Let's Talk!
 sidebar_text_markdown: >-
   **Reach New & Existing Members:**<br>\- Hybrid popup stores<br>\- Drive-thru
   parking lot events<br>\- Community outreach vehicles \*Designed for Social
-  Distancing\*<br>\- Senior housing and retirement communities<br>\- Senior
+  Distancing\*<br>\- Senior housing and retirement communities<br>\- Community
   centers and lifestyle locations<br>\- Provider sponsored senior socials<br>\-
   Mall center court events<br>\- Health screening events&nbsp;<br>\-
   Demographically targeted strip malls and retail partner integration
