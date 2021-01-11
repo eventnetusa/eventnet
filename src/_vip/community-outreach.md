@@ -27,6 +27,14 @@ sidebar_text_markdown: >-
 content_section:
   - text_block_markdown:
     single_image_block:
+      single_image_path: /uploads/drive-thru-parking-lot-events.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
       single_image_path: /uploads/picture5-1.png
     double_image_block:
       image_1_path:
@@ -123,4 +131,3 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
-
