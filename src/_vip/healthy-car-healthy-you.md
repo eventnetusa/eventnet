@@ -1,7 +1,7 @@
 ---
 small_headline: Presented by (MedicareCarrier) in Partnership with (TireRetailer)
 large_headline: Healthy Car - Healthy You
-hero_image_path: /uploads/private-placeholder.jpg
+hero_image_path: /uploads/backpage-hero-image-1950-x-750.jpg
 vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: false
@@ -30,4 +30,3 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
-
