@@ -1,6 +1,6 @@
 ---
 small_headline:
-large_headline:
+large_headline: SAMPLE CO-BRANDED OPT-IN LANDING PAGE
 hero_image_path: /uploads/backpage-hero-image-1950-x-750.jpg
 vip_project_type: B2C
 hide_social_links: false
