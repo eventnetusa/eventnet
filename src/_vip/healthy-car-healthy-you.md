@@ -13,7 +13,7 @@ sidebar_text_markdown:
 content_section:
   - text_block_markdown:
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/form-1.jpg
     double_image_block:
       image_1_path:
       image_2_path:
