@@ -1,6 +1,4 @@
 ---
-small_headline:
-large_headline:
 hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2C
 hide_social_links: false
