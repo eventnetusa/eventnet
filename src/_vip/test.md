@@ -1,5 +1,4 @@
----
-hero_image_path: /uploads/private-placeholder.jpg
+Hero_image_path: /uploads/private-placeholder.jpg
 vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: false
