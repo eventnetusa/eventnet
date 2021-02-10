@@ -48,6 +48,14 @@ sidebar_text_markdown: >-
 
   * Manage data collection and delivery to Humana
 content_section:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/ost.JPG
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ###
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
