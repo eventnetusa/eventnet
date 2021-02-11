@@ -74,6 +74,14 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: '#### Technology Integration'
+    single_image_block:
+      single_image_path: /uploads/technology.JPG
+    double_image_block:
+      image_1_path: /uploads/lady-in-car.png
+      image_2_path: /uploads/couple-in-car.png
+    video_block:
+      video_id:
   - text_block_markdown: >-
       ###
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
