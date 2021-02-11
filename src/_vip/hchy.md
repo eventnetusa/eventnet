@@ -97,6 +97,19 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      ####
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+      #### Sample Marketing Collateral & Giveaways
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path: /uploads/flyer.JPG
+      image_2_path: /uploads/giveaways.JPG
+    video_block:
+      video_id:
+  - text_block_markdown: >-
       ###
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
