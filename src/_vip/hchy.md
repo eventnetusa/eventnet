@@ -48,7 +48,7 @@ sidebar_text_markdown: >-
 
   * Manage data collection and delivery to Humana
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: '#### Medicare Lead Generation and Pre-Qualification Program'
     single_image_block:
       single_image_path: /uploads/ost.JPG
     double_image_block:
@@ -56,7 +56,9 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      #### Marketing Partnership Between Medicare Carrier and Major Tire
+      Retailer
     single_image_block:
       single_image_path: /uploads/partnership-chart.JPG
     double_image_block:
@@ -64,7 +66,7 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '#### Consumer Journey'
+  - text_block_markdown: '#### Sample Consumer Journey'
     single_image_block:
       single_image_path: /uploads/consumer-journey.JPG
     double_image_block:
