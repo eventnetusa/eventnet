@@ -127,49 +127,9 @@ content_section:
       \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 
-      ### In-Market Manager Roles & Responsibilities
-
-
-      &nbsp;
-
-
-      #### Drives in-market program awareness and participation
-
-
-      * Guerrilla marketing and flyer canvassing
-
-      * Senior communities, community centers, veteran organizations, events,
-      etc.
-
-      * Auto Retail Centers/Insurance Brick and Mortar
-
-      * Educates teams on program and how to best promote to customers
-
-
-      #### Auto retailer quality control
-
-
-      * Placement and on-going confirmation of signage and in-store
-      communications (removal upon program completion)
-
-      * Staff training and at-random observational visits
-
-      * Proper representation of brand and program
-
-
-      #### Quantitative and qualitative measurement
-
-
-      * Regular in-person check-ins with participating retailers
-
-      * How many consumers asked about the program vs how many participated
-
-      * Feedback from consumers, auto retailer staff, insurance brick and
-      mortar, etc.
-
-      * Observation of program participation
+      #### In-Market Manager Roles & Responsibilities
     single_image_block:
-      single_image_path:
+      single_image_path: /uploads/in-market-manager.JPG
     double_image_block:
       image_1_path:
       image_2_path:
