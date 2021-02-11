@@ -135,6 +135,19 @@ content_section:
       image_2_path:
     video_block:
       video_id:
+  - text_block_markdown: >-
+      ####
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+      #### For More Information
+    single_image_block:
+      single_image_path: /uploads/for-more-information.JPG
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
 _comments:
   hide_social_links: hide social sharing links?
   vip_project_type: B2C will not show header or footer
