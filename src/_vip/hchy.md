@@ -57,6 +57,10 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      ####
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
       #### Marketing Partnership Between Medicare Carrier and Major Tire
       Retailer
     single_image_block:
@@ -66,7 +70,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '#### Sample Consumer Journey'
+  - text_block_markdown: >-
+      ####
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+      #### Sample Consumer Journey
     single_image_block:
       single_image_path: /uploads/consumer-journey.JPG
     double_image_block:
@@ -74,7 +83,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: '#### Technology Integration'
+  - text_block_markdown: >-
+      ####
+      \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+      #### Technology Integration
     single_image_block:
       single_image_path: /uploads/technology.JPG
     double_image_block:
