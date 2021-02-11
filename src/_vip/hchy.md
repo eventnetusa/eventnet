@@ -11,42 +11,12 @@ cta_link_url: >-
 cta_headline: Interested in learning more?
 cta_text: Click here to request a meeting
 sidebar_text_markdown: >-
-  ### PARTNERSHIP ROLES & RESPONSIBILITIES
-
-
-  &nbsp;
-
-
-  #### Insurance Carrier
-
-
-  * Develop and launch national marketing campaign utilizing member/prospect
-  database and GCs
-
-  * Driving leads into participating retail locations
-
-  * Sales and marketing follow-up and lead conversion
-
-
-  #### Auto Service Retailer
-
-
-  * Program promotion to client proprietary databases
-
-  * In-store and digital advertising opportunities
-
-  * Provide access to digital forms and conduct inspections
-
-
-  #### EventNetUSA
-
-
-  * Facilitate partnership via research, feasibility/logistical analyses and
-  introduction to leadership
-
-  * Program management and operations including in-market Managers
-
-  * Manage data collection and delivery to Humana
+  *NOTICE: This document contains confidential information belonging to
+  EventNetUSA which is legally privileged. The information is intended only for
+  the use of the recipient. If you are not the intended recipient, you are
+  hereby notified that any disclosure, copying, distribution or the taking of
+  any action in reliance on or regarding the contents of this information is
+  strictly prohibited.*
 content_section:
   - text_block_markdown: '#### Medicare Lead Generation and Pre-Qualification Program'
     single_image_block:
