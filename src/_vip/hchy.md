@@ -8,7 +8,7 @@ show_cta_at_bottom: true
 cta_link: true
 cta_link_url: >-
   mailto:shelbyb@eventnetusa.com?subject=Web%20Inquiry%3A%20Healthy%20Car%20Healthy%20You
-cta_headline: Interested in learning more?
+cta_headline: Interested in becoming a participating insurance or retail partner?
 cta_text: Click here to request a meeting
 sidebar_text_markdown: >-
   *NOTICE: This document contains confidential information belonging to
