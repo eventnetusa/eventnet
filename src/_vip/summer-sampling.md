@@ -1,7 +1,7 @@
 ---
 small_headline: EventNetUSA Turnkey Brand Event Production and Management
-large_headline: Summer Sampling at Outdoor Consumer Events
-hero_image_path: /uploads/picture1-3.png
+large_headline: Event Marketing is Back!
+hero_image_path: /uploads/summer-fall-events-logos-copy.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
@@ -102,6 +102,14 @@ content_section:
   - text_block_markdown:
     single_image_block:
       single_image_path: /uploads/nyx-case-4-1.jpg
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown:
+    single_image_block:
+      single_image_path: /uploads/summer-fall-events-logos-copy.png
     double_image_block:
       image_1_path:
       image_2_path:
