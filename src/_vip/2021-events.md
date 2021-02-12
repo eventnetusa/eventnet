@@ -7,22 +7,22 @@ hide_social_links: false
 show_cta_at_bottom: false
 cta_link: true
 cta_link_url: contact@eventnetusa.com
-cta_headline: Ready to go places?
+cta_headline: Ready to get your brand back out there?
 cta_text: Let's Talk
 sidebar_text_markdown: >-
   #### WE MAKE IT EASY
 
 
-  1. **Tell us your target demographic and markets** - we’ll recommend available
-  events and venues
+  1. <u><strong>Tell us your target demographic and markets</strong></u> - we’ll
+  recommend available events and venues
 
-  2. **Get creative** – together we’ll create an eye-catching and memorable
-  consumer engagement using your existing display materials, rebranding ours or
-  building something new
+  2. <u><strong>Get creative</strong></u> – together we’ll create an
+  eye-catching and memorable consumer engagement using your existing display
+  materials, rebranding ours or building something new
 
-  3. **Leave the rest to us** – event contracting, display transportation,
-  staffing, setup/teardown, Covid-protocol, reporting… *the whole kit and
-  caboodle *
+  3. <u><strong>Leave the rest to us</strong></u> – event contracting, display
+  transportation, staffing, setup/teardown, Covid-protocol, reporting… \*the
+  whole kit and caboodle \*
 content_section:
   - text_block_markdown: >-
       Events are back and they’re asking for your brand’s participation\!
@@ -122,6 +122,20 @@ content_section:
       * New York, NY
 
       * Boston, MA
+    single_image_block:
+      single_image_path:
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      #### Events begin in two months. Let's discuss your target demographic and
+      markets today.&nbsp;
+
+
+      Shelby Beaty<br>Director Business
+      Development<br>shelbyb@eventnetusa.com<br>(954) 467-9898 x204
     single_image_block:
       single_image_path:
     double_image_block:
