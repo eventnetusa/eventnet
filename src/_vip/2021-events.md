@@ -25,7 +25,7 @@ sidebar_text_markdown: >-
   whole kit and caboodle \*
 content_section:
   - text_block_markdown: >-
-      Events are back – fairs, festivals, air shows, food & wine, etc.… and
+      Events are back – fairs, festivals, air shows, food & wine, etc... and
       they’re asking for your brand’s participation\!
 
 
