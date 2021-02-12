@@ -1,6 +1,6 @@
 ---
 small_headline: Cities and Events are Ready for Your Brand
-large_headline: IN-PERSON EVENTS ARE BACK & CITIES ARE OPENING!
+large_headline: EVENTS ARE BACK & CITIES ARE OPENING!
 hero_image_path: /uploads/summer--fall-events-hero-image.jpg
 vip_project_type: B2B
 hide_social_links: false
