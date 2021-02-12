@@ -92,6 +92,8 @@ content_section:
       November
 
 
+
+
       #### CITIES ACCEPTING SPECIAL EVENTS PERMITS (UPDATING REGULARLY)
 
 
