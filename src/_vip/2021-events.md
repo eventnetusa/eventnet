@@ -57,6 +57,9 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
+      #### SCHEDULED IN-PERSON EVENTS
+
+
       * Memphis in May \| Music Festival \| Memphis, TN \| April
 
       * Kentucky Derby \| Sporting Event \| Louisville, KY \| April
@@ -101,6 +104,36 @@ content_section:
 
       * Tortuga Music Festival \| Music Festival \| Ft. Lauderdale, FL \|
       November
+
+
+      #### CITIES ACCEPTING SPECIAL EVENTS PERMITS
+
+
+      * Los Angeles, CA
+
+      * San Diego, CA
+
+      * San Francisco, CA
+
+      * Seattle, WA
+
+      * Denver, CO
+
+      * St. Louis, MO
+
+      * Dallas, TX
+
+      * Houston, TX
+
+      * Atlanta, GA
+
+      * Miami, FL
+
+      * Philadelphia, PA
+
+      * New York, NY
+
+      * Boston, MA
     single_image_block:
       single_image_path:
     double_image_block:
