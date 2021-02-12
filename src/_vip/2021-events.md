@@ -1,5 +1,5 @@
 ---
-small_headline: Cities and Events are Ready for Your Brand Activations
+small_headline: Cities and Events are Ready for Your Brand
 large_headline: Event Marketing is Back!
 hero_image_path: /uploads/summer--fall-events-hero-image.jpg
 vip_project_type: B2B
