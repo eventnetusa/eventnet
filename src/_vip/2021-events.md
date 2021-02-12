@@ -1,5 +1,5 @@
 ---
-small_headline: Cities and Events are Ready for Your Brand
+small_headline: It's Time To Get Your Brand Back In Front of Consumers
 large_headline: EVENTS ARE BACK & CITIES ARE OPENING!
 hero_image_path: /uploads/summer--fall-events-hero-image.jpg
 vip_project_type: B2B
