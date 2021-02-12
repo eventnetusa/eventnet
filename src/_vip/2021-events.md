@@ -39,77 +39,70 @@ sidebar_text_markdown: |-
   * Liability Insurance
 content_section:
   - text_block_markdown: >-
-      **As a sampling industry leader**, Let EventNetUSA deliver your brand to
-      thousands of consumers at your choice of the nation's most popular
-      consumer events. We deliver brand messaging and product trial through
-      Guerrilla Sampling, Sponsorship Activations, Pop-ups, Mobile Vehicles and
-      more.
+      Events are back and they’re asking for your brand’s participation\!
 
 
-      In 2018, over 20 Million people are expected to attend top U.S. food &
-      wine festivals, fairs and outdoor music events. The way we see it, that’s
-      20 Million reasons for sampling your product this summer.
+      As a leading experiential marketing agency with 10k+ activations under our
+      belt, events and cities are coming to us with summer and fall
+      opportunities.
 
 
-      #### That’s a lot of napkins!
-    single_image_block:
-      single_image_path: /uploads/20170709-084622.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/20170517-120920.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/ilk4.png
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path:
-    double_image_block:
-      image_1_path: /uploads/463926458-1.jpg
-      image_2_path: /uploads/picture2-3.jpg
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/picture4-1.png
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/vlasic-farmers-garden-serving-1.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
-    single_image_block:
-      single_image_path: /uploads/nyx-case-4-1.jpg
-    double_image_block:
-      image_1_path:
-      image_2_path:
-    video_block:
-      video_id:
-  - text_block_markdown:
+      Here’s a sample list of scheduled in-person events and cities accepting
+      special events permits. *Check back often for updates.*
     single_image_block:
       single_image_path: /uploads/summer-fall-events-logos-copy.png
+    double_image_block:
+      image_1_path:
+      image_2_path:
+    video_block:
+      video_id:
+  - text_block_markdown: >-
+      * Memphis in May \| Music Festival \| Memphis, TN \| April
+
+      * Kentucky Derby \| Sporting Event \| Louisville, KY \| April
+
+      * INDY 500 \| Sporting Event \| Indianapolis, IN \| May
+
+      * Sonoma County Hot Air Balloon Classic \| Balloon Festival \| Sonoma \|
+      June
+
+      * Gold Coast Art Fair \| Art Festival \| Chicago, IL \| June
+
+      * US Open (Golf) \| Sporting Event \| San Diego, CA \| June
+
+      * Taste of Chicago \| Food & Wine \| Chicago, IL \| July
+
+      * ComicCon \| Consumer Convention \| San Diego, CA \| July
+
+      * Lollapalooza \| Music Festival \| Chicago, IL \| July
+
+      * Wisconsin State Fair \| Fair \| Milwaukee, WI \| August
+
+      * Iowa State Fair \| Fair \| Des Moines, IA \| August
+
+      * Minnesota State Fair \| Fair \| Saint Paul, MN \| August
+
+      * Made in America \| Music Festival \| Philadelphia, PA \| September
+
+      * State Fair of Texas \| Fair \| Dallas, TX \| September
+
+      * Great Reno Balloon Race \| Balloon Festival \| Reno, NV \| September
+
+      * MCAS Miramar Air Show \| Air Show \| San Diego, CA \| September
+
+      * Austin City Limits \| Music Festival \| Austin, TX \| October
+
+      * Twin Cities Marathon \| Sporting Event \| Minneapolis, MN \| October
+
+      * New Orleans Jazz Festival \| Music Festival \| New Orleans, LA \|
+      October
+
+      * North Carolina State Fair \| Fair \| Raleigh, NC \| October
+
+      * Tortuga Music Festival \| Music Festival \| Ft. Lauderdale, FL \|
+      November
+    single_image_block:
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
