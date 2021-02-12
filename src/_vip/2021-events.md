@@ -33,8 +33,8 @@ content_section:
       opportunities.
 
 
-      Here’s a sample list of scheduled in-person events and cities accepting
-      special events permits. *Check back often for updates.*
+      **See below sample list of scheduled in-person events and cities accepting
+      special events permits.** *Check back often for updates.*
     single_image_block:
       single_image_path: /uploads/summer-fall-events-logos-copy.png
     double_image_block:
