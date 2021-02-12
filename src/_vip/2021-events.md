@@ -135,7 +135,8 @@ content_section:
 
 
       Shelby Beaty<br>Director Business
-      Development<br>shelbyb@eventnetusa.com<br>(954) 467-9898 x204
+      Development<br>[shelbyb@eventnetusa.com](mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry)<br>(954)
+      467-9898 x204
     single_image_block:
       single_image_path:
     double_image_block:
