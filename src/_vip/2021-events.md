@@ -43,7 +43,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      #### SCHEDULED IN-PERSON EVENTS
+      #### SCHEDULED IN-PERSON EVENTS (UPDATING REGULARLY)
 
 
       * Memphis in May \| Music Festival \| Memphis, TN \| April
@@ -92,7 +92,7 @@ content_section:
       November
 
 
-      #### CITIES ACCEPTING SPECIAL EVENTS PERMITS
+      #### CITIES ACCEPTING SPECIAL EVENTS PERMITS (UPDATING REGULARLY)
 
 
       * Los Angeles, CA
