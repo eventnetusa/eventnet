@@ -25,12 +25,13 @@ sidebar_text_markdown: >-
   whole kit and caboodle \*
 content_section:
   - text_block_markdown: >-
-      Events are back and they’re asking for your brand’s participation\!
+      Events are back – fairs, festivals, air shows, food & wine, etc.… and
+      they’re asking for your brand’s participation\!
 
 
-      As a leading experiential marketing agency with 10k+ activations under our
-      belt, events and cities are coming to us with summer and fall
-      opportunities.
+      As a veteran experiential marketing agency with 10k+ activations under our
+      belt, event promoters, venues and cities are coming to us with their
+      summer and fall opportunities.
 
 
       **See below sample list of scheduled in-person events and cities accepting
@@ -130,7 +131,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      #### Events begin in two months. Let's discuss your target demographic and
+      #### Events are booking now. Let's discuss your target demographic and
       markets today.&nbsp;
 
 
