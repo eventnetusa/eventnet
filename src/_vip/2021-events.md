@@ -29,8 +29,8 @@ content_section:
       they’re asking for your brand’s participation\!
 
 
-      As a veteran experiential marketing agency with 10k+ activations under our
-      belt, event promoters, venues and cities are coming to us with their
+      As a veteran experiential marketing agency with 10,000+ activations under
+      our belt, event promoters, venues and cities are coming to us with their
       summer and fall opportunities.
 
 
