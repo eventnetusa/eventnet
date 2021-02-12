@@ -9,34 +9,20 @@ cta_link: true
 cta_link_url: contact@eventnetusa.com
 cta_headline: Ready to go places?
 cta_text: Let's Talk
-sidebar_text_markdown: |-
-  ### Generate Sales Through
+sidebar_text_markdown: >-
+  #### WE MAKE IT EASY
 
-  * Consumer Education
-  * Demonstration
-  * Product Trial
-  * Retail Integration
 
-  ### Deliver Your Message At
+  1. **Tell us your target demographic and markets** - we’ll recommend available
+  events and venues
 
-  * State Fairs
-  * Lifestyle & Music Festivals
-  * Food & Wine Festivals
-  * Fitness & Sporting Events
-  * Holiday Weekend Activities
+  2. **Get creative** – together we’ll create an eye-catching and memorable
+  consumer engagement using your existing display materials, rebranding ours or
+  building something new
 
-  ### Turnkey Services &nbsp;Include
-
-  * Ideation, Design & Brand Customization
-  * Graphic & Display Production
-  * Venue Procurement
-  * Vehicle Procurement
-  * Staff & Training
-  * Routing & Logistics
-  * Legal & Permitting
-  * Account Management
-  * Social Media Integration
-  * Liability Insurance
+  3. **Leave the rest to us** – event contracting, display transportation,
+  staffing, setup/teardown, Covid-protocol, reporting… *the whole kit and
+  caboodle *
 content_section:
   - text_block_markdown: >-
       Events are back and they’re asking for your brand’s participation\!
