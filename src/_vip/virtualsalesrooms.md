@@ -9,20 +9,7 @@ cta_link: true
 cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry'
 cta_headline: Ready to Learn More?
 cta_text: Let's Talk
-sidebar_text_markdown: >-
-  #### WE MAKE IT EASY
-
-
-  1. <u><strong>Tell us your target demographic and markets</strong></u> - we’ll
-  recommend available events and venues
-
-  2. <u><strong>Get creative</strong></u> – together we’ll create an
-  eye-catching and memorable consumer engagement using your existing display
-  materials, rebranding ours or building something new
-
-  3. <u><strong>Leave the rest to us</strong></u> – event contracting, display
-  transportation, staffing, setup/teardown, Covid-protocol, reporting… \*the
-  whole kit and caboodle \*
+sidebar_text_markdown:
 content_section:
   - text_block_markdown: >-
       Events are back – fairs, festivals, air shows, food & wine, etc... and
