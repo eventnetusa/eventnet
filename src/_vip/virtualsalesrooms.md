@@ -1,6 +1,6 @@
 ---
 small_headline: New Medicare Sales Technology Platform
-large_headline: 'Consumers Connect Instantly, On-Demand with Medicare Advisors'
+large_headline: 'Instant, On-Demand Video Meetings with Medicare Advisors'
 hero_image_path: /uploads/backpage-hero-image.png
 vip_project_type: B2B
 hide_social_links: false
@@ -9,20 +9,26 @@ cta_link: true
 cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry'
 cta_headline: Ready to Learn More?
 cta_text: Let's Talk
-sidebar_text_markdown:
+sidebar_text_markdown: >-
+  #### Why VirtualSalesRooms?
+
+
+  * On-demand video meetings - wherever, whenever
+
+  * Smart algorithm pairs consumers with licensed agents according to location
+  and preferred language
+
+  * Connect in seconds
+
+  * Brand customization
+
+  * Easy to use with any device
+
+  * No cost to consumer
+
+  * &nbsp;Touchless, COVID safe meetings
 content_section:
-  - text_block_markdown: >-
-      Events are back – fairs, festivals, air shows, food & wine, etc... and
-      they’re asking for your brand’s participation\!
-
-
-      As a veteran experiential marketing agency with 10,000+ activations under
-      our belt, event promoters, venues and cities are coming to us with their
-      summer and fall opportunities.
-
-
-      **See below sample list of scheduled in-person events and cities accepting
-      special events permits.** *Check back often for updates.*
+  - text_block_markdown: Insert
     single_image_block:
       single_image_path: /uploads/summer-fall-events-logos-copy.png
     double_image_block:
