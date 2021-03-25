@@ -15,6 +15,8 @@ sidebar_text_markdown: >-
 
   * On-demand video meetings - wherever, whenever
 
+  * Affordable and unlimited scalability
+
   * Smart algorithm pairs consumers with licensed agents according to location
   and preferred language
 
