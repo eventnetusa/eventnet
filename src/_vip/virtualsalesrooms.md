@@ -1,6 +1,8 @@
 ---
 small_headline: New Medicare Sales Technology Platform
-large_headline: 'Instant, On-Demand Video Meetings Between Seniors and Medicare Advisors'
+large_headline: >-
+  Instant, On-Demand Video Meetings Between Pre-Qualified Seniors and Medicare
+  Advisors
 hero_image_path: /uploads/backpage-hero-image.png
 vip_project_type: B2B
 hide_social_links: false
