@@ -26,7 +26,11 @@ sidebar_text_markdown: >-
 
   * No cost to consumer
 
-  * &nbsp;Touchless, COVID safe meetings
+  * Touchless, COVID safe meetings
+
+  * Performance reporting
+
+  * Admin management portal
 content_section:
   - text_block_markdown: Insert
     single_image_block:
