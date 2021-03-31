@@ -54,21 +54,21 @@ content_section:
       **Sample Business Applications:&nbsp;**
 
 
-      \- Insurance consultations and enrollments<br>&nbsp; &nbsp;- Health,
-      dental, vision, life, property, travel, pet<br><br>\- Financial services
+      Insurance consultations and enrollments<br>&nbsp; &nbsp;- Health, dental,
+      vision, life, property, travel, pet<br><br>Financial services
       consultations and enrollments<br>&nbsp; &nbsp;- Banking, investments,
       retirement planning, loan, estate/trust
 
 
-      \- Customer service and technical support<br>&nbsp; &nbsp;- Services and
+      Customer service and technical support<br>&nbsp; &nbsp;- Services and
       subscriptions, technology, appliances
 
 
-      \- Personal services consultations<br>&nbsp; &nbsp;- Wedding planning,
-      real estate, life coach, nanny/housekeeper
+      Personal services consultations<br>&nbsp; &nbsp;- Wedding planning, real
+      estate, life coach, nanny/housekeeper
 
 
-      \- Non-medical health and wellness sessions<br>&nbsp; &nbsp;- Nutrition,
+      Non-medical health and wellness sessions<br>&nbsp; &nbsp;- Nutrition,
       fitness, mental health, therapy
     single_image_block:
       single_image_path: /
