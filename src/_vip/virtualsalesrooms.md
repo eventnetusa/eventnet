@@ -52,13 +52,11 @@ content_section:
       wherever, from any device.**
 
 
-      **Sample Business Applications:&nbsp;**
-
-
-      Insurance consultations and enrollments<br>&nbsp; &nbsp;- Health, dental,
-      vision, life, property, travel, pet<br><br>Financial services
-      consultations and enrollments<br>&nbsp; &nbsp;- Banking, investments,
-      retirement planning, loan, estate/trust
+      **Sample Business Applications:&nbsp;**<br>Insurance consultations and
+      enrollments<br>&nbsp; &nbsp;- Health, dental, vision, life, property,
+      travel, pet<br><br>Financial services consultations and
+      enrollments<br>&nbsp; &nbsp;- Banking, investments, retirement planning,
+      loan, estate/trust
 
 
       Customer service and technical support<br>&nbsp; &nbsp;- Services and
