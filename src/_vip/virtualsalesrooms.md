@@ -49,11 +49,13 @@ content_section:
 
 
       * Insurance consultations and enrollments
-        * Health, dental, vision, life, auto, travel, pet
+        * Health, dental, vision, life, property, travel, pet
       * Financial services consultations and enrollments
         * Banking, investments, retirement planning, loan, estate/trust
+      * Customer service and technical support
+        * Services and subscriptions, technology, appliances
       * Personal services consultations
-        * Wedding planning, real estate, business/life coach, nanny/housekeeper
+        * Wedding planning, real estate, life coach, nanny/housekeeper
       * Non-medical health and wellness sessions
         * Nutrition, fitness, mental health, therapy
     single_image_block:
