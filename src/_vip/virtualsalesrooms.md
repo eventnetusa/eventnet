@@ -38,11 +38,24 @@ content_section:
 
 
       Consumers seeking your product or service now have the ability to request
-      an on-demand video meeting.
+      an on-demand video meeting with a qualified advisor.&nbsp;
 
 
       No more scheduling, waiting or coordination - Instant video meetings,
-      whenever, wherever, from any device
+      whenever, wherever, from any device.
+
+
+      Sample Business Applications:&nbsp;
+
+
+      * Insurance consultations and enrollments
+        * Health, dental, vision, life, auto, travel, pet
+      * Financial services consultations and enrollments
+        * Banking, investments, retirement planning, loan, estate/trust
+      * Personal services consultations
+        * Wedding planning, real estate, business/life coach, nanny/housekeeper
+      * Non-medical health and wellness sessions
+        * Nutrition, fitness, mental health, therapy
     single_image_block:
       single_image_path: /
     double_image_block:
