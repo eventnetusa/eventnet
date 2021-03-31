@@ -8,7 +8,7 @@ show_cta_at_bottom: false
 cta_link: true
 cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry'
 cta_headline: Ready to Learn More?
-cta_text: Let's Talk
+cta_text: Schedule a Demo
 sidebar_text_markdown: >-
   #### Why VirtualSalesrooms?
 
