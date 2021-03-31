@@ -38,7 +38,7 @@ content_section:
 
 
       Consumers seeking your product or service now have the ability to request
-      an on-demand video meeting with a qualified advisor.&nbsp;
+      an on-demand video meeting with one of your qualified advisors.&nbsp;
 
 
       **How it Works:**<br>1\. Consumer enters zip code and language preference
