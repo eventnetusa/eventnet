@@ -32,7 +32,17 @@ sidebar_text_markdown: >-
 
   * Admin management portal
 content_section:
-  - text_block_markdown: Insert
+  - text_block_markdown: >-
+      VirtualSalesrooms is a first-of-its-kind tool for connecting pre-qualified
+      customers with select advisors.&nbsp;
+
+
+      Consumers seeking your product or service now have the ability to request
+      an on-demand video meeting.
+
+
+      No more scheduling, waiting or coordination - Instant video meetings,
+      whenever, wherever, from any device
     single_image_block:
       single_image_path: /
     double_image_block:
