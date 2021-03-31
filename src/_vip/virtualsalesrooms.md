@@ -33,8 +33,8 @@ sidebar_text_markdown: >-
   * Admin management portal
 content_section:
   - text_block_markdown: >-
-      VirtualSalesrooms is a first-of-its-kind tool for connecting pre-qualified
-      customers with select advisors.&nbsp;
+      VirtualSalesrooms is a first-of-its-kind online tool for connecting
+      pre-qualified customers with select advisors.&nbsp;
 
 
       Consumers seeking your product or service now have the ability to request
@@ -43,12 +43,13 @@ content_section:
 
       **How it Works:**<br>1\. Consumer enters zip code and language preference
       criteria<br>2\. Platform identifies advisors meeting criteria<br>3\.
-      Platform notifies selected advisors of meeting request<br>4\. First
-      advisor to accept meeting is connected via secure video meeting
+      Platform notifies selected advisors of meeting request via SMS and
+      desktop<br>4\. First advisor to accept request is connected via secure
+      video meeting
 
 
-      No more scheduling, waiting or coordination - Instant video meetings,
-      whenever, wherever, from any device.
+      **No more scheduling or coordination - Instant video meetings, whenever,
+      wherever, from any device.**
 
 
       **Sample Business Applications:&nbsp;**
