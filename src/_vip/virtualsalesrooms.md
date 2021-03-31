@@ -3,7 +3,7 @@ small_headline: New Medicare Sales Technology Platform
 large_headline: >-
   Instant, On-Demand Video Meetings Between Pre-Qualified Seniors and Medicare
   Advisors
-hero_image_path: /uploads/backpage-hero-image.png
+hero_image_path: /uploads/sample-backpage-hero-image.jpg
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
@@ -12,14 +12,14 @@ cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry'
 cta_headline: Ready to Learn More?
 cta_text: Let's Talk
 sidebar_text_markdown: >-
-  #### Why VirtualSalesRooms?
+  #### Why VirtualSalesrooms?
 
 
   * On-demand video meetings - wherever, whenever
 
   * Affordable and unlimited scalability
 
-  * Smart algorithm pairs consumers with licensed agents according to location
+  * Smart algorithm pairs consumers with licensed advisors according to location
   and preferred language
 
   * Connect in seconds
@@ -27,8 +27,6 @@ sidebar_text_markdown: >-
   * Brand customization
 
   * Easy to use with any device
-
-  * No cost to consumer
 
   * Touchless, COVID safe meetings
 
@@ -45,7 +43,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      #### Let's discuss making VirtualSalesrooms your agent team's newest
+      #### Let's discuss making VirtualSalesrooms your advisor team's go-to
       customer engagement and sales tool
 
 
