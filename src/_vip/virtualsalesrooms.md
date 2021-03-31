@@ -6,7 +6,7 @@ vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
 cta_link: true
-cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry'
+cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=VirtualSalesrooms%20Demo%20Request'
 cta_headline: Ready to Learn More?
 cta_text: Schedule a Demo
 sidebar_text_markdown: >-
