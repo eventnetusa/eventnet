@@ -48,16 +48,22 @@ content_section:
       Sample Business Applications:&nbsp;
 
 
-      * Insurance consultations and enrollments
-        * Health, dental, vision, life, property, travel, pet
-      * Financial services consultations and enrollments
-        * Banking, investments, retirement planning, loan, estate/trust
-      * Customer service and technical support
-        * Services and subscriptions, technology, appliances
-      * Personal services consultations
-        * Wedding planning, real estate, life coach, nanny/housekeeper
-      * Non-medical health and wellness sessions
-        * Nutrition, fitness, mental health, therapy
+      \- Insurance consultations and enrollments<br>&nbsp; &nbsp;- Health,
+      dental, vision, life, property, travel, pet<br><br>\- Financial services
+      consultations and enrollments<br>&nbsp; &nbsp;- Banking, investments,
+      retirement planning, loan, estate/trust
+
+
+      \- Customer service and technical support<br>&nbsp; &nbsp;- Services and
+      subscriptions, technology, appliances
+
+
+      \- Personal services consultations<br>&nbsp; &nbsp;- Wedding planning,
+      real estate, life coach, nanny/housekeeper
+
+
+      \- Non-medical health and wellness sessions<br>&nbsp; &nbsp;- Nutrition,
+      fitness, mental health, therapy
     single_image_block:
       single_image_path: /
     double_image_block:
