@@ -45,11 +45,11 @@ content_section:
       on-call availability to meet with consumers.&nbsp;
 
 
-      **How it Works:**<br>1\. Consumer enters zip code and language preference
-      criteria<br>2\. Platform identifies advisors that match meeting
-      criteria<br>3\. Platform notifies selected advisors of meeting request via
-      SMS and desktop<br>4\. First advisor to accept request is connected via
-      secure video meeting
+      **How it Works:**<br>1\. Consumer enters custom meeting criteria (zip
+      code, language, interest, etc.)<br>2\. Platform identifies advisors that
+      match meeting criteria<br>3\. Platform notifies selected advisors of
+      meeting request via SMS and desktop<br>4\. First advisor to accept request
+      is connected via secure video meeting
 
 
       **No more scheduling or coordination - Instant video meetings, whenever,
