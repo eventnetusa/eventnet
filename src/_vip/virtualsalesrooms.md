@@ -34,15 +34,15 @@ sidebar_text_markdown: >-
 content_section:
   - text_block_markdown: >-
       VirtualSalesrooms is an original online tool for connecting pre-qualified
-      customers with select advisors.&nbsp;
+      customers with select representatives.&nbsp;
 
 
       Consumers seeking your product or service now have the ability to request
-      an on-demand video meeting with your on-call advisors.&nbsp;
+      an on-demand video meeting with your on-call representatives.&nbsp;
 
 
-      With unlimited scalability, enroll 10 to 10,000+ advisors for on-call
-      availability to meet with consumers.&nbsp;
+      With unlimited scalability, enroll 10 to 10,000+ representatives for
+      on-call availability to meet with consumers.&nbsp;
 
 
       **How it Works:**<br>1\. Consumer enters zip code and language preference
