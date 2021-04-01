@@ -33,8 +33,8 @@ sidebar_text_markdown: >-
   * Admin management portal
 content_section:
   - text_block_markdown: >-
-      VirtualSalesrooms is a first-of-its-kind online tool for connecting
-      pre-qualified customers with select advisors.&nbsp;
+      VirtualSalesrooms is an original online tool for connecting pre-qualified
+      customers with select advisors.&nbsp;
 
 
       Consumers seeking your product or service now have the ability to request
