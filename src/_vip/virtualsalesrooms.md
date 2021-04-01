@@ -48,10 +48,10 @@ content_section:
 
 
       **How it Works:**<br>1\. Consumer enters zip code and language preference
-      criteria<br>2\. Platform identifies advisors meeting criteria<br>3\.
-      Platform notifies selected advisors of meeting request via SMS and
-      desktop<br>4\. First advisor to accept request is connected via secure
-      video meeting
+      criteria<br>2\. Platform identifies advisors that match meeting
+      criteria<br>3\. Platform notifies selected advisors of meeting request via
+      SMS and desktop<br>4\. First advisor to accept request is connected via
+      secure video meeting
 
 
       **No more scheduling or coordination - Instant video meetings, whenever,
