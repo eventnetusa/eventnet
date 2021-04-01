@@ -1,5 +1,5 @@
 ---
-small_headline: New Insurance & Business Services Sales Technology Platform
+small_headline: New Sales Technology Platform
 large_headline: 'Instant, On-Demand Video Meetings'
 hero_image_path: /uploads/sample-backpage-hero-image.jpg
 vip_project_type: B2B
