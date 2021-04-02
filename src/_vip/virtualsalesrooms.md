@@ -30,7 +30,7 @@ sidebar_text_markdown: >-
 
   * Performance reporting
 
-  * Admin management portal
+  * Admin dashboard data control
 content_section:
   - text_block_markdown: >-
       VirtualSalesrooms is an original online platform designed to connect
