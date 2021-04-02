@@ -33,23 +33,24 @@ sidebar_text_markdown: >-
   * Admin management portal
 content_section:
   - text_block_markdown: >-
-      VirtualSalesrooms is an original online tool for connecting pre-qualified
-      customers with select representatives.&nbsp;
+      VirtualSalesrooms is an original online platform designed to connect
+      pre-qualified customers in video meetings with client’s sales
+      representatives.
 
 
-      Consumers seeking your product or service now have the ability to request
-      an on-demand video meeting with your on-call representatives.&nbsp;
+      The bar has been raised in lead generation as consumers seeking your
+      product initiate their meetings\!
 
 
-      With unlimited scalability, enroll 10 to 10,000+ representatives for
-      on-call availability to meet with consumers.&nbsp;
+      Unlimited scalability to enroll 10 to 10,000+ on-call representatives
+      nationwide working from home or anywhere on mobile devices.
 
 
-      **How it Works:**<br>1\. Consumer enters custom meeting criteria (zip
-      code, language, interest, etc.)<br>2\. Platform identifies representatives
-      that match consumer's criteria<br>3\. Platform notifies selected
-      representatives of meeting request via SMS and desktop<br>4\. First
-      advisor to accept request is connected via secure video meeting
+      **How it Works:**<br>1\. Customer enters zip code and preferred language
+      (plus choice of additional criteria)<br>2\. Platform identifies and
+      notifies representatives matching criteria<br>3\. First available sales
+      rep to respond receives customer video<br>4\. Connection between
+      Rep/Customer made in seconds.
 
 
       **No more scheduling or coordination - Instant video meetings, whenever,
