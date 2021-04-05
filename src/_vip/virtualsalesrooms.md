@@ -1,6 +1,6 @@
 ---
 small_headline: New Sales Technology Platform
-large_headline: 'Instant, On-Demand Video Meetings'
+large_headline: Consumer Initiated On-Demand Video Meetings
 hero_image_path: /uploads/backpage-hero-w-logo.png
 vip_project_type: B2B
 hide_social_links: false
