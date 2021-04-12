@@ -46,7 +46,7 @@ content_section:
       nationwide working from home or anywhere on mobile devices.
 
 
-      <u><strong>How it Works:</strong></u><br>**1\. Customer initiates
+      <u><strong>How it Works:</strong></u><br><br>**1\. Customer initiates
       "Meet-Now" request from Google Ad, client website or other advertising
       locations<br>2\. Customer enters home Zip Code and Preferred
       Language.<br>3\. Platform will search, identify and alert sales
