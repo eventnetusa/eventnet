@@ -46,11 +46,11 @@ content_section:
       nationwide working from home or anywhere on mobile devices.
 
 
-      **How it Works:**<br>1\. Customer enters zip code and preferred language
-      (plus choice of additional criteria)<br>2\. Platform identifies and
-      notifies representatives matching criteria<br>3\. First available sales
-      rep to respond receives customer video<br>4\. Connection between
-      Rep/Customer made in seconds.
+      <u><strong>How it Works:</strong></u><br>**1\. Customer enters zip code
+      and preferred language (plus choice of additional criteria)<br>2\.
+      Platform identifies and notifies representatives matching criteria<br>3\.
+      First available sales rep to respond receives customer video<br>4\.
+      Connection between Rep/Customer made in seconds.**
 
 
       **No more scheduling or coordination - Instant video meetings, whenever,
