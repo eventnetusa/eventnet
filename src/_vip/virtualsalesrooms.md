@@ -85,7 +85,7 @@ content_section:
       video_id:
   - text_block_markdown: >-
       #### Let's discuss making VirtualSalesrooms your advisor team's go-to
-      customer engagement and sales tool
+      customer engagement sales tool
 
 
       Shelby Beaty<br>Director Business
