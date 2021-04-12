@@ -46,11 +46,13 @@ content_section:
       nationwide working from home or anywhere on mobile devices.
 
 
-      <u><strong>How it Works:</strong></u><br>**1\. Customer enters zip code
-      and preferred language (plus choice of additional criteria)<br>2\.
-      Platform identifies and notifies representatives matching criteria<br>3\.
-      First available sales rep to respond receives customer video<br>4\.
-      Connection between Rep/Customer made in seconds.**
+      <u><strong>How it Works:</strong></u><br>**1\. Customer initiates
+      "Meet-Now" request from Google Ad, client website or other advertising
+      locations<br>2\. Customer enters home Zip Code and Preferred
+      Language.<br>3\. Platform will search, identify and alert sales
+      representatives, who meet requested location and language<br>4\. 1st
+      Representative accepting meeting will be video connected to customer
+      within seconds.**
 
 
       **No more scheduling or coordination - Instant video meetings, whenever,
