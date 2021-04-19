@@ -49,10 +49,10 @@ content_section:
       <u><strong>How it Works:</strong></u><br><br>**1\. Customer initiates
       "Meet-Now" request from Google Ad, client website or other advertising
       locations<br>2\. Customer enters home Zip Code and Preferred
-      Language.<br>3\. Platform will search, identify and alert sales
+      Language<br>3\. Platform will search, identify and alert sales
       representatives, who meet requested location and language<br>4\. 1st
       Representative accepting meeting will be video connected to customer
-      within seconds.**
+      within seconds**
 
 
       **No more scheduling or coordination - Instant video meetings, whenever,
