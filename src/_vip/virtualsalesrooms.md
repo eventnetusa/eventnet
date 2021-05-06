@@ -33,7 +33,7 @@ sidebar_text_markdown: >-
   * Admin dashboard data control
 content_section:
   - text_block_markdown: >-
-      VirtualSalesrooms is an original online platform designed to connect
+      VirtualSalesRooms is an original online platform designed to connect
       pre-qualified customers in video meetings with client’s sales
       representatives.
 
@@ -43,7 +43,10 @@ content_section:
 
 
       Unlimited scalability to enroll 10 to 10,000+ on-call representatives
-      nationwide working from home or anywhere on mobile devices.
+      nationwide working from home or anywhere on mobile devices.&nbsp;
+
+
+      VirtualSalesRooms is a powerful asset for broker and agency recruitment.
 
 
       <u><strong>How it Works:</strong></u><br><br>**1\. Customer initiates
