@@ -37,7 +37,7 @@ content_section:
 
       * Ideation, Design & Brand Customization
 
-      * Graphic & Display Production
+      * Graphic & Custom Display Production
 
       * Venue & Vehicle Procurement
 
@@ -45,17 +45,13 @@ content_section:
 
       * Permitting & Legal
 
-      * Staff & Training
-
-      * Social Media Integration
+      * Staffing & Training
 
       * Budget Forecasting
 
       * Account Management
 
-      * Liability Insurance
-
-      * Risk Management
+      * Liability Insurance & Risk Management
 
       * Reporting
     single_image_block:
