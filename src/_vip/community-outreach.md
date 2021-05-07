@@ -1,7 +1,7 @@
 ---
 small_headline: New Member Outreach and Enrollment Programs for Summer/Fall Leading to AEP!
 large_headline: 'Reach, Engage & Educate Medicare Eligible Seniors'
-hero_image_path: /uploads/hero-image-1-1.png
+hero_image_path: /uploads/picture7-2.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
