@@ -10,7 +10,7 @@ cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=VirtualSalesrooms%20Demo%2
 cta_headline: Ready to Learn More?
 cta_text: Schedule a Demo
 sidebar_text_markdown: >-
-  #### Why VirtualSalesrooms?
+  #### Why VirtualSalesRooms?
 
 
   * On-demand video meetings - wherever, whenever
@@ -87,7 +87,7 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      #### Let's discuss making VirtualSalesrooms your advisor team's go-to
+      #### Let's discuss making VirtualSalesRooms your advisor team's go-to
       customer engagement sales tool
 
 
