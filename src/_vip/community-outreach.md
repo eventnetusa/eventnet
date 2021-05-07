@@ -1,6 +1,6 @@
 ---
-small_headline: New Member Outreach Programs for Summer/Fall Leading to AEP!
-large_headline: 'Reach, Engage, Educate & Enroll'
+small_headline: 'Outreach Displays, Program Management, In-Market Support Teams!'
+large_headline: 'We Assist Your Teams to Engage, Educate & Enroll'
 hero_image_path: /uploads/picture7-2.png
 vip_project_type: B2B
 hide_social_links: false
@@ -27,12 +27,19 @@ sidebar_text_markdown: >-
 content_section:
   - text_block_markdown: >-
       Recognized as the *Leading Health Insurance Activation Agency* by Event
-      Marketer, our award-winning community outreach programs are designed to
-      reach, engage, educate and enroll your target member demographic.
+      Marketer,
 
 
-      Our team of experts and turnkey event production and management services
-      have you covered\!
+      We've produced over 10k community outreach programs for clients including
+      Humana, Aetna, Blue Cross Blue Shield and others.
+
+
+      Our award-winning community outreach programs are designed to reach,
+      engage, educate and enroll your target member demographic.
+
+
+      Our team of experts support your outreach teams with displays, staffing
+      support, with production and management services that have you covered\!
 
 
       * Ideation, Design & Brand Customization
