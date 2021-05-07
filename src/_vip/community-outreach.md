@@ -1,6 +1,6 @@
 ---
-small_headline: 'Programs for Reaching, Engaging, Educating and Enrolling Consumers'
-large_headline: Health and Wellness Community Outreach
+small_headline: New Member Outreach and Enrollment Programs for Summer/Fall Leading to AEP!
+large_headline: 'Reach, Engage & Educate Medicare Eligible Seniors'
 hero_image_path: /uploads/hero-image-1-1.png
 vip_project_type: B2B
 hide_social_links: false
@@ -11,19 +11,19 @@ cta_headline: Looking for new ways to reach members and prospects?
 cta_text: Let's Talk!
 sidebar_text_markdown: >-
   **Reach New & Existing Members:**<br>\- Hybrid popup stores<br>\- Drive-thru
-  parking lot events<br>\- Community outreach vehicles \*Designed for Social
-  Distancing\*<br>\- Senior housing and retirement communities<br>\- Community
+  parking lot events<br>\- COVID compliant community outreach
+  vehicles&nbsp;<br>\- Senior housing and retirement communities<br>\- Community
   centers and lifestyle locations<br>\- Provider sponsored senior socials<br>\-
   Mall center court events<br>\- Health screening events&nbsp;<br>\-
   Demographically targeted strip malls and retail partner integration
 
 
-  **Health Safety Designs Include:**<br>\- Virtual Broker and town hall style
-  meetings<br>\- Safe distance social gathering spaces<br>\- Plexiglas guards
-  and space dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor
-  decals and stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased
-  sanitation protocols and standards<br>**\- Custom designs available to meet
-  Risk & Compliance directives**
+  **COVID Compliant Designs Include:**<br>\- Virtual Broker meeting tools<br>\-
+  Safe distance social gathering spaces<br>\- Plexiglas guards and space
+  dividers<br>\- Hand sanitizing stations<br>\- Safe distance floor decals and
+  stanchion markers<br>\- Touchless experiences&nbsp;<br>\- Increased sanitation
+  protocols and standards<br>**\- Custom designs available to meet Risk &
+  Compliance directives**
 content_section:
   - text_block_markdown:
     single_image_block:
