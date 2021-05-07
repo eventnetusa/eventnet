@@ -25,7 +25,39 @@ sidebar_text_markdown: >-
   protocols and standards<br>**\- Custom designs available to meet Risk &
   Compliance directives**
 content_section:
-  - text_block_markdown:
+  - text_block_markdown: >-
+      Recognized as the *Leading Health Insurance Activation Agency* by Event
+      Marketer, our award-winning community outreach programs are designed to
+      reach, engage, educate and enroll your target member demographic.
+
+
+      Our team of experts and turnkey event production and management services
+      have you covered\!
+
+
+      * Ideation, Design & Brand Customization
+
+      * Graphic & Display Production
+
+      * Venue & Vehicle Procurement
+
+      * Routing & Logistics
+
+      * Permitting & Legal
+
+      * Staff & Training
+
+      * Social Media Integration
+
+      * Budget Forecasting
+
+      * Account Management
+
+      * Liability Insurance
+
+      * Risk Management
+
+      * Reporting
     single_image_block:
       single_image_path: /uploads/picture5-1.png
     double_image_block:
