@@ -1,7 +1,7 @@
 ---
 small_headline: 'Outreach Displays, Program Management, In-Market Support Teams!'
 large_headline: 'We Assist Your Teams to Engage, Educate & Enroll'
-hero_image_path: /uploads/picture7-2.png
+hero_image_path: /uploads/hero-image-22.png
 vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: true
