@@ -62,7 +62,7 @@ content_section:
 
       * Reporting
     single_image_block:
-      single_image_path: /uploads/picture5-1.png
+      single_image_path: /uploads/picture1-20.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -70,7 +70,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/drive-thru-parking-lot-events.png
+      single_image_path: /uploads/picture2-13.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -78,7 +78,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture-6.png
+      single_image_path: /uploads/picture3-10.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -93,7 +93,7 @@ content_section:
 
       ### &nbsp;
     single_image_block:
-      single_image_path: /uploads/picture1-15.png
+      single_image_path: /uploads/picture4-4.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -101,7 +101,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture2-9.png
+      single_image_path: /uploads/picture5-2.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -109,7 +109,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture3-8.png
+      single_image_path: /uploads/picture6-3.png
     double_image_block:
       image_1_path:
       image_2_path:
@@ -117,7 +117,7 @@ content_section:
       video_id:
   - text_block_markdown:
     single_image_block:
-      single_image_path: /uploads/picture4-3.png
+      single_image_path:
     double_image_block:
       image_1_path:
       image_2_path:
