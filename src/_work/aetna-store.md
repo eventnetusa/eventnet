@@ -29,8 +29,8 @@ sidebar_text_markdown: |-
   * Permitting & Legal
 content_section:
   - text_block_markdown: >-
-      In 2018, we launched Aetna’s first Medicare Store in Strongsville, OH to
-      service Group Retirees during the Annual Enrollment Period.
+      To service Group Retirees during the Annual Enrollment Period, we launched
+      Aetna’s first Medicare Store in Strongsville, OH.
 
 
       **A LOOK BEHIND THE SCENES**
@@ -101,3 +101,5 @@ related_client_logos:
   - logo_image_path: /uploads/owners-com-logo-1.jpg
     logo_image_height:
 ---
+
+
