@@ -2,10 +2,10 @@
 client: Mml PR and Soap & Glory
 link_to_casestudy: true
 sort_number: 8
-headline: 2018 Tough Mudder Rinse Station Sponsor
+headline: Tough Mudder Rinse Station Sponsor
 hover_text: >-
   Soap & Glory helped muddy runners get clean as the official Rinse Station
-  Sponsor of select 2018 Tough Mudder events.
+  Sponsor of Tough Mudder.
 hero_image_path: /uploads/hero-image-2.jpg
 thumbnail_image_path: /uploads/thumbnail-5.jpg
 types:
@@ -127,3 +127,5 @@ related_client_logos:
   - logo_image_path: /uploads/vaseline.png
     logo_image_height: 80%
 ---
+
+
