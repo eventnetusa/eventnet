@@ -28,12 +28,9 @@ sidebar_text_markdown: |-
   &nbsp;
 content_section:
   - text_block_markdown: >-
-      In 2005 the health insurance industry underwent major changes with the
-      launch of Medicare Part D. To spearhead the industry's sudden need for
-      consumer outreach and education, Humana turned to EventNetUSA.&nbsp;
-
-
-
+      The health insurance industry underwent major changes with the launch of
+      Medicare Part D. To spearhead the industry's sudden need for consumer
+      outreach and education, Humana turned to EventNetUSA.&nbsp;
 
 
       Leveraging Humana's partnership with Walmart, we conceptualized, designed
@@ -42,16 +39,10 @@ content_section:
       new plan and prescription drug coverage options.
 
 
-
-
-
       We built a fleet of ten RVs and recruited and trained 20 Medicare Advisors
       who would travel the country, visiting with seniors at senior centers,
       medical centers, senior expos in addition to Walmart Supercenters and
       Sam's Club stores.
-
-
-
 
 
       Onsite, Humana Medicare Advisors offered RV guests guidance as to which
@@ -59,16 +50,9 @@ content_section:
       income criteria.
 
 
-
-
-
       Year 1 of the Let's Talk RV tour was so successful, reaching more than
-      250,000 consumers between August 2005 and May 2006 and travelling over
-      110,000 miles, Humana renewed the program with EventNetUSA for years 2 and
-      3.
-
-
-
+      250,000 consumers in its first 9 months, Humana renewed the program with
+      EventNetUSA for years 2 and 3.
 
 
       Taking key learnings from year 1, EventNetUSA enhanced the Let's Talk
@@ -77,13 +61,7 @@ content_section:
       health, nutrition and brain fitness.
 
 
-
-
-
       ### A LOOK BEHIND THE SCENES
-
-
-
 
 
       * Customized 10 Humana "Let's Talk" RV's&nbsp;
@@ -97,19 +75,10 @@ content_section:
       * Executed Media Outreach
 
 
-
-
-
       &nbsp;
 
 
-
-
-
       &nbsp;
-
-
-
 
 
       &nbsp;
@@ -135,3 +104,5 @@ related_client_logos:
   - logo_image_path: /uploads/CHIP-2.png
     logo_image_height:
 ---
+
+
