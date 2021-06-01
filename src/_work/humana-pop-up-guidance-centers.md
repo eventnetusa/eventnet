@@ -42,8 +42,8 @@ sidebar_text_markdown: |-
 content_section:
   - text_block_markdown: >-
       Humana, a leading U.S. health insurance provider, partnered with
-      EventNetUSA in 2016 to produce and operate the national&nbsp;*Pop-Up
-      Guidance Center Program* for activating Medicare-eligible Seniors.
+      EventNetUSA to produce and operate the national&nbsp;*Pop-Up Guidance
+      Center Program* for activating Medicare-eligible Seniors.
 
 
       Humana’s Pop-Up Guidance Center events take place in shopping malls, where
@@ -140,4 +140,5 @@ related_client_logos:
   - logo_image_path: /uploads/slimfast-bw.png
     logo_image_height:
 ---
+
 
