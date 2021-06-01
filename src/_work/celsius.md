@@ -5,7 +5,7 @@ sort_number: 2
 headline: Tough Mudder Presenting Sponsorship
 hover_text: >-
   Seven months, 39 markets, 122 event days... CELSIUS' presenting sponsorship of
-  Tough Mudder 2018 was a dirty job!
+  Tough Mudder was a dirty job!
 hero_image_path: /uploads/hero-image-4.png
 thumbnail_image_path: /uploads/thumbnail-4.jpg
 types:
@@ -33,8 +33,8 @@ sidebar_text_markdown: >-
 content_section:
   - text_block_markdown: >-
       CELSIUS, fitness drink manufacturer and one of the world's fastest growing
-      beverage brands, was the 2018 Presenting Sponsor of the national obstacle
-      race series Tough Mudder.
+      beverage brands, was the Presenting Sponsor of the national obstacle race
+      series Tough Mudder.
 
 
       EventNetUSA executed CELSIUS' event sponsorship activation with a
@@ -137,3 +137,5 @@ related_client_logos:
   - logo_image_path: /uploads/ronzoni-1.png
     logo_image_height:
 ---
+
+
