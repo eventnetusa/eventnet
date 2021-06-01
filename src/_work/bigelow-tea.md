@@ -17,13 +17,13 @@ sidebar_text_markdown: >-
   ### Quick Stats
 
 
-  #### 2016 Northeast Tour
+  #### Northeast Tour
 
 
   * Logged&nbsp;**3,400&nbsp;**miles over **3&nbsp;**months visiting CT, NY, MA,
   RI, NH, PA, NJ, DE, DC and MD
 
-  * **1.6 million+** over-the-road impressions
+  * **1\.6 million+** over-the-road impressions
 
   * **91&nbsp;**touring days, **24&nbsp;**events, **23&nbsp;**retail stops, &
   **3&nbsp;**university visits
@@ -31,7 +31,7 @@ sidebar_text_markdown: >-
   * **63,675** one-on-one interactions
 
 
-  #### 2015 Midwest/Pacific Coast Tour
+  #### Midwest/Pacific Coast Tour
 
 
   * Logged 8,200***&nbsp;***miles over***&nbsp;5***&nbsp;months visiting NY, NJ,
@@ -45,13 +45,13 @@ sidebar_text_markdown: >-
   * **49,667** one-on-one interactions
 
 
-  #### 2014 Coastal Tour
+  #### Coastal Tour
 
 
   * Logged over **12,500&nbsp;**milesover ***7&nbsp;***months visiting MA, NY,
   CT, MN, IL, ID, WA, CA, TX, FL and GA
 
-  * **6.1**&nbsp;**million+** over-the-road impressions
+  * **6\.1**&nbsp;**million+** over-the-road impressions
 
   * **98&nbsp;**touring days, **23&nbsp;**events, **19&nbsp;**retail stops, &
   **5&nbsp;**university visits
@@ -62,9 +62,6 @@ content_section:
       ### A LOOK BEHIND THE SCENES
 
 
-
-
-
       * Designed and transformed an iconic 1977 Airstream into a Mobile Tea Bar
       complete with tasting bar, brewers, compliant food service areas, and
       historical lounge
@@ -72,8 +69,8 @@ content_section:
       * Recruited, trained and staffed Tour Managers and in-field staff to serve
       as Tea Ambassadors
 
-      * Researched, scheduled and executed three US tours: 2016 Northeast Tour,
-      2015 MidWest/Pacific Coast Tour and 2014 Coastal Tour
+      * Researched, scheduled and executed three US tours: Northeast Tour,&nbsp;
+      MidWest/Pacific Coast Tour and Coastal Tour
 
       * Integrated social media photo activation including development and
       execution of “Biggie” the mascot
