@@ -41,10 +41,9 @@ sidebar_text_markdown: |-
   * Average **24&nbsp;**enrollment applications initiated per day
 content_section:
   - text_block_markdown: >-
-      When Affordable Care Act (ACA) launched in 2013, HCSC teamed with
-      EventNetUSA to expand its brand reach, increase key retail partner
-      relationships and find and enroll eligible consumers into the government’s
-      new ACA Plans.
+      When Affordable Care Act (ACA) launched, HCSC teamed with EventNetUSA to
+      expand its brand reach, increase key retail partner relationships and find
+      and enroll eligible consumers into the government’s new ACA Plans.
 
 
       To ensure reach and depth of knowledge about HCSC’s ACA offerings,
@@ -154,3 +153,5 @@ related_client_logos:
   - logo_image_path: /uploads/amh-logo-hdr.gif
     logo_image_height:
 ---
+
+
