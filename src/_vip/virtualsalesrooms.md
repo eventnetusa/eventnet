@@ -6,7 +6,7 @@ vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
 cta_link: true
-cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=VirtualSalesrooms%20Demo%20Request'
+cta_link_url: mailto:sales@eventnetusa.com?subject=VirtualSalesrooms%20Demo%20Request
 cta_headline: Ready to Learn More?
 cta_text: Schedule a Demo
 sidebar_text_markdown: >-
@@ -91,9 +91,9 @@ content_section:
       customer engagement sales tool
 
 
-      Shelby Beaty<br>Director Business
-      Development<br>[shelbyb@eventnetusa.com](mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry)<br>(954)
-      467-9898 x204
+      Craig Hammon<br>Director Business
+      Development<br>[<u>craigh</u>](mailto:craigh@eventnetusa.com)[@eventnetusa.com](mailto:shelc@eventnetusa.com?subject=2021%20Events%20Inquiry)<br>(954)
+      467-9898 x213
     single_image_block:
       single_image_path:
     double_image_block:
@@ -112,3 +112,5 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
+
+
