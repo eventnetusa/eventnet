@@ -1,13 +1,13 @@
 ---
 small_headline: TURNKEY MEDICARE ACTIVATIONS
-large_headline: 'GENERATE LEADS, ENROLL NEW MEMBERS, SERVICE EXISTING MEMBERS'
+large_headline: GENERATE LEADS, ENROLL NEW MEMBERS, SERVICE EXISTING MEMBERS
 hero_image_path: /uploads/health-insurance-backpage-hero-image-1.jpg
 vip_project_type: B2B
 hide_social_links: true
 show_cta_at_bottom: true
 cta_link: true
-cta_link_url: 'https://www.eventnetusa.com/contact/'
-cta_headline: 'Ready to engage, activate and enroll?'
+cta_link_url: https://www.eventnetusa.com/contact/
+cta_headline: Ready to engage, activate and enroll?
 cta_text: Let's Talk
 sidebar_text_markdown: |-
   **Turnkey Service Offerings:**
@@ -148,14 +148,12 @@ content_section:
       image_2_path:
     video_block:
       video_id:
-  - text_block_markdown: |-
-      #### **Let's generate leads for your sales agents today!&nbsp; Contact:**
+  - text_block_markdown: >-
+      #### **Let's generate leads for your sales agents today\!&nbsp; Contact:**
 
-      #### **Shelby Beaty**
 
-      #### **(954)467-9898 ext. 204**
-
-      #### **shelbyb@eventnetusa.com**
+      #### Craig Hammon<br>Business Development<br>(954) 467-9898 (Ext.
+      213)<br>craigh@eventnetusa.com
     single_image_block:
       single_image_path: /uploads/awards-3-1.jpg
     double_image_block:
@@ -174,4 +172,5 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
+
 
