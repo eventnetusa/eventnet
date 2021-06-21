@@ -6,7 +6,7 @@ vip_project_type: B2B
 hide_social_links: false
 show_cta_at_bottom: false
 cta_link: true
-cta_link_url: 'mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry'
+cta_link_url: mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry
 cta_headline: Ready to get your brand back out there?
 cta_text: Let's Talk
 sidebar_text_markdown: >-
@@ -25,7 +25,7 @@ sidebar_text_markdown: >-
   whole kit and caboodle \*
 content_section:
   - text_block_markdown: >-
-      Events are back – fairs, festivals, air shows, food & wine, etc... and
+      Events are back – fairs, festivals, air shows, food & wine, etc… and
       they’re asking for your brand’s participation\!
 
 
@@ -93,8 +93,6 @@ content_section:
       November
 
 
-
-
       #### CITIES ACCEPTING SPECIAL EVENTS PERMITS (UPDATING REGULARLY)
 
 
@@ -135,9 +133,9 @@ content_section:
       markets today.&nbsp;
 
 
-      Shelby Beaty<br>Director Business
-      Development<br>[shelbyb@eventnetusa.com](mailto:shelbyb@eventnetusa.com?subject=2021%20Events%20Inquiry)<br>(954)
-      467-9898 x204
+      Craig Hammon<br>Director Business
+      Development<br>[craigh@eventnetusa.com](mailto:craigh@eventnetusa.com)<br>(954)
+      467-9898 x213
     single_image_block:
       single_image_path:
     double_image_block:
@@ -156,3 +154,5 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
+
+
