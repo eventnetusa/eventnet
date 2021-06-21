@@ -6,7 +6,7 @@ vip_project_type: B2C
 hide_social_links: false
 show_cta_at_bottom: true
 cta_link: true
-cta_link_url: 'https://www.eventnetusa.com/contact/'
+cta_link_url: https://www.eventnetusa.com/contact/
 cta_headline: Ready to reach Walmart shoppers?
 cta_text: Let's Talk!
 sidebar_text_markdown: |-
@@ -92,20 +92,12 @@ content_section:
     video_block:
       video_id:
   - text_block_markdown: >-
-      See why we're #1 in [Consumer
-      Marketing](https://www.eventnetusa.com/work/)!
+      See why we're \#1 in [Consumer
+      Marketing](https://www.eventnetusa.com/work/)\!
 
 
-      Shelby Beaty
-
-
-      Business Development
-
-
-      (954) 467-9898 (Ext. 204)
-
-
-      shelbyb@eventnetusa.com
+      Craig Hammon<br>Business Development<br>(954) 467-9898 (Ext.
+      213)<br>craigh@eventnetusa.com
     single_image_block:
       single_image_path:
     double_image_block:
@@ -154,3 +146,5 @@ _comments:
   cta_link_url: The url the CTA should link to (if the above is checked)
   siebar_text: This appear beneath the CTA
 ---
+
+
