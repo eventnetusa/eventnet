@@ -92,7 +92,7 @@ content_section:
 
 
       Craig Hammon<br>Director Business
-      Development<br>[<u>craigh</u>](mailto:craigh@eventnetusa.com)[@eventnetusa.com](mailto:craigc@eventnetusa.com?subject=2021%20Events%20Inquiry)<br>(954)
+      Development<br>[<u>craigh</u>](mailto:craigh@eventnetusa.com)[@eventnetusa.com](mailto:craigh@eventnetusa.com?subject=2021%20Events%20Inquiry)<br>(954)
       467-9898 x213
     single_image_block:
       single_image_path:
